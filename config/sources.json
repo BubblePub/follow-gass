@@ -34,7 +34,7 @@
       "orbit": "UE / Bruxelles / politique industrielle",
       "newsQueries": [
         { "lang": "fr", "query": "\"Stéphane Séjourné\"" },
-        { "lang": "en", "query": "\"Stephane Sejourne\"" }
+        { "lang": "en", "query": "\"Stephane Sejourne\" OR \"Stéphane Séjourné\"" }
       ],
       "official": [
         {
