@@ -7,13 +7,17 @@
 //
 //   - Media headlines  -> Google News RSS (titles + snippets + links only;
 //                         no full text, no paywall, NO API key)
-//
-// No agenda is fetched here: neither figure has a reliably machine-scrapable
-// official agenda (the EC commissioner calendar is JS-rendered; Renaissance has
-// no stable feed — see config/sources.json `agendaRefs`). The digest's 官方行程
-// section is instead built at the remix layer, where the agent extracts concrete
-// forward-looking engagements mentioned in the fetched news. If you later find a
-// machine-readable agenda source, add a fetcher and tag items `type:"agenda"`.
+//   - Official agenda  -> EC commissioner-calendar RSS, filtered per commissioner
+//                         (config `persons.<id>.agenda`). The list page is JS-
+//                         rendered, but it exposes a real RSS feed (node/<id>/rss_en
+//                         + the commissioner facet) that IS server-rendered XML.
+//                         The event date lives in the title ("YYYY-MM-DD - ..."),
+//                         the location in <description>. This is RETROSPECTIVE:
+//                         entries appear around/after the event, so it is an
+//                         authoritative recent-activity log, not a forward agenda.
+//                         Only Séjourné has such a source; Attal has none (his
+//                         schedule, if mentioned in news, is surfaced at the remix
+//                         layer — see prompts/digest-format.md).
 //
 // Co-occurrence: if the SAME article URL is returned for BOTH persons, the item
 // is tagged persons:["attal","sejourne"] and coOccurrence:true. The ranking
@@ -48,6 +52,10 @@ const RSS_UA =
 // 48h window (was 24h): gives the agent two days of context so an event whose
 // coverage spans the cutoff stays whole, and survives a single missed run.
 const MEDIA_LOOKBACK_HOURS = 48;
+// Agenda items are kept by EVENT date (parsed from the RSS title), not publish
+// time: recent confirmed activity for context + any upcoming entries.
+const AGENDA_PAST_DAYS = 14;
+const AGENDA_FUTURE_DAYS = 120;
 
 // -- helpers -----------------------------------------------------------------
 
@@ -162,6 +170,48 @@ async function fetchMedia(sources, errors) {
   return items;
 }
 
+// -- official agenda (EC commissioner-calendar RSS) --------------------------
+
+async function fetchAgenda(sources, errors) {
+  const items = [];
+  const now = Date.now();
+  for (const [personId, person] of Object.entries(sources.persons)) {
+    const ag = person.agenda;
+    if (!ag || ag.type !== "ec-calendar-rss" || !ag.rssUrl) continue;
+    try {
+      const xml = await fetchText(ag.rssUrl);
+      for (const it of parseRss(xml)) {
+        // Title format: "YYYY-MM-DD - <event description>". The real event date is
+        // the prefix; <pubDate> is only when the entry was posted.
+        const m = it.title.match(/^(\d{4})-(\d{2})-(\d{2})\s*[-–—]\s*(.+)$/s);
+        if (!m) continue;
+        const eventDate = `${m[1]}-${m[2]}-${m[3]}`;
+        const evMs = new Date(`${eventDate}T12:00:00Z`).getTime();
+        if (evMs < now - AGENDA_PAST_DAYS * 864e5) continue;
+        if (evMs > now + AGENDA_FUTURE_DAYS * 864e5) continue;
+        // The <description> arrives HTML-entity-encoded, so tags survive the
+        // RSS parser's strip; clean them here to get plain text (e.g. location).
+        const location = (it.snippet || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+        items.push({
+          title: m[4].trim(),
+          url: it.url,
+          source: ag.name || "Commission européenne",
+          snippet: location,           // location, e.g. "Brussels, Belgium"
+          location,
+          publishedAt: it.publishedAt, // when EC posted the entry
+          eventDate,                   // the real engagement date (YYYY-MM-DD)
+          lang: "en",
+          type: "agenda",
+          persons: [personId],
+          coOccurrence: false,
+          official: ag.name || "Commission européenne — agenda",
+        });
+      }
+    } catch (e) { errors.push(`agenda ${personId}: ${e.message}`); }
+  }
+  return items;
+}
+
 // -- main --------------------------------------------------------------------
 
 async function main() {
@@ -169,16 +219,20 @@ async function main() {
   const sources = JSON.parse(await readFile(SOURCES_PATH, "utf-8"));
   const state = await loadState();
 
-  const media = await fetchMedia(sources, errors);
+  const [media, agenda] = await Promise.all([
+    fetchMedia(sources, errors),
+    fetchAgenda(sources, errors),
+  ]);
 
   // Carry-over instead of drop-on-seen: publish every in-window item, but tag
   // when it was first seen and whether it's new this run. The agent clusters
   // over the full window (so split events re-merge) and uses `isNew` to decide
   // what to surface vs. suppress. Same article from the same URL still collapses
-  // to one entry per run via this Map.
+  // to one entry per run via this Map. Agenda items ride the same carry-over so a
+  // newly-published official engagement surfaces once (as `isNew`).
   const now = Date.now();
   const byUrl = new Map();
-  for (const it of media) {
+  for (const it of [...media, ...agenda]) {
     if (byUrl.has(it.url)) continue;
     const firstSeen = state.seenUrls[it.url];
     const isNew = !firstSeen;

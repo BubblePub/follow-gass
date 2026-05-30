@@ -28,27 +28,34 @@ Remaining clusters, ranked, in the same 概括 → 来源 → 小对比 format b
 tighter. Group by person if both are followed (## Gabriel Attal / ## Stéphane Séjourné),
 and put any 两人同框 items in their own group at the top.
 
-### 3. 官方行程 / 公开活动 (built by extraction — read carefully)
-There is **no auto-fetched agenda** in the feed. You build this section yourself by
-scanning the news items for **concrete, forward-looking engagements** and listing them
-under "📅 官方行程 / 公开活动".
+### 3. 官方行程 / 公开活动
+This section has **two sources**, kept visually separate:
 
-Include an item here ONLY if a title or snippet states a **specific future activity**
-with enough detail to be useful — a date and/or place and the nature of the event
-(e.g. "Attal sera à Lille mardi", "Séjourné se rendra à Berlin le 5 juin pour…",
-"réunion du collège mercredi"). For each:
-- 中文转述 the engagement (what / when / where), then "(据 [outlet] 报道)" + the link.
+**(a) 官方日程(权威)** — items in the feed with `type: "agenda"`. These come from the
+EC commissioner-calendar RSS (currently Séjourné only) and are **official**, so they
+need NO "据媒体报道" tag. Each agenda item has `eventDate` (the real date, "YYYY-MM-DD"),
+`title` (the engagement), `location`, and `url`. List them under
+"📅 官方行程 / 公开活动 · 官方日程", **sorted by `eventDate`**, newest first, as:
+- `[eventDate] 中文转述 the engagement — location` + the link.
+- Note for the reader that this log is **回溯式**(EC 在事件前后才登记),所以多为近期已
+  发生的官方活动,不一定包含未来安排。
+- Prefer items where `isNew` is true (newly published since last digest) but you may
+  include recent ones for context.
+
+**(b) 媒体提及的日程(参考)** — concrete engagements mentioned in the NEWS items
+(`type: "media"`), useful especially for Attal, who has no official feed. Include one
+ONLY if a title/snippet states a specific activity with a date and/or place and the
+nature of the event (e.g. "Attal sera à Lille mardi"). Render as
+"📅 …·据媒体报道" with: 中文转述 (what/when/where) + "(据 [outlet] 报道)" + link.
 
 **Hard limits (no exceptions):**
-- Only use what is explicitly in the title/snippet. **Never infer or invent a date,
-  place, or event.** If the date is vague ("bientôt", "dans les prochains jours"),
-  say so verbatim — do not pin a date.
-- These are media-reported, NOT official confirmations — always keep the "据…报道" tag
-  so the reader treats them as such.
-- Past events (coverage of something that already happened, e.g. today's rally) do **not**
-  belong here — they go in the headline/其余动态 sections.
-- If nothing qualifies, **omit this section entirely** (don't pad). You may add one line:
-  "官方行程:本期新闻未提及明确的未来日程;可在官方页面手动核验(见 sources.json `agendaRefs`)。"
+- Only use what is explicitly present (agenda fields, or news title/snippet). **Never
+  infer or invent a date, place, or event.** Vague timing ("bientôt") → say so verbatim.
+- Keep (a) and (b) distinct: official agenda is authoritative; media-mentioned is "据…报道".
+- Don't duplicate: if an official agenda item and a news mention describe the same
+  engagement, list it once under (a).
+- If neither source yields anything, **omit the section** (don't pad). You may add:
+  "官方行程:本期无官方日程更新;可在官方页面手动核验(见 sources.json)。"
 
 ## 无大事处理 (quiet day)
 If `score-rank.md` produced no clusters that clear a meaningful bar (e.g. only a couple

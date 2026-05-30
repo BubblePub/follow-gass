@@ -1,5 +1,5 @@
 {
-  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). AGENDA NOTE: there is no reliably machine-scrapable official agenda for either figure — the EC commissioner calendar is JS-rendered (OpenEuropa list page + Europa Search backend, no rows in static HTML) and Renaissance has no stable agenda feed. So the digest's 官方行程 section is built at the REMIX layer by the agent: it extracts concrete forward-looking engagements (explicit date + place + event) mentioned in the fetched news titles/snippets, labelled '据媒体报道'. The `agendaRefs` below are NOT auto-fetched — they are canonical official URLs for a human to open and verify the agenda manually.",
+  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). AGENDA: Séjourné has a real official source — the EC commissioner-calendar RSS, filtered to him (see `sejourne.agenda`); it is fetched and tagged `type:\"agenda\"`. It is RETROSPECTIVE (entries appear around/after the event), i.e. an authoritative recent-activity log, not a forward agenda. Attal has NO machine-scrapable official agenda (Renaissance has no stable feed; the old Google-News 'agenda' proxy was just duplicate news and was removed) — `attal.agendaRefs` is a manual-check link only. For both figures, the remix layer additionally extracts any concrete schedule mentioned in news (labelled '据媒体报道') — see prompts/digest-format.md.",
 
   "persons": {
     "attal": {
@@ -29,18 +29,13 @@
         { "lang": "fr", "query": "\"Stéphane Séjourné\"" },
         { "lang": "en", "query": "\"Stephane Sejourne\" OR \"Stéphane Séjourné\"" }
       ],
-      "agendaRefs": [
-        {
-          "name": "Commission européenne — agenda du commissaire (calendar items)",
-          "url": "https://commission.europa.eu/about/organisation/college-commissioners/calendar-items-president-and-commissioners_en?f%5B0%5D=commissioner_dynamic_commissioner_dynamic%3Ahttp%3A//publications.europa.eu/resource/authority/political-leader/COM_00006A047C6D",
-          "note": "Le vrai agenda officiel, filtré sur Séjourné. Rendu en JS (OpenEuropa list page) — non scrapable en statique, à ouvrir manuellement."
-        },
-        {
-          "name": "Commission européenne — page du commissaire",
-          "url": "https://commission.europa.eu/about/organisation/college-commissioners/stephane-sejourne_en",
-          "note": "Bio + liens (réunions/missions via le registre de transparence = passé, pas l'agenda à venir)."
-        }
-      ]
+      "agenda": {
+        "type": "ec-calendar-rss",
+        "name": "Commission européenne — agenda du commissaire",
+        "rssUrl": "https://commission.europa.eu/node/33084/rss_en?f%5B0%5D=commissioner_dynamic_commissioner_dynamic%3Ahttp%3A//publications.europa.eu/resource/authority/political-leader/COM_00006A047C6D",
+        "humanUrl": "https://commission.europa.eu/about/organisation/college-commissioners/calendar-items-president-and-commissioners_en?f%5B0%5D=commissioner_dynamic_commissioner_dynamic%3Ahttp%3A//publications.europa.eu/resource/authority/political-leader/COM_00006A047C6D",
+        "note": "RSS officiel de l'agenda du collège filtré sur Séjourné (COM_00006A047C6D). La liste HTML est rendue en JS, mais ce flux RSS est du XML servi côté serveur. Date réelle de l'événement dans le titre ('YYYY-MM-DD - ...'), lieu dans <description>. RÉTROSPECTIF : les entrées paraissent autour/après l'événement → journal d'activité officielle récente, pas un agenda prévisionnel. `humanUrl` = même vue pour vérification manuelle. Si le node id (33084) change un jour, le fetch échoue sans bloquer le reste du feed."
+      }
     }
   },
 

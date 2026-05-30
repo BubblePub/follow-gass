@@ -1,9 +1,11 @@
 # 聚类 Prompt (cluster)
 
 You are grouping raw news/agenda items into **events**. The feed JSON gives
-you a flat list of `items` (all `type: "media"` — no agenda is fetched; future
-schedule is extracted later from these media items by `digest-format.md`), each with:
-`type`, `persons`
+you a flat list of `items`. Most are `type: "media"` (news); some are
+`type: "agenda"` — official engagements from the EC commissioner calendar, each with an
+extra `eventDate` + `location`. **Do not cluster agenda items into the news events** —
+they are handled separately in §3 of `digest-format.md`; cluster only the media items
+here. Each item has: `type`, `persons`
 (["attal"], ["sejourne"], or both), `title` (original language, usually French),
 `source`, `url`, `snippet`, `publishedAt`, `lang`, `coOccurrence` (true if the
 same article was seen under BOTH persons), and two freshness fields:

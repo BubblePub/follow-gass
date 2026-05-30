@@ -63,9 +63,10 @@ not the remixed digest — for full remix, deliver via the agent or use `/gass`.
 cd ${CLAUDE_SKILL_DIR}/scripts && node prepare-digest.js 2>/dev/null
 ```
 This prints one JSON blob: `config` (follow list, language), `items` (filtered to the
-followed person(s); each item has `type`, `persons`, `coOccurrence`, `title` (original
-FR/EN), `source`, `url`, `snippet`, `publishedAt`, `lang`, plus `isNew`/`firstSeenAt`
-freshness flags), `scoring` (weights + the hard rule), `prompts`, `stats` (incl.
+followed person(s); each item has `type` (media / agenda), `persons`, `coOccurrence`,
+`title` (original FR/EN), `source`, `url`, `snippet`, `publishedAt`, `lang`, plus
+`isNew`/`firstSeenAt` freshness flags; **agenda items** also have `eventDate` +
+`location`), `scoring` (weights + the hard rule), `prompts`, `stats` (incl.
 `new`/`carried` counts). Ignore `errors`. The feed spans ~48h and carries over
 already-seen articles so split events stay whole — the prompts handle the freshness gate.
 
@@ -113,10 +114,11 @@ If `delivery.method` is `stdout`, just print the digest.
 Confirm every change.
 
 ## Sources
-Defined in `config/sources.json`, grouped per person (media query languages +
-`agendaRefs`). Media headlines come from Google News RSS (titles + snippets + links
-only — no full text, no paywall). **No agenda is auto-fetched** (neither figure has a
-machine-scrapable official agenda — EC calendar is JS-rendered, Renaissance has no feed);
-the 官方行程 section is built by extracting forward-looking engagements from the news
-items (see `digest-format.md`), and `agendaRefs` holds canonical official URLs for manual
-verification. The owner edits sources there; consumers get updates via the central feed.
+Defined in `config/sources.json`, grouped per person. Media headlines come from Google
+News RSS (titles + snippets + links only — no full text, no paywall). **Official agenda:**
+Séjourné has a real source — the EC commissioner-calendar RSS filtered to him
+(`sejourne.agenda`), fetched and tagged `type:"agenda"` (retrospective: an authoritative
+recent-activity log, not a forward agenda). Attal has none (`agendaRefs` = a manual-check
+link). The 官方行程 section combines these official agenda items with any schedule
+mentioned in the news (labelled 据媒体报道) — see `digest-format.md`. The owner edits
+sources there; consumers get updates via the central feed.
