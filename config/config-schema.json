@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "User configuration for the Attal/Séjourné digest skill. Stored at ~/.follow-attal-sejourne/config.json",
+  "type": "object",
+  "properties": {
+    "platform": {
+      "type": "string",
+      "enum": ["openclaw", "other"],
+      "description": "Detected runtime: openclaw (persistent) or other (Claude Code, Cursor, etc.)"
+    },
+    "follow": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["attal", "sejourne"] },
+      "default": ["attal", "sejourne"],
+      "description": "Who to track. One person, or both. Asked at setup."
+    },
+    "language": {
+      "type": "string",
+      "enum": ["zh", "bilingual"],
+      "default": "zh",
+      "description": "Digest language. zh = Chinese (media titles keep their French original alongside). bilingual = Chinese + French."
+    },
+    "timezone": { "type": "string", "default": "Europe/Paris" },
+    "deliveryTime": { "type": "string", "default": "08:00", "description": "HH:MM, 24-hour" },
+    "delivery": {
+      "type": "object",
+      "properties": {
+        "method": { "type": "string", "enum": ["stdout", "telegram", "email"], "default": "stdout" },
+        "chatId": { "type": "string", "description": "Telegram chat ID (telegram only)" },
+        "email": { "type": "string", "description": "Recipient (email only)" }
+      }
+    },
+    "onboardingComplete": { "type": "boolean", "default": false }
+  }
+}

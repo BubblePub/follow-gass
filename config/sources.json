@@ -1,0 +1,63 @@
+{
+  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages and official channels. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). Social = X via API (bearer token in GitHub secret). Official = agenda/press RSS where available.",
+
+  "persons": {
+    "attal": {
+      "displayName": "Gabriel Attal",
+      "aliases": ["Gabriel Attal", "Attal"],
+      "currentRole": "Secrétaire général de Renaissance ; président du groupe Renaissance à l'Assemblée nationale ; candidat à la présidentielle 2027",
+      "orbit": "France / parti / présidentielle",
+      "newsQueries": [
+        { "lang": "fr", "query": "\"Gabriel Attal\"" },
+        { "lang": "en", "query": "\"Gabriel Attal\"" }
+      ],
+      "social": [
+        { "platform": "x", "handle": "GabrielAttal" }
+      ],
+      "official": [
+        {
+          "name": "Renaissance — actualités",
+          "type": "page",
+          "url": "https://parti-renaissance.fr/actualites/",
+          "note": "Pas de RSS officiel stable — fetch HTML best-effort, à ajuster."
+        },
+        {
+          "name": "Assemblée nationale — agenda (proxy via Google News)",
+          "type": "googlenews",
+          "lang": "fr",
+          "query": "\"Gabriel Attal\" (agenda OR déplacement OR meeting OR discours)"
+        }
+      ]
+    },
+
+    "sejourne": {
+      "displayName": "Stéphane Séjourné",
+      "aliases": ["Stéphane Séjourné", "Sejourne", "Séjourné"],
+      "currentRole": "Vice-président exécutif de la Commission européenne (Prospérité et stratégie industrielle)",
+      "orbit": "UE / Bruxelles / politique industrielle",
+      "newsQueries": [
+        { "lang": "fr", "query": "\"Stéphane Séjourné\"" },
+        { "lang": "en", "query": "\"Stephane Sejourne\"" }
+      ],
+      "social": [
+        { "platform": "x", "handle": "stephanesejourne" }
+      ],
+      "official": [
+        {
+          "name": "Commission européenne — page du commissaire",
+          "type": "page",
+          "url": "https://commission.europa.eu/about/organisation/college-commissioners/stephane-sejourne_en",
+          "note": "Page officielle ; l'agenda du collège est public. Fetch HTML best-effort."
+        },
+        {
+          "name": "EC presscorner — proxy via Google News",
+          "type": "googlenews",
+          "lang": "en",
+          "query": "\"Sejourne\" (agenda OR visit OR meeting OR speech OR press) site:ec.europa.eu"
+        }
+      ]
+    }
+  },
+
+  "googleNewsBase": "https://news.google.com/rss/search"
+}

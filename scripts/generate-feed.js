@@ -1,0 +1,274 @@
+#!/usr/bin/env node
+
+// ============================================================================
+// follow-attal-sejourne — Central Feed Generator
+// ============================================================================
+// Runs on GitHub Actions (daily) to fetch content and publish feed.json.
+//
+//   - Media headlines  -> Google News RSS (titles + snippets + links only;
+//                         no full text, no paywall, NO API key)
+//   - Official/agenda  -> Google News "site:" proxy queries (+ best-effort
+//                         official pages, see notes)
+//   - Social (X)       -> X API v2 (needs X_BEARER_TOKEN; optional)
+//
+// Co-occurrence: if the SAME article URL is returned for BOTH persons, the item
+// is tagged persons:["attal","sejourne"] and coOccurrence:true. The ranking
+// prompt forces those to the top of the digest.
+//
+// Dedup: previously-seen URLs / tweet IDs are tracked in state-feed.json.
+//
+// Usage:  node generate-feed.js [--no-social]
+// Output: writes ../feed.json (and updates ../state-feed.json)
+// ============================================================================
+
+import { readFile, writeFile } from "fs/promises";
+import { existsSync } from "fs";
+import { join } from "path";
+
+const SCRIPT_DIR = decodeURIComponent(new URL(".", import.meta.url).pathname);
+const ROOT = join(SCRIPT_DIR, "..");
+const SOURCES_PATH = join(ROOT, "config", "sources.json");
+const FEED_PATH = join(ROOT, "feed.json");
+const STATE_PATH = join(ROOT, "state-feed.json");
+
+const RSS_UA =
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 " +
+  "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
+const MEDIA_LOOKBACK_HOURS = 24;
+const SOCIAL_LOOKBACK_HOURS = 24;
+const MAX_TWEETS_PER_USER = 3;
+const X_API_BASE = "https://api.x.com/2";
+
+const args = process.argv.slice(2);
+const NO_SOCIAL = args.includes("--no-social");
+
+// -- helpers -----------------------------------------------------------------
+
+async function fetchText(url, headers = {}) {
+  const res = await fetch(url, { headers: { "User-Agent": RSS_UA, ...headers } });
+  if (!res.ok) throw new Error(`${res.status} ${url}`);
+  return res.text();
+}
+
+function stripCdata(s) {
+  if (!s) return "";
+  return s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").trim();
+}
+
+function decodeEntities(s) {
+  return s
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n));
+}
+
+function stripTags(s) {
+  return decodeEntities(s.replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
+}
+
+// Parse an RSS 2.0 feed into items. Works for Google News RSS.
+function parseRss(xml) {
+  const items = [];
+  const re = /<item>([\s\S]*?)<\/item>/gi;
+  let m;
+  while ((m = re.exec(xml)) !== null) {
+    const b = m[1];
+    const title = stripCdata((b.match(/<title>([\s\S]*?)<\/title>/) || [])[1] || "");
+    const link = stripCdata((b.match(/<link>([\s\S]*?)<\/link>/) || [])[1] || "");
+    const pub = (b.match(/<pubDate>([\s\S]*?)<\/pubDate>/) || [])[1];
+    const desc = stripCdata((b.match(/<description>([\s\S]*?)<\/description>/) || [])[1] || "");
+    // Google News encodes the outlet name in <source url="...">Le Monde</source>
+    const source = stripCdata((b.match(/<source[^>]*>([\s\S]*?)<\/source>/) || [])[1] || "");
+    if (!link) continue;
+    items.push({
+      title: decodeEntities(title),
+      url: link,
+      source: decodeEntities(source) || "(source inconnue)",
+      snippet: stripTags(desc).slice(0, 320),
+      publishedAt: pub ? new Date(pub).toISOString() : null,
+    });
+  }
+  return items;
+}
+
+function googleNewsUrl(base, query, lang) {
+  const hl = lang === "en" ? "en-US" : "fr";
+  const gl = lang === "en" ? "US" : "FR";
+  const ceid = lang === "en" ? "US:en" : "FR:fr";
+  const q = encodeURIComponent(query);
+  return `${base}?q=${q}&hl=${hl}&gl=${gl}&ceid=${ceid}`;
+}
+
+function withinHours(iso, hours) {
+  if (!iso) return true; // keep undated items; dedup handles repeats
+  return Date.now() - new Date(iso).getTime() <= hours * 3600 * 1000;
+}
+
+// -- state -------------------------------------------------------------------
+
+async function loadState() {
+  if (!existsSync(STATE_PATH)) return { seenUrls: {}, seenTweets: {} };
+  try {
+    const s = JSON.parse(await readFile(STATE_PATH, "utf-8"));
+    s.seenUrls ||= {}; s.seenTweets ||= {};
+    return s;
+  } catch { return { seenUrls: {}, seenTweets: {} }; }
+}
+
+async function saveState(state) {
+  const cutoff = Date.now() - 7 * 24 * 3600 * 1000;
+  for (const k of ["seenUrls", "seenTweets"])
+    for (const [id, ts] of Object.entries(state[k]))
+      if (ts < cutoff) delete state[k][id];
+  await writeFile(STATE_PATH, JSON.stringify(state, null, 2));
+}
+
+// -- media (Google News RSS) -------------------------------------------------
+
+async function fetchMedia(sources, errors) {
+  const base = sources.googleNewsBase;
+  // url -> { item, persons:Set }
+  const byUrl = new Map();
+
+  for (const [personId, person] of Object.entries(sources.persons)) {
+    for (const q of person.newsQueries) {
+      try {
+        const xml = await fetchText(googleNewsUrl(base, q.query, q.lang));
+        for (const it of parseRss(xml)) {
+          if (!withinHours(it.publishedAt, MEDIA_LOOKBACK_HOURS)) continue;
+          const rec = byUrl.get(it.url) || { item: { ...it, lang: q.lang, type: "media" }, persons: new Set() };
+          rec.persons.add(personId);
+          byUrl.set(it.url, rec);
+        }
+      } catch (e) { errors.push(`media ${personId}/${q.lang}: ${e.message}`); }
+    }
+  }
+
+  const items = [];
+  for (const { item, persons } of byUrl.values()) {
+    const ps = [...persons];
+    items.push({
+      ...item,
+      persons: ps,
+      coOccurrence: ps.length > 1, // <-- the hard-rule signal
+    });
+  }
+  return items;
+}
+
+// -- official / agenda -------------------------------------------------------
+
+async function fetchOfficial(sources, errors) {
+  const base = sources.googleNewsBase;
+  const items = [];
+  for (const [personId, person] of Object.entries(sources.persons)) {
+    for (const off of person.official || []) {
+      if (off.type === "googlenews") {
+        try {
+          const xml = await fetchText(googleNewsUrl(base, off.query, off.lang));
+          for (const it of parseRss(xml)) {
+            if (!withinHours(it.publishedAt, MEDIA_LOOKBACK_HOURS)) continue;
+            items.push({ ...it, lang: off.lang, type: "agenda", persons: [personId], coOccurrence: false, official: off.name });
+          }
+        } catch (e) { errors.push(`official ${personId}/${off.name}: ${e.message}`); }
+      } else {
+        // type "page": official HTML pages (EC commissioner page, Renaissance news).
+        // These have no stable RSS and need per-site selectors. Left as a hook:
+        // implement targeted extraction here if you want hard agenda scraping.
+        errors.push(`official ${personId}/${off.name}: page-type source not auto-parsed (see sources.json note)`);
+      }
+    }
+  }
+  return items;
+}
+
+// -- social (X API v2) -------------------------------------------------------
+
+async function fetchSocial(sources, errors) {
+  const token = process.env.X_BEARER_TOKEN;
+  if (NO_SOCIAL) return [];
+  if (!token) { errors.push("social: X_BEARER_TOKEN not set — skipping X (set it as a GitHub secret)"); return []; }
+
+  const auth = { Authorization: `Bearer ${token}` };
+  const items = [];
+  const startTime = new Date(Date.now() - SOCIAL_LOOKBACK_HOURS * 3600 * 1000).toISOString();
+
+  for (const [personId, person] of Object.entries(sources.persons)) {
+    for (const acc of person.social || []) {
+      if (acc.platform !== "x") continue;
+      try {
+        const ures = await fetch(`${X_API_BASE}/users/by/username/${acc.handle}`, { headers: auth });
+        if (!ures.ok) throw new Error(`user lookup ${ures.status}`);
+        const uid = (await ures.json())?.data?.id;
+        if (!uid) throw new Error("no user id");
+        const turl = `${X_API_BASE}/users/${uid}/tweets?max_results=10&start_time=${startTime}` +
+          `&tweet.fields=created_at&exclude=retweets,replies`;
+        const tres = await fetch(turl, { headers: auth });
+        if (!tres.ok) throw new Error(`tweets ${tres.status}`);
+        const tweets = (await tres.json())?.data || [];
+        for (const t of tweets.slice(0, MAX_TWEETS_PER_USER)) {
+          items.push({
+            type: "social",
+            persons: [personId],
+            coOccurrence: false,
+            title: t.text.slice(0, 120),
+            snippet: t.text,
+            url: `https://x.com/${acc.handle}/status/${t.id}`,
+            source: `X / @${acc.handle}`,
+            publishedAt: t.created_at || null,
+            lang: "fr",
+            _id: t.id,
+          });
+        }
+      } catch (e) { errors.push(`social ${personId}/@${acc.handle}: ${e.message}`); }
+    }
+  }
+  return items;
+}
+
+// -- main --------------------------------------------------------------------
+
+async function main() {
+  const errors = [];
+  const sources = JSON.parse(await readFile(SOURCES_PATH, "utf-8"));
+  const state = await loadState();
+
+  const [media, official, social] = await Promise.all([
+    fetchMedia(sources, errors),
+    fetchOfficial(sources, errors),
+    fetchSocial(sources, errors),
+  ]);
+
+  // Dedup against state
+  const fresh = [];
+  for (const it of [...media, ...official, ...social]) {
+    const key = it._id ? `t:${it._id}` : it.url;
+    const seenMap = it._id ? state.seenTweets : state.seenUrls;
+    if (seenMap[key]) continue;
+    seenMap[key] = Date.now();
+    delete it._id;
+    fresh.push(it);
+  }
+
+  const feed = {
+    generatedAt: new Date().toISOString(),
+    persons: Object.keys(sources.persons),
+    items: fresh,
+    stats: {
+      total: fresh.length,
+      media: fresh.filter((i) => i.type === "media").length,
+      agenda: fresh.filter((i) => i.type === "agenda").length,
+      social: fresh.filter((i) => i.type === "social").length,
+      coOccurrence: fresh.filter((i) => i.coOccurrence).length,
+    },
+    errors: errors.length ? errors : undefined,
+  };
+
+  await writeFile(FEED_PATH, JSON.stringify(feed, null, 2));
+  await saveState(state);
+  console.error(`feed.json written: ${fresh.length} items ` +
+    `(media ${feed.stats.media}, agenda ${feed.stats.agenda}, social ${feed.stats.social}, ` +
+    `co-occurrence ${feed.stats.coOccurrence}); ${errors.length} non-fatal errors`);
+}
+
+main().catch((e) => { console.error("FATAL", e); process.exit(1); });

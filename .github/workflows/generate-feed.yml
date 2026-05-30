@@ -1,0 +1,44 @@
+name: Generate Feed
+
+on:
+  schedule:
+    # Daily at 05:30 UTC (~07:30 Europe/Paris). Adjust to taste.
+    - cron: '30 5 * * *'
+  workflow_dispatch:
+    inputs:
+      noSocial:
+        description: 'Skip X/social fetch'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['false', 'true']
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install deps
+        run: cd scripts && npm install
+      - name: Generate feed
+        env:
+          # Optional. Add under repo Settings > Secrets > Actions if you want X posts.
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: |
+          if [ "${{ inputs.noSocial }}" = "true" ]; then
+            cd scripts && node generate-feed.js --no-social
+          else
+            cd scripts && node generate-feed.js
+          fi
+      - name: Commit feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.json state-feed.json
+          git diff --cached --quiet || git commit -m "chore: update feed [skip ci]"
+          git push

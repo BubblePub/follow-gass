@@ -1,0 +1,44 @@
+{
+  "_comment": "Signals the ranking prompt (prompts/score-rank.md) uses to compute each event cluster's importance. These are guidance weights for the LLM, not a rigid formula — but the hard rules below are absolute.",
+
+  "hardRules": {
+    "coOccurrenceForcedTop": true,
+    "_coOccurrenceNote": "If an event involves BOTH persons, or both appear together in the same article (same URL seen under both persons' feeds → item.coOccurrence === true), that cluster is FORCED to the top, above everything else, regardless of its other scores."
+  },
+
+  "signals": {
+    "coverageBreadth": {
+      "weight": 0.30,
+      "desc": "How many distinct outlets covered the same event. The strongest 'importance' signal."
+    },
+    "sourceTier": {
+      "weight": 0.20,
+      "desc": "Credibility/reach of the outlets. Le Monde / Reuters / AFP / Politico > regional > tabloid/aggregator.",
+      "tier1": ["Le Monde", "Le Figaro", "Libération", "Mediapart", "France Info", "Reuters", "AFP", "Politico", "Financial Times", "Les Échos"],
+      "tier2": ["BFMTV", "France 24", "L'Express", "Le Point", "Euractiv", "Contexte"]
+    },
+    "centrality": {
+      "weight": 0.20,
+      "desc": "Is the person the protagonist of the event, or only mentioned in passing? Protagonist scores high; passing mention scores low. (This is the '占比' signal.)"
+    },
+    "eventTypeWeight": {
+      "weight": 0.20,
+      "desc": "Substance of the event.",
+      "high": ["policy announcement", "personnel/leadership change", "official position taken", "major law/regulation", "presidential-race move (Attal)", "EU industrial-strategy decision (Séjourné)"],
+      "low": ["photo op", "ceremonial appearance", "routine restatement"]
+    },
+    "velocity": {
+      "weight": 0.10,
+      "desc": "Breaking / fast-developing today scores higher than a slow ongoing topic."
+    }
+  },
+
+  "personalRelevanceAxis": {
+    "_note": "A SEPARATE axis from public importance. Flag items that matter a lot to the person's own trajectory even if media coverage is thin. Surface these even if they wouldn't make top-3 on public importance alone.",
+    "attal": ["anything tied to the 2027 presidential bid", "Renaissance internal power / leadership", "positioning vs. Édouard Philippe", "book/memoir En homme libre"],
+    "sejourne": ["EU industrial strategy / Made in Europe", "trade & FSR cases vs. China", "Single Market / competitiveness", "his standing within von der Leyen's Commission"]
+  },
+
+  "topN": 3,
+  "quietDayLine": "今日无大事发生"
+}
