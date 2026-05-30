@@ -1,6 +1,6 @@
 ---
-name: follow-gass
-description: 每日追踪 Gabriel Attal 与 Stéphane Séjourné 的法媒/外媒报道与官方行程,聚类、排序(每日三大事置顶)、附来源链接与简短跨源对比,生成中文简报。Use when the user wants the Attal/Séjourné daily digest, French political tracking, or invokes /digest. No API keys required to consume — content comes from a central feed.
+name: gass
+description: 每日追踪 Gabriel Attal 与 Stéphane Séjourné 的法媒/外媒报道与官方行程,聚类、排序(每日三大事置顶)、附来源链接与简短跨源对比,生成中文简报。Use when the user wants the Attal/Séjourné daily digest, French political tracking, or invokes /gass. No API keys required to consume — content comes from a central feed.
 ---
 
 # Attal & Séjourné 每日简报
@@ -21,7 +21,7 @@ published as `feed.json`. You only read that feed and remix it.
 which openclaw 2>/dev/null && echo "PLATFORM=openclaw" || echo "PLATFORM=other"
 ```
 - **openclaw**: persistent; delivery is automatic via its channels; cron via `openclaw cron add`.
-- **other** (Claude Code, etc.): for auto-delivery set up email; otherwise on-demand via `/digest`.
+- **other** (Claude Code, etc.): for auto-delivery set up email; otherwise on-demand via `/gass`.
 
 ## First run — onboarding
 
@@ -50,13 +50,13 @@ CFG
 For email on a non-persistent agent, add a system crontab line that runs
 `prepare-digest.js | <agent remix> | deliver.js`; for openclaw use `openclaw cron add`
 with the explicit channel + target. (Note: a pure crontab pipe delivers the raw feed,
-not the remixed digest — for full remix, deliver via the agent or use `/digest`.)
+not the remixed digest — for full remix, deliver via the agent or use `/gass`.)
 
 **Step 5 — Welcome digest.** Immediately run the digest workflow once so the user sees output.
 
 ---
 
-## Digest run — daily or `/digest`
+## Digest run — daily or `/gass`
 
 ### 1. Prepare (deterministic; you fetch nothing)
 ```bash
