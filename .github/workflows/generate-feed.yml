@@ -2,8 +2,13 @@ name: Generate Feed
 
 on:
   schedule:
-    # Daily at 05:30 UTC (~07:30 Europe/Paris). Adjust to taste.
-    - cron: '30 5 * * *'
+    # Daily at 04:00 UTC (~06:00 Europe/Paris in summer / 05:00 in winter).
+    # Picked to sit in the overnight low of the French news cycle: yesterday's
+    # evening + overnight coverage has landed, the morning publishing surge
+    # hasn't started, so the cutoff slices through the fewest in-progress
+    # stories. A 48h lookback + carry-over (see generate-feed.js) then re-clusters
+    # any event whose coverage still spans the cutoff, so it isn't split in two.
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:

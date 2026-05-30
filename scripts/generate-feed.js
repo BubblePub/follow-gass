@@ -14,7 +14,14 @@
 // is tagged persons:["attal","sejourne"] and coOccurrence:true. The ranking
 // prompt forces those to the top of the digest.
 //
-// Dedup: previously-seen URLs are tracked in state-feed.json.
+// Carry-over (anti-split): the feed publishes EVERY item inside a 48h window,
+// even ones seen on a previous run, each tagged with `firstSeenAt` and `isNew`.
+// This way an event whose coverage straddles the daily cutoff (some outlets
+// report early, some late) is NOT cut in half: tomorrow's feed still contains
+// yesterday's early articles alongside the new late ones, so the agent can
+// re-cluster the whole event. The `isNew` flag lets the digest suppress events
+// with no fresh coverage and surface continuing ones as "续报". state-feed.json
+// remembers when each URL was first seen (pruned after 7 days).
 //
 // Usage:  node generate-feed.js
 // Output: writes ../feed.json (and updates ../state-feed.json)
@@ -33,7 +40,9 @@ const STATE_PATH = join(ROOT, "state-feed.json");
 const RSS_UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
-const MEDIA_LOOKBACK_HOURS = 24;
+// 48h window (was 24h): gives the agent two days of context so an event whose
+// coverage spans the cutoff stays whole, and survives a single missed run.
+const MEDIA_LOOKBACK_HOURS = 48;
 
 // -- helpers -----------------------------------------------------------------
 
@@ -186,31 +195,47 @@ async function main() {
     fetchOfficial(sources, errors),
   ]);
 
-  // Dedup against state (by URL)
-  const fresh = [];
+  // Carry-over instead of drop-on-seen: publish every in-window item, but tag
+  // when it was first seen and whether it's new this run. The agent clusters
+  // over the full window (so split events re-merge) and uses `isNew` to decide
+  // what to surface vs. suppress. Same article from the same URL still collapses
+  // to one entry per run via this Map.
+  const now = Date.now();
+  const byUrl = new Map();
   for (const it of [...media, ...official]) {
-    if (state.seenUrls[it.url]) continue;
-    state.seenUrls[it.url] = Date.now();
-    fresh.push(it);
+    if (byUrl.has(it.url)) continue;
+    const firstSeen = state.seenUrls[it.url];
+    const isNew = !firstSeen;
+    if (isNew) state.seenUrls[it.url] = now;
+    byUrl.set(it.url, {
+      ...it,
+      firstSeenAt: new Date(isNew ? now : firstSeen).toISOString(),
+      isNew,
+    });
   }
+  const items = [...byUrl.values()];
 
   const feed = {
     generatedAt: new Date().toISOString(),
     persons: Object.keys(sources.persons),
-    items: fresh,
+    lookbackHours: MEDIA_LOOKBACK_HOURS,
+    items,
     stats: {
-      total: fresh.length,
-      media: fresh.filter((i) => i.type === "media").length,
-      agenda: fresh.filter((i) => i.type === "agenda").length,
-      coOccurrence: fresh.filter((i) => i.coOccurrence).length,
+      total: items.length,
+      new: items.filter((i) => i.isNew).length,
+      carried: items.filter((i) => !i.isNew).length,
+      media: items.filter((i) => i.type === "media").length,
+      agenda: items.filter((i) => i.type === "agenda").length,
+      coOccurrence: items.filter((i) => i.coOccurrence).length,
     },
     errors: errors.length ? errors : undefined,
   };
 
   await writeFile(FEED_PATH, JSON.stringify(feed, null, 2));
   await saveState(state);
-  console.error(`feed.json written: ${fresh.length} items ` +
-    `(media ${feed.stats.media}, agenda ${feed.stats.agenda}, ` +
+  console.error(`feed.json written: ${items.length} items ` +
+    `(${feed.stats.new} new, ${feed.stats.carried} carried; ` +
+    `media ${feed.stats.media}, agenda ${feed.stats.agenda}, ` +
     `co-occurrence ${feed.stats.coOccurrence}); ${errors.length} non-fatal errors`);
 }
 

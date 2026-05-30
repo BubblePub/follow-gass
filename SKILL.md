@@ -64,8 +64,10 @@ cd ${CLAUDE_SKILL_DIR}/scripts && node prepare-digest.js 2>/dev/null
 ```
 This prints one JSON blob: `config` (follow list, language), `items` (filtered to the
 followed person(s); each item has `type`, `persons`, `coOccurrence`, `title` (original
-FR/EN), `source`, `url`, `snippet`, `publishedAt`, `lang`), `scoring` (weights + the
-hard rule), `prompts`, `stats`. Ignore `errors`.
+FR/EN), `source`, `url`, `snippet`, `publishedAt`, `lang`, plus `isNew`/`firstSeenAt`
+freshness flags), `scoring` (weights + the hard rule), `prompts`, `stats` (incl.
+`new`/`carried` counts). Ignore `errors`. The feed spans ~48h and carries over
+already-seen articles so split events stay whole — the prompts handle the freshness gate.
 
 ### 2. Quiet-day check
 If `stats.total` is 0, OR after ranking nothing clears a meaningful bar, output the
@@ -73,10 +75,12 @@ quiet-day format from `prompts.digest_format` ("今日无大事发生") and stop
 
 ### 3. Remix — follow the prompts, in order
 Your only job is to remix the items in the JSON. **Fetch nothing. Invent nothing.**
-1. `prompts.cluster` — group items into events, dedup, keep all source links.
-2. `prompts.score_rank` — rank by `scoring` signals. **Hard rule: any cluster with
-   `coOccurrence === true` (two people in the same article) is forced to the very top.**
-   Pick top 3. Flag personal-relevance items.
+1. `prompts.cluster` — group items into events across the full ~48h window (so an
+   event split across the daily cutoff re-merges), dedup, keep all source links.
+2. `prompts.score_rank` — first apply the **freshness gate** (drop clusters with no
+   new coverage; mark continuing ones "🔄 续报"), then rank by `scoring` signals.
+   **Hard rule: any gated cluster with `coOccurrence === true` (two people in the same
+   article) is forced to the very top.** Pick top 3. Flag personal-relevance items.
 3. `prompts.summarize_event` — per cluster: 中文概括 + 来源链接 list (法语原标题 + URL).
 4. `prompts.compare_sources` — per cluster: 2–3 句跨源对比 (descriptive, not judgmental).
 5. `prompts.digest_format` — assemble: 今日三大事 (co-occurrence first) → 其余动态 →

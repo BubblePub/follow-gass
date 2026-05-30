@@ -93,6 +93,8 @@ async function main() {
     prompts,
     stats: {
       total: items.length,
+      new: items.filter((i) => i.isNew).length,
+      carried: items.filter((i) => !i.isNew).length,
       coOccurrence: items.filter((i) => i.coOccurrence).length,
       media: items.filter((i) => i.type === "media").length,
       agenda: items.filter((i) => i.type === "agenda").length,

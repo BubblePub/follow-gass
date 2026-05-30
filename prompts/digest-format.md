@@ -19,6 +19,9 @@ come first** and get a clear marker, e.g. "🔗 两人同框". For each of the t
 - 2–3 句对比 (from compare-sources)
 
 Mark any cluster flagged on the personal-relevance axis with "⭐ 对其本人重要".
+Mark a continuing story (from `score-rank.md`) with "🔄 续报(+N 家新跟进)" and show
+its full source list (carried-over + new together) so the event reads as one whole
+thing, not a fragment.
 
 ### 2. 其余动态 (the rest)
 Remaining clusters, ranked, in the same 概括 → 来源 → 小对比 format but you may keep these

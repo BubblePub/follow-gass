@@ -3,12 +3,32 @@
 You rank the event clusters from `cluster.md` by importance and pick the **top 3**.
 Read `config/scoring.json` for the signals and weights.
 
-## ABSOLUTE RULE (overrides everything)
+## FRESHNESS GATE (apply first, before ranking)
+
+The feed spans ~48h and carries over articles already shown in a previous digest,
+so the same event can reappear. To avoid repeating yesterday's digest:
+
+- A cluster qualifies for today's digest **only if `hasNew === true`** (it gained at
+  least one new article/outlet since the last run). **Drop clusters where every source
+  is carried-over** (`hasNew === false`) — they were already covered and have nothing
+  new; do not re-show them.
+- A qualifying cluster that mixes new **and** carried-over sources is a **continuing
+  story (续报)**. Keep its **full** source list (old + new) so the reader gets the
+  whole event with context, and mark it "🔄 续报(+N 家新跟进)" where N =
+  `newOutletCount`. This is the payoff of carry-over: the event is shown whole, not
+  as an orphaned sliver of late-reporting outlets.
+- The gate is about *freshness*, not importance — apply it before the scoring below.
+- **Fallback:** if the feed items carry no `isNew` field at all (an older feed format),
+  skip the gate entirely and treat every cluster as eligible.
+
+## ABSOLUTE RULE (overrides everything, among gated clusters)
 
 If a cluster has `coOccurrence === true`, OR the event substantively involves **both
 Attal and Séjourné together**, it is **FORCED to the very top** — above every other
 cluster, no matter how the other signals score. If there are multiple such clusters,
 order them among themselves by coverage breadth. This rule is non-negotiable.
+(It applies only to clusters that pass the freshness gate; a co-occurrence event with
+no new coverage was already shown and is not forced up again.)
 
 ## Scoring the rest
 

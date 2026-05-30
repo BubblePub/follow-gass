@@ -3,8 +3,18 @@
 You are grouping raw news/agenda items into **events**. The feed JSON gives
 you a flat list of `items`, each with: `type` (media / agenda), `persons`
 (["attal"], ["sejourne"], or both), `title` (original language, usually French),
-`source`, `url`, `snippet`, `publishedAt`, `lang`, and `coOccurrence` (true if the
-same article was seen under BOTH persons).
+`source`, `url`, `snippet`, `publishedAt`, `lang`, `coOccurrence` (true if the
+same article was seen under BOTH persons), and two freshness fields:
+`isNew` (true if this article first appeared in today's feed) and `firstSeenAt`
+(when it first showed up).
+
+**The feed spans a ~48h window, on purpose.** A single event often gets reported
+across two days — some outlets early, some late — so the window deliberately
+keeps yesterday's articles next to today's. Cluster **across the whole window**:
+an `isNew: false` article from yesterday and an `isNew: true` article from today
+that describe the same event belong in the **same** cluster. This is what stops
+a continuing story from being split in half. Do not start a second cluster just
+because some sources are carried-over and some are new.
 
 ## Your job
 
@@ -22,7 +32,9 @@ same article was seen under BOTH persons).
 
 4. **Tag each cluster** with: which person(s) it concerns, whether any item in it has
    `coOccurrence === true`, the list of source items (outlet + original title + url +
-   lang), and the count of distinct outlets.
+   lang), the count of distinct outlets, and two freshness tags:
+   `hasNew` (does any item have `isNew: true`?) and `newOutletCount` (how many distinct
+   outlets are new this run). These drive the freshness gate in `score-rank.md`.
 
 5. Do NOT merge genuinely different events just because they involve the same person
    on the same day. Two separate Attal statements = two clusters.
@@ -33,7 +45,9 @@ A list of clusters, each:
 - `persons`: ["attal"] / ["sejourne"] / ["attal","sejourne"]
 - `coOccurrence`: true/false
 - `type`: dominant type (media / agenda)
-- `sources`: [ { outlet, titleOriginal, url, lang } ... ]
+- `sources`: [ { outlet, titleOriginal, url, lang, isNew } ... ]
 - `outletCount`: integer
+- `hasNew`: true/false
+- `newOutletCount`: integer
 
 Do not invent events. Every cluster must trace back to items in the feed.
