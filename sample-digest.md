@@ -54,4 +54,4 @@
 
 ---
 
-由 follow-attal-sejourne 生成 · 来源链接均指向原始报道
+由 follow-gass 生成 · 来源链接均指向原始报道

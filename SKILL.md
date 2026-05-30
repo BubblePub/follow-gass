@@ -1,5 +1,5 @@
 ---
-name: follow-attal-sejourne
+name: follow-gass
 description: 每日追踪 Gabriel Attal 与 Stéphane Séjourné 的法媒/外媒报道、官方行程与社媒动态,聚类、排序(每日三大事置顶)、附来源链接与简短跨源对比,生成中文简报。Use when the user wants the Attal/Séjourné daily digest, French political tracking, or invokes /digest. No API keys required to consume — content comes from a central feed.
 ---
 
@@ -21,39 +21,38 @@ published as `feed.json`. You only read that feed and remix it.
 which openclaw 2>/dev/null && echo "PLATFORM=openclaw" || echo "PLATFORM=other"
 ```
 - **openclaw**: persistent; delivery is automatic via its channels; cron via `openclaw cron add`.
-- **other** (Claude Code, etc.): for auto-delivery set up Telegram/email; otherwise on-demand via `/digest`.
+- **other** (Claude Code, etc.): for auto-delivery set up email; otherwise on-demand via `/digest`.
 
 ## First run — onboarding
 
-Check `~/.follow-attal-sejourne/config.json` for `onboardingComplete: true`. If absent, run:
+Check `~/.follow-gass/config.json` for `onboardingComplete: true`. If absent, run:
 
 **Step 1 — Who to follow.** Ask: "想追踪谁?" → options: **只跟 Attal** / **只跟 Séjourné** /
 **两个都跟(推荐)**. Save as `follow: ["attal"]` / `["sejourne"]` / `["attal","sejourne"]`.
 
-**Step 2 — Language.** Ask: **中文** (`zh`, 来源行保留法语原标题) / **中法双语** (`bilingual`).
+> Output is **Chinese only** (`language: "zh"`, 来源行保留法语原标题). No language prompt.
 
-**Step 3 — Schedule.** Daily only (per design). Ask delivery time + timezone (default 08:00 Europe/Paris).
+**Step 2 — Schedule.** Daily only (per design). Ask delivery time + timezone (default 08:00 Europe/Paris).
 
-**Step 4 — Delivery.** openclaw → automatic (`stdout`). Otherwise ask: Telegram / Email / on-demand.
-For Telegram, guide @BotFather → token → chat id. For email, get a Resend key + address.
-Store keys in `~/.follow-attal-sejourne/.env`.
+**Step 3 — Delivery.** openclaw → automatic (`stdout`). Otherwise ask: Email / on-demand.
+For email, get a Resend key + address. Store keys in `~/.follow-gass/.env`.
 
-**Step 5 — Save config + cron.**
+**Step 4 — Save config + cron.**
 ```bash
-mkdir -p ~/.follow-attal-sejourne
-cat > ~/.follow-attal-sejourne/config.json << 'CFG'
-{ "platform": "<openclaw|other>", "follow": [...], "language": "<zh|bilingual>",
+mkdir -p ~/.follow-gass
+cat > ~/.follow-gass/config.json << 'CFG'
+{ "platform": "<openclaw|other>", "follow": [...], "language": "zh",
   "timezone": "<IANA>", "deliveryTime": "<HH:MM>",
-  "delivery": { "method": "<stdout|telegram|email>", "chatId": "", "email": "" },
+  "delivery": { "method": "<stdout|email>", "email": "" },
   "onboardingComplete": true }
 CFG
 ```
-For Telegram/email on a non-persistent agent, add a system crontab line that runs
+For email on a non-persistent agent, add a system crontab line that runs
 `prepare-digest.js | <agent remix> | deliver.js`; for openclaw use `openclaw cron add`
 with the explicit channel + target. (Note: a pure crontab pipe delivers the raw feed,
 not the remixed digest — for full remix, deliver via the agent or use `/digest`.)
 
-**Step 6 — Welcome digest.** Immediately run the digest workflow once so the user sees output.
+**Step 5 — Welcome digest.** Immediately run the digest workflow once so the user sees output.
 
 ---
 
@@ -98,14 +97,13 @@ If `delivery.method` is `stdout`, just print the digest.
 
 ## Configuration handling (conversational)
 - "只跟 Attal / 只跟 Séjourné / 两个都跟" → update `follow`.
-- "改成中法双语 / 只要中文" → update `language`.
 - "换时间 / 换时区" → update `deliveryTime`/`timezone` (+ the cron job).
-- "切到 Telegram / 邮件 / 就发这里" → update `delivery.method` (guide setup if needed).
+- "切到邮件 / 就发这里" → update `delivery.method` (guide setup if needed).
 - "概括短一点 / 多关注 X / 对比再深一点" → copy the relevant file to
-  `~/.follow-attal-sejourne/prompts/` and edit there (persists; not overwritten by updates).
+  `~/.follow-gass/prompts/` and edit there (persists; not overwritten by updates).
   ```bash
-  mkdir -p ~/.follow-attal-sejourne/prompts
-  cp ${CLAUDE_SKILL_DIR}/prompts/<file>.md ~/.follow-attal-sejourne/prompts/<file>.md
+  mkdir -p ~/.follow-gass/prompts
+  cp ${CLAUDE_SKILL_DIR}/prompts/<file>.md ~/.follow-gass/prompts/<file>.md
   ```
 - "看看我的设置 / 在跟谁" → read and show config + sources.json.
 Confirm every change.

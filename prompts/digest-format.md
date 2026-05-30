@@ -40,12 +40,11 @@ of passing-mention, low-tier items, or nothing at all), do NOT pad. Output exact
   (可附 1–2 条次要动态链接,若有。)
 
 ## 语言
-- `config.language === "zh"`: 全中文,但媒体来源行保留法语/英语原标题。
-- `config.language === "bilingual"`: 中文概括,其后紧跟法语版概括;来源行同样保留原标题。
+- 全中文,但媒体来源行保留法语/英语原标题。
 
 ## 绝对规则
 - 每条内容必须有真实链接;无链接不收录。
 - 绝不杜撰事件、引语、数字。只用 feed 里的标题与 snippet。
 - 不复制原文段落。标题原文可以,文章正文不可以。
 - 结尾加一行:
-  "由 follow-attal-sejourne 生成 · 来源链接均指向原始报道"
+  "由 follow-gass 生成 · 来源链接均指向原始报道"

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // ============================================================================
-// follow-attal-sejourne — Central Feed Generator
+// follow-gass — Central Feed Generator
 // ============================================================================
 // Runs on GitHub Actions (daily) to fetch content and publish feed.json.
 //

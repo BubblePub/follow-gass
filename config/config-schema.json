@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "description": "User configuration for the Attal/Séjourné digest skill. Stored at ~/.follow-attal-sejourne/config.json",
+  "description": "User configuration for the Attal/Séjourné digest skill. Stored at ~/.follow-gass/config.json",
   "type": "object",
   "properties": {
     "platform": {
@@ -16,17 +16,16 @@
     },
     "language": {
       "type": "string",
-      "enum": ["zh", "bilingual"],
+      "enum": ["zh"],
       "default": "zh",
-      "description": "Digest language. zh = Chinese (media titles keep their French original alongside). bilingual = Chinese + French."
+      "description": "Digest language. Chinese only (media titles keep their French original alongside)."
     },
     "timezone": { "type": "string", "default": "Europe/Paris" },
     "deliveryTime": { "type": "string", "default": "08:00", "description": "HH:MM, 24-hour" },
     "delivery": {
       "type": "object",
       "properties": {
-        "method": { "type": "string", "enum": ["stdout", "telegram", "email"], "default": "stdout" },
-        "chatId": { "type": "string", "description": "Telegram chat ID (telegram only)" },
+        "method": { "type": "string", "enum": ["stdout", "email"], "default": "stdout" },
         "email": { "type": "string", "description": "Recipient (email only)" }
       }
     },

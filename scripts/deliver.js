@@ -1,11 +1,10 @@
 #!/usr/bin/env node
 
 // ============================================================================
-// follow-attal-sejourne — Deliver
+// follow-gass — Deliver
 // ============================================================================
 // Sends the finished digest text to the configured channel.
 //   stdout   -> print (default; the agent shows it in chat)
-//   telegram -> Telegram bot message  (needs TELEGRAM_BOT_TOKEN + config.delivery.chatId)
 //   email    -> via Resend            (needs RESEND_API_KEY + config.delivery.email)
 //
 // Usage:  node deliver.js --file /tmp/digest.txt
@@ -17,7 +16,7 @@ import { existsSync } from "fs";
 import { join } from "path";
 import { homedir } from "os";
 
-const CONFIG_PATH = join(homedir(), ".follow-attal-sejourne", "config.json");
+const CONFIG_PATH = join(homedir(), ".follow-gass", "config.json");
 
 async function readStdin() {
   const chunks = [];
@@ -34,18 +33,6 @@ async function main() {
   let config = { delivery: { method: "stdout" } };
   if (existsSync(CONFIG_PATH)) { try { config = JSON.parse(await readFile(CONFIG_PATH, "utf-8")); } catch {} }
   const d = config.delivery || { method: "stdout" };
-
-  if (d.method === "telegram") {
-    const token = process.env.TELEGRAM_BOT_TOKEN;
-    if (!token || !d.chatId) { console.error("telegram: missing token or chatId; printing instead"); console.log(text); return; }
-    const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
-      method: "POST", headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ chat_id: d.chatId, text, disable_web_page_preview: true }),
-    });
-    if (!res.ok) { console.error(`telegram failed ${res.status}; printing instead`); console.log(text); }
-    else console.error("delivered via telegram");
-    return;
-  }
 
   if (d.method === "email") {
     const key = process.env.RESEND_API_KEY;

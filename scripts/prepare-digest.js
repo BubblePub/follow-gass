@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // ============================================================================
-// follow-attal-sejourne — Prepare Digest (consumer side)
+// follow-gass — Prepare Digest (consumer side)
 // ============================================================================
 // Runs on the user's machine. Gathers everything the LLM needs:
 //   - the central feed.json (published by the repo owner's GitHub Action)
@@ -22,10 +22,10 @@ import { join } from "path";
 import { homedir } from "os";
 
 // --- REPLACE <owner> with your GitHub username after you fork/push this repo ---
-const REPO_RAW = "https://raw.githubusercontent.com/BubblePub/follow-attal-sejourne/main";
+const REPO_RAW = "https://raw.githubusercontent.com/BubblePub/follow-gass/main";
 // ------------------------------------------------------------------------------
 
-const USER_DIR = join(homedir(), ".follow-attal-sejourne");
+const USER_DIR = join(homedir(), ".follow-gass");
 const CONFIG_PATH = join(USER_DIR, "config.json");
 const SCRIPT_DIR = decodeURIComponent(new URL(".", import.meta.url).pathname);
 const LOCAL_PROMPTS = join(SCRIPT_DIR, "..", "prompts");

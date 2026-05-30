@@ -1,5 +1,5 @@
 {
-  "name": "follow-attal-sejourne-scripts",
+  "name": "follow-gass-scripts",
   "version": "1.0.0",
   "description": "Scripts for the Attal/Séjourné digest skill — central feed generation, digest preparation, delivery",
   "type": "module",
