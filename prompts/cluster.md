@@ -1,7 +1,9 @@
 # 聚类 Prompt (cluster)
 
 You are grouping raw news/agenda items into **events**. The feed JSON gives
-you a flat list of `items`, each with: `type` (media / agenda), `persons`
+you a flat list of `items` (all `type: "media"` — no agenda is fetched; future
+schedule is extracted later from these media items by `digest-format.md`), each with:
+`type`, `persons`
 (["attal"], ["sejourne"], or both), `title` (original language, usually French),
 `source`, `url`, `snippet`, `publishedAt`, `lang`, `coOccurrence` (true if the
 same article was seen under BOTH persons), and two freshness fields:

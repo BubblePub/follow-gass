@@ -113,7 +113,10 @@ If `delivery.method` is `stdout`, just print the digest.
 Confirm every change.
 
 ## Sources
-Defined in `config/sources.json`, grouped per person (media query languages,
-official channels). Media headlines come from Google News RSS (titles + snippets + links
-only — no full text, no paywall). The owner edits sources there; consumers get updates
-automatically via the central feed.
+Defined in `config/sources.json`, grouped per person (media query languages +
+`agendaRefs`). Media headlines come from Google News RSS (titles + snippets + links
+only — no full text, no paywall). **No agenda is auto-fetched** (neither figure has a
+machine-scrapable official agenda — EC calendar is JS-rendered, Renaissance has no feed);
+the 官方行程 section is built by extracting forward-looking engagements from the news
+items (see `digest-format.md`), and `agendaRefs` holds canonical official URLs for manual
+verification. The owner edits sources there; consumers get updates via the central feed.

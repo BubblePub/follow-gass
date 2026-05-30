@@ -28,9 +28,27 @@ Remaining clusters, ranked, in the same 概括 → 来源 → 小对比 format b
 tighter. Group by person if both are followed (## Gabriel Attal / ## Stéphane Séjourné),
 and put any 两人同框 items in their own group at the top.
 
-### 3. 官方行程 (agenda, if any)
-If the feed has `type: "agenda"` items, list them plainly at the end under
-"📅 官方行程 / 公开活动" with date + what + link.
+### 3. 官方行程 / 公开活动 (built by extraction — read carefully)
+There is **no auto-fetched agenda** in the feed. You build this section yourself by
+scanning the news items for **concrete, forward-looking engagements** and listing them
+under "📅 官方行程 / 公开活动".
+
+Include an item here ONLY if a title or snippet states a **specific future activity**
+with enough detail to be useful — a date and/or place and the nature of the event
+(e.g. "Attal sera à Lille mardi", "Séjourné se rendra à Berlin le 5 juin pour…",
+"réunion du collège mercredi"). For each:
+- 中文转述 the engagement (what / when / where), then "(据 [outlet] 报道)" + the link.
+
+**Hard limits (no exceptions):**
+- Only use what is explicitly in the title/snippet. **Never infer or invent a date,
+  place, or event.** If the date is vague ("bientôt", "dans les prochains jours"),
+  say so verbatim — do not pin a date.
+- These are media-reported, NOT official confirmations — always keep the "据…报道" tag
+  so the reader treats them as such.
+- Past events (coverage of something that already happened, e.g. today's rally) do **not**
+  belong here — they go in the headline/其余动态 sections.
+- If nothing qualifies, **omit this section entirely** (don't pad). You may add one line:
+  "官方行程:本期新闻未提及明确的未来日程;可在官方页面手动核验(见 sources.json `agendaRefs`)。"
 
 ## 无大事处理 (quiet day)
 If `score-rank.md` produced no clusters that clear a meaningful bar (e.g. only a couple

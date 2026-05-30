@@ -1,5 +1,5 @@
 {
-  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages and official channels. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). Official = agenda/press RSS where available.",
+  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). AGENDA NOTE: there is no reliably machine-scrapable official agenda for either figure — the EC commissioner calendar is JS-rendered (OpenEuropa list page + Europa Search backend, no rows in static HTML) and Renaissance has no stable agenda feed. So the digest's 官方行程 section is built at the REMIX layer by the agent: it extracts concrete forward-looking engagements (explicit date + place + event) mentioned in the fetched news titles/snippets, labelled '据媒体报道'. The `agendaRefs` below are NOT auto-fetched — they are canonical official URLs for a human to open and verify the agenda manually.",
 
   "persons": {
     "attal": {
@@ -11,18 +11,11 @@
         { "lang": "fr", "query": "\"Gabriel Attal\"" },
         { "lang": "en", "query": "\"Gabriel Attal\"" }
       ],
-      "official": [
+      "agendaRefs": [
         {
-          "name": "Renaissance — actualités",
-          "type": "page",
-          "url": "https://parti-renaissance.fr/actualites/",
-          "note": "Pas de RSS officiel stable — fetch HTML best-effort, à ajuster."
-        },
-        {
-          "name": "Assemblée nationale — agenda (proxy via Google News)",
-          "type": "googlenews",
-          "lang": "fr",
-          "query": "\"Gabriel Attal\" (agenda OR déplacement OR meeting OR discours)"
+          "name": "Renaissance — site officiel",
+          "url": "https://parti-renaissance.fr/",
+          "note": "Manuel uniquement. L'ancienne page /actualites/ renvoie 404 ; pas de feed agenda stable."
         }
       ]
     },
@@ -36,18 +29,16 @@
         { "lang": "fr", "query": "\"Stéphane Séjourné\"" },
         { "lang": "en", "query": "\"Stephane Sejourne\" OR \"Stéphane Séjourné\"" }
       ],
-      "official": [
+      "agendaRefs": [
         {
-          "name": "Commission européenne — page du commissaire",
-          "type": "page",
-          "url": "https://commission.europa.eu/about/organisation/college-commissioners/stephane-sejourne_en",
-          "note": "Page officielle ; l'agenda du collège est public. Fetch HTML best-effort."
+          "name": "Commission européenne — agenda du commissaire (calendar items)",
+          "url": "https://commission.europa.eu/about/organisation/college-commissioners/calendar-items-president-and-commissioners_en?f%5B0%5D=commissioner_dynamic_commissioner_dynamic%3Ahttp%3A//publications.europa.eu/resource/authority/political-leader/COM_00006A047C6D",
+          "note": "Le vrai agenda officiel, filtré sur Séjourné. Rendu en JS (OpenEuropa list page) — non scrapable en statique, à ouvrir manuellement."
         },
         {
-          "name": "EC presscorner — proxy via Google News",
-          "type": "googlenews",
-          "lang": "en",
-          "query": "\"Sejourne\" (agenda OR visit OR meeting OR speech OR press) site:ec.europa.eu"
+          "name": "Commission européenne — page du commissaire",
+          "url": "https://commission.europa.eu/about/organisation/college-commissioners/stephane-sejourne_en",
+          "note": "Bio + liens (réunions/missions via le registre de transparence = passé, pas l'agenda à venir)."
         }
       ]
     }

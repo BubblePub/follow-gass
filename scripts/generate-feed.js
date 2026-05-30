@@ -7,8 +7,13 @@
 //
 //   - Media headlines  -> Google News RSS (titles + snippets + links only;
 //                         no full text, no paywall, NO API key)
-//   - Official/agenda  -> Google News "site:" proxy queries (+ best-effort
-//                         official pages, see notes)
+//
+// No agenda is fetched here: neither figure has a reliably machine-scrapable
+// official agenda (the EC commissioner calendar is JS-rendered; Renaissance has
+// no stable feed — see config/sources.json `agendaRefs`). The digest's 官方行程
+// section is instead built at the remix layer, where the agent extracts concrete
+// forward-looking engagements mentioned in the fetched news. If you later find a
+// machine-readable agenda source, add a fetcher and tag items `type:"agenda"`.
 //
 // Co-occurrence: if the SAME article URL is returned for BOTH persons, the item
 // is tagged persons:["attal","sejourne"] and coOccurrence:true. The ranking
@@ -157,32 +162,6 @@ async function fetchMedia(sources, errors) {
   return items;
 }
 
-// -- official / agenda -------------------------------------------------------
-
-async function fetchOfficial(sources, errors) {
-  const base = sources.googleNewsBase;
-  const items = [];
-  for (const [personId, person] of Object.entries(sources.persons)) {
-    for (const off of person.official || []) {
-      if (off.type === "googlenews") {
-        try {
-          const xml = await fetchText(googleNewsUrl(base, off.query, off.lang));
-          for (const it of parseRss(xml)) {
-            if (!withinHours(it.publishedAt, MEDIA_LOOKBACK_HOURS)) continue;
-            items.push({ ...it, lang: off.lang, type: "agenda", persons: [personId], coOccurrence: false, official: off.name });
-          }
-        } catch (e) { errors.push(`official ${personId}/${off.name}: ${e.message}`); }
-      } else {
-        // type "page": official HTML pages (EC commissioner page, Renaissance news).
-        // These have no stable RSS and need per-site selectors. Left as a hook:
-        // implement targeted extraction here if you want hard agenda scraping.
-        errors.push(`official ${personId}/${off.name}: page-type source not auto-parsed (see sources.json note)`);
-      }
-    }
-  }
-  return items;
-}
-
 // -- main --------------------------------------------------------------------
 
 async function main() {
@@ -190,10 +169,7 @@ async function main() {
   const sources = JSON.parse(await readFile(SOURCES_PATH, "utf-8"));
   const state = await loadState();
 
-  const [media, official] = await Promise.all([
-    fetchMedia(sources, errors),
-    fetchOfficial(sources, errors),
-  ]);
+  const media = await fetchMedia(sources, errors);
 
   // Carry-over instead of drop-on-seen: publish every in-window item, but tag
   // when it was first seen and whether it's new this run. The agent clusters
@@ -202,7 +178,7 @@ async function main() {
   // to one entry per run via this Map.
   const now = Date.now();
   const byUrl = new Map();
-  for (const it of [...media, ...official]) {
+  for (const it of media) {
     if (byUrl.has(it.url)) continue;
     const firstSeen = state.seenUrls[it.url];
     const isNew = !firstSeen;
