@@ -96,7 +96,6 @@ async function main() {
       coOccurrence: items.filter((i) => i.coOccurrence).length,
       media: items.filter((i) => i.type === "media").length,
       agenda: items.filter((i) => i.type === "agenda").length,
-      social: items.filter((i) => i.type === "social").length,
     },
     errors: errors.length ? errors : undefined,
   };

@@ -1,6 +1,6 @@
 ---
 name: follow-gass
-description: 每日追踪 Gabriel Attal 与 Stéphane Séjourné 的法媒/外媒报道、官方行程与社媒动态,聚类、排序(每日三大事置顶)、附来源链接与简短跨源对比,生成中文简报。Use when the user wants the Attal/Séjourné daily digest, French political tracking, or invokes /digest. No API keys required to consume — content comes from a central feed.
+description: 每日追踪 Gabriel Attal 与 Stéphane Séjourné 的法媒/外媒报道与官方行程,聚类、排序(每日三大事置顶)、附来源链接与简短跨源对比,生成中文简报。Use when the user wants the Attal/Séjourné daily digest, French political tracking, or invokes /digest. No API keys required to consume — content comes from a central feed.
 ---
 
 # Attal & Séjourné 每日简报
@@ -12,7 +12,7 @@ They sit in different orbits, so they are tracked as two parallel "tracks" and m
 into one digest.
 
 **No API keys are needed to consume the digest.** All content (media headlines, agenda
-proxies, social posts) is fetched centrally by the repo owner's GitHub Action and
+proxies) is fetched centrally by the repo owner's GitHub Action and
 published as `feed.json`. You only read that feed and remix it.
 
 ## Detect platform
@@ -109,7 +109,7 @@ If `delivery.method` is `stdout`, just print the digest.
 Confirm every change.
 
 ## Sources
-Defined in `config/sources.json`, grouped per person (media query languages, X handles,
+Defined in `config/sources.json`, grouped per person (media query languages,
 official channels). Media headlines come from Google News RSS (titles + snippets + links
 only — no full text, no paywall). The owner edits sources there; consumers get updates
 automatically via the central feed.

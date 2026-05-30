@@ -1,5 +1,5 @@
 {
-  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages and official channels. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). Social = X via API (bearer token in GitHub secret). Official = agenda/press RSS where available.",
+  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages and official channels. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). Official = agenda/press RSS where available.",
 
   "persons": {
     "attal": {
@@ -10,9 +10,6 @@
       "newsQueries": [
         { "lang": "fr", "query": "\"Gabriel Attal\"" },
         { "lang": "en", "query": "\"Gabriel Attal\"" }
-      ],
-      "social": [
-        { "platform": "x", "handle": "GabrielAttal" }
       ],
       "official": [
         {
@@ -38,9 +35,6 @@
       "newsQueries": [
         { "lang": "fr", "query": "\"Stéphane Séjourné\"" },
         { "lang": "en", "query": "\"Stephane Sejourne\"" }
-      ],
-      "social": [
-        { "platform": "x", "handle": "stephanesejourne" }
       ],
       "official": [
         {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T20:16:00.264Z",
+  "generatedAt": "2026-05-30T20:52:22.006Z",
   "persons": [
     "attal",
     "sejourne"
@@ -10,7 +10,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLTAzbzlyejhTNFJGSHhxX0RGYi1mOWVNWXhDa1BaTDVSWEhMMHlzNWhsQjh1X01naHU5RUJUdDdxUkV6MHhMZFlfMUs1SGhneVRyY01hV0JkcF9XRWlhM3JtTm12aVpCV01LZFFkaXE3ekNxazVxdzNWXzZfOUtibU92R283VG9TZ3luVl9mZ3VLYUx3N0UwY2FaeFdselUzdEp4WG9kTHdGV1FsZUxYTjVRVEhnU1Z1Mzl0bUFZTmk1c19DRi13TGZleWpnY1IySGJUMndTNkxyY0VXV0Z1S2JodFRmU3VBd3R5WlJRVERzdFFpNWoyYUs2YkZVUWMxdFpfZEtQd1JrOHdRQzBRYkpWWQ?oc=5",
       "source": "Le Monde.fr",
       "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOLTAzbzlyejhTNFJGSHhxX0RGYi1mOWVNWXhDa1BaTDVSWEhMMHlzNWhsQjh1X01naHU5RUJUdDdxUkV6MHhMZFlfMUs1SGhneVRyY01hV0JkcF9XRWlhM3JtTm12aVpCV01LZFFkaXE3ekNxazVxdzNWXzZfOUtibU92R283VG9TZ3luVl9mZ3VLYUx3N0UwY2FaeFdselUzdEp4WG9kTHdGV1FsZUxYTjVRVEhnU1Z1Mzl0bUFZTmk1c1",
-      "publishedAt": "2026-05-30T19:19:46.000Z",
+      "publishedAt": "2026-05-30T19:19:45.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -19,11 +19,11 @@
       "coOccurrence": false
     },
     {
-      "title": "GPA : Gabriel Attal pris au piège d’un débat qui bouscule le clivage droite-gauche - Le Point",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFBOVGlzd01GbUwzYkFrZUhXNFBDUmFjd2NkRDQ3QVFrSjhWQ2VSYnlpMGJ1eHhJWEI1cTgwWGo5OGlhR1ZtWHVhN05ZZFdXZzNrZGZfX2FnUmtVbzhGUDh1RUJyRXVyeUtRWEM3RGVxNGUyTjR3WVB3cTltTm16ZkRwWWY3bVJCUHdWZGptZ1ZkckczMjIzNEFiM0VCVFlmY3JrREVSSDJWcXBBUTZ2YlFOQk9vMk1pN1QwV216dHhTMnFJMHk4RWtQLXJWWlQ4UFRzUVNVbw?oc=5",
-      "source": "Le Point",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFBOVGlzd01GbUwzYkFrZUhXNFBDUmFjd2NkRDQ3QVFrSjhWQ2VSYnlpMGJ1eHhJWEI1cTgwWGo5OGlhR1ZtWHVhN05ZZFdXZzNrZGZfX2FnUmtVbzhGUDh1RUJyRXVyeUtRWEM3RGVxNGUyTjR3WVB3cTltTm16ZkRwWWY3bVJCUHdWZGptZ1ZkckczMjIzNEFiM0VCVFlmY3JrREVSSDJWcXBBUTZ2YlFOQk9vMk1pN1QwV216dHhTMnFJMHk4RW",
-      "publishedAt": "2026-05-30T06:00:00.000Z",
+      "title": "Gabriel Attal, Macron 2.0 ? - premium.courrier-picard.fr",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWJsR1MwLXFDR3Q1MDB5VmNGamlaVU5ndW5KR2J2cUJuRnJJOXZHTF92V2dQbGFkQXNwOV9HVy1CUXhzS09IN2ZkMjJma241bzhJMHJnQ2ZBcFJ6cUVaWV9VMzlrSFRaUVRNRGlldGVIOFIyY283bWpXeXdTdTdiajhqZllqWGx4STNoX2dGVQ?oc=5",
+      "source": "premium.courrier-picard.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWJsR1MwLXFDR3Q1MDB5VmNGamlaVU5ndW5KR2J2cUJuRnJJOXZHTF92V2dQbGFkQXNwOV9HVy1CUXhzS09IN2ZkMjJma241bzhJMHJnQ2ZBcFJ6cUVaWV9VMzlrSFRaUVRNRGlldGVIOFIyY283bWpXeXdTdTdiajhqZllqWGx4STNoX2dGVQ?oc=5\" target=\"_blank\">Gabriel Attal, Macron 2.0 ?</a>&nbsp;&nbsp;<font colo",
+      "publishedAt": "2026-05-30T20:02:50.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -63,19 +63,6 @@
       "source": "franceinfo",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQnAyYzU3dk1OcHpTODBtVjIzbUFlWUJHbHU4V3ZDSWVLRHhvdVowaUlCNi1tZC1MUUNvNWpPZHd3QUxoX2diYzlvME8tUW9sbW5ncVBEVnlqVkFqY3ZJVFIta0JZZDcteEc3QVUwa3MwTzJ1ZGNhWHQ1WUpGTjcyT0o2VVpaT1ZaUUtzY2lhVmYwd1phWDFGVnVGU2dPLWMzeGtzOVl0OGwxMlkyaHhZb1U5bE9YQjlsYUpDbkpKeUx5LTVHUDMwdz",
       "publishedAt": "2026-05-30T07:46:39.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false
-    },
-    {
-      "title": "Présidentielle 2027 : « Je promets l’action et l’espoir », assure Gabriel Attal en meeting - La Croix",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOME50VFZZVndNQWdGQ2RoM0x4ckt0bGZSaUlhLVV5M1Foa0xPTFJFbmVLWW1hM2tJQWswTk1scHpBSTJZM2ZZWjJtWEdpS0F1LUFGTmhWZG9WWHZORXMxeTZKa1k4VXhaMlpJZmNaSElqUlRjTDhUX2ZKbzBKSGdNVG5vV1pXTDlWdng2ZVFaQlRfSDhRb1J1QTFIdGVGcGhtOEc0TkR2bnA0Z0p1eE40cGlFSWg2ZHAyODlKd3pnc25hY29z?oc=5",
-      "source": "La Croix",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOME50VFZZVndNQWdGQ2RoM0x4ckt0bGZSaUlhLVV5M1Foa0xPTFJFbmVLWW1hM2tJQWswTk1scHpBSTJZM2ZZWjJtWEdpS0F1LUFGTmhWZG9WWHZORXMxeTZKa1k4VXhaMlpJZmNaSElqUlRjTDhUX2ZKbzBKSGdNVG5vV1pXTDlWdng2ZVFaQlRfSDhRb1J1QTFIdGVGcGhtOEc0TkR2bnA0Z0p1eE40cGlFSWg2ZHAyODlKd3pnc25hY29z?oc=5\"",
-      "publishedAt": "2026-05-30T19:02:50.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -136,6 +123,19 @@
       "coOccurrence": false
     },
     {
+      "title": "Gabriel Attal expose sa « promesse française » pour son premier meeting de campagne - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE0tN2Y1cF83QnJvWVBxb2t1djBaeDBERGxxT1pHMUVaR1hBb0licXZmekwxeUo4WmlMZ3ZwNy1vcDFaX0c5cUx1SE9Fbm1LaWZHX0JRWGNwLWtVSy0xdWZKTmM5YUs5ZE01WVlNX05yMTBwYWlVLXd5eGNlVjEtYkk0YlVtWm50ak1fU181MThuQ2FlQjB5MUJuTGZTWUU3VFhVTV9BY2JqSlA5NUpHSTYyNEpHck5uZ1RMdGVuUVJVbTVXOTJnM2tPYWhGTklDMHc?oc=5",
+      "source": "20 Minutes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE0tN2Y1cF83QnJvWVBxb2t1djBaeDBERGxxT1pHMUVaR1hBb0licXZmekwxeUo4WmlMZ3ZwNy1vcDFaX0c5cUx1SE9Fbm1LaWZHX0JRWGNwLWtVSy0xdWZKTmM5YUs5ZE01WVlNX05yMTBwYWlVLXd5eGNlVjEtYkk0YlVtWm50ak1fU181MThuQ2FlQjB5MUJuTGZTWUU3VFhVTV9BY2JqSlA5NUpHSTYyNEpHck5uZ1RMdGVuUVJVbTVXOTJnM2",
+      "publishedAt": "2026-05-30T18:37:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false
+    },
+    {
       "title": "Présidentielle 2027 : pour son premier meeting, Gabriel Attal se dit candidat \"pour l'espoir, pour l'avenir, pour l'optimisme\" - TF1 Info",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU3dVem91dVV1eXNyaEV6UGFIWTdCWHBJdWhBVnNCLTU0Q2RtN1pPTGRYbDl3ZUpkZ2pYdHNqZVZjdGVPUy1QQmdqTWN1Z3hnbG9yV3RTSGZoSDlCN0hMVmFCSDRfbWkzVnJFeXpMQng4MHdEbEQwU1hqZVlGa1A3V05nZ3c2UzdFZU5OU0l6WXlTbVRNWUdtZk4xdVUtenFXeHNHWUthMXdJc1Z6NTZyQTkyUjFaeUZ3OE0yWnRVRktLZnFlbUpQUHVzbjNiS0JHeG0wY2RfM3hyYU1wUVBuN0pXRzlFdDhNVklPRmdTdzdDYjQ4U294Uw?oc=5",
       "source": "TF1 Info",
@@ -149,11 +149,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Dans les pas d’Emmanuel Macron, le tour de chauffe de Gabriel Attal en meeting à Paris - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaV83bFN5S0ZPSmIydExKWFF3c3llTnVQYUNNcV9MR0dJbmpoQmtuYUxKWjdXR0hkLTJDQnZSbXFsQV8tVHRSZFpsNzNDR3dHMW9sVFV3RUQ4ajN5Q3haQ1ktWEQzQktXTmRaY2I3OWVyNkVPbVNZcmNVSTFrbU16R3FLSXJWdzYtSkZ0MUt6bmd0aE9EQnJ0YURzNWxOR21RWlliNXZxVTNWcEltQ2hMNlNoTVhZRVNYejJFS1JaQjNSRzk4YzIwQw?oc=5",
-      "source": "Le Figaro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaV83bFN5S0ZPSmIydExKWFF3c3llTnVQYUNNcV9MR0dJbmpoQmtuYUxKWjdXR0hkLTJDQnZSbXFsQV8tVHRSZFpsNzNDR3dHMW9sVFV3RUQ4ajN5Q3haQ1ktWEQzQktXTmRaY2I3OWVyNkVPbVNZcmNVSTFrbU16R3FLSXJWdzYtSkZ0MUt6bmd0aE9EQnJ0YURzNWxOR21RWlliNXZxVTNWcEltQ2hMNlNoTVhZRVNYejJFS1JaQjNSRzk4YzIwQw",
-      "publishedAt": "2026-05-30T15:56:16.000Z",
+      "title": "En meeting, Gabriel Attal lutte contre le déclinisme, et son propre déclin - Mediapart",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmxkN0JFYWladC1rajJXYTFpQnVVM2VNLW5qa0w5NjRKSUVEZUhiLUdjTmljYVl3QlJzMWZXdzFtUkF3dlRXWE0xTnk5ZDJZS09ndHRDQ1Nrbm9CaTBGZVZBdlJJbjM0R0JHWWRCU3Q0UVVnVmMwVjZuWmJHZ2k5Q2JCdE9reDdiMERqNXhDMjREMDFRM1VrRC1JVVFxN0dKT3M4akFjYWhadG52RTZweEtBNjYtaUZzWXJzcUlERQ?oc=5",
+      "source": "Mediapart",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmxkN0JFYWladC1rajJXYTFpQnVVM2VNLW5qa0w5NjRKSUVEZUhiLUdjTmljYVl3QlJzMWZXdzFtUkF3dlRXWE0xTnk5ZDJZS09ndHRDQ1Nrbm9CaTBGZVZBdlJJbjM0R0JHWWRCU3Q0UVVnVmMwVjZuWmJHZ2k5Q2JCdE9reDdiMERqNXhDMjREMDFRM1VrRC1JVVFxN0dKT3M4akFjYWhadG52RTZweEtBNjYtaUZzWXJzcUlERQ?oc=5\" targe",
+      "publishedAt": "2026-05-30T17:30:33.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -162,11 +162,11 @@
       "coOccurrence": false
     },
     {
-      "title": "En meeting, Gabriel Attal lutte contre le déclinisme, et son propre déclin - Mediapart",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmxkN0JFYWladC1rajJXYTFpQnVVM2VNLW5qa0w5NjRKSUVEZUhiLUdjTmljYVl3QlJzMWZXdzFtUkF3dlRXWE0xTnk5ZDJZS09ndHRDQ1Nrbm9CaTBGZVZBdlJJbjM0R0JHWWRCU3Q0UVVnVmMwVjZuWmJHZ2k5Q2JCdE9reDdiMERqNXhDMjREMDFRM1VrRC1JVVFxN0dKT3M4akFjYWhadG52RTZweEtBNjYtaUZzWXJzcUlERQ?oc=5",
-      "source": "Mediapart",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmxkN0JFYWladC1rajJXYTFpQnVVM2VNLW5qa0w5NjRKSUVEZUhiLUdjTmljYVl3QlJzMWZXdzFtUkF3dlRXWE0xTnk5ZDJZS09ndHRDQ1Nrbm9CaTBGZVZBdlJJbjM0R0JHWWRCU3Q0UVVnVmMwVjZuWmJHZ2k5Q2JCdE9reDdiMERqNXhDMjREMDFRM1VrRC1JVVFxN0dKT3M4akFjYWhadG52RTZweEtBNjYtaUZzWXJzcUlERQ?oc=5\" targe",
-      "publishedAt": "2026-05-30T17:30:33.000Z",
+      "title": "Dans les pas d’Emmanuel Macron, le tour de chauffe de Gabriel Attal en meeting à Paris - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaV83bFN5S0ZPSmIydExKWFF3c3llTnVQYUNNcV9MR0dJbmpoQmtuYUxKWjdXR0hkLTJDQnZSbXFsQV8tVHRSZFpsNzNDR3dHMW9sVFV3RUQ4ajN5Q3haQ1ktWEQzQktXTmRaY2I3OWVyNkVPbVNZcmNVSTFrbU16R3FLSXJWdzYtSkZ0MUt6bmd0aE9EQnJ0YURzNWxOR21RWlliNXZxVTNWcEltQ2hMNlNoTVhZRVNYejJFS1JaQjNSRzk4YzIwQw?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaV83bFN5S0ZPSmIydExKWFF3c3llTnVQYUNNcV9MR0dJbmpoQmtuYUxKWjdXR0hkLTJDQnZSbXFsQV8tVHRSZFpsNzNDR3dHMW9sVFV3RUQ4ajN5Q3haQ1ktWEQzQktXTmRaY2I3OWVyNkVPbVNZcmNVSTFrbU16R3FLSXJWdzYtSkZ0MUt6bmd0aE9EQnJ0YURzNWxOR21RWlliNXZxVTNWcEltQ2hMNlNoTVhZRVNYejJFS1JaQjNSRzk4YzIwQw",
+      "publishedAt": "2026-05-30T15:56:16.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -267,19 +267,6 @@
       "coOccurrence": false
     },
     {
-      "title": "\"Des marchands de haine et apôtres du déclin\" : lors de son premier meeting de campagne, Gabriel Attal désigne le RN et LFI comme ses \"adversaires\" - RTL.fr",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMklTUW9CdnlYd2dCcUFNeUV4RkQ3N2VlYUVadDdzckRhbTlzdy1rbWRwTlhNb3NoYkVJZEJSOGp0S1dFU1pIVUdBdWotYW9mMkRjSEphSFVsRXpRSFk1LXA5LXNEQ29yZlRVdXQtN21ndllBaWFxcjFyLTlYSm40TWphdUNjSWtrdzNzUWU0UnVVZDVOSHQxSllfckI4RHF2M05tRjRzdWthM3Q5bXN5SHZsRHRMTkR1RGxrSmp4aGI1NmJlRkVfVnZsS1haYWxRUHlWZnpBTlZfOGdWWWM3b2ZWVG5haF9LTlUwTVEzWVppakV4VGNKQkRYcy1nMTJITlpGM1dlMDNDakhBSTZQcVBYSQ?oc=5",
-      "source": "RTL.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPMklTUW9CdnlYd2dCcUFNeUV4RkQ3N2VlYUVadDdzckRhbTlzdy1rbWRwTlhNb3NoYkVJZEJSOGp0S1dFU1pIVUdBdWotYW9mMkRjSEphSFVsRXpRSFk1LXA5LXNEQ29yZlRVdXQtN21ndllBaWFxcjFyLTlYSm40TWphdUNjSWtrdzNzUWU0UnVVZDVOSHQxSllfckI4RHF2M05tRjRzdWthM3Q5bXN5SHZsRHRMTkR1RGxrSmp4aGI1NmJlRkVfVn",
-      "publishedAt": "2026-05-30T15:33:58.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false
-    },
-    {
       "title": "Gabriel Attal qualifie LFI et le RN de \"marchands de haine\" et d'\"apôtres du déclin\", Jean-Luc Mélenchon dénonce des \"paroles indignes\" - BFM",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVkcyaTlYdVVvWTZoMTFadEt2Wm14ZWZHX3NtNDQ3c0IzaU0tZ2xlWVVtMFRKbGNBaHZRbmZLT2VUVHlyYnU0bVkwUDVtQmNJZlBDSjBZaEV4eFhsNWFGdEtGNTFRY0k1eU1NUDhDOTNTRFlWZ3RES0lYU3NvMFJfcThndkdoOHhzR1VTMEx4T3ExeGNHYlRraU4wMEFPX0I4bFRrNlRLSWZHdElaOHR4bnJqbHBoN2kzUk11ZEs2UkVtdVJ1TDMzRWRtZWtnTmk3aFJkOVdCcHFlN3VsLU5MemNYa0szOVNxNmRMd3VCLVFNd21ZdDdQRnN0UHZTaE9mMjBXZ0dIb0dWaXdvazJvUWV3STVQTGFiR0VrdTRwYTNTb3ZYQjlQOUpPRVZMOWs?oc=5",
       "source": "BFM",
@@ -293,11 +280,11 @@
       "coOccurrence": false
     },
     {
-      "title": "REPORTAGE. « Je promets de l’action et de l’espoir » : Gabriel Attal se présente en candidat anti-résignation - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMk5rVjdLdTB5N1YybnlleU9IUmxkYnV4c2FuWUdOVTdub1BUSTM2RURTU2NMVmdxY0ZhblF5d0piQTFSU1pxV0dIQVUxRGFWTHFxaVFQRUVidkxCX0JPa2pTNGJGTllsaXQ5MS1EMTFPdVBjUkhPNUxzNm8wZVZJT2huVk92bHh1Z0ZPal9iQnhibDhzd0tNcDhpWUVaYktnX21neWV3dW1KWEVrUUQ2bE9fa1FMMVhGNDdsVmhUVmxsc2pGeXJXUXJaSkg5QW5jazlMb2tEQkdWY0pwRml4V05UWERlbW8waFpVbXZDNzY5VmJYY2ZZaXN3MXFTRzhBbjZPbA?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQMk5rVjdLdTB5N1YybnlleU9IUmxkYnV4c2FuWUdOVTdub1BUSTM2RURTU2NMVmdxY0ZhblF5d0piQTFSU1pxV0dIQVUxRGFWTHFxaVFQRUVidkxCX0JPa2pTNGJGTllsaXQ5MS1EMTFPdVBjUkhPNUxzNm8wZVZJT2huVk92bHh1Z0ZPal9iQnhibDhzd0tNcDhpWUVaYktnX21neWV3dW1KWEVrUUQ2bE9fa1FMMVhGNDdsVmhUVmxsc2pGeXJXUX",
-      "publishedAt": "2026-05-30T15:43:01.000Z",
+      "title": "\"Des marchands de haine et apôtres du déclin\" : lors de son premier meeting de campagne, Gabriel Attal désigne le RN et LFI comme ses \"adversaires\" - RTL.fr",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMklTUW9CdnlYd2dCcUFNeUV4RkQ3N2VlYUVadDdzckRhbTlzdy1rbWRwTlhNb3NoYkVJZEJSOGp0S1dFU1pIVUdBdWotYW9mMkRjSEphSFVsRXpRSFk1LXA5LXNEQ29yZlRVdXQtN21ndllBaWFxcjFyLTlYSm40TWphdUNjSWtrdzNzUWU0UnVVZDVOSHQxSllfckI4RHF2M05tRjRzdWthM3Q5bXN5SHZsRHRMTkR1RGxrSmp4aGI1NmJlRkVfVnZsS1haYWxRUHlWZnpBTlZfOGdWWWM3b2ZWVG5haF9LTlUwTVEzWVppakV4VGNKQkRYcy1nMTJITlpGM1dlMDNDakhBSTZQcVBYSQ?oc=5",
+      "source": "RTL.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPMklTUW9CdnlYd2dCcUFNeUV4RkQ3N2VlYUVadDdzckRhbTlzdy1rbWRwTlhNb3NoYkVJZEJSOGp0S1dFU1pIVUdBdWotYW9mMkRjSEphSFVsRXpRSFk1LXA5LXNEQ29yZlRVdXQtN21ndllBaWFxcjFyLTlYSm40TWphdUNjSWtrdzNzUWU0UnVVZDVOSHQxSllfckI4RHF2M05tRjRzdWthM3Q5bXN5SHZsRHRMTkR1RGxrSmp4aGI1NmJlRkVfVn",
+      "publishedAt": "2026-05-30T15:33:58.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -306,11 +293,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Présidentielle 2027 : devant «des milliers de personnes», Gabriel Attal tient son premier meeting de campagne ce samedi - CNews",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdy1OZFZHM2pBTUVJYkdaV2ItODdSaG03M0N5eVdiMk1lQnlaWDE2TXNsMFBkV0E0Zkc0Wkd3c0I0WWhtdW44a3R3ZFh3ZDlHQVl5WTFUN0dDc0VpaFM1N3o1SzRiX08xbEd5YXR3QkxEbHRyUEl5d2RoRnlsSHAxQ204QjNWa2RRWThRSklBblBUS3VQV09FMFRzbGQ4b2JaUl9sNThCM0pkZWFGdE1wYXdmb2YyQdIBuwFBVV95cUxNbkR5ODJNeFc0b1pMUEZqbzJSQms1T2VTVTRDNFRwT0FNUE9QZmo3VUtsTzJUZGw4MU15T2VHU2NVeU9kQ1paZnJCRDlvNGpuSXdNbVlCQjlDaTQtc1kxUEkxdjZPQ2I1RHBDOS0zaldlUGpob2kxTGU4X25RTU1YZENPQWo0eUNFZnZMZWdGTlIzd3lRQUtiUjkzTS1oTmlPMlpvU2ZPYU5pQ1V1djVxS0l5enY1dHRvc3BF?oc=5",
-      "source": "CNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdy1OZFZHM2pBTUVJYkdaV2ItODdSaG03M0N5eVdiMk1lQnlaWDE2TXNsMFBkV0E0Zkc0Wkd3c0I0WWhtdW44a3R3ZFh3ZDlHQVl5WTFUN0dDc0VpaFM1N3o1SzRiX08xbEd5YXR3QkxEbHRyUEl5d2RoRnlsSHAxQ204QjNWa2RRWThRSklBblBUS3VQV09FMFRzbGQ4b2JaUl9sNThCM0pkZWFGdE1wYXdmb2YyQdIBuwFBVV95cUxNbkR5ODJNeF",
-      "publishedAt": "2026-05-30T04:28:07.000Z",
+      "title": "REPORTAGE. « Je promets de l’action et de l’espoir » : Gabriel Attal se présente en candidat anti-résignation - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMk5rVjdLdTB5N1YybnlleU9IUmxkYnV4c2FuWUdOVTdub1BUSTM2RURTU2NMVmdxY0ZhblF5d0piQTFSU1pxV0dIQVUxRGFWTHFxaVFQRUVidkxCX0JPa2pTNGJGTllsaXQ5MS1EMTFPdVBjUkhPNUxzNm8wZVZJT2huVk92bHh1Z0ZPal9iQnhibDhzd0tNcDhpWUVaYktnX21neWV3dW1KWEVrUUQ2bE9fa1FMMVhGNDdsVmhUVmxsc2pGeXJXUXJaSkg5QW5jazlMb2tEQkdWY0pwRml4V05UWERlbW8waFpVbXZDNzY5VmJYY2ZZaXN3MXFTRzhBbjZPbA?oc=5",
+      "source": "Ouest-France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQMk5rVjdLdTB5N1YybnlleU9IUmxkYnV4c2FuWUdOVTdub1BUSTM2RURTU2NMVmdxY0ZhblF5d0piQTFSU1pxV0dIQVUxRGFWTHFxaVFQRUVidkxCX0JPa2pTNGJGTllsaXQ5MS1EMTFPdVBjUkhPNUxzNm8wZVZJT2huVk92bHh1Z0ZPal9iQnhibDhzd0tNcDhpWUVaYktnX21neWV3dW1KWEVrUUQ2bE9fa1FMMVhGNDdsVmhUVmxsc2pGeXJXUX",
+      "publishedAt": "2026-05-30T15:43:01.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -337,6 +324,19 @@
       "source": "Libération",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQTmI0ay1pWXhhRll2RXpyeDYyTzMyQjJFOUNlNkdfREVjT1NDWDl5bnM0M05zOHdaSmJrNHlnRi1NMnROdWp0Rmtab19JWVMyU0c2c3I4X1QyanZ4ZHVZS3BQWmtYZ2FuR3VvOF9Dcld0MEd3S3hGTlB3aG9FREhicG1VX0V2MlhRUnZULUhkYXdfa05XMnAzU1VvbEpKMEpXOEdIOFJTY1dySlZOMVZ5aXk2MFJ5R081VThfSVlzeVdkTGNqNmpqa2",
       "publishedAt": "2026-05-30T16:15:46.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false
+    },
+    {
+      "title": "Présidentielle 2027 : devant «des milliers de personnes», Gabriel Attal tient son premier meeting de campagne ce samedi - CNews",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdy1OZFZHM2pBTUVJYkdaV2ItODdSaG03M0N5eVdiMk1lQnlaWDE2TXNsMFBkV0E0Zkc0Wkd3c0I0WWhtdW44a3R3ZFh3ZDlHQVl5WTFUN0dDc0VpaFM1N3o1SzRiX08xbEd5YXR3QkxEbHRyUEl5d2RoRnlsSHAxQ204QjNWa2RRWThRSklBblBUS3VQV09FMFRzbGQ4b2JaUl9sNThCM0pkZWFGdE1wYXdmb2YyQdIBuwFBVV95cUxNbkR5ODJNeFc0b1pMUEZqbzJSQms1T2VTVTRDNFRwT0FNUE9QZmo3VUtsTzJUZGw4MU15T2VHU2NVeU9kQ1paZnJCRDlvNGpuSXdNbVlCQjlDaTQtc1kxUEkxdjZPQ2I1RHBDOS0zaldlUGpob2kxTGU4X25RTU1YZENPQWo0eUNFZnZMZWdGTlIzd3lRQUtiUjkzTS1oTmlPMlpvU2ZPYU5pQ1V1djVxS0l5enY1dHRvc3BF?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdy1OZFZHM2pBTUVJYkdaV2ItODdSaG03M0N5eVdiMk1lQnlaWDE2TXNsMFBkV0E0Zkc0Wkd3c0I0WWhtdW44a3R3ZFh3ZDlHQVl5WTFUN0dDc0VpaFM1N3o1SzRiX08xbEd5YXR3QkxEbHRyUEl5d2RoRnlsSHAxQ204QjNWa2RRWThRSklBblBUS3VQV09FMFRzbGQ4b2JaUl9sNThCM0pkZWFGdE1wYXdmb2YyQdIBuwFBVV95cUxNbkR5ODJNeF",
+      "publishedAt": "2026-05-30T04:28:07.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -423,11 +423,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Meeting de Gabriel Attal : Jean-Luc Mélenchon n'a pas apprécié les \"paroles indignes\" visant LFI - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREEzdFF6TGg2LU4wUXBPcy1QM0dxa01oSXNZVXdTMG9yb2Fyc1dZa2I4YWhGX2JTeHE5VVNWZGRoc0lpUExvanJ6V0Y5ckRvZmlpeTRRd2ktVkR1bEZ2Tlg3SVpLNVNIMjVfenNFYkJxaks1ZUQ5eDZvRm5tX0FCMWEtZEM2VWJJXzcwaDZvOVRQdDhNLUwzUlBLNnFMTkZVaGVKemZSMVlQSUwyQmg2YUtYaFN4NlJKRUI2Z0hDVUpqZm1DcGlaeVJPSGt2THZRQ2RTMUZlOUFSLWZCRXVlc0FR?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREEzdFF6TGg2LU4wUXBPcy1QM0dxa01oSXNZVXdTMG9yb2Fyc1dZa2I4YWhGX2JTeHE5VVNWZGRoc0lpUExvanJ6V0Y5ckRvZmlpeTRRd2ktVkR1bEZ2Tlg3SVpLNVNIMjVfenNFYkJxaks1ZUQ5eDZvRm5tX0FCMWEtZEM2VWJJXzcwaDZvOVRQdDhNLUwzUlBLNnFMTkZVaGVKemZSMVlQSUwyQmg2YUtYaFN4NlJKRUI2Z0hDVUpqZm1DcGlaeV",
-      "publishedAt": "2026-05-30T18:17:00.000Z",
+      "title": "Présidentielle 2027 : Gabriel Attal organise son premier meeting à Paris - mesinfos",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSS1jZE1HeW5jUWpneDcxY3hfRnVBVVk5M05JWFhSck5kZFlXWlcxbXNqZFBJV2dDd0lsUWotbG5qZEFkUFRNRGg0RHFzMkZYZ2NoVjNPNW9ibkhYc1NEMWhaLVNtb1hZQjh2X1FjcmFTamJhNk52TDFTOW9Wei1rTk5qNlFkQkNScXNIblJCdlpIOGJYTU56ZTlPTkwwN3FHRG9ZZERZSjdMZTRFbU5jZU13TXI?oc=5",
+      "source": "mesinfos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSS1jZE1HeW5jUWpneDcxY3hfRnVBVVk5M05JWFhSck5kZFlXWlcxbXNqZFBJV2dDd0lsUWotbG5qZEFkUFRNRGg0RHFzMkZYZ2NoVjNPNW9ibkhYc1NEMWhaLVNtb1hZQjh2X1FjcmFTamJhNk52TDFTOW9Wei1rTk5qNlFkQkNScXNIblJCdlpIOGJYTU56ZTlPTkwwN3FHRG9ZZERZSjdMZTRFbU5jZU13TXI?oc=5\" target=\"_blank\">Prés",
+      "publishedAt": "2026-05-30T07:06:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -436,11 +436,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Présidentielle 2027 : Gabriel Attal organise son premier meeting à Paris - mesinfos",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSS1jZE1HeW5jUWpneDcxY3hfRnVBVVk5M05JWFhSck5kZFlXWlcxbXNqZFBJV2dDd0lsUWotbG5qZEFkUFRNRGg0RHFzMkZYZ2NoVjNPNW9ibkhYc1NEMWhaLVNtb1hZQjh2X1FjcmFTamJhNk52TDFTOW9Wei1rTk5qNlFkQkNScXNIblJCdlpIOGJYTU56ZTlPTkwwN3FHRG9ZZERZSjdMZTRFbU5jZU13TXI?oc=5",
-      "source": "mesinfos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSS1jZE1HeW5jUWpneDcxY3hfRnVBVVk5M05JWFhSck5kZFlXWlcxbXNqZFBJV2dDd0lsUWotbG5qZEFkUFRNRGg0RHFzMkZYZ2NoVjNPNW9ibkhYc1NEMWhaLVNtb1hZQjh2X1FjcmFTamJhNk52TDFTOW9Wei1rTk5qNlFkQkNScXNIblJCdlpIOGJYTU56ZTlPTkwwN3FHRG9ZZERZSjdMZTRFbU5jZU13TXI?oc=5\" target=\"_blank\">Prés",
-      "publishedAt": "2026-05-30T07:06:00.000Z",
+      "title": "Meeting de Gabriel Attal : Jean-Luc Mélenchon n'a pas apprécié les \"paroles indignes\" visant LFI - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREEzdFF6TGg2LU4wUXBPcy1QM0dxa01oSXNZVXdTMG9yb2Fyc1dZa2I4YWhGX2JTeHE5VVNWZGRoc0lpUExvanJ6V0Y5ckRvZmlpeTRRd2ktVkR1bEZ2Tlg3SVpLNVNIMjVfenNFYkJxaks1ZUQ5eDZvRm5tX0FCMWEtZEM2VWJJXzcwaDZvOVRQdDhNLUwzUlBLNnFMTkZVaGVKemZSMVlQSUwyQmg2YUtYaFN4NlJKRUI2Z0hDVUpqZm1DcGlaeVJPSGt2THZRQ2RTMUZlOUFSLWZCRXVlc0FR?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREEzdFF6TGg2LU4wUXBPcy1QM0dxa01oSXNZVXdTMG9yb2Fyc1dZa2I4YWhGX2JTeHE5VVNWZGRoc0lpUExvanJ6V0Y5ckRvZmlpeTRRd2ktVkR1bEZ2Tlg3SVpLNVNIMjVfenNFYkJxaks1ZUQ5eDZvRm5tX0FCMWEtZEM2VWJJXzcwaDZvOVRQdDhNLUwzUlBLNnFMTkZVaGVKemZSMVlQSUwyQmg2YUtYaFN4NlJKRUI2Z0hDVUpqZm1DcGlaeV",
+      "publishedAt": "2026-05-30T18:17:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -540,6 +540,19 @@
       "coOccurrence": false
     },
     {
+      "title": "Gabriel Attal veut s’imposer face à Philippe et au RN : le premier meeting qui teste sa place dans le bloc central - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1I3UGE5RDExMGxYZVAyS3F5M1lPN2hXd1Z3U19MSDdIOUwwVGdmQW9BRGtyY3VPem9KcHNhOHF5MVFtZ2hkR3JtSFNSQk9hN2txdHRZQ19Id2VxWVZLdmU4ZDM1al9pUnVER1lKcEdOajllUVFIbUtfOGhWUkNUSmJTcDVYcVp3U3lzX0VVZHpzRmRSdHFDZVNNdVhfRVNNRUY4T3UtaXJVVDlqRlVPdkI1XzZwR1FxYlJKOXZfVEw4V2FfeHptZlAxZFBaRjZ2cVVCY3RhcHV3cnktS0tRZF8taGxmZlpSWGRDYU1pbE1jU3M?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1I3UGE5RDExMGxYZVAyS3F5M1lPN2hXd1Z3U19MSDdIOUwwVGdmQW9BRGtyY3VPem9KcHNhOHF5MVFtZ2hkR3JtSFNSQk9hN2txdHRZQ19Id2VxWVZLdmU4ZDM1al9pUnVER1lKcEdOajllUVFIbUtfOGhWUkNUSmJTcDVYcVp3U3lzX0VVZHpzRmRSdHFDZVNNdVhfRVNNRUY4T3UtaXJVVDlqRlVPdkI1XzZwR1FxYlJKOXZfVEw4V2FfeHptZl",
+      "publishedAt": "2026-05-30T17:12:12.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false
+    },
+    {
       "title": "“Droit au brut !” : Gabriel Attal en meeting le jour de la finale PSG-Arsenal, son audacieux clin d’œil - Gala",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQW9jT1pOWkxBUlViQ0FCYXJOQ29tTFNONUFCRWhRWThFQ0FRcE9IUV9aYmRkWmFvRnZYakdqemVHemVvOHY1S0NsdUNXeE5VckoxN1BKZE5pU1lnQlJ6SVVCSWtvMlZsMmllZzI4TlVIdXh3RHpuT1NlbjB2Y01tS3IwOUVpZHFvQWg5Tk5Edi1XX0FkYUpvZjkyZ2ZEc0FCcWpVcEtaWVBLUm93X0x4dUNteXNINUYtMkptM1VybWl1Uk1ObWdkaTNMWW01NHE2MUNTVVlLSlY5UlRIZ2VCcQ?oc=5",
       "source": "Gala",
@@ -558,19 +571,6 @@
       "source": "Orange Actualités",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSl9xSks1RWU0eW5uYWZfbmZFa1RrdXRhcXVRdnc1NEpOZFNDeDJBQkhxUDlzM2Q3a0c0bXdJbHJDWm13YjZkYVFRRWJmUUIzSHNHb0RTOTM3Si1tZXFpV0FRemp6MlZwM3VyX25LV1JRQmtLekV0emM5a0ZuYVdoMy1NNDdTRUlwVHBPc19ya0VpbkJUTWpmeTZQelJRcnhYNXJkZHhRMFVXLUNPZUpsdDFNLUJZSnVFcEdpMDNTc25NWnhxdjEzcH",
       "publishedAt": "2026-05-30T14:02:58.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false
-    },
-    {
-      "title": "Gabriel Attal veut s’imposer face à Philippe et au RN : le premier meeting qui teste sa place dans le bloc central - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1I3UGE5RDExMGxYZVAyS3F5M1lPN2hXd1Z3U19MSDdIOUwwVGdmQW9BRGtyY3VPem9KcHNhOHF5MVFtZ2hkR3JtSFNSQk9hN2txdHRZQ19Id2VxWVZLdmU4ZDM1al9pUnVER1lKcEdOajllUVFIbUtfOGhWUkNUSmJTcDVYcVp3U3lzX0VVZHpzRmRSdHFDZVNNdVhfRVNNRUY4T3UtaXJVVDlqRlVPdkI1XzZwR1FxYlJKOXZfVEw4V2FfeHptZlAxZFBaRjZ2cVVCY3RhcHV3cnktS0tRZF8taGxmZlpSWGRDYU1pbE1jU3M?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX1I3UGE5RDExMGxYZVAyS3F5M1lPN2hXd1Z3U19MSDdIOUwwVGdmQW9BRGtyY3VPem9KcHNhOHF5MVFtZ2hkR3JtSFNSQk9hN2txdHRZQ19Id2VxWVZLdmU4ZDM1al9pUnVER1lKcEdOajllUVFIbUtfOGhWUkNUSmJTcDVYcVp3U3lzX0VVZHpzRmRSdHFDZVNNdVhfRVNNRUY4T3UtaXJVVDlqRlVPdkI1XzZwR1FxYlJKOXZfVEw4V2FfeHptZl",
-      "publishedAt": "2026-05-30T17:12:12.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -618,24 +618,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Gabriel Attal en meeting: \"L'exercice du pouvoir m'a éclairé” - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2JGTmFZQXJ4QWxRVXFaTDN5VXdJanZVMnI5d3NMUXlLYkw2dXdybjFDcHlBMUV3Nzh2QVY3ckRuREp6VXcyM09JQ0ZlU2hwb1BWSXJ3VWgzZ3lMajNLenB5SF9iVEpieXB5QXlyb1lhSGQyTXE3OVFsMmJnSlhNOWdxWi15MFZ1RkxfZnNYNDJIMndsV0RnNnY2YWQ2TTQ0VWlvZUEyYzlXTGFfel9vX2U2RmNlUQ?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2JGTmFZQXJ4QWxRVXFaTDN5VXdJanZVMnI5d3NMUXlLYkw2dXdybjFDcHlBMUV3Nzh2QVY3ckRuREp6VXcyM09JQ0ZlU2hwb1BWSXJ3VWgzZ3lMajNLenB5SF9iVEpieXB5QXlyb1lhSGQyTXE3OVFsMmJnSlhNOWdxWi15MFZ1RkxfZnNYNDJIMndsV0RnNnY2YWQ2TTQ0VWlvZUEyYzlXTGFfel9vX2U2RmNlUQ?oc=5\" target=\"_blank\">G",
-      "publishedAt": "2026-05-30T12:58:58.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false
-    },
-    {
-      "title": "Gabriel Attal en meeting: faire de la France \"la patrie de l'IA\" - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW1pOHprdEdGZ3RNRGh6cHdiMDZTSE11VHpNVHFhdV9xU2VDMmx3TndlS196NDFoVkFWNGU0RmRveE5LbWN2QnVHZUx0U1h0TUN2aWg5LWlPLVZMZ3h2WUE4b2VZNFFUTU9IVUdMRm5hN0hGWnJpS1Z1ajNKMFNqNUZNc1J0ZXRJcGtabzFOS3c0dlNodEk1cTFUN3daQzBFanFjdmsyaDd4STh2VzhMZlZnVXB5STMwbWc?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW1pOHprdEdGZ3RNRGh6cHdiMDZTSE11VHpNVHFhdV9xU2VDMmx3TndlS196NDFoVkFWNGU0RmRveE5LbWN2QnVHZUx0U1h0TUN2aWg5LWlPLVZMZ3h2WUE4b2VZNFFUTU9IVUdMRm5hN0hGWnJpS1Z1ajNKMFNqNUZNc1J0ZXRJcGtabzFOS3c0dlNodEk1cTFUN3daQzBFanFjdmsyaDd4STh2VzhMZlZnVXB5STMwbWc?oc=5\" target=\"_bla",
-      "publishedAt": "2026-05-30T13:45:40.000Z",
+      "title": "Drapeaux français et européens, slogan « la force d’agir » : à quoi ressemble l’affiche de campagne de Gabriel Attal - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTEpUWWpBZ1loWmotNW1LSFVzNXRsdW5lWlhxa2F2ZVEwQXFXMXBFNVhZX2xkX1hxN1l0NkIyNGhHaGRubm5VLXhZYnRsdFYwWWxrREYyQUgyNzRJbEtWa20wUkdfQTl6cU5ENzJuVENWYXFpSmVWeE9GeG85TnFSN1ZTRDR5NXNYZmRtUkdpeUdCakF3QjFxRVJDYzV6RTAzQk13cUZzQ2RRSS1Fd1RoU3ItYjNPMFRlcUR2a1A0MHRuRHRTdktuNG9fSW9UUjIwVHZtV1ItMlFQYWFaQm9USnNYREt1dWtDWURWY1JCV0pnQ19xVFRZQmdFUVRfY3BqSDUybkw0SHJwbnlTWGJoeXA0aw?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPTEpUWWpBZ1loWmotNW1LSFVzNXRsdW5lWlhxa2F2ZVEwQXFXMXBFNVhZX2xkX1hxN1l0NkIyNGhHaGRubm5VLXhZYnRsdFYwWWxrREYyQUgyNzRJbEtWa20wUkdfQTl6cU5ENzJuVENWYXFpSmVWeE9GeG85TnFSN1ZTRDR5NXNYZmRtUkdpeUdCakF3QjFxRVJDYzV6RTAzQk13cUZzQ2RRSS1Fd1RoU3ItYjNPMFRlcUR2a1A0MHRuRHRTdktuNG",
+      "publishedAt": "2026-05-30T12:01:28.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -657,6 +644,19 @@
       "coOccurrence": false
     },
     {
+      "title": "Présidentielle : en meeting, Attal se dit candidat « pour l’espoir, pour l’avenir, pour l’optimisme - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVlWWG9IQ1hlQTdkakE5VU1IQnpNZVdMRXd3OXNhaDZVa1RGaWlBS3dJQXNBNWp4MjYwN1hjSzlFaDhpeU5jSHZOSUExd1l4bnF6N1luV0VpcGN6enNDTlpmSG5vUGJiOFN2dldJV1pacjI4dWg1a0RyUGNVVDJWSk1fNnhNYUp2WGxnQ192REh5Ump2T2tRNUVsZjlOTGNnb3owbmNYckNMLVRVaG9sMWtLd05WWlB5d2xnRFIyUkl0b0trWGFsQWZqZHJWNzFRbEE?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVlWWG9IQ1hlQTdkakE5VU1IQnpNZVdMRXd3OXNhaDZVa1RGaWlBS3dJQXNBNWp4MjYwN1hjSzlFaDhpeU5jSHZOSUExd1l4bnF6N1luV0VpcGN6enNDTlpmSG5vUGJiOFN2dldJV1pacjI4dWg1a0RyUGNVVDJWSk1fNnhNYUp2WGxnQ192REh5Ump2T2tRNUVsZjlOTGNnb3owbmNYckNMLVRVaG9sMWtLd05WWlB5d2xnRFIyUkl0b0trWGFsQW",
+      "publishedAt": "2026-05-30T13:52:06.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false
+    },
+    {
       "title": "Gabriel Attal en meeting: “les économies sur le dos de nos enfants, c'est fini” - Orange Actualités",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRlF4U1NvX2IyR0lySzZNeHR3LWhIS2hxYW1kQ0h3OEFKSDVQS0xuNVVwZFdNZTV0LThOeUtTN1Myc1JzUFA5V2h0MjBnbGtIRnRySkVxNmtWVGpBTjZ2YmZpalZMQlBQZlQyWldycUZydnRxeWxiQlJGRGxFUG8xS0NrV29RN2RhZVdWMFFWbDJ6TW1Lc0dndTBqTzVuMGhISnlmRUY4RGxfRkM4bGFQbUl4R2xWUlNjTDRKMmdJcXZMQ1pvYjN2QW4zcGI?oc=5",
       "source": "Orange Actualités",
@@ -670,11 +670,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Présidentielle : en meeting, Attal se dit candidat « pour l’espoir, pour l’avenir, pour l’optimisme - Le Télégramme",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVlWWG9IQ1hlQTdkakE5VU1IQnpNZVdMRXd3OXNhaDZVa1RGaWlBS3dJQXNBNWp4MjYwN1hjSzlFaDhpeU5jSHZOSUExd1l4bnF6N1luV0VpcGN6enNDTlpmSG5vUGJiOFN2dldJV1pacjI4dWg1a0RyUGNVVDJWSk1fNnhNYUp2WGxnQ192REh5Ump2T2tRNUVsZjlOTGNnb3owbmNYckNMLVRVaG9sMWtLd05WWlB5d2xnRFIyUkl0b0trWGFsQWZqZHJWNzFRbEE?oc=5",
-      "source": "Le Télégramme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVlWWG9IQ1hlQTdkakE5VU1IQnpNZVdMRXd3OXNhaDZVa1RGaWlBS3dJQXNBNWp4MjYwN1hjSzlFaDhpeU5jSHZOSUExd1l4bnF6N1luV0VpcGN6enNDTlpmSG5vUGJiOFN2dldJV1pacjI4dWg1a0RyUGNVVDJWSk1fNnhNYUp2WGxnQ192REh5Ump2T2tRNUVsZjlOTGNnb3owbmNYckNMLVRVaG9sMWtLd05WWlB5d2xnRFIyUkl0b0trWGFsQW",
-      "publishedAt": "2026-05-30T13:52:06.000Z",
+      "title": "Gabriel Attal, Édouard Philippe, Bruno Retailleau... À moins d’un an de la présidentielle, quelle est la stratégie du socle commun ? - BFM",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNFBLLUduclZVN205SXlFZDN1MkNQT1R5STNwOTBVc2lCYURXaUZONXRaVDE3TUtRTk5wa1N4Y0x6eEZ6MVktSU1UZkQwV01rc0tFNjJsVGdWSG85UXFWcmh1RFd5NkRXZ1pMNF9CelJvWFByeU9QWmdjZTdnQWprYkxYVXRuUlVmTnVTeFBzTFZoLUhYd0Y3a2VJYWxHU0JiX3k4M0ZiTVU3RzgzdDUyZmcxNy1aVmZqRW41VkRDaWN5Z0RuMFo3UVlrb0JMVDFKUzlnMWE1MkxEbWpCRnMwNE5DY0RzQnJjd1Z5ZzR5TmQxOEdiZDI5Z1g1dVlkcHlXbkFVZmpEZzIyWklYMWh4Q0xNVjF2MTF6SVdBcmRWbW9DWEdEdE5oeEVQWUZQdVF5OWc?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxPNFBLLUduclZVN205SXlFZDN1MkNQT1R5STNwOTBVc2lCYURXaUZONXRaVDE3TUtRTk5wa1N4Y0x6eEZ6MVktSU1UZkQwV01rc0tFNjJsVGdWSG85UXFWcmh1RFd5NkRXZ1pMNF9CelJvWFByeU9QWmdjZTdnQWprYkxYVXRuUlVmTnVTeFBzTFZoLUhYd0Y3a2VJYWxHU0JiX3k4M0ZiTVU3RzgzdDUyZmcxNy1aVmZqRW41VkRDaWN5Z0RuMFo3UV",
+      "publishedAt": "2026-05-30T04:29:35.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -709,11 +709,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Gabriel Attal, Édouard Philippe, Bruno Retailleau... À moins d’un an de la présidentielle, quelle est la stratégie du socle commun ? - BFM",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNFBLLUduclZVN205SXlFZDN1MkNQT1R5STNwOTBVc2lCYURXaUZONXRaVDE3TUtRTk5wa1N4Y0x6eEZ6MVktSU1UZkQwV01rc0tFNjJsVGdWSG85UXFWcmh1RFd5NkRXZ1pMNF9CelJvWFByeU9QWmdjZTdnQWprYkxYVXRuUlVmTnVTeFBzTFZoLUhYd0Y3a2VJYWxHU0JiX3k4M0ZiTVU3RzgzdDUyZmcxNy1aVmZqRW41VkRDaWN5Z0RuMFo3UVlrb0JMVDFKUzlnMWE1MkxEbWpCRnMwNE5DY0RzQnJjd1Z5ZzR5TmQxOEdiZDI5Z1g1dVlkcHlXbkFVZmpEZzIyWklYMWh4Q0xNVjF2MTF6SVdBcmRWbW9DWEdEdE5oeEVQWUZQdVF5OWc?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxPNFBLLUduclZVN205SXlFZDN1MkNQT1R5STNwOTBVc2lCYURXaUZONXRaVDE3TUtRTk5wa1N4Y0x6eEZ6MVktSU1UZkQwV01rc0tFNjJsVGdWSG85UXFWcmh1RFd5NkRXZ1pMNF9CelJvWFByeU9QWmdjZTdnQWprYkxYVXRuUlVmTnVTeFBzTFZoLUhYd0Y3a2VJYWxHU0JiX3k4M0ZiTVU3RzgzdDUyZmcxNy1aVmZqRW41VkRDaWN5Z0RuMFo3UV",
-      "publishedAt": "2026-05-30T04:29:35.000Z",
+      "title": "Gabriel Attal en meeting: “Notre combat, ce sera de faire monter les salaires” - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHJUUjJza2pnWkt1LXBSaWpFb2w2UDJIZ2RiTmxuWWpQSGNjd21tdkxmOVhKN3JzLUZjTVRMOFB6MkZRbmw0NGtDc29RNHZzZmxRb092dEZmM3JqNXI2azgyXzByWXlSbFo0dU9pemlKUVN2V3QwNE1rOUlNcGVOMnJERWM5SGh4eTNvWGdOMi1Kekt1NXJZbDJ2dEY2bmw0OGYyTVAtb0JDSGFvTHdnNDlKU2otQTk0WE1tNnJKOXNCcl96R3I2YmM2TQ?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHJUUjJza2pnWkt1LXBSaWpFb2w2UDJIZ2RiTmxuWWpQSGNjd21tdkxmOVhKN3JzLUZjTVRMOFB6MkZRbmw0NGtDc29RNHZzZmxRb092dEZmM3JqNXI2azgyXzByWXlSbFo0dU9pemlKUVN2V3QwNE1rOUlNcGVOMnJERWM5SGh4eTNvWGdOMi1Kekt1NXJZbDJ2dEY2bmw0OGYyTVAtb0JDSGFvTHdnNDlKU2otQTk0WE1tNnJKOXNCcl96R3I2Ym",
+      "publishedAt": "2026-05-30T13:36:52.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -761,6 +761,19 @@
       "coOccurrence": false
     },
     {
+      "title": "GPA : Gabriel Attal pris au piège d’un débat qui bouscule le clivage droite-gauche - Le Point",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFBOVGlzd01GbUwzYkFrZUhXNFBDUmFjd2NkRDQ3QVFrSjhWQ2VSYnlpMGJ1eHhJWEI1cTgwWGo5OGlhR1ZtWHVhN05ZZFdXZzNrZGZfX2FnUmtVbzhGUDh1RUJyRXVyeUtRWEM3RGVxNGUyTjR3WVB3cTltTm16ZkRwWWY3bVJCUHdWZGptZ1ZkckczMjIzNEFiM0VCVFlmY3JrREVSSDJWcXBBUTZ2YlFOQk9vMk1pN1QwV216dHhTMnFJMHk4RWtQLXJWWlQ4UFRzUVNVbw?oc=5",
+      "source": "Le Point",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcFBOVGlzd01GbUwzYkFrZUhXNFBDUmFjd2NkRDQ3QVFrSjhWQ2VSYnlpMGJ1eHhJWEI1cTgwWGo5OGlhR1ZtWHVhN05ZZFdXZzNrZGZfX2FnUmtVbzhGUDh1RUJyRXVyeUtRWEM3RGVxNGUyTjR3WVB3cTltTm16ZkRwWWY3bVJCUHdWZGptZ1ZkckczMjIzNEFiM0VCVFlmY3JrREVSSDJWcXBBUTZ2YlFOQk9vMk1pN1QwV216dHhTMnFJMHk4RW",
+      "publishedAt": "2026-05-30T06:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false
+    },
+    {
       "title": "Gabriel Attal : un premier meeting à valeur de test pour le candidat à la présidentielle de 2027 - Orange Actualités",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQmhPNWNETng3Z19DTFZ0NkhpS1Zfc3hRamZqZmhzdmZGWVlCU0xTRUdZcXh6dFR3WGRfTWhrc01rMjE4X2ZkX1lFV1M2VmhSUmwtajNOT3ZKTEFWYlhXaGRtZ0ROOUlGdWw3WkRzNXhfSUNBM0otRlZGZzdzbF9GU3NzeFNFT2ZHS1FpME5xZzVyYlQ4VEpFT3NBMVVGX3Q2QlVrSzQzZGlYVmhHb1BrQkU4cnhrelNfTUdyY1hlMUlPc0U0Z0ZpU2xoTG56OS16amp4aVBBMGxDejFnamNHam5TaS1SZw?oc=5",
       "source": "Orange Actualités",
@@ -779,19 +792,6 @@
       "source": "Challenges",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVjNjSVFGX3hkNGlDbnZ1dG91N2p6Q1ZySVlhSTlZSUhGcHphYnZyVUdSUHZZd0MydG42WlpBa1d6cUQ1ZEhGVE0tLVVJbmUyNFZINkptT3VCbGRzcW5RMFFPaGNoNVVHUVgzY0h2Vi1CTWRLQmpSWkpCcUlpWDNOTHN3YjNtbFJwZ3o1aVBsUWNhUndIVWFkb2dJOVBaU3dYWmpCMDVPUXplOU9NejhHU09ITS1nNGZ0M2RWZTRtTGllSnFFUzhNRU",
       "publishedAt": "2026-05-30T14:14:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false
-    },
-    {
-      "title": "Drapeaux français et européens, slogan « la force d’agir » : à quoi ressemble l’affiche de campagne de Gabriel Attal - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTEpUWWpBZ1loWmotNW1LSFVzNXRsdW5lWlhxa2F2ZVEwQXFXMXBFNVhZX2xkX1hxN1l0NkIyNGhHaGRubm5VLXhZYnRsdFYwWWxrREYyQUgyNzRJbEtWa20wUkdfQTl6cU5ENzJuVENWYXFpSmVWeE9GeG85TnFSN1ZTRDR5NXNYZmRtUkdpeUdCakF3QjFxRVJDYzV6RTAzQk13cUZzQ2RRSS1Fd1RoU3ItYjNPMFRlcUR2a1A0MHRuRHRTdktuNG9fSW9UUjIwVHZtV1ItMlFQYWFaQm9USnNYREt1dWtDWURWY1JCV0pnQ19xVFRZQmdFUVRfY3BqSDUybkw0SHJwbnlTWGJoeXA0aw?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPTEpUWWpBZ1loWmotNW1LSFVzNXRsdW5lWlhxa2F2ZVEwQXFXMXBFNVhZX2xkX1hxN1l0NkIyNGhHaGRubm5VLXhZYnRsdFYwWWxrREYyQUgyNzRJbEtWa20wUkdfQTl6cU5ENzJuVENWYXFpSmVWeE9GeG85TnFSN1ZTRDR5NXNYZmRtUkdpeUdCakF3QjFxRVJDYzV6RTAzQk13cUZzQ2RRSS1Fd1RoU3ItYjNPMFRlcUR2a1A0MHRuRHRTdktuNG",
-      "publishedAt": "2026-05-30T12:01:28.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -826,11 +826,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Meeting de Gabriel Attal, candidat en 2027 : \"il doit créer une dynamique\", estime Yves Thréard - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVmsyaGl6ZnJzZ1hIMUt4YzN6U09sTjZ6R04yMVlSUUpKTEhBOVRYVjdneGMzaTZpYzNlZ0EzQU1WbmhOVFNLT0RGUlk5RGN0WUpCUG9STzBZWmI3MUdtLTlFNkZqLWtzRkVjdDZOS1IwZi1fSEtIZEo5Q1l1SlE5VWgzRlMyOHRsWUREd1UyTlpid2lqVkVlZUs0Vk1FQVF2aHRHRkc5U2hsRkNQemd4V3BRR3lzTWhldHFfZ0oyVnc5UTlKdExQZjIyME40QXZ0MElhQ1VDMHVGdkFBNUNz?oc=5",
+      "title": "Éducation, retraites, immigration, IA: Gabriel Attal dessine son programme pour la présidentielle - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXA1NFV4bjUtVFNkS29jTTlKNE01VTZia1hXV3daeHJESkg4UzlpNEU5dHF4ejg1U28wSUk2b0ZhU0JaTzN1MklkMnNMdk9ncGdlRXR5UzM2dXlxLTRqdGlicmlpdEV2aUVjVHBQSEdIbTB2ZVRZd0lHTS1ieWNQNlFyT1dCUnEza2dkVzFPdTBKbnR5Z1hkc0xNV1l2N2hwV2hralBDdEZJN00wSVlMamdrNG5wWFFCZ3dvcmkwS1B3ZkZDT1JNVi1KMXBaVi1OejM2TFgtcXJkMTJMeEZpRXkyQzU?oc=5",
       "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVmsyaGl6ZnJzZ1hIMUt4YzN6U09sTjZ6R04yMVlSUUpKTEhBOVRYVjdneGMzaTZpYzNlZ0EzQU1WbmhOVFNLT0RGUlk5RGN0WUpCUG9STzBZWmI3MUdtLTlFNkZqLWtzRkVjdDZOS1IwZi1fSEtIZEo5Q1l1SlE5VWgzRlMyOHRsWUREd1UyTlpid2lqVkVlZUs0Vk1FQVF2aHRHRkc5U2hsRkNQemd4V3BRR3lzTWhldHFfZ0oyVnc5UTlKdExQZj",
-      "publishedAt": "2026-05-30T12:15:43.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXA1NFV4bjUtVFNkS29jTTlKNE01VTZia1hXV3daeHJESkg4UzlpNEU5dHF4ejg1U28wSUk2b0ZhU0JaTzN1MklkMnNMdk9ncGdlRXR5UzM2dXlxLTRqdGlicmlpdEV2aUVjVHBQSEdIbTB2ZVRZd0lHTS1ieWNQNlFyT1dCUnEza2dkVzFPdTBKbnR5Z1hkc0xNV1l2N2hwV2hralBDdEZJN00wSVlMamdrNG5wWFFCZ3dvcmkwS1B3ZkZDT1JNVi",
+      "publishedAt": "2026-05-30T15:12:33.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -839,11 +839,11 @@
       "coOccurrence": false
     },
     {
-      "title": "Éducation, retraites, immigration, IA: Gabriel Attal dessine son programme pour la présidentielle - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXA1NFV4bjUtVFNkS29jTTlKNE01VTZia1hXV3daeHJESkg4UzlpNEU5dHF4ejg1U28wSUk2b0ZhU0JaTzN1MklkMnNMdk9ncGdlRXR5UzM2dXlxLTRqdGlicmlpdEV2aUVjVHBQSEdIbTB2ZVRZd0lHTS1ieWNQNlFyT1dCUnEza2dkVzFPdTBKbnR5Z1hkc0xNV1l2N2hwV2hralBDdEZJN00wSVlMamdrNG5wWFFCZ3dvcmkwS1B3ZkZDT1JNVi1KMXBaVi1OejM2TFgtcXJkMTJMeEZpRXkyQzU?oc=5",
+      "title": "Meeting de Gabriel Attal, candidat en 2027 : \"il doit créer une dynamique\", estime Yves Thréard - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVmsyaGl6ZnJzZ1hIMUt4YzN6U09sTjZ6R04yMVlSUUpKTEhBOVRYVjdneGMzaTZpYzNlZ0EzQU1WbmhOVFNLT0RGUlk5RGN0WUpCUG9STzBZWmI3MUdtLTlFNkZqLWtzRkVjdDZOS1IwZi1fSEtIZEo5Q1l1SlE5VWgzRlMyOHRsWUREd1UyTlpid2lqVkVlZUs0Vk1FQVF2aHRHRkc5U2hsRkNQemd4V3BRR3lzTWhldHFfZ0oyVnc5UTlKdExQZjIyME40QXZ0MElhQ1VDMHVGdkFBNUNz?oc=5",
       "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXA1NFV4bjUtVFNkS29jTTlKNE01VTZia1hXV3daeHJESkg4UzlpNEU5dHF4ejg1U28wSUk2b0ZhU0JaTzN1MklkMnNMdk9ncGdlRXR5UzM2dXlxLTRqdGlicmlpdEV2aUVjVHBQSEdIbTB2ZVRZd0lHTS1ieWNQNlFyT1dCUnEza2dkVzFPdTBKbnR5Z1hkc0xNV1l2N2hwV2hralBDdEZJN00wSVlMamdrNG5wWFFCZ3dvcmkwS1B3ZkZDT1JNVi",
-      "publishedAt": "2026-05-30T15:12:33.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVmsyaGl6ZnJzZ1hIMUt4YzN6U09sTjZ6R04yMVlSUUpKTEhBOVRYVjdneGMzaTZpYzNlZ0EzQU1WbmhOVFNLT0RGUlk5RGN0WUpCUG9STzBZWmI3MUdtLTlFNkZqLWtzRkVjdDZOS1IwZi1fSEtIZEo5Q1l1SlE5VWgzRlMyOHRsWUREd1UyTlpid2lqVkVlZUs0Vk1FQVF2aHRHRkc5U2hsRkNQemd4V3BRR3lzTWhldHFfZ0oyVnc5UTlKdExQZj",
+      "publishedAt": "2026-05-30T12:15:43.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -870,19 +870,6 @@
       "source": "Orange Actualités",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbTRpMGg4WjMyTkU3Q01PY3lSV3UwT3NKR1hvemFlVzVzNHB3OF9iNXRaX2JiX013cEEweC14azRvSXpQSE1rOWl1Ni1xM1VObjlwdmV1ZGIwN09XY2ZRMTczQ1p4aUh4ZHF2N05fUzBQdWVvSFNaUnV6dURFS2JSZk5Jb01ZclpIRnFYeVFKa0RlLU1QdUhtWm0yejRvRGYwNzh5UFlWR3FxTGxXRGhSN1RtSmRUS0dLSTB5anROSmt4U1RnQVJMbE",
       "publishedAt": "2026-05-30T14:01:21.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false
-    },
-    {
-      "title": "Meeting de Gabriel Attal: \"Tous les autres candidats proposent 50 nuances de déclin\", estime Prisca Thevenot, députée Renaissance des Hauts-de-Seine - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa0I5U0lmSlYwR1h5cVpoMnNkREJFb3I5WldnaXpWeFN5a3JNTUQzNTlBSlJHYW4yWnRNcGRvS1ZEZGNIUk5kS25MaVZZQ2d4YjlGQ3BCdkRlS2YwbzJKZ1VOVlloSmpEc0p5ckJxV1J1S0kzTnR1VlBFdDNndDBsSTNxaG9fTE51RDZHSVhRZ29KWmVwbGx2YlhqVzJaVlN6LVJ2ZGNmMGRFTUF0dkRKS2JhbFRDTnBIcWZhTURXTUdtbFJ4Tldyek1mVkFLYkRjcThCa3lMZEZtT3JFdWJiRWZOcTA0YkJiNU1BWTJVMWtzakxWRm1wMzl3Y1VjSnIyeHJGdHZhbmJEMWF4alZ6d2FvY1E4a3otRVRKR05UTlVjdF9BV3VyM2tfUQ?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa0I5U0lmSlYwR1h5cVpoMnNkREJFb3I5WldnaXpWeFN5a3JNTUQzNTlBSlJHYW4yWnRNcGRvS1ZEZGNIUk5kS25MaVZZQ2d4YjlGQ3BCdkRlS2YwbzJKZ1VOVlloSmpEc0p5ckJxV1J1S0kzTnR1VlBFdDNndDBsSTNxaG9fTE51RDZHSVhRZ29KWmVwbGx2YlhqVzJaVlN6LVJ2ZGNmMGRFTUF0dkRKS2JhbFRDTnBIcWZhTURXTUdtbFJ4Tldyek",
-      "publishedAt": "2026-05-30T12:45:46.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -923,6 +910,19 @@
       "source": "CNews",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE56LTJPb1JTUEdUOWxIejM5bFBVb2VEOEtpZldGM0F2Sm9HYUJIRDlkemRESWMzQml0dF9PRU1lODBIVTJ0cGRRSHhKYmJSRTdaWWE3OUQzTDBEVFRONWVHLUhPQVQtOTBSVmwydtIBckFVX3lxTE9xZTFOSGpoSDhNbEpvQTBGZ3h1MDdwRW0xR0ZxVmgwYzFaSmhmMTR5cTlZaHNKR3hRZ1plUXJiX0lQM3pPcVBiSVMyYzFnU2psSnBLNXRic2xjVk",
       "publishedAt": "2026-05-30T14:19:12.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false
+    },
+    {
+      "title": "Meeting de Gabriel Attal: \"Tous les autres candidats proposent 50 nuances de déclin\", estime Prisca Thevenot, députée Renaissance des Hauts-de-Seine - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa0I5U0lmSlYwR1h5cVpoMnNkREJFb3I5WldnaXpWeFN5a3JNTUQzNTlBSlJHYW4yWnRNcGRvS1ZEZGNIUk5kS25MaVZZQ2d4YjlGQ3BCdkRlS2YwbzJKZ1VOVlloSmpEc0p5ckJxV1J1S0kzTnR1VlBFdDNndDBsSTNxaG9fTE51RDZHSVhRZ29KWmVwbGx2YlhqVzJaVlN6LVJ2ZGNmMGRFTUF0dkRKS2JhbFRDTnBIcWZhTURXTUdtbFJ4Tldyek1mVkFLYkRjcThCa3lMZEZtT3JFdWJiRWZOcTA0YkJiNU1BWTJVMWtzakxWRm1wMzl3Y1VjSnIyeHJGdHZhbmJEMWF4alZ6d2FvY1E4a3otRVRKR05UTlVjdF9BV3VyM2tfUQ?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxPa0I5U0lmSlYwR1h5cVpoMnNkREJFb3I5WldnaXpWeFN5a3JNTUQzNTlBSlJHYW4yWnRNcGRvS1ZEZGNIUk5kS25MaVZZQ2d4YjlGQ3BCdkRlS2YwbzJKZ1VOVlloSmpEc0p5ckJxV1J1S0kzTnR1VlBFdDNndDBsSTNxaG9fTE51RDZHSVhRZ29KWmVwbGx2YlhqVzJaVlN6LVJ2ZGNmMGRFTUF0dkRKS2JhbFRDTnBIcWZhTURXTUdtbFJ4Tldyek",
+      "publishedAt": "2026-05-30T12:45:46.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -984,10 +984,10 @@
     },
     {
       "title": "France Politics - Bluefield Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkM0Vnh3NDhtQy1pSndmZ25Ba2tnd2kwXzBhLVNWQVp4SFFoQ1FLcWV3QTRzYTZONWZreXY4QXJYWkxDd3NWWE0wZDRiLTlrbmtyeDFDdTJNZkxaU3NQSXdhaVRzYXd3R3FJMFB6NTBBUzZzRWtrX1U4emExWUdNbU1jdVQ1aEdCbkx1RmI5b2pBOVZ0TzY3X1ZWQTJpWkU3MjBUOW1OMVpHanM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3BXbUoyUUd1NXl4ZVppWnlmN1lJN1JxQ1lOS2oyTDdmU0N3MjU5SGJsRkZldGM2S1JJRmhITV9VRXJtU2xicFlWMXczaldNeE1rRVFwTWhOeVNIZG9KWE83c2RZU2p3cGlIcFV5NGZGNk5jeTFzS2pKclVoRVRVbmNzakxBQVptWEVUY3JaLU5QSFVzNWpEWGVsVUVRSXJpZVBieHpVWTNnMG8?oc=5",
       "source": "Bluefield Daily Telegraph",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkM0Vnh3NDhtQy1pSndmZ25Ba2tnd2kwXzBhLVNWQVp4SFFoQ1FLcWV3QTRzYTZONWZreXY4QXJYWkxDd3NWWE0wZDRiLTlrbmtyeDFDdTJNZkxaU3NQSXdhaVRzYXd3R3FJMFB6NTBBUzZzRWtrX1U4emExWUdNbU1jdVQ1aEdCbkx1RmI5b2pBOVZ0TzY3X1ZWQTJpWkU3MjBUOW1OMVpHanM?oc=5\" target=\"_blank\">France Politics<",
-      "publishedAt": "2026-05-30T20:14:40.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3BXbUoyUUd1NXl4ZVppWnlmN1lJN1JxQ1lOS2oyTDdmU0N3MjU5SGJsRkZldGM2S1JJRmhITV9VRXJtU2xicFlWMXczaldNeE1rRVFwTWhOeVNIZG9KWE83c2RZU2p3cGlIcFV5NGZGNk5jeTFzS2pKclVoRVRVbmNzakxBQVptWEVUY3JaLU5QSFVzNWpEWGVsVUVRSXJpZVBieHpVWTNnMG8?oc=5\" target=\"_blank\">France Politics<",
+      "publishedAt": "2026-05-30T20:17:15.000Z",
       "lang": "en",
       "type": "media",
       "persons": [
@@ -1013,7 +1013,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2JPaVJ6U19zZXVNNWxPTlQ4bkdIa3dPNlVvNldYQWFPUFJWdk90VzNUTENhdW9qeFBGZmVrN0RURy1IWmFSWk90OU5Yckh3NFlpSWxfZ0llS21UU1hMeWs0eXRLcjVHUXlwZ2lyZmgzVDlKaW1kbkhWTzRvcDNGbFV2X1EtSFh3SmFhT1FfWWJmbzVnU2pjN3NBZEZOMm41OGpMMWg0NkY4eU9MSFRTWEtEVWJFMmxCLTBNZk1HVU5ZRk83M05MYkstaDR2b3JjTFVj?oc=5",
       "source": "FrontPopulaire.fr",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2JPaVJ6U19zZXVNNWxPTlQ4bkdIa3dPNlVvNldYQWFPUFJWdk90VzNUTENhdW9qeFBGZmVrN0RURy1IWmFSWk90OU5Yckh3NFlpSWxfZ0llS21UU1hMeWs0eXRLcjVHUXlwZ2lyZmgzVDlKaW1kbkhWTzRvcDNGbFV2X1EtSFh3SmFhT1FfWWJmbzVnU2pjN3NBZEZOMm41OGpMMWg0NkY4eU9MSFRTWEtEVWJFMmxCLTBNZk1HVU5ZRk83M05MYk",
-      "publishedAt": "2026-05-30T14:00:00.000Z",
+      "publishedAt": "2026-05-30T20:18:27.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -1062,11 +1062,11 @@
       "official": "Assemblée nationale — agenda (proxy via Google News)"
     },
     {
-      "title": "Gabriel Attal expose sa « promesse française » pour son premier meeting de campagne - 20 Minutes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE0tN2Y1cF83QnJvWVBxb2t1djBaeDBERGxxT1pHMUVaR1hBb0licXZmekwxeUo4WmlMZ3ZwNy1vcDFaX0c5cUx1SE9Fbm1LaWZHX0JRWGNwLWtVSy0xdWZKTmM5YUs5ZE01WVlNX05yMTBwYWlVLXd5eGNlVjEtYkk0YlVtWm50ak1fU181MThuQ2FlQjB5MUJuTGZTWUU3VFhVTV9BY2JqSlA5NUpHSTYyNEpHck5uZ1RMdGVuUVJVbTVXOTJnM2tPYWhGTklDMHc?oc=5",
-      "source": "20 Minutes",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE0tN2Y1cF83QnJvWVBxb2t1djBaeDBERGxxT1pHMUVaR1hBb0licXZmekwxeUo4WmlMZ3ZwNy1vcDFaX0c5cUx1SE9Fbm1LaWZHX0JRWGNwLWtVSy0xdWZKTmM5YUs5ZE01WVlNX05yMTBwYWlVLXd5eGNlVjEtYkk0YlVtWm50ak1fU181MThuQ2FlQjB5MUJuTGZTWUU3VFhVTV9BY2JqSlA5NUpHSTYyNEpHck5uZ1RMdGVuUVJVbTVXOTJnM2",
-      "publishedAt": "2026-05-30T18:37:00.000Z",
+      "title": "Présidentielle 2027 : « Je promets l’action et l’espoir », assure Gabriel Attal en meeting - La Croix",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOME50VFZZVndNQWdGQ2RoM0x4ckt0bGZSaUlhLVV5M1Foa0xPTFJFbmVLWW1hM2tJQWswTk1scHpBSTJZM2ZZWjJtWEdpS0F1LUFGTmhWZG9WWHZORXMxeTZKa1k4VXhaMlpJZmNaSElqUlRjTDhUX2ZKbzBKSGdNVG5vV1pXTDlWdng2ZVFaQlRfSDhRb1J1QTFIdGVGcGhtOEc0TkR2bnA0Z0p1eE40cGlFSWg2ZHAyODlKd3pnc25hY29z?oc=5",
+      "source": "La Croix",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOME50VFZZVndNQWdGQ2RoM0x4ckt0bGZSaUlhLVV5M1Foa0xPTFJFbmVLWW1hM2tJQWswTk1scHpBSTJZM2ZZWjJtWEdpS0F1LUFGTmhWZG9WWHZORXMxeTZKa1k4VXhaMlpJZmNaSElqUlRjTDhUX2ZKbzBKSGdNVG5vV1pXTDlWdng2ZVFaQlRfSDhRb1J1QTFIdGVGcGhtOEc0TkR2bnA0Z0p1eE40cGlFSWg2ZHAyODlKd3pnc25hY29z?oc=5\"",
+      "publishedAt": "2026-05-30T19:02:50.000Z",
       "lang": "fr",
       "type": "agenda",
       "persons": [
@@ -1118,11 +1118,11 @@
       "official": "Assemblée nationale — agenda (proxy via Google News)"
     },
     {
-      "title": "« Plutôt qu’un barrage, il faut les submerger » : Gabriel Attal lance sa campagne en ciblant le RN et LFI - Charente Libre",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdG5PMmNwR0czM3VEMGVzdkd2R1VhempXNER2a01mVm9RSk9pdkZEaDZFNVN0dUZ3Sjl1VUJ4TWFRei01UFk1YUhRNjVoemU5WHNsQmFuRnRVQ3NWUlZUcVZoaHVGOHNMbmdHN2QyUlVLb3h3eDVFZXhSdkF3WFctSl9CYnFsaGN6V1EzSDN3YXJtZkd2OW5TRlN0SGVnTS1ZNmxVZWNkQUxtZkJTVlRoUGFzRjhWQjRMTHpvR1VNQWUwT0EzeTBaQ19wRU5YOGRxV3pFTThxbWR3dkMzOUh5OGYyTXZtSWY2TDY0OFQxVEl3UHk0OHVjOWt4N1c?oc=5",
-      "source": "Charente Libre",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdG5PMmNwR0czM3VEMGVzdkd2R1VhempXNER2a01mVm9RSk9pdkZEaDZFNVN0dUZ3Sjl1VUJ4TWFRei01UFk1YUhRNjVoemU5WHNsQmFuRnRVQ3NWUlZUcVZoaHVGOHNMbmdHN2QyUlVLb3h3eDVFZXhSdkF3WFctSl9CYnFsaGN6V1EzSDN3YXJtZkd2OW5TRlN0SGVnTS1ZNmxVZWNkQUxtZkJTVlRoUGFzRjhWQjRMTHpvR1VNQWUwT0EzeTBaQ1",
-      "publishedAt": "2026-05-30T15:12:25.000Z",
+      "title": "Gabriel Attal en meeting: \"L'exercice du pouvoir m'a éclairé” - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2JGTmFZQXJ4QWxRVXFaTDN5VXdJanZVMnI5d3NMUXlLYkw2dXdybjFDcHlBMUV3Nzh2QVY3ckRuREp6VXcyM09JQ0ZlU2hwb1BWSXJ3VWgzZ3lMajNLenB5SF9iVEpieXB5QXlyb1lhSGQyTXE3OVFsMmJnSlhNOWdxWi15MFZ1RkxfZnNYNDJIMndsV0RnNnY2YWQ2TTQ0VWlvZUEyYzlXTGFfel9vX2U2RmNlUQ?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2JGTmFZQXJ4QWxRVXFaTDN5VXdJanZVMnI5d3NMUXlLYkw2dXdybjFDcHlBMUV3Nzh2QVY3ckRuREp6VXcyM09JQ0ZlU2hwb1BWSXJ3VWgzZ3lMajNLenB5SF9iVEpieXB5QXlyb1lhSGQyTXE3OVFsMmJnSlhNOWdxWi15MFZ1RkxfZnNYNDJIMndsV0RnNnY2YWQ2TTQ0VWlvZUEyYzlXTGFfel9vX2U2RmNlUQ?oc=5\" target=\"_blank\">G",
+      "publishedAt": "2026-05-30T12:58:58.000Z",
       "lang": "fr",
       "type": "agenda",
       "persons": [
@@ -1132,11 +1132,11 @@
       "official": "Assemblée nationale — agenda (proxy via Google News)"
     },
     {
-      "title": "Gabriel Attal en meeting: “Notre combat, ce sera de faire monter les salaires” - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHJUUjJza2pnWkt1LXBSaWpFb2w2UDJIZ2RiTmxuWWpQSGNjd21tdkxmOVhKN3JzLUZjTVRMOFB6MkZRbmw0NGtDc29RNHZzZmxRb092dEZmM3JqNXI2azgyXzByWXlSbFo0dU9pemlKUVN2V3QwNE1rOUlNcGVOMnJERWM5SGh4eTNvWGdOMi1Kekt1NXJZbDJ2dEY2bmw0OGYyTVAtb0JDSGFvTHdnNDlKU2otQTk0WE1tNnJKOXNCcl96R3I2YmM2TQ?oc=5",
+      "title": "Gabriel Attal en meeting: faire de la France \"la patrie de l'IA\" - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW1pOHprdEdGZ3RNRGh6cHdiMDZTSE11VHpNVHFhdV9xU2VDMmx3TndlS196NDFoVkFWNGU0RmRveE5LbWN2QnVHZUx0U1h0TUN2aWg5LWlPLVZMZ3h2WUE4b2VZNFFUTU9IVUdMRm5hN0hGWnJpS1Z1ajNKMFNqNUZNc1J0ZXRJcGtabzFOS3c0dlNodEk1cTFUN3daQzBFanFjdmsyaDd4STh2VzhMZlZnVXB5STMwbWc?oc=5",
       "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHJUUjJza2pnWkt1LXBSaWpFb2w2UDJIZ2RiTmxuWWpQSGNjd21tdkxmOVhKN3JzLUZjTVRMOFB6MkZRbmw0NGtDc29RNHZzZmxRb092dEZmM3JqNXI2azgyXzByWXlSbFo0dU9pemlKUVN2V3QwNE1rOUlNcGVOMnJERWM5SGh4eTNvWGdOMi1Kekt1NXJZbDJ2dEY2bmw0OGYyTVAtb0JDSGFvTHdnNDlKU2otQTk0WE1tNnJKOXNCcl96R3I2Ym",
-      "publishedAt": "2026-05-30T13:36:52.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaW1pOHprdEdGZ3RNRGh6cHdiMDZTSE11VHpNVHFhdV9xU2VDMmx3TndlS196NDFoVkFWNGU0RmRveE5LbWN2QnVHZUx0U1h0TUN2aWg5LWlPLVZMZ3h2WUE4b2VZNFFUTU9IVUdMRm5hN0hGWnJpS1Z1ajNKMFNqNUZNc1J0ZXRJcGtabzFOS3c0dlNodEk1cTFUN3daQzBFanFjdmsyaDd4STh2VzhMZlZnVXB5STMwbWc?oc=5\" target=\"_bla",
+      "publishedAt": "2026-05-30T13:45:40.000Z",
       "lang": "fr",
       "type": "agenda",
       "persons": [
@@ -1284,13 +1284,26 @@
       ],
       "coOccurrence": false,
       "official": "Assemblée nationale — agenda (proxy via Google News)"
+    },
+    {
+      "title": "Présidentielle 2027 : Pour son premier meeting, Gabriel Attal se présente en candidat de « l’espoir » et de « l’optimisme » - MSN",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNY0cycHN3YldBZTVULUJqakxDTER1MG50UU5kamJURUdiRGJkbGFPUkVQakxmM0JBUmhqekxDeWlHbjBJXzdUS0EtZ3laU2xiX29CcGRhUmpSd2NtZ2J3aGpKeU1zcGs5R0NyRXNTRnJzWHRmOXh1SS1kVXpITFJMMnpmMTV3ekZWZ00wdXpDc0FqNUZpU2ZkM1FOOEZ2Mms3dmEteGQ4WUIzT051d05qVnh3SWZsdVY2TzdqamFFZDhkSFQwSHF6aW9CclpIcnR4QVVaVHh4TDJ6aTFmNEpxX2F2bHBCWllZQ0JkenFuNVV2U3F5dThMendfTVkxWFZLQU5pWmd4Tm52SVdL?oc=5",
+      "source": "MSN",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNY0cycHN3YldBZTVULUJqakxDTER1MG50UU5kamJURUdiRGJkbGFPUkVQakxmM0JBUmhqekxDeWlHbjBJXzdUS0EtZ3laU2xiX29CcGRhUmpSd2NtZ2J3aGpKeU1zcGs5R0NyRXNTRnJzWHRmOXh1SS1kVXpITFJMMnpmMTV3ekZWZ00wdXpDc0FqNUZpU2ZkM1FOOEZ2Mms3dmEteGQ4WUIzT051d05qVnh3SWZsdVY2TzdqamFFZDhkSFQwSHF6aW",
+      "publishedAt": "2026-05-30T20:28:55.000Z",
+      "lang": "fr",
+      "type": "agenda",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "official": "Assemblée nationale — agenda (proxy via Google News)"
     }
   ],
   "stats": {
-    "total": 97,
+    "total": 98,
     "media": 80,
-    "agenda": 17,
-    "social": 0,
+    "agenda": 18,
     "coOccurrence": 2
   },
   "errors": [

@@ -9,15 +9,14 @@
 //                         no full text, no paywall, NO API key)
 //   - Official/agenda  -> Google News "site:" proxy queries (+ best-effort
 //                         official pages, see notes)
-//   - Social (X)       -> X API v2 (needs X_BEARER_TOKEN; optional)
 //
 // Co-occurrence: if the SAME article URL is returned for BOTH persons, the item
 // is tagged persons:["attal","sejourne"] and coOccurrence:true. The ranking
 // prompt forces those to the top of the digest.
 //
-// Dedup: previously-seen URLs / tweet IDs are tracked in state-feed.json.
+// Dedup: previously-seen URLs are tracked in state-feed.json.
 //
-// Usage:  node generate-feed.js [--no-social]
+// Usage:  node generate-feed.js
 // Output: writes ../feed.json (and updates ../state-feed.json)
 // ============================================================================
 
@@ -35,12 +34,6 @@ const RSS_UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 const MEDIA_LOOKBACK_HOURS = 24;
-const SOCIAL_LOOKBACK_HOURS = 24;
-const MAX_TWEETS_PER_USER = 3;
-const X_API_BASE = "https://api.x.com/2";
-
-const args = process.argv.slice(2);
-const NO_SOCIAL = args.includes("--no-social");
 
 // -- helpers -----------------------------------------------------------------
 
@@ -107,19 +100,18 @@ function withinHours(iso, hours) {
 // -- state -------------------------------------------------------------------
 
 async function loadState() {
-  if (!existsSync(STATE_PATH)) return { seenUrls: {}, seenTweets: {} };
+  if (!existsSync(STATE_PATH)) return { seenUrls: {} };
   try {
     const s = JSON.parse(await readFile(STATE_PATH, "utf-8"));
-    s.seenUrls ||= {}; s.seenTweets ||= {};
+    s.seenUrls ||= {};
     return s;
-  } catch { return { seenUrls: {}, seenTweets: {} }; }
+  } catch { return { seenUrls: {} }; }
 }
 
 async function saveState(state) {
   const cutoff = Date.now() - 7 * 24 * 3600 * 1000;
-  for (const k of ["seenUrls", "seenTweets"])
-    for (const [id, ts] of Object.entries(state[k]))
-      if (ts < cutoff) delete state[k][id];
+  for (const [id, ts] of Object.entries(state.seenUrls))
+    if (ts < cutoff) delete state.seenUrls[id];
   await writeFile(STATE_PATH, JSON.stringify(state, null, 2));
 }
 
@@ -182,50 +174,6 @@ async function fetchOfficial(sources, errors) {
   return items;
 }
 
-// -- social (X API v2) -------------------------------------------------------
-
-async function fetchSocial(sources, errors) {
-  const token = process.env.X_BEARER_TOKEN;
-  if (NO_SOCIAL) return [];
-  if (!token) { errors.push("social: X_BEARER_TOKEN not set — skipping X (set it as a GitHub secret)"); return []; }
-
-  const auth = { Authorization: `Bearer ${token}` };
-  const items = [];
-  const startTime = new Date(Date.now() - SOCIAL_LOOKBACK_HOURS * 3600 * 1000).toISOString();
-
-  for (const [personId, person] of Object.entries(sources.persons)) {
-    for (const acc of person.social || []) {
-      if (acc.platform !== "x") continue;
-      try {
-        const ures = await fetch(`${X_API_BASE}/users/by/username/${acc.handle}`, { headers: auth });
-        if (!ures.ok) throw new Error(`user lookup ${ures.status}`);
-        const uid = (await ures.json())?.data?.id;
-        if (!uid) throw new Error("no user id");
-        const turl = `${X_API_BASE}/users/${uid}/tweets?max_results=10&start_time=${startTime}` +
-          `&tweet.fields=created_at&exclude=retweets,replies`;
-        const tres = await fetch(turl, { headers: auth });
-        if (!tres.ok) throw new Error(`tweets ${tres.status}`);
-        const tweets = (await tres.json())?.data || [];
-        for (const t of tweets.slice(0, MAX_TWEETS_PER_USER)) {
-          items.push({
-            type: "social",
-            persons: [personId],
-            coOccurrence: false,
-            title: t.text.slice(0, 120),
-            snippet: t.text,
-            url: `https://x.com/${acc.handle}/status/${t.id}`,
-            source: `X / @${acc.handle}`,
-            publishedAt: t.created_at || null,
-            lang: "fr",
-            _id: t.id,
-          });
-        }
-      } catch (e) { errors.push(`social ${personId}/@${acc.handle}: ${e.message}`); }
-    }
-  }
-  return items;
-}
-
 // -- main --------------------------------------------------------------------
 
 async function main() {
@@ -233,20 +181,16 @@ async function main() {
   const sources = JSON.parse(await readFile(SOURCES_PATH, "utf-8"));
   const state = await loadState();
 
-  const [media, official, social] = await Promise.all([
+  const [media, official] = await Promise.all([
     fetchMedia(sources, errors),
     fetchOfficial(sources, errors),
-    fetchSocial(sources, errors),
   ]);
 
-  // Dedup against state
+  // Dedup against state (by URL)
   const fresh = [];
-  for (const it of [...media, ...official, ...social]) {
-    const key = it._id ? `t:${it._id}` : it.url;
-    const seenMap = it._id ? state.seenTweets : state.seenUrls;
-    if (seenMap[key]) continue;
-    seenMap[key] = Date.now();
-    delete it._id;
+  for (const it of [...media, ...official]) {
+    if (state.seenUrls[it.url]) continue;
+    state.seenUrls[it.url] = Date.now();
     fresh.push(it);
   }
 
@@ -258,7 +202,6 @@ async function main() {
       total: fresh.length,
       media: fresh.filter((i) => i.type === "media").length,
       agenda: fresh.filter((i) => i.type === "agenda").length,
-      social: fresh.filter((i) => i.type === "social").length,
       coOccurrence: fresh.filter((i) => i.coOccurrence).length,
     },
     errors: errors.length ? errors : undefined,
@@ -267,7 +210,7 @@ async function main() {
   await writeFile(FEED_PATH, JSON.stringify(feed, null, 2));
   await saveState(state);
   console.error(`feed.json written: ${fresh.length} items ` +
-    `(media ${feed.stats.media}, agenda ${feed.stats.agenda}, social ${feed.stats.social}, ` +
+    `(media ${feed.stats.media}, agenda ${feed.stats.agenda}, ` +
     `co-occurrence ${feed.stats.coOccurrence}); ${errors.length} non-fatal errors`);
 }
 

@@ -5,13 +5,6 @@ on:
     # Daily at 05:30 UTC (~07:30 Europe/Paris). Adjust to taste.
     - cron: '30 5 * * *'
   workflow_dispatch:
-    inputs:
-      noSocial:
-        description: 'Skip X/social fetch'
-        required: false
-        default: 'false'
-        type: choice
-        options: ['false', 'true']
 
 jobs:
   generate:
@@ -26,15 +19,7 @@ jobs:
       - name: Install deps
         run: cd scripts && npm install
       - name: Generate feed
-        env:
-          # Optional. Add under repo Settings > Secrets > Actions if you want X posts.
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-        run: |
-          if [ "${{ inputs.noSocial }}" = "true" ]; then
-            cd scripts && node generate-feed.js --no-social
-          else
-            cd scripts && node generate-feed.js
-          fi
+        run: cd scripts && node generate-feed.js
       - name: Commit feed
         run: |
           git config user.name "github-actions[bot]"

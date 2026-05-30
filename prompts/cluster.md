@@ -1,7 +1,7 @@
 # 聚类 Prompt (cluster)
 
-You are grouping raw news/agenda/social items into **events**. The feed JSON gives
-you a flat list of `items`, each with: `type` (media / agenda / social), `persons`
+You are grouping raw news/agenda items into **events**. The feed JSON gives
+you a flat list of `items`, each with: `type` (media / agenda), `persons`
 (["attal"], ["sejourne"], or both), `title` (original language, usually French),
 `source`, `url`, `snippet`, `publishedAt`, `lang`, and `coOccurrence` (true if the
 same article was seen under BOTH persons).
@@ -32,7 +32,7 @@ same article was seen under BOTH persons).
 A list of clusters, each:
 - `persons`: ["attal"] / ["sejourne"] / ["attal","sejourne"]
 - `coOccurrence`: true/false
-- `type`: dominant type (media / agenda / social)
+- `type`: dominant type (media / agenda)
 - `sources`: [ { outlet, titleOriginal, url, lang } ... ]
 - `outletCount`: integer
 
