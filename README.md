@@ -77,6 +77,15 @@ git clone https://github.com/BubblePub/follow-gass ~/.claude/skills/gass
 - **中立**:跨源对比只做**描述性**说明(谁侧重什么),不替读者下政治判断。
 - 官方议程的精确抓取是最脆弱的一环,首次使用建议先验证 `feed.json` 里的 agenda 条目是否如预期。
 
+## 致谢
+
+- **灵感与框架来自 [follow-builders](https://github.com/zarazhangrui/follow-builders)**(by [@zarazhangrui](https://github.com/zarazhangrui))。
+  本项目的整体框架——"抓取层 / prompt 层 / 投递层"分离、中央 feed 模型、clone 成 skill
+  一条指令上手——都借鉴自该项目;在此基础上针对政治人物追踪做了专门设计(跨源框架对比、
+  两人同框强制置顶、每日三大事、续报机制)。感谢原作者开源了这套优雅的思路。
+- **代码由 [Claude Code](https://claude.com/claude-code) 编写**。本仓库的脚本、prompts、
+  GitHub Action 与文档均在 Claude Code 中完成。
+
 ## License
 
 MIT
