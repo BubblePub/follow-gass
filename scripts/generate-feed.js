@@ -178,6 +178,12 @@ async function fetchAgenda(sources, errors) {
   for (const [personId, person] of Object.entries(sources.persons)) {
     const ag = person.agenda;
     if (!ag || ag.type !== "ec-calendar-rss" || !ag.rssUrl) continue;
+    // The EC RSS commissioner facet is unreliable: when the node id changes the
+    // filtered URL errors out and the feed falls back to the WHOLE college
+    // calendar, so we'd otherwise tag every commissioner's entry as this person.
+    // Defensively keep only entries that actually name them.
+    const aliases = (person.aliases && person.aliases.length ? person.aliases : [person.displayName])
+      .map((a) => a.toLowerCase());
     try {
       const xml = await fetchText(ag.rssUrl);
       for (const it of parseRss(xml)) {
@@ -192,6 +198,8 @@ async function fetchAgenda(sources, errors) {
         // The <description> arrives HTML-entity-encoded, so tags survive the
         // RSS parser's strip; clean them here to get plain text (e.g. location).
         const location = (it.snippet || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+        const hay = `${m[4]} ${location}`.toLowerCase();
+        if (!aliases.some((a) => hay.includes(a))) continue;
         items.push({
           title: m[4].trim(),
           url: it.url,

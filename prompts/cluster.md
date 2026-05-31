@@ -7,10 +7,10 @@ extra `eventDate` + `location`. **Do not cluster agenda items into the news even
 they are handled separately in §3 of `digest-format.md`; cluster only the media items
 here. Each item has: `type`, `persons`
 (["attal"], ["sejourne"], or both), `title` (original language, usually French),
-`source`, `url`, `snippet`, `publishedAt`, `lang`, `coOccurrence` (true if the
-same article was seen under BOTH persons), and two freshness fields:
-`isNew` (true if this article first appeared in today's feed) and `firstSeenAt`
-(when it first showed up).
+`source`, `url`, `publishedAt`, `lang`, `coOccurrence` (true if the
+same article was seen under BOTH persons), and the freshness flag
+`isNew` (true if this article first appeared in today's feed; `snippet` is
+present only when it carried real text).
 
 **The feed spans a ~48h window, on purpose.** A single event often gets reported
 across two days — some outlets early, some late — so the window deliberately

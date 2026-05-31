@@ -61,8 +61,28 @@ async function main() {
   }
 
   // 3. filter to followed person(s). Keep co-occurrence items if EITHER person is followed.
+  //    Defense-in-depth for the agenda leak: the central feed may still carry EC
+  //    college-calendar entries mis-tagged to one commissioner (broken RSS facet)
+  //    until the owner's Action republishes with the generate-feed.js fix. Drop any
+  //    agenda item whose title/location names none of its tagged persons' aliases.
+  let aliasesByPerson = {};
+  const sourcesPath = join(SCRIPT_DIR, "..", "config", "sources.json");
+  if (existsSync(sourcesPath)) {
+    try {
+      const src = JSON.parse(await readFile(sourcesPath, "utf-8"));
+      for (const [id, p] of Object.entries(src.persons || {})) {
+        aliasesByPerson[id] = (p.aliases && p.aliases.length ? p.aliases : [p.displayName || id])
+          .map((a) => a.toLowerCase());
+      }
+    } catch (e) { errors.push(`sources: ${e.message}`); }
+  }
+  const namesAPerson = (it) => {
+    const hay = `${it.title || ""} ${it.location || ""}`.toLowerCase();
+    return it.persons.some((p) => (aliasesByPerson[p] || []).some((a) => hay.includes(a)));
+  };
   const items = (feed?.items || []).filter((it) =>
-    it.persons.some((p) => follow.includes(p))
+    it.persons.some((p) => follow.includes(p)) &&
+    (it.type !== "agenda" || Object.keys(aliasesByPerson).length === 0 || namesAPerson(it))
   );
 
   // 3b. Token diet for the LLM context (see deliver.js for the inverse step):
@@ -84,6 +104,7 @@ async function main() {
       .trim();
     if (text.length >= 25) slim.snippet = text;
     else delete slim.snippet;
+    delete slim.firstSeenAt; // redundant with isNew (the only freshness flag the prompts use)
     return slim;
   });
   await writeFile(join(tmpdir(), "asd-urlmap.json"), JSON.stringify(urlMap));
@@ -124,7 +145,7 @@ async function main() {
     },
     errors: errors.length ? errors : undefined,
   };
-  console.log(JSON.stringify(out, null, 2));
+  console.log(JSON.stringify(out)); // compact: indentation is pure token waste for the LLM
 }
 
 main().catch((e) => { console.error(JSON.stringify({ status: "error", message: e.message })); process.exit(1); });
