@@ -15,7 +15,15 @@
 //                         the location in <description>. This is RETROSPECTIVE:
 //                         entries appear around/after the event, so it is an
 //                         authoritative recent-activity log, not a forward agenda.
-//                         Only Séjourné has such a source; Attal has none (his
+//                         Only Séjourné has such a source.
+//   - Official news    -> Attal's campaign site attalpresident.fr/actualites
+//                         (config `persons.<id>.officialNews`). No RSS, but the
+//                         listing page is server-rendered HTML: each <article> has
+//                         href + <time datetime="ISO"> + <h2> title + <p> snippet,
+//                         which fetchOfficialNews parses. Tagged type:"official".
+//                         This is the candidate's OWN framing, not neutral media —
+//                         the remix layer labels it accordingly. Same 48h window as
+//                         media. Attal still has no machine-readable AGENDA (his
 //                         schedule, if mentioned in news, is surfaced at the remix
 //                         layer — see prompts/digest-format.md).
 //
@@ -220,6 +228,50 @@ async function fetchAgenda(sources, errors) {
   return items;
 }
 
+// -- official news (Attal campaign site, server-rendered HTML) ---------------
+
+async function fetchOfficialNews(sources, errors) {
+  const items = [];
+  for (const [personId, person] of Object.entries(sources.persons)) {
+    const on = person.officialNews;
+    if (!on || on.type !== "attal-site-html" || !on.listUrl) continue;
+    try {
+      const html = await fetchText(on.listUrl);
+      // Each card is an <article>…</article> block holding (in order):
+      //   <a href="/actualites/<slug>">  the link (relative)
+      //   <time datetime="ISO">          the REAL publish date (not the visible "26 mai 2026")
+      //   <h2>title</h2>  <p>chapô</p>   title + summary
+      // The sitemap's <lastmod> is uniform (regeneration time), so the page is
+      // the only source of per-article dates. React emits `datetime` either case.
+      const blocks = html.match(/<article\b[\s\S]*?<\/article>/gi) || [];
+      for (const b of blocks) {
+        const href = (b.match(/<a\b[^>]*\bhref="([^"]+)"/i) || [])[1];
+        if (!href) continue;
+        const url = new URL(href, on.baseUrl || on.listUrl).href;
+        const iso = (b.match(/<time\b[^>]*\bdatetime="([^"]+)"/i) || [])[1] || null;
+        const publishedAt = iso ? new Date(iso).toISOString() : null;
+        if (!withinHours(publishedAt, MEDIA_LOOKBACK_HOURS)) continue;
+        const title = stripTags((b.match(/<h2\b[^>]*>([\s\S]*?)<\/h2>/i) || [])[1] || "");
+        if (!title) continue;
+        const snippet = stripTags((b.match(/<p\b[^>]*>([\s\S]*?)<\/p>/i) || [])[1] || "").slice(0, 320);
+        items.push({
+          title,
+          url,
+          source: on.name || "Site officiel",
+          snippet,
+          publishedAt,
+          lang: "fr",
+          type: "official",
+          persons: [personId],
+          coOccurrence: false,
+          official: on.name || "Site officiel",
+        });
+      }
+    } catch (e) { errors.push(`official ${personId}: ${e.message}`); }
+  }
+  return items;
+}
+
 // -- main --------------------------------------------------------------------
 
 async function main() {
@@ -227,9 +279,10 @@ async function main() {
   const sources = JSON.parse(await readFile(SOURCES_PATH, "utf-8"));
   const state = await loadState();
 
-  const [media, agenda] = await Promise.all([
+  const [media, agenda, official] = await Promise.all([
     fetchMedia(sources, errors),
     fetchAgenda(sources, errors),
+    fetchOfficialNews(sources, errors),
   ]);
 
   // Carry-over instead of drop-on-seen: publish every in-window item, but tag
@@ -240,7 +293,7 @@ async function main() {
   // newly-published official engagement surfaces once (as `isNew`).
   const now = Date.now();
   const byUrl = new Map();
-  for (const it of [...media, ...agenda]) {
+  for (const it of [...media, ...agenda, ...official]) {
     if (byUrl.has(it.url)) continue;
     const firstSeen = state.seenUrls[it.url];
     const isNew = !firstSeen;
@@ -264,6 +317,7 @@ async function main() {
       carried: items.filter((i) => !i.isNew).length,
       media: items.filter((i) => i.type === "media").length,
       agenda: items.filter((i) => i.type === "agenda").length,
+      official: items.filter((i) => i.type === "official").length,
       coOccurrence: items.filter((i) => i.coOccurrence).length,
     },
     errors: errors.length ? errors : undefined,
@@ -274,6 +328,7 @@ async function main() {
   console.error(`feed.json written: ${items.length} items ` +
     `(${feed.stats.new} new, ${feed.stats.carried} carried; ` +
     `media ${feed.stats.media}, agenda ${feed.stats.agenda}, ` +
+    `official ${feed.stats.official}, ` +
     `co-occurrence ${feed.stats.coOccurrence}); ${errors.length} non-fatal errors`);
 }
 

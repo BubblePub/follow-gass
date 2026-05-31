@@ -4,8 +4,18 @@ You are grouping raw news/agenda items into **events**. The feed JSON gives
 you a flat list of `items`. Most are `type: "media"` (news); some are
 `type: "agenda"` — official engagements from the EC commissioner calendar, each with an
 extra `eventDate` + `location`. **Do not cluster agenda items into the news events** —
-they are handled separately in §3 of `digest-format.md`; cluster only the media items
-here. Each item has: `type`, `persons`
+they are handled separately in §3 of `digest-format.md`; cluster only the media (and
+official, see next) items here.
+
+Some items are `type: "official"` — posts from the person's OWN campaign/official site
+(currently Attal's attalpresident.fr). Unlike agenda, these describe the **same
+real-world events the media cover** (a candidacy announcement, a meeting, a TV
+interview), so **DO cluster an official item together with the media articles about the
+same event** — it is the **first-party source** inside that cluster. It is NOT a neutral
+outlet: it is the candidate's own framing. If an official item has no media coverage yet,
+it forms its own cluster (still tagged as containing an official source).
+
+Each item has: `type`, `persons`
 (["attal"], ["sejourne"], or both), `title` (original language, usually French),
 `source`, `url`, `publishedAt`, `lang`, `coOccurrence` (true if the
 same article was seen under BOTH persons), and the freshness flag
@@ -35,10 +45,13 @@ because some sources are carried-over and some are new.
    list later. Never drop a source just because another outlet covered the same thing.
 
 4. **Tag each cluster** with: which person(s) it concerns, whether any item in it has
-   `coOccurrence === true`, the list of source items (outlet + original title + url +
-   lang), the count of distinct outlets, and two freshness tags:
-   `hasNew` (does any item have `isNew: true`?) and `newOutletCount` (how many distinct
-   outlets are new this run). These drive the freshness gate in `score-rank.md`.
+   `coOccurrence === true`, whether any item in it is `type: "official"` (`hasOfficial`),
+   the list of source items (outlet + original title + url + lang), the count of distinct
+   outlets, and two freshness tags: `hasNew` (does any item have `isNew: true`?) and
+   `newOutletCount` (how many distinct outlets are new this run). These drive the
+   freshness gate in `score-rank.md`. **When counting distinct outlets / coverage breadth,
+   do NOT count an official (first-party) source as an independent outlet** — it is the
+   subject's own channel, not third-party coverage.
 
 5. Do NOT merge genuinely different events just because they involve the same person
    on the same day. Two separate Attal statements = two clusters.
@@ -48,9 +61,10 @@ because some sources are carried-over and some are new.
 A list of clusters, each:
 - `persons`: ["attal"] / ["sejourne"] / ["attal","sejourne"]
 - `coOccurrence`: true/false
-- `type`: dominant type (media / agenda)
-- `sources`: [ { outlet, titleOriginal, url, lang, isNew } ... ]
-- `outletCount`: integer
+- `type`: dominant type (media / agenda / official)
+- `hasOfficial`: true/false (cluster contains a first-party official-site source)
+- `sources`: [ { outlet, titleOriginal, url, lang, isNew, official? } ... ]
+- `outletCount`: integer (independent third-party outlets only; excludes official source)
 - `hasNew`: true/false
 - `newOutletCount`: integer
 

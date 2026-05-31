@@ -9,6 +9,11 @@ Look at how different outlets framed the SAME event, based on their titles/snipp
 - Left/right leaning where relevant (Le Figaro 偏右 / Libération 偏左 / Mediapart 调查性).
 
 ## Rules
+- **If the cluster contains a first-party official source** (`hasOfficial`, e.g. Attal's
+  campaign site), **explicitly set it apart from the media**: it is the candidate's own
+  framing (官方/竞选口径), not neutral reporting. Contrast 本人/竞选如何表述 vs 媒体如何报道
+  (e.g. "竞选官网强调…,而媒体侧重…"). Never present the official line as if it were
+  independent confirmation.
 - **Descriptive, not judgmental.** Report the difference in framing
   ("X 侧重…,Y 侧重…"); do NOT tell the reader which outlet is "right" or editorialize
   your own political opinion.

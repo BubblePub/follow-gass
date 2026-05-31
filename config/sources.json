@@ -1,5 +1,5 @@
 {
-  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). AGENDA: Séjourné has a real official source — the EC commissioner-calendar RSS, filtered to him (see `sejourne.agenda`); it is fetched and tagged `type:\"agenda\"`. It is RETROSPECTIVE (entries appear around/after the event), i.e. an authoritative recent-activity log, not a forward agenda. Attal has NO machine-scrapable official agenda (Renaissance has no stable feed; the old Google-News 'agenda' proxy was just duplicate news and was removed) — `attal.agendaRefs` is a manual-check link only. For both figures, the remix layer additionally extracts any concrete schedule mentioned in news (labelled '据媒体报道') — see prompts/digest-format.md.",
+  "_comment": "Sources are grouped per person. Each person is a 'track' with a different orbit (Attal = French domestic party politics; Séjourné = EU/Brussels industrial policy), so they get different media query languages. Media headlines are fetched via Google News RSS (titles + snippets + links only — no full text, no paywall, no API key). AGENDA: Séjourné has a real official source — the EC commissioner-calendar RSS, filtered to him (see `sejourne.agenda`); it is fetched and tagged `type:\"agenda\"`. It is RETROSPECTIVE (entries appear around/after the event), i.e. an authoritative recent-activity log, not a forward agenda. OFFICIAL NEWS: Attal now has a first-party source — his campaign site attalpresident.fr/actualites (see `attal.officialNews`), server-rendered HTML scraped into items tagged `type:\"official\"`. It is the candidate's/campaign's own framing, NOT neutral media — the remix layer must label it as such. Attal still has NO machine-scrapable AGENDA (Renaissance has no stable feed) — `attal.agendaRefs` is a manual-check link only. For both figures, the remix layer additionally extracts any concrete schedule mentioned in news (labelled '据媒体报道') — see prompts/digest-format.md.",
 
   "persons": {
     "attal": {
@@ -11,11 +11,18 @@
         { "lang": "fr", "query": "\"Gabriel Attal\"" },
         { "lang": "en", "query": "\"Gabriel Attal\"" }
       ],
+      "officialNews": {
+        "type": "attal-site-html",
+        "name": "Gabriel Attal — site officiel (actualités)",
+        "listUrl": "https://attalpresident.fr/actualites",
+        "baseUrl": "https://attalpresident.fr",
+        "note": "Site OFFICIEL de campagne d'Attal (attalpresident.fr) — première vraie source first-party côté Attal (comble le trou : Renaissance n'a pas de feed). Pas de RSS (/feed, /rss.xml → 404) ; sitemap.xml existe mais tous ses <lastmod> sont identiques (= heure de régénération, pas la date d'article) → INUTILE pour dater. La page /actualites est rendue côté serveur (Next.js) : chaque <article> contient href + <time datetime=\"ISO\"> (la VRAIE date) + <h2> titre + <p> chapô. fetchOfficialNews parse ce HTML. Items tagués type:\"official\" → le remix sait que c'est le discours du candidat/de la campagne, PAS un média neutre. Même fenêtre glissante 48h que les médias (donc la plupart des jours : vide, le site publie lentement). Fragile si la structure HTML change, mais le squelette <article>/<time datetime>/<h2>/href est sémantiquement stable ; un échec de fetch/parse est non-bloquant (poussé dans errors)."
+      },
       "agendaRefs": [
         {
-          "name": "Renaissance — site officiel",
+          "name": "Renaissance — site du parti",
           "url": "https://parti-renaissance.fr/",
-          "note": "Manuel uniquement. L'ancienne page /actualites/ renvoie 404 ; pas de feed agenda stable."
+          "note": "Manuel uniquement. Pas de feed agenda stable. Distinct du site de CAMPAGNE attalpresident.fr (lui scrapé via officialNews ci-dessus)."
         }
       ]
     },

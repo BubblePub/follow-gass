@@ -35,8 +35,12 @@ no new coverage was already shown and is not forced up again.)
 For every other cluster, weigh these signals (see scoring.json for weights):
 
 - **Coverage breadth** — how many distinct outlets covered it. Strongest signal.
+  **A first-party official source (`hasOfficial`, e.g. Attal's campaign site) does NOT
+  count toward breadth** — it is the subject's own channel, not independent coverage. A
+  cluster carried only by the official site (no media) has breadth = 0.
 - **Source tier** — tier-1 outlets (Le Monde, Reuters, AFP, Politico, Les Échos…)
-  count more than aggregators or tabloids.
+  count more than aggregators or tabloids. The official site is not a "tier" — it is
+  authoritative for *what the person said/did*, but not evidence of media interest.
 - **Centrality (占比)** — is the person the protagonist, or only mentioned in passing?
   Protagonist = high; passing mention = low.
 - **Event type** — policy/personnel/official-position/law/presidential-move/EU-decision
@@ -51,7 +55,10 @@ After ranking, also flag any cluster that matters strongly to the person's own
 trajectory (see `personalRelevanceAxis` in scoring.json — e.g. anything tied to
 Attal's 2027 bid, or Séjourné's standing in the Commission), **even if it didn't make
 top-3 on public importance**. These get a "⭐ 对其本人重要" marker in the digest so the
-reader doesn't miss them.
+reader doesn't miss them. A cluster with `hasOfficial === true` is the person speaking on
+their own channel — it is almost always personally relevant, so flag it here even if its
+media breadth is thin; just don't let it jump the public-importance ranking on breadth it
+doesn't have.
 
 ## Output (internal)
 
