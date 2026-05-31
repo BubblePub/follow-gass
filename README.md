@@ -99,6 +99,10 @@ git clone https://github.com/BubblePub/follow-gass ~/.claude/skills/gass
 「多关注 2027 初选」。改动会复制到 `~/.follow-gass/prompts/` 持久保存,不被中央更新覆盖。
 排序权重在 `config/scoring.json`,信源在 `config/sources.json`。
 
+> **安全说明**
+>
+> **本 Skill 参考了 [FollowBuilder](https://github.com/zarazhangrui/follow-builders) 的架构。为了满足大众的使用需求、使其更简单易用,我们放弃了一些安全准则。如果不出意外的话,在 onboarding 的时候会要求直接把 Resend Key 发在对话框。这是不安全的——如果你在意这一点,请自己修改相关脚本,改成从环境变量或配置文件读取,而不是在会话中明文输入。**
+
 ## 注意
 
 - **版权**:只抓标题/摘要并链接到原文,绝不复制文章正文。简报里媒体标题保留原文、其余为中文转述。
