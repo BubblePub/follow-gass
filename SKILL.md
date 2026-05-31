@@ -37,7 +37,7 @@ Check `~/.follow-gass/config.json` for `onboardingComplete: true`. If absent, ru
 **Step 3 — Delivery.** openclaw → automatic (`stdout`). Otherwise ask: Email / on-demand.
 For email, get a Resend key + address. Store keys in `~/.follow-gass/.env`.
 
-**Step 4 — Save config + cron.**
+**Step 4 — Save config.**
 ```bash
 mkdir -p ~/.follow-gass
 cat > ~/.follow-gass/config.json << 'CFG'
@@ -47,12 +47,53 @@ cat > ~/.follow-gass/config.json << 'CFG'
   "onboardingComplete": true }
 CFG
 ```
-For email on a non-persistent agent, add a system crontab line that runs
-`prepare-digest.js | <agent remix> | deliver.js`; for openclaw use `openclaw cron add`
-with the explicit channel + target. (Note: a pure crontab pipe delivers the raw feed,
-not the remixed digest — for full remix, deliver via the agent or use `/gass`.)
 
-**Step 5 — Welcome digest.** Immediately run the digest workflow once so the user sees output.
+**Step 5 — Set up the scheduled job.** **Do NOT skip this.** Build the daily cron
+expression from `deliveryTime` (`HH:MM` → `M H * * *`, e.g. 08:00 → `0 8 * * *`), then
+follow the branch that matches platform + delivery method.
+
+> **Design rule: never schedule a raw-feed pipe.** Any automated run must go through the
+> LLM remix (the prompts) before delivery — a scheduled digest is either fully remixed or
+> not sent at all. Do **not** schedule `prepare-digest.js | deliver.js`.
+
+**(A) openclaw (persistent) — remixed.**
+The cron boots an agent session that runs the full remix, so the schedule honours the
+prompts. Use the explicit timezone:
+```bash
+openclaw cron add \
+  --name "Attal & Séjourné 简报" \
+  --cron "<cron expression>" \
+  --tz "<user IANA timezone>" \
+  --session isolated \
+  --message "Run the gass skill: execute prepare-digest.js, remix the items into the 中文 digest following the prompts, then deliver via deliver.js" \
+  --announce --exact
+```
+Verify before moving on — it must actually deliver:
+```bash
+openclaw cron list
+openclaw cron run <jobId>      # confirm the user receives the digest; check `openclaw cron runs --id <jobId> --limit 1` on failure
+```
+
+**(B) other (non-persistent, e.g. Claude Code) + email — remixed via a headless agent.**
+A plain crontab pipe can't remix, so schedule a **headless Claude run** that executes the
+whole skill (prepare → remix → deliver) just like `/gass` does:
+```bash
+SKILL_DIR="${CLAUDE_SKILL_DIR}"   # absolute path to this skill
+(crontab -l 2>/dev/null; echo "<cron expression> cd $SKILL_DIR && claude -p '运行 gass skill:跑完 prepare-digest → 按 prompts remix → deliver.js 发邮件,只输出最终简报' >> ~/.follow-gass/cron.log 2>&1") | crontab -
+crontab -l    # verify the line landed
+```
+This requires the `claude` CLI on PATH **and authenticated in cron's environment**
+(cron has a minimal env — may need an absolute path to `claude` and exported auth).
+Verify by running the crontab command once by hand and confirming the email arrives;
+check `~/.follow-gass/cron.log` on failure. (Crontab fires in the machine's local
+timezone, not the IANA `timezone` in config.) If headless `claude` isn't viable in the
+user's environment, fall back to (C) rather than sending raw feed.
+
+**(C) other + on-demand.** Skip cron entirely. Tell the user:
+"没有定时任务,想看简报随时打 `/gass`。"
+
+**Step 6 — Welcome digest.** After the schedule is set, immediately run the digest
+workflow once (regardless of branch) so the user sees output right away.
 
 ---
 
