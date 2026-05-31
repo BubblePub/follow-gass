@@ -17,7 +17,26 @@ import { join } from "path";
 import { homedir, tmpdir } from "os";
 
 const CONFIG_PATH = join(homedir(), ".follow-gass", "config.json");
+const ENV_PATH = join(homedir(), ".follow-gass", ".env");
 const URLMAP_PATH = join(tmpdir(), "asd-urlmap.json");
+
+// Onboarding stores RESEND_API_KEY in ~/.follow-gass/.env, but cron / a plain
+// shell never sources that file — so load it ourselves into process.env (without
+// clobbering anything already exported). Supports `KEY=value`, optional `export `
+// prefix, and surrounding quotes. Missing/garbled file => no-op (never blocks).
+async function loadEnvFile() {
+  if (!existsSync(ENV_PATH)) return;
+  let text = "";
+  try { text = await readFile(ENV_PATH, "utf-8"); } catch { return; }
+  for (const line of text.split("\n")) {
+    const m = line.match(/^\s*(?:export\s+)?([A-Za-z_][A-Za-z0-9_]*)\s*=\s*(.*)\s*$/);
+    if (!m) continue;
+    const k = m[1];
+    let v = m[2].trim();
+    if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) v = v.slice(1, -1);
+    if (process.env[k] === undefined) process.env[k] = v;
+  }
+}
 
 // Inverse of prepare-digest.js's URL diet: expand the `https://gnews.ref/<n>`
 // placeholders the model copied into the digest back into the real source URLs.
@@ -47,6 +66,7 @@ async function main() {
   const d = config.delivery || { method: "stdout" };
 
   if (d.method === "email") {
+    await loadEnvFile();
     const key = process.env.RESEND_API_KEY;
     if (!key || !d.email) { console.error("email: missing key or address; printing instead"); console.log(text); return; }
     const res = await fetch("https://api.resend.com/emails", {
