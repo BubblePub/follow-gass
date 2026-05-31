@@ -14,9 +14,20 @@
 import { readFile } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
-import { homedir } from "os";
+import { homedir, tmpdir } from "os";
 
 const CONFIG_PATH = join(homedir(), ".follow-gass", "config.json");
+const URLMAP_PATH = join(tmpdir(), "asd-urlmap.json");
+
+// Inverse of prepare-digest.js's URL diet: expand the `https://gnews.ref/<n>`
+// placeholders the model copied into the digest back into the real source URLs.
+// Missing/garbled map => leave the text untouched (graceful, never blocks delivery).
+async function expandUrls(text) {
+  if (!existsSync(URLMAP_PATH)) return text;
+  let map = {};
+  try { map = JSON.parse(await readFile(URLMAP_PATH, "utf-8")); } catch { return text; }
+  return text.replace(/https:\/\/gnews\.ref\/(\d+)/g, (m, n) => map[n] || m);
+}
 
 async function readStdin() {
   const chunks = [];
@@ -26,9 +37,10 @@ async function readStdin() {
 
 async function main() {
   const fileFlag = process.argv.indexOf("--file");
-  const text = fileFlag !== -1
+  const raw = fileFlag !== -1
     ? await readFile(process.argv[fileFlag + 1], "utf-8")
     : await readStdin();
+  const text = await expandUrls(raw);
 
   let config = { delivery: { method: "stdout" } };
   if (existsSync(CONFIG_PATH)) { try { config = JSON.parse(await readFile(CONFIG_PATH, "utf-8")); } catch {} }

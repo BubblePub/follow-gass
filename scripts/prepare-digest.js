@@ -16,10 +16,10 @@
 // Output: JSON to stdout
 // ============================================================================
 
-import { readFile } from "fs/promises";
+import { readFile, writeFile } from "fs/promises";
 import { existsSync } from "fs";
 import { join } from "path";
-import { homedir } from "os";
+import { homedir, tmpdir } from "os";
 
 // --- REPLACE <owner> with your GitHub username after you fork/push this repo ---
 const REPO_RAW = "https://raw.githubusercontent.com/BubblePub/follow-gass/main";
@@ -65,6 +65,29 @@ async function main() {
     it.persons.some((p) => follow.includes(p))
   );
 
+  // 3b. Token diet for the LLM context (see deliver.js for the inverse step):
+  //   - snippet: Google News snippets are ~94% HTML/URL noise (anchor tags wrapping
+  //     the redirect URL). Strip tags + URLs; drop the field unless real text remains.
+  //   - url: the base64 Google-News redirect URL is ~418B of opaque junk the model
+  //     only needs to echo back. Replace it with a short placeholder that LOOKS like a
+  //     URL (so the model drops it into markdown link slots verbatim). The real URLs
+  //     live in a sidecar map that NEVER enters the LLM context; deliver.js expands the
+  //     placeholders back into the finished digest before sending.
+  const urlMap = {};
+  const slimItems = items.map((it, i) => {
+    if (it.url) urlMap[i] = it.url;
+    const slim = { ...it, url: `https://gnews.ref/${i}` };
+    const text = (it.snippet || "")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/https?:\/\/\S+/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+    if (text.length >= 25) slim.snippet = text;
+    else delete slim.snippet;
+    return slim;
+  });
+  await writeFile(join(tmpdir(), "asd-urlmap.json"), JSON.stringify(urlMap));
+
   // 4. prompts: user custom > remote GitHub > local default
   const prompts = {};
   for (const f of PROMPT_FILES) {
@@ -88,7 +111,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     config: { follow, language: config.language || "zh", delivery: config.delivery || { method: "stdout" } },
     feedGeneratedAt: feed?.generatedAt || null,
-    items,
+    items: slimItems,
     scoring,
     prompts,
     stats: {
