@@ -25,6 +25,13 @@ which openclaw 2>/dev/null && echo "PLATFORM=openclaw" || echo "PLATFORM=other"
 
 ## First run — onboarding
 
+**Onboarding is mandatory and enforced by code.** `prepare-digest.js` is gated: until
+`~/.follow-gass/config.json` exists with `onboardingComplete: true`, it returns
+`{"status":"needs_onboarding"}` instead of a digest. Do **not** work around the gate with
+`--defaults` to skip setup — run the steps below so the user's choices (follow list,
+timezone, delivery) are captured. If the prepare step ever reports `needs_onboarding`,
+come here, complete it, then re-run the digest.
+
 Check `~/.follow-gass/config.json` for `onboardingComplete: true`. If absent, run:
 
 **Step 1 — Who to follow.** Ask: "想追踪谁?" → options: **只跟 Attal** / **只跟 Séjourné** /
@@ -103,7 +110,11 @@ workflow once (regardless of branch) so the user sees output right away.
 ```bash
 cd ${CLAUDE_SKILL_DIR}/scripts && node prepare-digest.js 2>/dev/null
 ```
-This prints one JSON blob: `config` (follow list, language), `items` (filtered to the
+**Onboarding gate (check first):** if the output is `{"status":"needs_onboarding"}`,
+stop the digest, run the **First run — onboarding** flow above to write `config.json`,
+then re-run this command. A configured run returns `status:"ok"` with the fields below.
+
+On `status:"ok"` this prints one JSON blob: `config` (follow list, language), `items` (filtered to the
 followed person(s); each item has `type` (media / agenda), `persons`, `coOccurrence`,
 `title` (original FR/EN), `source`, `url`, `publishedAt`, `lang`, plus
 `isNew`/`firstSeenAt` freshness flags; **agenda items** also have `eventDate` +

@@ -57,7 +57,9 @@ git clone https://github.com/BubblePub/follow-gass ~/.claude/skills/gass
 
 `/gass` 这个指令来自 `SKILL.md` 的 frontmatter,clone 到 `~/.claude/skills/` 下就会被识别
 (刚 clone 完可能需要重开一个 Claude Code 会话才扫描得到)。然后在 Claude Code 里输入
-**`/gass`**:首次会引导你选「跟谁 + 投递方式」(输出固定中文),之后直接出当天简报。
+**`/gass`**:首次**必须**先走引导(选「跟谁 + 投递方式」,输出固定中文)——简报脚本带强制
+引导门,没建好 `~/.follow-gass/config.json` 就只返回 `needs_onboarding`,不会直接出简报;引导
+完成后再 `/gass` 即出当天简报。
 
 ### 方式二:其他 AI agent(OpenClaw 等)
 
@@ -74,7 +76,7 @@ git clone https://github.com/BubblePub/follow-gass ~/.claude/skills/gass
   ```bash
   git clone https://github.com/BubblePub/follow-gass
   cd follow-gass/scripts
-  node prepare-digest.js   # 输出今日 feed JSON(含聚类所需字段),从公开中央 feed.json 拉取(需联网,失败时回退到仓库内的本地 feed.json)
+  node prepare-digest.js --defaults   # 输出今日 feed JSON(含聚类所需字段)。--defaults 跳过引导门、用默认设置(跟两人 / 中文 / stdout);不加则首次会返回 {"status":"needs_onboarding"}。从公开中央 feed.json 拉取(需联网,失败时回退到仓库内的本地 feed.json)
   ```
 - **只想直接收到每日中文简报、不想自己跑 agent**:[**联系作者**](https://github.com/BubblePub/follow-gass/issues)
   (在仓库提 Issue,或私信 [@BubblePub](https://github.com/BubblePub)),由作者侧帮你接入投递。

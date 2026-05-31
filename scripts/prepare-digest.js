@@ -44,12 +44,29 @@ async function fetchText(url) { try { const r = await fetch(url); return r.ok ? 
 async function main() {
   const errors = [];
 
-  // 1. config
-  let config = { follow: ["attal", "sejourne"], language: "zh", delivery: { method: "stdout" } };
+  // 1. config — onboarding gate.
+  // Onboarding is a HARD precondition for the agent path, not a skippable prose step:
+  // until ~/.follow-gass/config.json exists with onboardingComplete:true we emit
+  // {status:"needs_onboarding"} instead of a digest, so the skill must run its
+  // onboarding flow first. Headless / CLI-pipe users who can't onboard interactively
+  // bypass the gate with `--defaults` (follow both, zh, stdout).
+  const useDefaults = process.argv.includes("--defaults");
+  let config = null;
   if (existsSync(CONFIG_PATH)) {
     try { config = JSON.parse(await readFile(CONFIG_PATH, "utf-8")); }
     catch (e) { errors.push(`config: ${e.message}`); }
   }
+  if (!useDefaults && !(config && config.onboardingComplete === true)) {
+    console.log(JSON.stringify({
+      status: "needs_onboarding",
+      configPath: CONFIG_PATH,
+      reason: config ? "config.json present but onboardingComplete !== true" : "no config.json yet",
+      errors: errors.length ? errors : undefined,
+    }));
+    return;
+  }
+  // Defaults fill in any missing fields (also covers `--defaults` with no config file).
+  config = config || {};
   const follow = config.follow && config.follow.length ? config.follow : ["attal", "sejourne"];
 
   // 2. central feed (fall back to a local feed.json if the repo isn't reachable)
