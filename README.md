@@ -101,7 +101,7 @@ git clone https://github.com/BubblePub/follow-gass ~/.claude/skills/gass
 
 > **安全说明**
 >
-> **本 Skill 参考了 [FollowBuilder](https://github.com/zarazhangrui/follow-builders) 的架构。为了满足大众的使用需求、使其更简单易用,我们放弃了一些安全准则。如果不出意外的话,在 onboarding 的时候会要求直接把 Resend Key 发在对话框。这是不安全的——如果你在意这一点,请自己修改相关脚本,改成从环境变量或配置文件读取,而不是在会话中明文输入。**
+> **本 Skill 参考了 [follow-builder](https://github.com/zarazhangrui/follow-builders) 的架构。为了满足大众的使用需求、使其更简单易用,放弃了一些安全准则。如果不出意外的话,在 onboarding 的时候会要求直接把 Resend Key 发在对话框。这是不安全的——如果你在意这一点,请自己修改相关脚本,改成从环境变量或配置文件读取,而不是在会话中明文输入。**
 
 ## 注意
 
