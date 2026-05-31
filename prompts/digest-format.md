@@ -45,8 +45,10 @@ need NO "据媒体报道" tag. Each agenda item has `eventDate` (the real date, 
 **(b) 媒体提及的日程(参考)** — concrete engagements mentioned in the NEWS items
 (`type: "media"`), useful especially for Attal, who has no official feed. Include one
 ONLY if a title/snippet states a specific activity with a date and/or place and the
-nature of the event (e.g. "Attal sera à Lille mardi"). Render as
-"📅 …·据媒体报道" with: 中文转述 (what/when/where) + "(据 [outlet] 报道)" + link.
+nature of the event (e.g. "Attal sera à Lille mardi"). **Only include activities of the
+followed persons themselves (Attal / Séjourné); do NOT list schedules of third parties
+(meeting counterparts, other politicians, etc.) even if mentioned in the same article.**
+Render as "📅 …·据媒体报道" with: 中文转述 (what/when/where) + "(据 [outlet] 报道)" + link.
 
 **Hard limits (no exceptions):**
 - Only use what is explicitly present (agenda fields, or news title/snippet). **Never
