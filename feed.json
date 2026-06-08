@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T02:02:30.139Z",
+  "generatedAt": "2026-06-08T02:07:37.387Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,49 +7,79 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "SONDAGE EXCLUSIF - Classement des personnalités : Gabriel Attal désormais presque aussi populaire qu'Edouard Philippe - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNC1VM0w4eURkNUhJZlBBYm83YUV5UGlzeTVEUmpVQkRxZVRDSnJhM2RFRDdoYTJsT3htcFBrQkVDOWVlbUI4WlVZcXFtM2xQajAxT01GQmNwTXpBYnRNMllCenRPbWlxZV8tUVNrZll0a2ZmTU1qVC1zalRYei1zVUkzVk5aS285czRUUzg2RllwdTg2aGZWR3FwQm1NdV9nY3FwdjJ5WmJRLXNORW9jeWxuQmt0aEZLbldTTFp0b05KeXNuQ1VtQVpDV0pwcnBUTXoxRGMzX2YxVWRCSXd5SFlIYWItYXY2RDlfX2lBbDk2Y2JjNUlXamFubVVBdw?oc=5",
-      "source": "Les Echos",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNC1VM0w4eURkNUhJZlBBYm83YUV5UGlzeTVEUmpVQkRxZVRDSnJhM2RFRDdoYTJsT3htcFBrQkVDOWVlbUI4WlVZcXFtM2xQajAxT01GQmNwTXpBYnRNMllCenRPbWlxZV8tUVNrZll0a2ZmTU1qVC1zalRYei1zVUkzVk5aS285czRUUzg2RllwdTg2aGZWR3FwQm1NdV9nY3FwdjJ5WmJRLXNORW9jeWxuQmt0aEZLbldTTFp0b05KeX",
-      "publishedAt": "2026-06-05T05:05:09.000Z",
+      "title": "Nos informations confidentielles. Un déjeuner pour le bloc central, Gabriel Attal conserve Renaissance... - La Tribune",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZFN4TlJlUWFmU3k3NDlLU3hKa3I0M0VMUGZXakhpZXJLZ1ZRU2VaaFFlWC00QzVhZXlISllWOTBwNjk2LXJxNWI0ZXhPWlRJOWkyeUtxelpGeVNQdlFObHVWYVphbmt5dThfZkdOQ1pvYm1IczlUYldMYnc2cEkxSUZSOWQwMWhnb3Flajl5YmRBa1hDRlVieW5zZmhQN3BZalQ1UmRwTW81eVp4a3hwQlVleVBSNzdNN09xcWhBTGlBYnAwUG9TWHpnYmt1azU1VmlYdjA1SWp3aHo5X0pwOFpjRk9YdV9OMEFZRzQ3TGw5TkJxZjNoWXF4elVKSjI5VU83ZnJkMW8tNVBZ?oc=5",
+      "source": "La Tribune",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPZFN4TlJlUWFmU3k3NDlLU3hKa3I0M0VMUGZXakhpZXJLZ1ZRU2VaaFFlWC00QzVhZXlISllWOTBwNjk2LXJxNWI0ZXhPWlRJOWkyeUtxelpGeVNQdlFObHVWYVphbmt5dThfZkdOQ1pvYm1IczlUYldMYnc2cEkxSUZSOWQwMWhnb3Flajl5YmRBa1hDRlVieW5zZmhQN3BZalQ1UmRwTW81eVp4a3hwQlVleVBSNzdNN09xcWhBTGlBYn",
+      "publishedAt": "2026-06-07T05:45:01.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-07T02:02:30.139Z",
+      "firstSeenAt": "2026-06-08T02:07:37.387Z",
       "isNew": true
     },
     {
-      "title": "Attal, Philippe, Retailleau : des sites Internet pas très à jour… qui interpellent - Le Point",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSC11STVSYjVMYTFELVFQQ0t6RlFReVVuSW1GYzdneldDWDh5MEltX2ZmdThJZktOUGhUX3M0dk12dnNxOEJSbzQ3SjVxdkw3NlB1VXhQTzNuejlkYnl3MnhsaFMybElUaE5jYm1mUU9EbmRmMTU1OFpLTnVPWjctblFkdGJ2T0VzeVFZRFJOd0RmNHlNbGM2VW1VQjJLOV9MM1BLMVo5MEZJSHU5cFVfRmlYR1pRdDFhVXVN?oc=5",
-      "source": "Le Point",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSC11STVSYjVMYTFELVFQQ0t6RlFReVVuSW1GYzdneldDWDh5MEltX2ZmdThJZktOUGhUX3M0dk12dnNxOEJSbzQ3SjVxdkw3NlB1VXhQTzNuejlkYnl3MnhsaFMybElUaE5jYm1mUU9EbmRmMTU1OFpLTnVPWjctblFkdGJ2T0VzeVFZRFJOd0RmNHlNbGM2VW1VQjJLOV9MM1BLMVo5MEZJSHU5cFVfRmlYR1pRdDFhVXVN?oc=5\" target=\"_bl",
-      "publishedAt": "2026-06-05T06:28:00.000Z",
+      "title": "Le parti Renaissance garde finalement son nom et ne s’appellera pas \"Nouvelle République\" - lanouvellerepublique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0piU0xlbHVBWHBUbklrVDBnNDNsVUdyeWtWZGpBV3ZQN0NWTmhWM1JzQjZNeHo1dDlyT1pYUmdlUGZ0alJmYldSa2tPRFVJc01DazNOVjVPekxQd2d0NnpXTWpxalpyYkdRT0RHcXhLYVRDSXRmYl9KR1FIbWNQems3dlk5c1VSMGk2czNCbDdvQjAyTWlTNHFwVHVpM0JPSGk3bi1yRHNMR2MteHplLXlCRUFhZ282MS1rR3Q1dWw5cEMyM283QVFoeFl3VjByeUJvTFAxcjF4LUU?oc=5",
+      "source": "lanouvellerepublique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0piU0xlbHVBWHBUbklrVDBnNDNsVUdyeWtWZGpBV3ZQN0NWTmhWM1JzQjZNeHo1dDlyT1pYUmdlUGZ0alJmYldSa2tPRFVJc01DazNOVjVPekxQd2d0NnpXTWpxalpyYkdRT0RHcXhLYVRDSXRmYl9KR1FIbWNQems3dlk5c1VSMGk2czNCbDdvQjAyTWlTNHFwVHVpM0JPSGk3bi1yRHNMR2MteHplLXlCRUFhZ282MS1rR3Q1dWw5cEMyM283QV",
+      "publishedAt": "2026-06-07T12:03:29.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
-      "isNew": false
+      "firstSeenAt": "2026-06-08T02:07:37.387Z",
+      "isNew": true
     },
     {
-      "title": "PRESIDENTIELLE 2027 - Gabriel Attal en Bresse pour donner du gaz à sa campagne - Info-Chalon.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEVkMnBNNEF2WVNSSkctLTNsMjNxQjFGUDdLQWlzNXVXNWdiVE5LME9xYUhKVGlaVXpLTjR3S3VJSDhsYzJwN3VnUmowZC1VNk1xbmRTRFJteDRweklNQmtzQ0RINUNuVEl3bWFiSFhlUTJkcmY3bHJJem1ielhXV1I1a3A5RHRCVWdveTlpZUlhSTlkX09wZjJvY3lENGFCbTFKRGNVazd0czJhX2FBcUsxYjFOTk5GN2VUc0E3WDdDUVBpYUFuTDJZRlQ?oc=5",
-      "source": "Info-Chalon.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEVkMnBNNEF2WVNSSkctLTNsMjNxQjFGUDdLQWlzNXVXNWdiVE5LME9xYUhKVGlaVXpLTjR3S3VJSDhsYzJwN3VnUmowZC1VNk1xbmRTRFJteDRweklNQmtzQ0RINUNuVEl3bWFiSFhlUTJkcmY3bHJJem1ielhXV1I1a3A5RHRCVWdveTlpZUlhSTlkX09wZjJvY3lENGFCbTFKRGNVazd0czJhX2FBcUsxYjFOTk5GN2VUc0E3WDdDUVBpYUFuTD",
-      "publishedAt": "2026-06-05T06:33:00.000Z",
+      "title": "La campagne électorale de Gabriel Attal est lancée à Amiens aussi - Courrier picard",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnp2eFp6a09LMHZ4U3RjSU1FcTIzLVpRU2hhcWRfaG1Xb3d2S1lTZUwtSVlRUGdtYnQxcGtPVmc1akJqdjNFNzZ4UUE5QkpTM3VVbWJLOXFuUkdoOThpcTFHNUlfZnBfVE1aRDJTQm8weFhvNkJxZ3JfaXllMnN2N0pBS05LYUYtaE9TT1RKdEhQV2JuLWxQY3p0R01MOTE5ODM3dF91TjF5eHhmZHdpelBTVFNiVEtVWkdHdDdKRQ?oc=5",
+      "source": "Courrier picard",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObnp2eFp6a09LMHZ4U3RjSU1FcTIzLVpRU2hhcWRfaG1Xb3d2S1lTZUwtSVlRUGdtYnQxcGtPVmc1akJqdjNFNzZ4UUE5QkpTM3VVbWJLOXFuUkdoOThpcTFHNUlfZnBfVE1aRDJTQm8weFhvNkJxZ3JfaXllMnN2N0pBS05LYUYtaE9TT1RKdEhQV2JuLWxQY3p0R01MOTE5ODM3dF91TjF5eHhmZHdpelBTVFNiVEtVWkdHdDdKRQ?oc=5\" targe",
+      "publishedAt": "2026-06-07T15:28:29.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
-      "isNew": false
+      "firstSeenAt": "2026-06-08T02:07:37.387Z",
+      "isNew": true
+    },
+    {
+      "title": "Billet. Attal, Philippe, Bardella, Mélenchon : les circonstances avant les compétences ? - La Semaine",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHVvRklKanlvaWZHb1BudkI1UDZBcHZBVUxyX0RodWRhU2FzQVRXaTFjOTd0ZjhZZllXZTV4T19WVmpmZ1dqMTFDbl9nam04RXdKWmNXdnpzUHZKeHg2VVl4OVhwV2F2VXQwOWY5dm1DQnZsX24zZmlrN2xCYU5DTC1GUUVjTUJkZS05VkVLVy1nMktJT2E4S29mb3FwOFowTWcySmlBc2MyUHRVai1MamxneXpteFhROWhDUGV1VWlYUQ?oc=5",
+      "source": "La Semaine",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHVvRklKanlvaWZHb1BudkI1UDZBcHZBVUxyX0RodWRhU2FzQVRXaTFjOTd0ZjhZZllXZTV4T19WVmpmZ1dqMTFDbl9nam04RXdKWmNXdnpzUHZKeHg2VVl4OVhwV2F2VXQwOWY5dm1DQnZsX24zZmlrN2xCYU5DTC1GUUVjTUJkZS05VkVLVy1nMktJT2E4S29mb3FwOFowTWcySmlBc2MyUHRVai1MamxneXpteFhROWhDUGV1VWlYUQ?oc=5\" t",
+      "publishedAt": "2026-06-07T11:11:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-08T02:07:37.387Z",
+      "isNew": true
+    },
+    {
+      "title": "À Montauban, les soutiens de Gabriel Attal sur le terrain pour défendre son programme - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFcwVzdpUjVhVGhHN0FHYlFfRHo0b3R0YUZYb1laT3hWLXBHM09fQ0V2WFNiUG5manNEeUZyWFJYWXBFVHNjMnJBa3VQWGtKVlRDc1NhU0hfZ2czMk1QRGNpUUxZNmtMSUJGZmx5al9aV3ZGdVlSZng3MTlNQlVrN0JwUUQwR012TTBZcFNKOVBSZlFibkd3YTV0Q1NYRFFjaXdLSl9mTUtSTzBFRHJLdGd1TlI5TVc2Z3pfakw4S2dxaTM5MkdyMzhSVnNXZw?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFcwVzdpUjVhVGhHN0FHYlFfRHo0b3R0YUZYb1laT3hWLXBHM09fQ0V2WFNiUG5manNEeUZyWFJYWXBFVHNjMnJBa3VQWGtKVlRDc1NhU0hfZ2czMk1QRGNpUUxZNmtMSUJGZmx5al9aV3ZGdVlSZng3MTlNQlVrN0JwUUQwR012TTBZcFNKOVBSZlFibkd3YTV0Q1NYRFFjaXdLSl9mTUtSTzBFRHJLdGd1TlI5TVc2Z3pfakw4S2dxaTM5MkdyMz",
+      "publishedAt": "2026-06-06T10:25:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-08T02:07:37.387Z",
+      "isNew": true
     },
     {
       "title": "Présidentielle 2027: les sondages vont-ils choisir les candidats avant les électeurs? - LCP-Assemblée nationale",
@@ -64,126 +94,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-07T02:02:30.139Z",
-      "isNew": true
-    },
-    {
-      "title": "L'ex-premier ministre Gabriel Attal à Aix pour promouvoir son dernier livre sorti en librairie - La Provence",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQlN5MS05QThFX1BUeUF1X3VwVUVwY3VHXzVuX2VnR0NOaGNTaHdlWXlRWURxU3J2R201V0d5bWp6X0ZYcjNzRE5rUVdpYTczNHUtVmxLV3NTME5kX01UdE0xRms5amNVbktqZ1VXUTN3aXJSeWFDeWpLcHJaUTk4QjVRSUpsY0V5ZkxHVzBTcV9ZNWV0dTJNc2lPZ0pvb1hWREhSMVgtX2tEdFAzMFdQUDJERWJQNFFXUW5sMDNNb2piU1RHV0J5ZmNxMkZMSkJjUGdNVVM3NjFWckp4WWtPbW1qOGJQaG1xdC1wSms5Y0o?oc=5",
-      "source": "La Provence",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQlN5MS05QThFX1BUeUF1X3VwVUVwY3VHXzVuX2VnR0NOaGNTaHdlWXlRWURxU3J2R201V0d5bWp6X0ZYcjNzRE5rUVdpYTczNHUtVmxLV3NTME5kX01UdE0xRms5amNVbktqZ1VXUTN3aXJSeWFDeWpLcHJaUTk4QjVRSUpsY0V5ZkxHVzBTcV9ZNWV0dTJNc2lPZ0pvb1hWREhSMVgtX2tEdFAzMFdQUDJERWJQNFFXUW5sMDNNb2piU1RHV0J5Zm",
-      "publishedAt": "2026-06-05T13:13:32.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
       "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : Gabriel Attal pousse l’idée d’une primaire au centre - Europe 1",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2JnRl9wbXJYS0RjN08wTHE1amVhRy01clB0dmpCSDZUd2xiNWl1MzRLMUEwY2xmRi02UG5lQ0hRck9nckp1TmRmMFF0MlN2NVV4ZG1Id2JFekZ5dE9YWUJUUFdPX0VvMWN0Z3BQbzRNV2tFd1FiS2FJZ3loWVUyUHNRU094NUJpU1VZOWZqdjZwMUtaMmRYa0F6MExUdFF5QmRDc1AyYTdGSnkzX2NR0gG0AUFVX3lxTFBXZ1FIODYtOU92alIyOTltSHQzZ2VFc1NuTjcwY2t1N2N0aU0xYmIzZWlpQXBWakFiVnF4dngwdmUxZG5VYmZWWTJpVHZ6WldVUkl4MGUwQVlfUm0wRkhWUzB5bGN6N0dmSFNlXzdCWUx1RlFWaTRiMk4zQnZLTWRTdzJaMXFSYlRiWThVc0oyZVVtOXcxWG5nTl9GcFRYeUhydkQ0Mi1DVzBxaWxVcHVwcmNVNg?oc=5",
-      "source": "Europe 1",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2JnRl9wbXJYS0RjN08wTHE1amVhRy01clB0dmpCSDZUd2xiNWl1MzRLMUEwY2xmRi02UG5lQ0hRck9nckp1TmRmMFF0MlN2NVV4ZG1Id2JFekZ5dE9YWUJUUFdPX0VvMWN0Z3BQbzRNV2tFd1FiS2FJZ3loWVUyUHNRU094NUJpU1VZOWZqdjZwMUtaMmRYa0F6MExUdFF5QmRDc1AyYTdGSnkzX2NR0gG0AUFVX3lxTFBXZ1FIODYtOU92alIyOT",
-      "publishedAt": "2026-06-05T07:14:00.000Z",
+      "title": "Photo : Stephane Sejourne et Gabriel Attal lors du discours aux armées d'Emmanuel Macron à l'Hôtel de Brienne, siège du ministère des Armées. © Eliot Blondet/Pool/Bestimage - purepeople.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNJTXJPTkF5UjRkWHJSMUUzVzNhMEluaGltbm9WeFFTZHFQR0FvZjdhd2tfZS1fWmV2eE50c0JUNkxzVUdWWEhZU2d3S01oNkNzS2xRMUVLRHplMmk2WUlmb3VUZ0t4bWpNRHFBU3l1ZTZKc3YycEk5TUR1UlEzQ2o4R09FeVROdGk1QmlOWGxGWklvOVE?oc=5",
+      "source": "purepeople.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNJTXJPTkF5UjRkWHJSMUUzVzNhMEluaGltbm9WeFFTZHFQR0FvZjdhd2tfZS1fWmV2eE50c0JUNkxzVUdWWEhZU2d3S01oNkNzS2xRMUVLRHplMmk2WUlmb3VUZ0t4bWpNRHFBU3l1ZTZKc3YycEk5TUR1UlEzQ2o4R09FeVROdGk1QmlOWGxGWklvOVE?oc=5\" target=\"_blank\">Photo : Stephane Sejourne et Gabriel Attal l",
+      "publishedAt": "2026-06-06T07:58:32.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
-      "isNew": false
-    },
-    {
-      "title": "Candidature présidentielle : Attal sur les traces de Mélenchon - Le Point",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHpVWWZscmJaZDJZSmF3SmdFakZwcGFJdzlPZk5nNll1Uzc2a1BfZWtLajBucGUxcDJBMnpfdjBSaU1ZOFllZkFYWk85U2dVRm83X1hJQmR6aTVYcWZoYkpQbEM3dkpDN3VTNHpoWERnZTZ4dXk0ZGpJcWtfMzJyMVp3NDdfYlpSMVhKU3YwWFNmMGdseFkzeGRKQXN6Y0hzOW83c0JPcE1hYmxNNTNFWEtlQ0JiZWlOaHc?oc=5",
-      "source": "Le Point",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHpVWWZscmJaZDJZSmF3SmdFakZwcGFJdzlPZk5nNll1Uzc2a1BfZWtLajBucGUxcDJBMnpfdjBSaU1ZOFllZkFYWk85U2dVRm83X1hJQmR6aTVYcWZoYkpQbEM3dkpDN3VTNHpoWERnZTZ4dXk0ZGpJcWtfMzJyMVp3NDdfYlpSMVhKU3YwWFNmMGdseFkzeGRKQXN6Y0hzOW83c0JPcE1hYmxNNTNFWEtlQ0JiZWlOaHc?oc=5\" target=\"_bla",
-      "publishedAt": "2026-06-05T05:52:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal se muscle, le RN prépare le 7 juillet... Les indiscrets du Figaro - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT292UFdwNEZQci1DdGlULUlYQ2dIZC1wUXNfV1dpXzNvUXluRE8yUW40S2x1QXp2c1lDaDkwVERTaGJIYzUzVWVOMEFFYWtLdjFWZHZzYV9tdnB1ZW84b2NIMWtPT0pwQTd0bmtvY09nR0t6dUlCekhUdjdxQ1BDVXNabG9rc01saTFNeHFlZm14U0dEZHJoeFFWM09lcjRKdXlFUDVscUxEUGs2SWVOeHFqY2d5WGg5MGc?oc=5",
-      "source": "Le Figaro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOT292UFdwNEZQci1DdGlULUlYQ2dIZC1wUXNfV1dpXzNvUXluRE8yUW40S2x1QXp2c1lDaDkwVERTaGJIYzUzVWVOMEFFYWtLdjFWZHZzYV9tdnB1ZW84b2NIMWtPT0pwQTd0bmtvY09nR0t6dUlCekhUdjdxQ1BDVXNabG9rc01saTFNeHFlZm14U0dEZHJoeFFWM09lcjRKdXlFUDVscUxEUGs2SWVOeHFqY2d5WGg5MGc?oc=5\" target=\"_bla",
-      "publishedAt": "2026-06-05T18:00:05.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : pour gêner Edouard Philippe, Gabriel Attal n'abandonne pas l'idée d'une primaire - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVGhrUTR1Z3ZZTjhQTlRkWFFGWHAwU0RkNWZocWpjU1RLNTZySy1ZY2ttWkdXUG04Sl85OTJQNUZkMlBVcVRmTGMwUDhmUG5tZHp0VkU0VVZ4RHZ1ZURHSHA2c2NVdXJhTDM0M1lwWlg3VzJFS0dFeS1ISzloU0EzczRjY0JsaGFvNWpoN2xyOXFIbTM2TmRvd05rLVhIaGxnWDh1WFkwcmpzb2hKYkU3cFg1a2J5RkU4RzdIeHpaZU5DQ2FOVG42UGJZTVVfUngyUm12NXBGc2J6T05tUnRULXlOV09BZDd3?oc=5",
-      "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVGhrUTR1Z3ZZTjhQTlRkWFFGWHAwU0RkNWZocWpjU1RLNTZySy1ZY2ttWkdXUG04Sl85OTJQNUZkMlBVcVRmTGMwUDhmUG5tZHp0VkU0VVZ4RHZ1ZURHSHA2c2NVdXJhTDM0M1lwWlg3VzJFS0dFeS1ISzloU0EzczRjY0JsaGFvNWpoN2xyOXFIbTM2TmRvd05rLVhIaGxnWDh1WFkwcmpzb2hKYkU3cFg1a2J5RkU4RzdIeHpaZU5DQ2FOVG42UG",
-      "publishedAt": "2026-06-05T09:43:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
-      "isNew": false
-    },
-    {
-      "title": "À moins d’un an de la présidentielle de 2027, ce qui se cache derrière l’idée de primaire de Gabriel Attal - Le HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcE94STRGS2xndVV2M0lRR1JXUFFjYWR1VEoydmdnYWNoYS1JSm5TbGJ1VWZyME5tN0ZOUm1WTl9IOXhBQzd0c3N1bkZPZUJIQ3E4YWpkbVFRYzVfcVZ2ekRydTk2VDJoZXZic1E0WXlqRUpibE4tYTg3VFhkbEFMZVlzZmU2YXVweUZOVVAxb191SUZ4cldoaGR6dm50d2RuTnBqN3VSdENHYURhVldocFZablpWRWdpNUtRcnREbGZtd2xma1BEZmVEU0ZodGoyczlxLWN0N3g5dDJkVXFjRFgtYUd3NGlyMFhhWGk3TnAtY3dlMWRfMQ?oc=5",
-      "source": "Le HuffPost",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcE94STRGS2xndVV2M0lRR1JXUFFjYWR1VEoydmdnYWNoYS1JSm5TbGJ1VWZyME5tN0ZOUm1WTl9IOXhBQzd0c3N1bkZPZUJIQ3E4YWpkbVFRYzVfcVZ2ekRydTk2VDJoZXZic1E0WXlqRUpibE4tYTg3VFhkbEFMZVlzZmU2YXVweUZOVVAxb191SUZ4cldoaGR6dm50d2RuTnBqN3VSdENHYURhVldocFZablpWRWdpNUtRcnREbGZtd2xma1BEZm",
-      "publishedAt": "2026-06-05T13:44:50.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
+        "sejourne"
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-07T02:02:30.139Z",
-      "isNew": true
-    },
-    {
-      "title": "Pourquoi la sortie de l’Alsace du Grand Est divise-t-elle Gabriel Attal et Christophe Choserot (Renaissance) - La Semaine",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVzJoLU1KNFl2ZDUtbXBCdE1mbkowTHktSjlnS1p3bWF3dE5lYjVwY0p1MzU2dGVVMy1odGM5bUg5QjlEdHNCQW9uYXFkN2FaX0tTTVlfMFQweXRTMFlya2NBa1MtZGE4R2wtTXR1SngzVG1NbFYyQVNqRHlnLVp3Q2tNMTIxbHVEZ1VIc3NJVGtrWDFNMXNlTmUyaGVQVDNBWlZQcEtkZWRxNE54YXFTemllbGpjYzg1TVhHTWhyai1LWmgxaWkxZS03TnpvMm5sZHNWem5oak4?oc=5",
-      "source": "La Semaine",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVzJoLU1KNFl2ZDUtbXBCdE1mbkowTHktSjlnS1p3bWF3dE5lYjVwY0p1MzU2dGVVMy1odGM5bUg5QjlEdHNCQW9uYXFkN2FaX0tTTVlfMFQweXRTMFlya2NBa1MtZGE4R2wtTXR1SngzVG1NbFYyQVNqRHlnLVp3Q2tNMTIxbHVEZ1VIc3NJVGtrWDFNMXNlTmUyaGVQVDNBWlZQcEtkZWRxNE54YXFTemllbGpjYzg1TVhHTWhyai1LWmgxaWkxZS",
-      "publishedAt": "2026-06-05T04:09:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
-      "isNew": false
-    },
-    {
-      "title": "Ardèche. Présidentielle : Gabriel Attal drague les maires locaux pour obtenir ses parrainages - Le Dauphiné Libéré",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ3A5QWxPSVRMWXcwdU84NFZ0TDJ1WUJKTEZSU3JMOHZ0WDVuZTNTVWp0RnFKeExpaHgyYlpWYUZJXzMyMFVrVVZadXVOX3dKRnUxTmRfXzdCZ1g0dDhXS2VRUE4wX2RTSDBBU2FiMFcxYWpRSUUxLXN2Z05FZGRpWHBQOEsxU1ZWUGtOT1B3SUhWNGFrUUJDWHRjWjJxZnVnTEVtWDRzUlBsU0J0a25Zc1V6QlNUS0ptbVlxTXNFdDdUUnR2N2Z3bGxR?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ3A5QWxPSVRMWXcwdU84NFZ0TDJ1WUJKTEZSU3JMOHZ0WDVuZTNTVWp0RnFKeExpaHgyYlpWYUZJXzMyMFVrVVZadXVOX3dKRnUxTmRfXzdCZ1g0dDhXS2VRUE4wX2RTSDBBU2FiMFcxYWpRSUUxLXN2Z05FZGRpWHBQOEsxU1ZWUGtOT1B3SUhWNGFrUUJDWHRjWjJxZnVnTEVtWDRzUlBsU0J0a25Zc1V6QlNUS0ptbVlxTXNFdDdUUnR2N2Z3bG",
-      "publishedAt": "2026-06-05T09:31:51.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
       "isNew": false
     },
     {
@@ -199,62 +124,16 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-07T02:02:30.139Z",
-      "isNew": true
-    },
-    {
-      "title": "Photo : Stephane Sejourne et Gabriel Attal lors du discours aux armées d'Emmanuel Macron à l'Hôtel de Brienne, siège du ministère des Armées. © Eliot Blondet/Pool/Bestimage - purepeople.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNJTXJPTkF5UjRkWHJSMUUzVzNhMEluaGltbm9WeFFTZHFQR0FvZjdhd2tfZS1fWmV2eE50c0JUNkxzVUdWWEhZU2d3S01oNkNzS2xRMUVLRHplMmk2WUlmb3VUZ0t4bWpNRHFBU3l1ZTZKc3YycEk5TUR1UlEzQ2o4R09FeVROdGk1QmlOWGxGWklvOVE?oc=5",
-      "source": "purepeople.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjNJTXJPTkF5UjRkWHJSMUUzVzNhMEluaGltbm9WeFFTZHFQR0FvZjdhd2tfZS1fWmV2eE50c0JUNkxzVUdWWEhZU2d3S01oNkNzS2xRMUVLRHplMmk2WUlmb3VUZ0t4bWpNRHFBU3l1ZTZKc3YycEk5TUR1UlEzQ2o4R09FeVROdGk1QmlOWGxGWklvOVE?oc=5\" target=\"_blank\">Photo : Stephane Sejourne et Gabriel Attal l",
-      "publishedAt": "2026-06-06T07:58:32.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-07T02:02:30.139Z",
-      "isNew": true
-    },
-    {
-      "title": "Photo : Stéphane Séjourné - Cérémonie d'investiture du président de la République, Emmanuel Macron au Palais de l'Elysée à Paris le 7 ami 2022, suite à sa réélection le 24 avril dernier. © Dominique Jacovides/Bestimage - purepeople.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlZUOWpvenIwUFc3S3MyaHVzNWJpd1Y5Yk5UWWk1eXhPdzhwLWdUcVFWVEdub2g1SEJwaU45SGNNZVJHQWpNbEt3LUl4UmNoeE1xUlpXN0hpSG5HRDZqYWRJOXhhcHAzdkEtTzI3SU1iWW9HSGpieUtLUjhLZWZTYllkYmh4dl9Fb3ROeUZDa0ZsMHdC?oc=5",
-      "source": "purepeople.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxONlZUOWpvenIwUFc3S3MyaHVzNWJpd1Y5Yk5UWWk1eXhPdzhwLWdUcVFWVEdub2g1SEJwaU45SGNNZVJHQWpNbEt3LUl4UmNoeE1xUlpXN0hpSG5HRDZqYWRJOXhhcHAzdkEtTzI3SU1iWW9HSGpieUtLUjhLZWZTYllkYmh4dl9Fb3ROeUZDa0ZsMHdC?oc=5\" target=\"_blank\">Photo : Stéphane Séjourné - Cérémonie d'investi",
-      "publishedAt": "2026-06-05T15:02:22.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal sort « Attal Président », son application de campagne boostée à l&#x27;IA",
-      "url": "https://attalpresident.fr/actualites/attal-president-l-application-de-campagne-de-gabriel-attal-boostee-a-l-ia",
-      "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "Gabriel Attal lance « Attal Président », une application boostée à l&#x27;intelligence artificielle qui réinvente la campagne présidentielle. Un outil novateur pour mettre la technologie au service du terrain pour permettre à chaque Français de participer directement à la construction du projet présidentiel.",
-      "publishedAt": "2026-06-05T12:00:00.000Z",
-      "lang": "fr",
-      "type": "official",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-06-06T01:49:20.598Z",
       "isNew": false
     }
   ],
   "stats": {
-    "total": 16,
+    "total": 8,
     "new": 5,
-    "carried": 11,
-    "media": 15,
+    "carried": 3,
+    "media": 8,
     "agenda": 0,
-    "official": 1,
+    "official": 0,
     "coOccurrence": 0
   }
 }
