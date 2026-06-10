@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-06-09T01:45:42.461Z",
+  "generatedAt": "2026-06-10T01:56:24.059Z",
   "persons": [
     "attal",
     "sejourne"
   ],
   "lookbackHours": 48,
   "items": [
+    {
+      "title": "Attal et Bardella veulent supprimer l’âge légal de la retraite : ce que cela changerait vraiment - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUJvSHAyMU5lVllnTkNsS2JCaVd1Tk5JUGNyekRrNEs5RmN2bG1YQ1dtQ2tIS3hON1pkcjgwamhNWkhUNDRCVFR2a3JiT1d6cFNFQXJGRlhQNTFPVXpJX3RRbVA1cGYtZ3lrcXZYaFRwZTdhVEJHcjRQQjlKOFUteEZBYVNOTHdMX1BRYWpORVVCeVpqNkRvR3drZ2xLcEltcXFaNUJETzctU2hvcmdqREROVXEtOWtLb2RRa0Q5Vi1iSzlwakE?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUJvSHAyMU5lVllnTkNsS2JCaVd1Tk5JUGNyekRrNEs5RmN2bG1YQ1dtQ2tIS3hON1pkcjgwamhNWkhUNDRCVFR2a3JiT1d6cFNFQXJGRlhQNTFPVXpJX3RRbVA1cGYtZ3lrcXZYaFRwZTdhVEJHcjRQQjlKOFUteEZBYVNOTHdMX1BRYWpORVVCeVpqNkRvR3drZ2xLcEltcXFaNUJETzctU2hvcmdqREROVXEtOWtLb2RRa0Q5Vi1iSzlwakE?oc",
+      "publishedAt": "2026-06-08T15:55:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-10T01:56:24.059Z",
+      "isNew": true
+    },
     {
       "title": "Présidentielle 2027 : « Si Attal et Philippe se neutralisent, si Retailleau ne décolle pas, alors le nom de Jean Castex reviendra - Le Parisien",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTEtkRVpYLWJXZk1kOFo2bGNURXo4V3hPZmEzZFNNVWNDM082dFlZbUxtbDJMcl8wNC1RTXdMa0g2UU1ocndvYjVZR1c5N2RwWXdYb2FmRjl2cUMyUEZydzVfZUwyYjVYeUZ5OE5weTI2ZHQxT0RlRnFuVEtra0h0eHNUMVFYVXMtMFYzb1dKS0llVzYzeEVsRWNNRDlHN3QtdDhWbTBvYURMdlBSNl9sdl82Szh5dnN5RE02YmVacnRxZzM2eU1mcGxVak5OOUp4dUQtVFNBa3JoNmpSdk5vTjVubE1JTmNadHdqRkg0NE9EdE40dnRxZWs5cFA5Z3ZoVjg1UWtEYWlXQVhiSVNJdDFMV0M4SDZtQXlnR29ON1k5QUk?oc=5",
@@ -19,6 +34,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-09T01:45:42.461Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle : la promesse intenable du candidat Attal - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmItSzZ2VmxMVlhkODNXMkVRUDlDWXZTcFpLVENoZDFKYTd4VVBFOGNkemZNU1A2WEEwSWlyT1BTWUl5Mkc4Z0RNNFR4VzJHbHl5M3VfY29MUzBMVC1pa0FSWXBoZTNtZlpLN0xRLXZPT1hYMlNiOG9IR3ktbjNoT1h3S20wdzlZX0N1azk4SE9SQQ?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmItSzZ2VmxMVlhkODNXMkVRUDlDWXZTcFpLVENoZDFKYTd4VVBFOGNkemZNU1A2WEEwSWlyT1BTWUl5Mkc4Z0RNNFR4VzJHbHl5M3VfY29MUzBMVC1pa0FSWXBoZTNtZlpLN0xRLXZPT1hYMlNiOG9IR3ktbjNoT1h3S20wdzlZX0N1azk4SE9SQQ?oc=5\" target=\"_blank\">Présidentielle : la promesse intenable du candida",
+      "publishedAt": "2026-06-09T07:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-10T01:56:24.059Z",
       "isNew": true
     },
     {
@@ -34,66 +64,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-09T01:45:42.461Z",
-      "isNew": true
-    },
-    {
-      "title": "Le parti Renaissance garde finalement son nom et ne s’appellera pas \"Nouvelle République\" - lanouvellerepublique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0piU0xlbHVBWHBUbklrVDBnNDNsVUdyeWtWZGpBV3ZQN0NWTmhWM1JzQjZNeHo1dDlyT1pYUmdlUGZ0alJmYldSa2tPRFVJc01DazNOVjVPekxQd2d0NnpXTWpxalpyYkdRT0RHcXhLYVRDSXRmYl9KR1FIbWNQems3dlk5c1VSMGk2czNCbDdvQjAyTWlTNHFwVHVpM0JPSGk3bi1yRHNMR2MteHplLXlCRUFhZ282MS1rR3Q1dWw5cEMyM283QVFoeFl3VjByeUJvTFAxcjF4LUU?oc=5",
-      "source": "lanouvellerepublique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0piU0xlbHVBWHBUbklrVDBnNDNsVUdyeWtWZGpBV3ZQN0NWTmhWM1JzQjZNeHo1dDlyT1pYUmdlUGZ0alJmYldSa2tPRFVJc01DazNOVjVPekxQd2d0NnpXTWpxalpyYkdRT0RHcXhLYVRDSXRmYl9KR1FIbWNQems3dlk5c1VSMGk2czNCbDdvQjAyTWlTNHFwVHVpM0JPSGk3bi1yRHNMR2MteHplLXlCRUFhZ282MS1rR3Q1dWw5cEMyM283QV",
-      "publishedAt": "2026-06-07T12:03:29.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-08T02:07:37.387Z",
-      "isNew": false
-    },
-    {
-      "title": "La campagne électorale de Gabriel Attal est lancée à Amiens aussi - Courrier picard",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnp2eFp6a09LMHZ4U3RjSU1FcTIzLVpRU2hhcWRfaG1Xb3d2S1lTZUwtSVlRUGdtYnQxcGtPVmc1akJqdjNFNzZ4UUE5QkpTM3VVbWJLOXFuUkdoOThpcTFHNUlfZnBfVE1aRDJTQm8weFhvNkJxZ3JfaXllMnN2N0pBS05LYUYtaE9TT1RKdEhQV2JuLWxQY3p0R01MOTE5ODM3dF91TjF5eHhmZHdpelBTVFNiVEtVWkdHdDdKRQ?oc=5",
-      "source": "Courrier picard",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObnp2eFp6a09LMHZ4U3RjSU1FcTIzLVpRU2hhcWRfaG1Xb3d2S1lTZUwtSVlRUGdtYnQxcGtPVmc1akJqdjNFNzZ4UUE5QkpTM3VVbWJLOXFuUkdoOThpcTFHNUlfZnBfVE1aRDJTQm8weFhvNkJxZ3JfaXllMnN2N0pBS05LYUYtaE9TT1RKdEhQV2JuLWxQY3p0R01MOTE5ODM3dF91TjF5eHhmZHdpelBTVFNiVEtVWkdHdDdKRQ?oc=5\" targe",
-      "publishedAt": "2026-06-07T15:28:29.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-08T02:07:37.387Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : à l’heure des réseaux sociaux, les vieilles recettes pour crédibiliser sa candidature restent toujours d’actualité - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUUhGdDluaGpwUFdhUm1wTzRXYThWUlNvVzhZWTZIdU9MS1ZHUWd3d2JkclFmS041SnVIM2UtX3JMVXhkb1hua3RoMTAzY1F6blJhaks3MTRraV9kc0VoOFcxWklMandwV1ZfYm5Ga1NycVQyOUZvYUVuV1NFbTF5X2JwVy0zV1lYbTYtMThfUlg1R1diQzlZTm9nUXhxVnUwWjdhMFEyLTVRYjRlQzQ1N1oxQXM4Zk91VExwTGk2cXdLczB0TGt5MF83MHF2RDZ5VU5HMUZRVjJ0MVlOVk5TbkMxZGVYbllRanR5N29ONVlxYXdsUXlWaEh1OUdoaDZOUDhhcEVJUFRMRExINDFZbWFlU0p5eE5ZX0o1b3ZoU2VIN2x1V3NCMTRuaTJkdw?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxNUUhGdDluaGpwUFdhUm1wTzRXYThWUlNvVzhZWTZIdU9MS1ZHUWd3d2JkclFmS041SnVIM2UtX3JMVXhkb1hua3RoMTAzY1F6blJhaks3MTRraV9kc0VoOFcxWklMandwV1ZfYm5Ga1NycVQyOUZvYUVuV1NFbTF5X2JwVy0zV1lYbTYtMThfUlg1R1diQzlZTm9nUXhxVnUwWjdhMFEyLTVRYjRlQzQ1N1oxQXM4Zk91VExwTGk2cXdLczB0TGt5MF",
-      "publishedAt": "2026-06-07T04:00:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-09T01:45:42.461Z",
-      "isNew": true
-    },
-    {
-      "title": "Nos informations confidentielles. Un déjeuner pour le bloc central, Gabriel Attal conserve Renaissance... - La Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZFN4TlJlUWFmU3k3NDlLU3hKa3I0M0VMUGZXakhpZXJLZ1ZRU2VaaFFlWC00QzVhZXlISllWOTBwNjk2LXJxNWI0ZXhPWlRJOWkyeUtxelpGeVNQdlFObHVWYVphbmt5dThfZkdOQ1pvYm1IczlUYldMYnc2cEkxSUZSOWQwMWhnb3Flajl5YmRBa1hDRlVieW5zZmhQN3BZalQ1UmRwTW81eVp4a3hwQlVleVBSNzdNN09xcWhBTGlBYnAwUG9TWHpnYmt1azU1VmlYdjA1SWp3aHo5X0pwOFpjRk9YdV9OMEFZRzQ3TGw5TkJxZjNoWXF4elVKSjI5VU83ZnJkMW8tNVBZ?oc=5",
-      "source": "La Tribune",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPZFN4TlJlUWFmU3k3NDlLU3hKa3I0M0VMUGZXakhpZXJLZ1ZRU2VaaFFlWC00QzVhZXlISllWOTBwNjk2LXJxNWI0ZXhPWlRJOWkyeUtxelpGeVNQdlFObHVWYVphbmt5dThfZkdOQ1pvYm1IczlUYldMYnc2cEkxSUZSOWQwMWhnb3Flajl5YmRBa1hDRlVieW5zZmhQN3BZalQ1UmRwTW81eVp4a3hwQlVleVBSNzdNN09xcWhBTGlBYnAwUG9TWH",
-      "publishedAt": "2026-06-07T05:45:01.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-08T02:07:37.387Z",
       "isNew": false
     },
     {
@@ -109,6 +79,36 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-09T01:45:42.461Z",
+      "isNew": false
+    },
+    {
+      "title": "André Santini, le dernier adieu - issy.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWR2haeE4yU0VlOUNwb21CdmFhZmQzbmIycm54UHlZYWU5QWZQZWZWMUdxYVhsVUxzNGFYcGVkTWNuaVdGY2xBdEhCaWZtY0kxT2hUbW8zN1h2bnBhWW92MEhvTDhaTFN3NjlXNDhwWQ?oc=5",
+      "source": "issy.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBWR2haeE4yU0VlOUNwb21CdmFhZmQzbmIycm54UHlZYWU5QWZQZWZWMUdxYVhsVUxzNGFYcGVkTWNuaVdGY2xBdEhCaWZtY0kxT2hUbW8zN1h2bnBhWW92MEhvTDhaTFN3NjlXNDhwWQ?oc=5\" target=\"_blank\">André Santini, le dernier adieu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">issy.com</font>",
+      "publishedAt": "2026-06-09T10:14:40.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-10T01:56:24.059Z",
+      "isNew": true
+    },
+    {
+      "title": "L'équipe de Stéphane Séjourné à l'offensive sur la préférence européenne - La Lettre",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWGxMT2s2a1BRZmZlR0oxdElFRDlqNlFYWUtsZHNFYzYydldBMDcxMFczcV8xZlh6SU52ZWtYSDZxWFMtQ2MxNXVfdHhQaGVIQUhzVE1CZnNybGd2X2ZXT3RsZUxMWjFIMW9iZ2lCUUtyRFpGYldyTWtGQTloNU9rLWZHQl9xcGU1UUZfeEZmLTBrckJHRzF0VnFJdmtIVGFmdmJwcDdiX3NEQjlETDRNU0hMNFdIQmdaa1JFOG9vUzV2anRCTlVKSWN6bUFBQl9YMWNYOE5XNVZOTFE?oc=5",
+      "source": "La Lettre",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWGxMT2s2a1BRZmZlR0oxdElFRDlqNlFYWUtsZHNFYzYydldBMDcxMFczcV8xZlh6SU52ZWtYSDZxWFMtQ2MxNXVfdHhQaGVIQUhzVE1CZnNybGd2X2ZXT3RsZUxMWjFIMW9iZ2lCUUtyRFpGYldyTWtGQTloNU9rLWZHQl9xcGU1UUZfeEZmLTBrckJHRzF0VnFJdmtIVGFmdmJwcDdiX3NEQjlETDRNU0hMNFdIQmdaa1JFOG9vUzV2anRCTlVKSW",
+      "publishedAt": "2026-06-09T04:20:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "sejourne"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-10T01:56:24.059Z",
       "isNew": true
     },
     {
@@ -124,7 +124,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-09T01:45:42.461Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Mélanie Joly échange avec Stéphane Séjourné de l’UE – 8 juin 2026 - CPAC.ca",
@@ -139,7 +139,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-09T01:45:42.461Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Discours de la ministre de l’Industrie Mélanie Joly lors de la Conférence de Montréal - CPAC.ca",
@@ -154,7 +154,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-09T01:45:42.461Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Industry Minister Mélanie Joly Speaks with EU’s Stéphane Séjourné – June 8, 2026 - CPAC.ca",
@@ -169,32 +169,16 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-09T01:45:42.461Z",
-      "isNew": true
-    },
-    {
-      "title": "Force d&#x27;Agir : Une mobilisation des militants partout en France.",
-      "url": "https://attalpresident.fr/actualites/force-d-agir-une-mobilisation-eclair-des-militants-renaissance-partout-en-france",
-      "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "Quinze jours après l’annonce de sa candidature, et à peine une semaine après son Grand Meeting Porte de Versailles, la dynamique autour de Gabriel Attal continue de s’accélérer. Partout en France, des volontaires se sont mobilisés pour faire vivre la campagne sur le terrain.",
-      "publishedAt": "2026-06-07T12:00:00.000Z",
-      "lang": "fr",
-      "type": "official",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-06-09T01:45:42.461Z",
-      "isNew": true
+      "isNew": false
     }
   ],
   "stats": {
-    "total": 12,
-    "new": 9,
-    "carried": 3,
+    "total": 11,
+    "new": 4,
+    "carried": 7,
     "media": 11,
     "agenda": 0,
-    "official": 1,
+    "official": 0,
     "coOccurrence": 0
   }
 }
