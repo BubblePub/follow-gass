@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T02:06:20.294Z",
+  "generatedAt": "2026-06-15T02:10:30.049Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,78 +7,18 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Gabriel Attal au Figaro : « Il faut aligner le traitement des pédocriminels sur celui des terroristes » - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYlZPNDJCZEJneUw3MU9yMUw2b01CS045Wmh0Vy1yUWFodlpoOVloNE81UDFNQjdwTUpHOUtfeFB6Uk9pSlNTTWVZbmRoTmFfOGNOSzZFNW1id01xekZ2XzBCUGwzTnBUREswa3R4NWFaTmxzN3MtOTdJME1JdlE5R0NRZlF1dFFZeTB0X2c0OXFXTTM5ZmJkVnBJVnQ4S1ZRT3Z1QUs5WFdKelBwblkyU3c1RkRZalBKQmdLUUNEdUcxZXlhY2xJQTMyVnVfbnFQZnFzX0FHMA?oc=5",
-      "source": "Le Figaro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYlZPNDJCZEJneUw3MU9yMUw2b01CS045Wmh0Vy1yUWFodlpoOVloNE81UDFNQjdwTUpHOUtfeFB6Uk9pSlNTTWVZbmRoTmFfOGNOSzZFNW1id01xekZ2XzBCUGwzTnBUREswa3R4NWFaTmxzN3MtOTdJME1JdlE5R0NRZlF1dFFZeTB0X2c0OXFXTTM5ZmJkVnBJVnQ4S1ZRT3Z1QUs5WFdKelBwblkyU3c1RkRZalBKQmdLUUNEdUcxZXlhY2xJQT",
-      "publishedAt": "2026-06-12T17:51:04.000Z",
+      "title": "Violences sexuelles sur mineurs : Gabriel Attal veut instaurer une « culture de l’urgence » et ficher les pédocriminels - sudouest.fr",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNXzQzLTkxaXpsU1ZkbkIyT3MzSVgyYm9VaDBpaXJCTjIxdVVRY0Y2WE42VmdXLXpqLUxHcUs3TG96Z0JkM29mUlJXV2NEYjhrVUc5b3YxUXVheHlmMmhqZFhqWmEwbWVtOFRtaW11ZDUydU5iZVlRbmNQek01SVBtSGI2S3FxWmhQUGs2bFIyX3NyLXk5a2pONWhPSTJmcTBQQWJsTUJXRTl4ZHVmQnk2cEhXWEpsSjl4VG9KV2RJNUV3VDJHejloSm9fUnZXMU92STMtc29rSzE4M2ZRQ2tsS29YOGEyZ3JjUW1haWZXSTFhQQ?oc=5",
+      "source": "sudouest.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNXzQzLTkxaXpsU1ZkbkIyT3MzSVgyYm9VaDBpaXJCTjIxdVVRY0Y2WE42VmdXLXpqLUxHcUs3TG96Z0JkM29mUlJXV2NEYjhrVUc5b3YxUXVheHlmMmhqZFhqWmEwbWVtOFRtaW11ZDUydU5iZVlRbmNQek01SVBtSGI2S3FxWmhQUGs2bFIyX3NyLXk5a2pONWhPSTJmcTBQQWJsTUJXRTl4ZHVmQnk2cEhXWEpsSjl4VG9KV2RJNUV3VDJHejloSm",
+      "publishedAt": "2026-06-13T15:16:24.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
-      "isNew": false
-    },
-    {
-      "title": "Mort de Lyhanna : Gabriel Attal veut une « culture de l’urgence » et un fichage des pédocriminels - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbnp2Y1kyWGNwWXgzRGFJUFJSR3FzSktzaExqQk5acmcxOTNxUVQ2ZW1MX1FVTkZLNDRQYTZaT3lKUmc2OEEyN0Y1elIwV3VGZi1qZ1JEN3hJcHFsMnRNbkdGY1k3NXBURldXcGVTaGgzWGEtSUFKdFFkbHdIaklWd0FjaG9qeWpjcXRBUElPcnlzRlpES1hBNzN3Wm1rY0kyN2dWc3Z3dEJNMWJjMzdmWFFRclNnWTlPallHZjk1T2VRZXhQcDlFWjhXNmRGSVRDRGNCQUptM25XTG9BQkJFOTN2RE1nRkhjLWV4bXFMem0wdnI4OEE?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbnp2Y1kyWGNwWXgzRGFJUFJSR3FzSktzaExqQk5acmcxOTNxUVQ2ZW1MX1FVTkZLNDRQYTZaT3lKUmc2OEEyN0Y1elIwV3VGZi1qZ1JEN3hJcHFsMnRNbkdGY1k3NXBURldXcGVTaGgzWGEtSUFKdFFkbHdIaklWd0FjaG9qeWpjcXRBUElPcnlzRlpES1hBNzN3Wm1rY0kyN2dWc3Z3dEJNMWJjMzdmWFFRclNnWTlPallHZjk1T2VRZXhQcDlFWj",
-      "publishedAt": "2026-06-12T19:33:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
-      "isNew": false
-    },
-    {
-      "title": "Affaire Lyhanna: Gabriel Attal souhaite \"aligner le traitement des pédocriminels sur celui des terroristes\" - BFM",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ2lsTUI4azc4Q0F5bndjRnF6czUyMW5DVGxWWFBldkJLVkMtNXJVeEQ0cC1HQzJvQVJxX3FOdjM4V24tYy1JVlgwYXdOeS1sV0ZGMktSdkNGLUUxMlJRalFWei1HODNnY1BLMTYwZEh4TjZFLVp1UldnZUp0RkVVTW9CRVdlelI4WkZTaWFhT2JRM0YyQjRSalVCSE5sMWhud2V1UkZDZXhXWW9RWWZ5NlRkcFgza1BldVdnajkzRk5LQnpRaGtrdk5BTFJmOVhWck10UHZPeWM0VmtKRXdleElTRWRaWDhmMW5OaXc1NV9hZVN4REJVZk1xWk5JMUZIdjJaUUctUTI?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ2lsTUI4azc4Q0F5bndjRnF6czUyMW5DVGxWWFBldkJLVkMtNXJVeEQ0cC1HQzJvQVJxX3FOdjM4V24tYy1JVlgwYXdOeS1sV0ZGMktSdkNGLUUxMlJRalFWei1HODNnY1BLMTYwZEh4TjZFLVp1UldnZUp0RkVVTW9CRVdlelI4WkZTaWFhT2JRM0YyQjRSalVCSE5sMWhud2V1UkZDZXhXWW9RWWZ5NlRkcFgza1BldVdnajkzRk5LQnpRaGtrdk",
-      "publishedAt": "2026-06-12T19:45:33.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal : sa première interview avec Bruce Toussaint - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUZxMVF6ZjFIWXNYM3FnLXFnN1lxVEljbVNLbW44N3ZMdk95eHNyYW5mdTVHM3JlMWhDa2JfcWFGY3ZWRmlfOVpoRFh1SFBhTzR4ZU41emlvQnRiNTQzWkNzMWJ4V3NKQkZhNjV2TFptVnFoeDVWN2FqcDVUeVUxWTNWYURXR0NHeUREMUpuam1lNlphWThvN3RvWWtQcnRHbXk4QmtPd2FkalpqV0lFV1RjUC0?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUZxMVF6ZjFIWXNYM3FnLXFnN1lxVEljbVNLbW44N3ZMdk95eHNyYW5mdTVHM3JlMWhDa2JfcWFGY3ZWRmlfOVpoRFh1SFBhTzR4ZU41emlvQnRiNTQzWkNzMWJ4V3NKQkZhNjV2TFptVnFoeDVWN2FqcDVUeVUxWTNWYURXR0NHeUREMUpuam1lNlphWThvN3RvWWtQcnRHbXk4QmtPd2FkalpqV0lFV1RjUC0?oc=5\" target=\"_blank\">Gabr",
-      "publishedAt": "2026-06-13T08:30:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": true
-    },
-    {
-      "title": "Pourquoi Gabriel Attal fait le pari de l’intelligence artificielle dans la course à l’Elysée, entre stratégie politique et influence de Mistral AI - Le Nouvel Obs",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOenVXNXdIWUZTVDBfWFMwRDBHU2lDSF9iMTdpdWQ1QjRaY3NpUFJQWHRzVEpNdE1PaElmSVQyNXdRVEtVU3NkNEltczM2N0JtTjFob092YXJUcXlOcm85Mm1aZ25jaHFidkNqUEFHYTBFYWQzZDBJaU9QLWhvUTR2NGQwcjBjQllyMFNfbnlqdHJ2VXQ1SnpzUUgzUlpHcW1jbjVnYk9tRHR0Nng2ZVN6TEVPbDQ5TzlOcjlPWVFlNV9PVS1QWEJGenBkclkwUHJIdXlzMEpiTUt0elJYekRnTVNsN0VZNElmcFlDQkRjRV9aQ2tqZEFwQ1ZzU0I4ZTc1clA1eUxHaWVNT09DWjZYemVsd3Juem1hckpvUEYzVUIwU2xha3pmbWtDWG1tZw?oc=5",
-      "source": "Le Nouvel Obs",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOenVXNXdIWUZTVDBfWFMwRDBHU2lDSF9iMTdpdWQ1QjRaY3NpUFJQWHRzVEpNdE1PaElmSVQyNXdRVEtVU3NkNEltczM2N0JtTjFob092YXJUcXlOcm85Mm1aZ25jaHFidkNqUEFHYTBFYWQzZDBJaU9QLWhvUTR2NGQwcjBjQllyMFNfbnlqdHJ2VXQ1SnpzUUgzUlpHcW1jbjVnYk9tRHR0Nng2ZVN6TEVPbDQ5TzlOcjlPWVFlNV9PVS1QWEJGen",
-      "publishedAt": "2026-06-13T16:00:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
+      "firstSeenAt": "2026-06-15T02:10:30.049Z",
       "isNew": true
     },
     {
@@ -94,7 +34,52 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-14T02:06:20.294Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 : la lutte contre la pédocriminalité s'invite dans la campagne - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkV6VDJaQlVlWl9VOHZ5WGNQaHNEQzBfTWJ2Y1lQZlJiT2p5YjViNWRoTFFjN3ZOMDNqMlFfSmt3UUxQbXZidlZvM3lTTUctVWE1Y194ejlXeGFRTURoenJ4dEcyVk01ZzFDSU4zZjJhcXZrcXlqRV93MU1zVHZ4OG9lbXV1WHc4QkFCVTBLQW1ZTWdQZlprdW1xbXp4MGIxbWRVNlljbkZ5dkVXTEl4bksxMmswYVJYdDlPdmF6SGdVekxwNVpEc19pYUxvTnpWRi1LNGJ3?oc=5",
+      "source": "Les Echos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkV6VDJaQlVlWl9VOHZ5WGNQaHNEQzBfTWJ2Y1lQZlJiT2p5YjViNWRoTFFjN3ZOMDNqMlFfSmt3UUxQbXZidlZvM3lTTUctVWE1Y194ejlXeGFRTURoenJ4dEcyVk01ZzFDSU4zZjJhcXZrcXlqRV93MU1zVHZ4OG9lbXV1WHc4QkFCVTBLQW1ZTWdQZlprdW1xbXp4MGIxbWRVNlljbkZ5dkVXTEl4bksxMmswYVJYdDlPdmF6SGdVekxwNVpEc1",
+      "publishedAt": "2026-06-14T14:58:39.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-15T02:10:30.049Z",
       "isNew": true
+    },
+    {
+      "title": "Gabriel Attal : sa première interview avec Bruce Toussaint - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUZxMVF6ZjFIWXNYM3FnLXFnN1lxVEljbVNLbW44N3ZMdk95eHNyYW5mdTVHM3JlMWhDa2JfcWFGY3ZWRmlfOVpoRFh1SFBhTzR4ZU41emlvQnRiNTQzWkNzMWJ4V3NKQkZhNjV2TFptVnFoeDVWN2FqcDVUeVUxWTNWYURXR0NHeUREMUpuam1lNlphWThvN3RvWWtQcnRHbXk4QmtPd2FkalpqV0lFV1RjUC0?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUZxMVF6ZjFIWXNYM3FnLXFnN1lxVEljbVNLbW44N3ZMdk95eHNyYW5mdTVHM3JlMWhDa2JfcWFGY3ZWRmlfOVpoRFh1SFBhTzR4ZU41emlvQnRiNTQzWkNzMWJ4V3NKQkZhNjV2TFptVnFoeDVWN2FqcDVUeVUxWTNWYURXR0NHeUREMUpuam1lNlphWThvN3RvWWtQcnRHbXk4QmtPd2FkalpqV0lFV1RjUC0?oc=5\" target=\"_blank\">Gabr",
+      "publishedAt": "2026-06-13T08:30:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-14T02:06:20.294Z",
+      "isNew": false
+    },
+    {
+      "title": "Pourquoi Gabriel Attal fait le pari de l’intelligence artificielle dans la course à l’Elysée, entre stratégie politique et influence de Mistral AI - Le Nouvel Obs",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOenVXNXdIWUZTVDBfWFMwRDBHU2lDSF9iMTdpdWQ1QjRaY3NpUFJQWHRzVEpNdE1PaElmSVQyNXdRVEtVU3NkNEltczM2N0JtTjFob092YXJUcXlOcm85Mm1aZ25jaHFidkNqUEFHYTBFYWQzZDBJaU9QLWhvUTR2NGQwcjBjQllyMFNfbnlqdHJ2VXQ1SnpzUUgzUlpHcW1jbjVnYk9tRHR0Nng2ZVN6TEVPbDQ5TzlOcjlPWVFlNV9PVS1QWEJGenBkclkwUHJIdXlzMEpiTUt0elJYekRnTVNsN0VZNElmcFlDQkRjRV9aQ2tqZEFwQ1ZzU0I4ZTc1clA1eUxHaWVNT09DWjZYemVsd3Juem1hckpvUEYzVUIwU2xha3pmbWtDWG1tZw?oc=5",
+      "source": "Le Nouvel Obs",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOenVXNXdIWUZTVDBfWFMwRDBHU2lDSF9iMTdpdWQ1QjRaY3NpUFJQWHRzVEpNdE1PaElmSVQyNXdRVEtVU3NkNEltczM2N0JtTjFob092YXJUcXlOcm85Mm1aZ25jaHFidkNqUEFHYTBFYWQzZDBJaU9QLWhvUTR2NGQwcjBjQllyMFNfbnlqdHJ2VXQ1SnpzUUgzUlpHcW1jbjVnYk9tRHR0Nng2ZVN6TEVPbDQ5TzlOcjlPWVFlNV9PVS1QWEJGen",
+      "publishedAt": "2026-06-13T16:00:03.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-14T02:06:20.294Z",
+      "isNew": false
     },
     {
       "title": "Il faut un shérif à la droite et au centre - Le Point",
@@ -109,36 +94,51 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": true
-    },
-    {
-      "title": "Pédocriminalité : Gabriel Attal veut «aligner le traitement des pédocriminels sur celui des terroristes - Libération",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdVJsUjhxTmdIZ0Y3WjFOU2pRZWZBUnp4M3BSUE9tZE12dEhpbW9mNVl1WkhKbmlwdjdjWE52SzUxYm1QNTVRX3R2MGZuc2gwNi1lc0d4cjZYbXdmMmx3dmpHN2s2NU5iYUlSNmI5MmMyZnVLT0lKUjBoZ2QtNWtRVm93TWZpdEF5bkd2S3NJcTE4ZmdSbDJaWEctdGFvNWctQjV6RXFROGw3MzJCdzc2OU9IRWk0TkxlVEVGSTcybkhhNm1nSkNuc2lseFlvQWJjYXBSdUlhRGVQVDRFN1FXUi1Ob29VTFJwSDQ0MjVUcXZWYzVSTEp5NElSazFhRFFvVDVSNEk2TGVwcjNDb3ZVUHE1S2w?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNdVJsUjhxTmdIZ0Y3WjFOU2pRZWZBUnp4M3BSUE9tZE12dEhpbW9mNVl1WkhKbmlwdjdjWE52SzUxYm1QNTVRX3R2MGZuc2gwNi1lc0d4cjZYbXdmMmx3dmpHN2s2NU5iYUlSNmI5MmMyZnVLT0lKUjBoZ2QtNWtRVm93TWZpdEF5bkd2S3NJcTE4ZmdSbDJaWEctdGFvNWctQjV6RXFROGw3MzJCdzc2OU9IRWk0TkxlVEVGSTcybkhhNm1nSkNuc2",
-      "publishedAt": "2026-06-12T18:51:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
       "isNew": false
     },
     {
-      "title": "Obsèques de Lyhanna, Gabriel Attal, course à l'Elysée... La revue de presse nationale du 13 juin - Sud Radio",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2aFU5eFdRWDdGNUF6XzlnOUY4RGVsODJLX1ZFZlltcFNtMm1MT1J6RFpqV0t1b1liTDJmSzEyNktvcnJ2a2h4Y2N0c09sWkdVRHF6d1BPRXlEcjU3UzUyeXp1NGRkTGM?oc=5",
-      "source": "Sud Radio",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2aFU5eFdRWDdGNUF6XzlnOUY4RGVsODJLX1ZFZlltcFNtMm1MT1J6RFpqV0t1b1liTDJmSzEyNktvcnJ2a2h4Y2N0c09sWkdVRHF6d1BPRXlEcjU3UzUyeXp1NGRkTGM?oc=5\" target=\"_blank\">Obsèques de Lyhanna, Gabriel Attal, course à l'Elysée... La revue de presse nationale du 13 juin</a>&nbsp;&n",
-      "publishedAt": "2026-06-13T06:25:55.000Z",
+      "title": "Les Jeunes en Marche 04 soutiennent Gabriel Attal - hauteprovenceinfo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpJSmdpNXl3ZHlCVkQ5OEQ1SFh6WFNHY1RrLUlFYThrbU1hRFN3RVRnVjdNWEJjX0c5ZDhLRGdocWFnRGJ0ZWtYWDFpV2txNmp3emlTZDAwaU9vRGtUVjFhR0FBVEVhSFZSbjUzdmY1Sm1PNlRLRzR1ckMtaFYxVFlva1JTRFB5SzhPcGNUNExHWThLaUtHUlo0QjlRdm9Y?oc=5",
+      "source": "hauteprovenceinfo.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpJSmdpNXl3ZHlCVkQ5OEQ1SFh6WFNHY1RrLUlFYThrbU1hRFN3RVRnVjdNWEJjX0c5ZDhLRGdocWFnRGJ0ZWtYWDFpV2txNmp3emlTZDAwaU9vRGtUVjFhR0FBVEVhSFZSbjUzdmY1Sm1PNlRLRzR1ckMtaFYxVFlva1JTRFB5SzhPcGNUNExHWThLaUtHUlo0QjlRdm9Y?oc=5\" target=\"_blank\">Les Jeunes en Marche 04 soutien",
+      "publishedAt": "2026-06-14T14:32:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
+      "firstSeenAt": "2026-06-15T02:10:30.049Z",
+      "isNew": true
+    },
+    {
+      "title": "Les 2 vices de Gabriel Attal révélés au grand public : « C’est un anxieux qui tourne à la… - Parlons Basket",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY3Fob3lCSU9VQ2xhTDdwVFZWc2ZzcGh4X3hjdWpxV295QnpORm1xY0lRZ0tmUGxEZ1BEOGtQRWp4LTRiYzBkOXlDa2RCMDl4U2JsT3M1UWpBSVZZaS01cS1oNnl6d2daNW9GMG5YSW55cDlJQzRLWFhpRkNJdnlmN21feGd6YXZOQXZzRmJBNVhEbFd6aEJSUHFoM3JqcTRUT3lMZ3FJdTB5N0tNNkl0Y3hNSW1sdU4wQnVkZEQwMzhEWXpuZnc?oc=5",
+      "source": "Parlons Basket",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPY3Fob3lCSU9VQ2xhTDdwVFZWc2ZzcGh4X3hjdWpxV295QnpORm1xY0lRZ0tmUGxEZ1BEOGtQRWp4LTRiYzBkOXlDa2RCMDl4U2JsT3M1UWpBSVZZaS01cS1oNnl6d2daNW9GMG5YSW55cDlJQzRLWFhpRkNJdnlmN21feGd6YXZOQXZzRmJBNVhEbFd6aEJSUHFoM3JqcTRUT3lMZ3FJdTB5N0tNNkl0Y3hNSW1sdU4wQnVkZEQwMzhEWXpuZnc?oc",
+      "publishedAt": "2026-06-14T16:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-15T02:10:30.049Z",
+      "isNew": true
+    },
+    {
+      "title": "Au meeting de Glucksmann, cette différence de traitement fait déjà l’objet de détournements sur les réseaux sociaux - Le HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLThoODBuRDRYV0I3TEVjOS1xWHlPUEc5djltTm93ajQ3TFdrVEpiSUtQZ01FN2JYQzB0VDJnOXFiNDA3WGxVZUg0Z2VKalBfc1lycmVscm1kMEZtbFBTaDlrM29MNHhXMThhSDIxM0IyUTFHOE8zMy1KdVNsMzRXRk9oTFczbXViMDhabGxkX0xWZXp5UnNNRVlIaHNxSjY3OGxLT0k3VHEyQ2Fmalhpc0tXdExZU1lxaVAxRGNNQmliOFRkU0szOGp1eDE5Rmc4bDF2VlhNUkdUMWlwbkJobV9oSjRmZ0I5Sm5mSzQ2eWZ6UEkyZDNxTnFjODVXelp3cW8zbw?oc=5",
+      "source": "Le HuffPost",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPLThoODBuRDRYV0I3TEVjOS1xWHlPUEc5djltTm93ajQ3TFdrVEpiSUtQZ01FN2JYQzB0VDJnOXFiNDA3WGxVZUg0Z2VKalBfc1lycmVscm1kMEZtbFBTaDlrM29MNHhXMThhSDIxM0IyUTFHOE8zMy1KdVNsMzRXRk9oTFczbXViMDhabGxkX0xWZXp5UnNNRVlIaHNxSjY3OGxLT0k3VHEyQ2Fmalhpc0tXdExZU1lxaVAxRGNNQmliOFRkU0szOG",
+      "publishedAt": "2026-06-14T07:55:59.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-15T02:10:30.049Z",
       "isNew": true
     },
     {
@@ -154,59 +154,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": true
-    },
-    {
-      "title": "Affaire Lyhanna : Gabriel Attal veut une « culture de l’urgence » et un fichage des pédocriminels - Nice-Matin",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTY1Y19EbXNhNGIzaXM1d2lqa2stS3Q0STk3NDFRRlpZM09lZlF2SGdWUWtSMllveEc4SnIzMmpZSElzUzF6Rlh1QTUtSWpFNWluTXNQMlRhNTRCMy1WdUpHTTBzVjdORjJHeDhUNmhIWEtPdTZVRW9BZEpLLTI1N0NFNUZWQzRLYUlQNHNVREpDUERlWGdHYm5FamdvZWhzUWl2TFRIeE1hRnEwQm50MlNYc1dlTjVzUFdLVjJRTjZNU2V3M3pCc0ZGYi02V1JaUFY0N1JZcFFLZjF6?oc=5",
-      "source": "Nice-Matin",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTY1Y19EbXNhNGIzaXM1d2lqa2stS3Q0STk3NDFRRlpZM09lZlF2SGdWUWtSMllveEc4SnIzMmpZSElzUzF6Rlh1QTUtSWpFNWluTXNQMlRhNTRCMy1WdUpHTTBzVjdORjJHeDhUNmhIWEtPdTZVRW9BZEpLLTI1N0NFNUZWQzRLYUlQNHNVREpDUERlWGdHYm5FamdvZWhzUWl2TFRIeE1hRnEwQm50MlNYc1dlTjVzUFdLVjJRTjZNU2V3M3pCc0",
-      "publishedAt": "2026-06-12T18:20:58.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
       "isNew": false
     },
     {
-      "title": "Affaire Lyhanna : Gabriel Attal veut une «culture de l'urgence» et un fichage des pédocriminels - Europe 1",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXc0TGxxWUtTTWRLLVN3UGYzTkhmMVFKT3lVZ2lfbFQ5d1ZMLVpWeFpwak01dEJFODZZalo4SnNQNW1ibXBWR3FUWkluVV9TQWhiTjZGYUpybW83dEFSdXR1YkQ3S2NOa3puaGx1cFBKakd4cG9OOE83N1JIS2RLZzg0dERmeXRXTFpPNjEwWG1JWFBPN1RoNWpLTEtoeTJIQkNycjZMNWxuTnB6VW56d1NJNS1BZlE3bnNLN21TbXVSUmRpVEYwQUJR0gHPAUFVX3lxTE5MTXhqb19IRlNyWDZDamh5TlViUXRvaXZ6cmlmUHlrRWxQUUxzQ25wU2U5Mnp2dnd2dkx0SzBYMWRKcjlNNXBiT3QybUUxSUcwaDRjam9MSmNlR3NJWnZZSVdYaE1EWm9zaThPOUpydjZ3UEpOcno4Q2VpVWUyRl9yYWtSaVAwN0didnA5cHNObXFiVVJaWlZzQUJqVjU5TFUzcE1RN0ZYWG9YOFlMRVFQdkNqeU5UR2UyZFJLczBlTVlYSzI5X2lpZDhobmU0TQ?oc=5",
-      "source": "Europe 1",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXc0TGxxWUtTTWRLLVN3UGYzTkhmMVFKT3lVZ2lfbFQ5d1ZMLVpWeFpwak01dEJFODZZalo4SnNQNW1ibXBWR3FUWkluVV9TQWhiTjZGYUpybW83dEFSdXR1YkQ3S2NOa3puaGx1cFBKakd4cG9OOE83N1JIS2RLZzg0dERmeXRXTFpPNjEwWG1JWFBPN1RoNWpLTEtoeTJIQkNycjZMNWxuTnB6VW56d1NJNS1BZlE3bnNLN21TbXVSUmRpVEYwQU",
-      "publishedAt": "2026-06-12T19:50:51.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
-      "isNew": false
-    },
-    {
-      "title": "Mort de Lyhanna : Gabriel Attal veut instaurer une \"culture de l'urgence\" face aux atteintes aux mineurs - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdXlBU09fcFdKRElaS1pMMFV6SjVtbUttTjh3VnJILVFpclM3WTl5cnlyMVJXNjc2eUZPMk50MktmVFJMSWJkVFBuVHdBQUVrTEJOeVJ1ZDc1X1pfSjFvb05UQ0c5eDBFSkNHZ0pVRXFzWmVPSmlMbFlySFRxN2xua0VDS0NwbVZqNUNtOXVYNS1xUGtmcmp6OFV1RExGN0dwaDBCT3dIT2xfRGRZeTBtRmZldFFXRGJNZVVjSVBvNG1DMUlsMEFJMkpBV1gzVE1EN2FNZnpSYm5WOVRGMVNPNWRCcHB4a2s4Q0wtZnBMVXhnY3RxVGJodGVOOFcxOEttU3owQTBKeHhlR3lsNXNRX0NVZXdYYmpsdHhzR3dVN1FVQlJla1NIZG5uVEN5MzVwQWItQg?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxQdXlBU09fcFdKRElaS1pMMFV6SjVtbUttTjh3VnJILVFpclM3WTl5cnlyMVJXNjc2eUZPMk50MktmVFJMSWJkVFBuVHdBQUVrTEJOeVJ1ZDc1X1pfSjFvb05UQ0c5eDBFSkNHZ0pVRXFzWmVPSmlMbFlySFRxN2xua0VDS0NwbVZqNUNtOXVYNS1xUGtmcmp6OFV1RExGN0dwaDBCT3dIT2xfRGRZeTBtRmZldFFXRGJNZVVjSVBvNG1DMUlsMEFJMk",
-      "publishedAt": "2026-06-12T07:37:47.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
-      "isNew": false
-    },
-    {
-      "title": "« La guerre de l'IA a déjà commencé » : Mélenchon, Attal, Bardella, Retailleau, la coupure d'Anthropic les met tous d'accord - Frandroid",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMzRPcUUyWmp0VVVOUlpKY2xvYUE3SlBIX0JrNEE1NTFOQl92b2prdGZYUXAxdmVRUHptM3locGJlOHZoQmF0NXE2NUxCZnd3YWdyYmNiMVVpQlBMMU9WajJhQktFd2xyZFlaTjhYWWgwOXZtVlJteGJ0aEVpR0luRF82eTVHQXptWHZKV0c3QzJsWmZBc3VCYWppUmJSd0tzekNtM3Z1aWw2bmthZS1oSmVUcUZhQUh1V3ZoeWlIcFB3WnBYODRZSThOUVNWdnJTUzEwTXhCelB2REZtb21GUXpNV3NDa25HUlRBampzdkZSaGFXd1E2akNwaU9yNExj?oc=5",
-      "source": "Frandroid",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQMzRPcUUyWmp0VVVOUlpKY2xvYUE3SlBIX0JrNEE1NTFOQl92b2prdGZYUXAxdmVRUHptM3locGJlOHZoQmF0NXE2NUxCZnd3YWdyYmNiMVVpQlBMMU9WajJhQktFd2xyZFlaTjhYWWgwOXZtVlJteGJ0aEVpR0luRF82eTVHQXptWHZKV0c3QzJsWmZBc3VCYWppUmJSd0tzekNtM3Z1aWw2bmthZS1oSmVUcUZhQUh1V3ZoeWlIcFB3WnBYODRZST",
-      "publishedAt": "2026-06-13T15:01:00.000Z",
+      "title": "Obsèques de Lyhanna, Gabriel Attal, course à l'Elysée... La revue de presse nationale du 13 juin - Sud Radio",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2aFU5eFdRWDdGNUF6XzlnOUY4RGVsODJLX1ZFZlltcFNtMm1MT1J6RFpqV0t1b1liTDJmSzEyNktvcnJ2a2h4Y2N0c09sWkdVRHF6d1BPRXlEcjU3UzUyeXp1NGRkTGM?oc=5",
+      "source": "Sud Radio",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2aFU5eFdRWDdGNUF6XzlnOUY4RGVsODJLX1ZFZlltcFNtMm1MT1J6RFpqV0t1b1liTDJmSzEyNktvcnJ2a2h4Y2N0c09sWkdVRHF6d1BPRXlEcjU3UzUyeXp1NGRkTGM?oc=5\" target=\"_blank\">Obsèques de Lyhanna, Gabriel Attal, course à l'Elysée... La revue de presse nationale du 13 juin</a>&nbsp;&n",
+      "publishedAt": "2026-06-13T06:25:55.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -214,6 +169,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-14T02:06:20.294Z",
+      "isNew": false
+    },
+    {
+      "title": "French presidential election: Gabriel Attal wants to reinvent Macronism - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1ZFSWJkTnIxNzk2clp4UW5kV2dQNjM2ek1xa2FISmJnQVpTS3FhM1VPUHZjSEZvNGgzdmM1LUdTMTJFUjZrRGZuMXBGTlNQNnh0WlE4TENfZDVxN2g3NldKWkg0M0UzckltWE9tY216RHp2TElmRS1wajAxWTJFUXBnUXJOWXVJd0JpTnNxcHpDeDdKUmZSWmhIX3VoU2ZLMEo1YUhEUW5ETGJFejRXVTVWenpxS1JYOUpQNGxfWlRoRGk0aklEY19KUGR6Zk5pYW9MWWVR?oc=5",
+      "source": "Le Monde.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1ZFSWJkTnIxNzk2clp4UW5kV2dQNjM2ek1xa2FISmJnQVpTS3FhM1VPUHZjSEZvNGgzdmM1LUdTMTJFUjZrRGZuMXBGTlNQNnh0WlE4TENfZDVxN2g3NldKWkg0M0UzckltWE9tY216RHp2TElmRS1wajAxWTJFUXBnUXJOWXVJd0JpTnNxcHpDeDdKUmZSWmhIX3VoU2ZLMEo1YUhEUW5ETGJFejRXVTVWenpxS1JYOUpQNGxfWlRoRGk0aklEY1",
+      "publishedAt": "2026-06-14T11:30:12.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-15T02:10:30.049Z",
       "isNew": true
     },
     {
@@ -229,7 +199,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Commission des affaires économiques : Audition, conjointe avec la commission des affaires économiques du Sénat, de M. Stéphane Séjourné, vice-président exécutif pour la prospérité et la stratégie industrielle de la Commission européenne - Contexte",
@@ -244,21 +214,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": true
-    },
-    {
-      "title": "La bataille de France Chimie pour bénéficier de l'accélérateur industriel européen - La Lettre",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhqRER2aUhSdFpvQnZHXzR5cWxRTC0ycUxMOG5RMzhmLU5YbzJqaDNyX3JHX2FhNFpNcGwtZk9EYTd1SndzRmtBeHlBNDI5X043TE5Hc2szMXBzOTN3ZVoxTFB2OWZScVJvaWRRMzBHZzR4eTRDMVFTYVo0UWxrNzRQQU1Wbnd1cms3cVpOQ3praGt5b1BKZVFPQ3hUVm4tZndlQnJ3RmY0LThpR3NkWnlUaWFtTWpra1g4VjJGREZZYnloYkVFbElqMWZ2elZuUWZCRXpkYmg3SWJCTHgxX1JrVERvMFBm?oc=5",
-      "source": "La Lettre",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnhqRER2aUhSdFpvQnZHXzR5cWxRTC0ycUxMOG5RMzhmLU5YbzJqaDNyX3JHX2FhNFpNcGwtZk9EYTd1SndzRmtBeHlBNDI5X043TE5Hc2szMXBzOTN3ZVoxTFB2OWZScVJvaWRRMzBHZzR4eTRDMVFTYVo0UWxrNzRQQU1Wbnd1cms3cVpOQ3praGt5b1BKZVFPQ3hUVm4tZndlQnJ3RmY0LThpR3NkWnlUaWFtTWpra1g4VjJGREZZYnloYkVFbE",
-      "publishedAt": "2026-06-12T04:20:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
       "isNew": false
     },
     {
@@ -274,35 +229,16 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal appelle à une « Nouvelle Justice » dans Le Figaro",
-      "url": "https://attalpresident.fr/actualites/gabriel-attal-dans-le-figaro-appelle-a-une-nouvelle-justice",
-      "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "À la suite du meurtre de la jeune Lyhanna, qui a provoqué une véritable onde de choc dans le pays, Gabriel Attal prend la parole dans Le Figaro. Refusant toute fatalité et dénonçant les défaillances systémiques de l&#x27;État qui a failli à sa mission première de protection des plus vulnérables, l&#x27;ancien Premier m",
-      "publishedAt": "2026-06-12T12:00:00.000Z",
-      "lang": "fr",
-      "type": "official",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-06-13T01:56:53.398Z",
       "isNew": false
     }
   ],
   "stats": {
-    "total": 19,
-    "new": 10,
+    "total": 15,
+    "new": 6,
     "carried": 9,
-    "media": 18,
+    "media": 15,
     "agenda": 0,
-    "official": 1,
+    "official": 0,
     "coOccurrence": 0
-  },
-  "errors": [
-    "agenda sejourne: 403 https://commission.europa.eu/node/33084/rss_en?f%5B0%5D=commissioner_dynamic_commissioner_dynamic%3Ahttp%3A//publications.europa.eu/resource/authority/political-leader/COM_00006A047C6D"
-  ]
+  }
 }
