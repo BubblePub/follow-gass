@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T02:10:30.049Z",
+  "generatedAt": "2026-06-16T02:14:18.261Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,108 +7,78 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Violences sexuelles sur mineurs : Gabriel Attal veut instaurer une « culture de l’urgence » et ficher les pédocriminels - sudouest.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNXzQzLTkxaXpsU1ZkbkIyT3MzSVgyYm9VaDBpaXJCTjIxdVVRY0Y2WE42VmdXLXpqLUxHcUs3TG96Z0JkM29mUlJXV2NEYjhrVUc5b3YxUXVheHlmMmhqZFhqWmEwbWVtOFRtaW11ZDUydU5iZVlRbmNQek01SVBtSGI2S3FxWmhQUGs2bFIyX3NyLXk5a2pONWhPSTJmcTBQQWJsTUJXRTl4ZHVmQnk2cEhXWEpsSjl4VG9KV2RJNUV3VDJHejloSm9fUnZXMU92STMtc29rSzE4M2ZRQ2tsS29YOGEyZ3JjUW1haWZXSTFhQQ?oc=5",
-      "source": "sudouest.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNXzQzLTkxaXpsU1ZkbkIyT3MzSVgyYm9VaDBpaXJCTjIxdVVRY0Y2WE42VmdXLXpqLUxHcUs3TG96Z0JkM29mUlJXV2NEYjhrVUc5b3YxUXVheHlmMmhqZFhqWmEwbWVtOFRtaW11ZDUydU5iZVlRbmNQek01SVBtSGI2S3FxWmhQUGs2bFIyX3NyLXk5a2pONWhPSTJmcTBQQWJsTUJXRTl4ZHVmQnk2cEhXWEpsSjl4VG9KV2RJNUV3VDJHejloSm",
-      "publishedAt": "2026-06-13T15:16:24.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-15T02:10:30.049Z",
-      "isNew": true
-    },
-    {
-      "title": "SONDAGE EXCLUSIF – Présidentielle : un premier tour plus ouvert que jamais - lejdd.fr",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdEeFFpOGZoOG9fOU1kbEQwcHFEeWQ3TmNicmtmbUtZVGJyLUhBYjI3YndXOVRLQlk5eUZUcml2a1pIM3VmSldUT1R2N3ZFNnFadTF6VElBM0RqeFdyeEhTdkY3eXRMZTlKb2ZtUFZQLXFjWS1GRDVmZzFXMGV0aHo4T1FqdGV1eTFSMlM2aEpaaHN6enNCaV9SSl9DR0JXVkVIT0Y3bjhqaVJy?oc=5",
-      "source": "lejdd.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTdEeFFpOGZoOG9fOU1kbEQwcHFEeWQ3TmNicmtmbUtZVGJyLUhBYjI3YndXOVRLQlk5eUZUcml2a1pIM3VmSldUT1R2N3ZFNnFadTF6VElBM0RqeFdyeEhTdkY3eXRMZTlKb2ZtUFZQLXFjWS1GRDVmZzFXMGV0aHo4T1FqdGV1eTFSMlM2aEpaaHN6enNCaV9SSl9DR0JXVkVIT0Y3bjhqaVJy?oc=5\" target=\"_blank\">SONDAGE EXCLUSI",
-      "publishedAt": "2026-06-13T17:00:06.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : la lutte contre la pédocriminalité s'invite dans la campagne - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkV6VDJaQlVlWl9VOHZ5WGNQaHNEQzBfTWJ2Y1lQZlJiT2p5YjViNWRoTFFjN3ZOMDNqMlFfSmt3UUxQbXZidlZvM3lTTUctVWE1Y194ejlXeGFRTURoenJ4dEcyVk01ZzFDSU4zZjJhcXZrcXlqRV93MU1zVHZ4OG9lbXV1WHc4QkFCVTBLQW1ZTWdQZlprdW1xbXp4MGIxbWRVNlljbkZ5dkVXTEl4bksxMmswYVJYdDlPdmF6SGdVekxwNVpEc19pYUxvTnpWRi1LNGJ3?oc=5",
+      "title": "Supprimer l'âge légal de départ en retraite ? Le débat explosif qui monte - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXZBMVl2WVJnbXIwdTBzUWgyRU1kN2ZROGJmelhqMmhXaEJSUk52bi1zOTl2cTVldDg1aWdxMXFTR1VSRXE0a3dJQ3UtYndrU3N0OWxnelBzcldMTjI2ZGhLcEo5d3dmY2FvNEo5bThSbUQ2TEZyNlNKRGpiSkc1aG1uS1RKUjRpX0JBV21qdWVXaUhWTDBFRHp2Ml9zS0xCWXZCSDNhRmR1cEt5TEVHMzNTWGJoRURyWVl4NjRnUWEyLW8?oc=5",
       "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkV6VDJaQlVlWl9VOHZ5WGNQaHNEQzBfTWJ2Y1lQZlJiT2p5YjViNWRoTFFjN3ZOMDNqMlFfSmt3UUxQbXZidlZvM3lTTUctVWE1Y194ejlXeGFRTURoenJ4dEcyVk01ZzFDSU4zZjJhcXZrcXlqRV93MU1zVHZ4OG9lbXV1WHc4QkFCVTBLQW1ZTWdQZlprdW1xbXp4MGIxbWRVNlljbkZ5dkVXTEl4bksxMmswYVJYdDlPdmF6SGdVekxwNVpEc1",
-      "publishedAt": "2026-06-14T14:58:39.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNXZBMVl2WVJnbXIwdTBzUWgyRU1kN2ZROGJmelhqMmhXaEJSUk52bi1zOTl2cTVldDg1aWdxMXFTR1VSRXE0a3dJQ3UtYndrU3N0OWxnelBzcldMTjI2ZGhLcEo5d3dmY2FvNEo5bThSbUQ2TEZyNlNKRGpiSkc1aG1uS1RKUjRpX0JBV21qdWVXaUhWTDBFRHp2Ml9zS0xCWXZCSDNhRmR1cEt5TEVHMzNTWGJoRURyWVl4NjRnUWEyLW8?oc=5\" ",
+      "publishedAt": "2026-06-15T05:01:17.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-15T02:10:30.049Z",
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
       "isNew": true
     },
     {
-      "title": "Gabriel Attal : sa première interview avec Bruce Toussaint - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUZxMVF6ZjFIWXNYM3FnLXFnN1lxVEljbVNLbW44N3ZMdk95eHNyYW5mdTVHM3JlMWhDa2JfcWFGY3ZWRmlfOVpoRFh1SFBhTzR4ZU41emlvQnRiNTQzWkNzMWJ4V3NKQkZhNjV2TFptVnFoeDVWN2FqcDVUeVUxWTNWYURXR0NHeUREMUpuam1lNlphWThvN3RvWWtQcnRHbXk4QmtPd2FkalpqV0lFV1RjUC0?oc=5",
+      "title": "Intelligence artificielle: Gabriel Attal estime \"qu'on est dans une guerre technologique\" - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdzdPNWxiV2JuVnlmb0hVVTdiOWhsQW4zZ0t0NFRValktNTFLdjA1N01SZ0phdFZOdFVwLXdDb05zTFlhd0NIN3czNEF0QmstMnU2UmoxVTI0RVFrTjZTbWh0cDRhZ3VkdGx6YVprZUVuSTZ1VnBQbFdLdlRkVnZoQzkwRVJXVG9uM1ZwTlFQYzJRZWUxRGpkTVhBQ2RUYTdESmZ6d3RjR2hCUlh1VVVEMW56UkFheU1fVjctLW9BLU5kYXhsZjJNMGN2VmFKN3ZxYTh6aTRDRU9aYmM?oc=5",
       "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUZxMVF6ZjFIWXNYM3FnLXFnN1lxVEljbVNLbW44N3ZMdk95eHNyYW5mdTVHM3JlMWhDa2JfcWFGY3ZWRmlfOVpoRFh1SFBhTzR4ZU41emlvQnRiNTQzWkNzMWJ4V3NKQkZhNjV2TFptVnFoeDVWN2FqcDVUeVUxWTNWYURXR0NHeUREMUpuam1lNlphWThvN3RvWWtQcnRHbXk4QmtPd2FkalpqV0lFV1RjUC0?oc=5\" target=\"_blank\">Gabr",
-      "publishedAt": "2026-06-13T08:30:00.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdzdPNWxiV2JuVnlmb0hVVTdiOWhsQW4zZ0t0NFRValktNTFLdjA1N01SZ0phdFZOdFVwLXdDb05zTFlhd0NIN3czNEF0QmstMnU2UmoxVTI0RVFrTjZTbWh0cDRhZ3VkdGx6YVprZUVuSTZ1VnBQbFdLdlRkVnZoQzkwRVJXVG9uM1ZwTlFQYzJRZWUxRGpkTVhBQ2RUYTdESmZ6d3RjR2hCUlh1VVVEMW56UkFheU1fVjctLW9BLU5kYXhsZjJNMG",
+      "publishedAt": "2026-06-15T06:53:54.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": false
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
     },
     {
-      "title": "Pourquoi Gabriel Attal fait le pari de l’intelligence artificielle dans la course à l’Elysée, entre stratégie politique et influence de Mistral AI - Le Nouvel Obs",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOenVXNXdIWUZTVDBfWFMwRDBHU2lDSF9iMTdpdWQ1QjRaY3NpUFJQWHRzVEpNdE1PaElmSVQyNXdRVEtVU3NkNEltczM2N0JtTjFob092YXJUcXlOcm85Mm1aZ25jaHFidkNqUEFHYTBFYWQzZDBJaU9QLWhvUTR2NGQwcjBjQllyMFNfbnlqdHJ2VXQ1SnpzUUgzUlpHcW1jbjVnYk9tRHR0Nng2ZVN6TEVPbDQ5TzlOcjlPWVFlNV9PVS1QWEJGenBkclkwUHJIdXlzMEpiTUt0elJYekRnTVNsN0VZNElmcFlDQkRjRV9aQ2tqZEFwQ1ZzU0I4ZTc1clA1eUxHaWVNT09DWjZYemVsd3Juem1hckpvUEYzVUIwU2xha3pmbWtDWG1tZw?oc=5",
-      "source": "Le Nouvel Obs",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOenVXNXdIWUZTVDBfWFMwRDBHU2lDSF9iMTdpdWQ1QjRaY3NpUFJQWHRzVEpNdE1PaElmSVQyNXdRVEtVU3NkNEltczM2N0JtTjFob092YXJUcXlOcm85Mm1aZ25jaHFidkNqUEFHYTBFYWQzZDBJaU9QLWhvUTR2NGQwcjBjQllyMFNfbnlqdHJ2VXQ1SnpzUUgzUlpHcW1jbjVnYk9tRHR0Nng2ZVN6TEVPbDQ5TzlOcjlPWVFlNV9PVS1QWEJGen",
-      "publishedAt": "2026-06-13T16:00:03.000Z",
+      "title": "Intelligence artificielle : Gabriel Attal estime que la France peut faire partie des gagnants de « la guerre technologique » - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcV9fOVJqSl82ZlFud0RVZ0pxZlRYZl9MTEt6QlpmTmt4eDA5aUZidExxbE9ZRS1HTmVPMFpUSFJPN29lMG1QY0xZX1l1NXhlSHZiQkdUN0lIcmpmUUh1OWxTMEtSTzFtQk13U09hZ25ZajNPVU04MVQ5RnBxX1h1OUlxNGFCVzZxc3pnSFM2b3EzaV9sZEJnRTdreTBhVjlSSlhZUWxHMWdiVDdlWnpsUHl1cmpGa3NBbVJLSl9tSGtUbm9GTy1mbUZtUmlud1VoVWxCbWp5WkNnTXFYUnZ4eHV4WDJyX2Vmd0g4ckRXN2JBazZlN28yNll5MmtYTHIzQXdKNnpYMXNtczhhNnRXTXE4V1FsRzVVNkV4UDFEMHRPZ0szZE1BWkZyNm1wdw?oc=5",
+      "source": "Sud Ouest",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOcV9fOVJqSl82ZlFud0RVZ0pxZlRYZl9MTEt6QlpmTmt4eDA5aUZidExxbE9ZRS1HTmVPMFpUSFJPN29lMG1QY0xZX1l1NXhlSHZiQkdUN0lIcmpmUUh1OWxTMEtSTzFtQk13U09hZ25ZajNPVU04MVQ5RnBxX1h1OUlxNGFCVzZxc3pnSFM2b3EzaV9sZEJnRTdreTBhVjlSSlhZUWxHMWdiVDdlWnpsUHl1cmpGa3NBbVJLSl9tSGtUbm9GTy1mbU",
+      "publishedAt": "2026-06-15T13:41:53.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": false
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
     },
     {
-      "title": "Il faut un shérif à la droite et au centre - Le Point",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGh2U1ZabFlZVUluMlNmRXR1dUtmQzVxOG9pdjRreWtvakxXeDJFaWRWa1UtY3dtcmZkV0puQko1eHVVdXZYZEs1OTdSbFVpQmNHMmVTNW03bWpzTXZJYkZoRVlqRXdRUGljVkdvUGV6MHFPbUR6aUhpU3l4R25PRW1mOFdwTkdSUzMyMEhoQW5VYm95ZjAwS0s0bjM4NXVCWkNJcHpR?oc=5",
-      "source": "Le Point",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGh2U1ZabFlZVUluMlNmRXR1dUtmQzVxOG9pdjRreWtvakxXeDJFaWRWa1UtY3dtcmZkV0puQko1eHVVdXZYZEs1OTdSbFVpQmNHMmVTNW03bWpzTXZJYkZoRVlqRXdRUGljVkdvUGV6MHFPbUR6aUhpU3l4R25PRW1mOFdwTkdSUzMyMEhoQW5VYm95ZjAwS0s0bjM4NXVCWkNJcHpR?oc=5\" target=\"_blank\">Il faut un shérif à la ",
-      "publishedAt": "2026-06-13T06:03:00.000Z",
+      "title": "\"Si on rate la révolution de l'IA, nos enfants auront le choix entre servir du café aux Américains ou du thé aux Chinois\": Gabriel Attal appelle l'Europe à \"se donner les moyens\" de résister à \"une guerre technologique\" - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOQ3RGLXlLTVBzU3lfSTFmSUR1UkVlZ0hmeUZyYTZxcXdjWVFuWmZ0ZjN4TDdlNFBvRXhDZE5zMTFtTUFrZEo5dF94TTRDX21VUTdveXBnbjk2cDMySUg5OWtzYVgteU1EWHNxMjFEMldaYmFUUUNQSnVac2hUVXltaDR3LWR2TmFkM1RaVkctUG8yMDNmTzFfNzE5Z2JUdHZTcDVqblg4ZnJmTTlTcWxnM1NMS2IyeFFmVm9mTFpVVFpQazExd25VMFdQQmxpRGRiVUtlMVFkLU1LU2duS3lSTG5kbnpWRWRENG9qYWJBZlVCc1BQWjRDOVhzWG5BWVNKTDF0VTZaUW5XVlNJbjZjbF9QUHl5SHlTdlFtekF2T29PZlB6ai1GbmZjRnlaMXFONURjLVFabEdydVlSS0E3SDZwZDBoZzVTcFdQd1ZCczFWYjZjcWVIZHVuRUZaM3MtNm1YYkFrRGZEck5TZHhtNVY2cVdyVHVVMDNF?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wJBVV95cUxOQ3RGLXlLTVBzU3lfSTFmSUR1UkVlZ0hmeUZyYTZxcXdjWVFuWmZ0ZjN4TDdlNFBvRXhDZE5zMTFtTUFrZEo5dF94TTRDX21VUTdveXBnbjk2cDMySUg5OWtzYVgteU1EWHNxMjFEMldaYmFUUUNQSnVac2hUVXltaDR3LWR2TmFkM1RaVkctUG8yMDNmTzFfNzE5Z2JUdHZTcDVqblg4ZnJmTTlTcWxnM1NMS2IyeFFmVm9mTFpVVFpQazExd25VMF",
+      "publishedAt": "2026-06-15T07:39:29.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": false
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
     },
     {
-      "title": "Les Jeunes en Marche 04 soutiennent Gabriel Attal - hauteprovenceinfo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpJSmdpNXl3ZHlCVkQ5OEQ1SFh6WFNHY1RrLUlFYThrbU1hRFN3RVRnVjdNWEJjX0c5ZDhLRGdocWFnRGJ0ZWtYWDFpV2txNmp3emlTZDAwaU9vRGtUVjFhR0FBVEVhSFZSbjUzdmY1Sm1PNlRLRzR1ckMtaFYxVFlva1JTRFB5SzhPcGNUNExHWThLaUtHUlo0QjlRdm9Y?oc=5",
-      "source": "hauteprovenceinfo.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpJSmdpNXl3ZHlCVkQ5OEQ1SFh6WFNHY1RrLUlFYThrbU1hRFN3RVRnVjdNWEJjX0c5ZDhLRGdocWFnRGJ0ZWtYWDFpV2txNmp3emlTZDAwaU9vRGtUVjFhR0FBVEVhSFZSbjUzdmY1Sm1PNlRLRzR1ckMtaFYxVFlva1JTRFB5SzhPcGNUNExHWThLaUtHUlo0QjlRdm9Y?oc=5\" target=\"_blank\">Les Jeunes en Marche 04 soutien",
-      "publishedAt": "2026-06-14T14:32:00.000Z",
+      "title": "\"Une mesure qui vient concrétiser ce à quoi j'avais appelé\": Gabriel Attal \"salue\" le projet de loi pour faire payer les auteurs de dégradations - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWJldnpLVnRTRWRJR1lXR21fR1RrYnF5WXlvdVlBOFpBYjhhR29ZMV9jT3JLX2VfeWt5dldvY1RESXlTcm5jQTUxOGRLS1VId1ROUk13UnA1TTgycjVqODdMVHNLOE5aWURfNDh1eW1YSzg1T3VFbzVGaWE3Y05tY1l1NWJZLVYxcHBTRg?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWJldnpLVnRTRWRJR1lXR21fR1RrYnF5WXlvdVlBOFpBYjhhR29ZMV9jT3JLX2VfeWt5dldvY1RESXlTcm5jQTUxOGRLS1VId1ROUk13UnA1TTgycjVqODdMVHNLOE5aWURfNDh1eW1YSzg1T3VFbzVGaWE3Y05tY1l1NWJZLVYxcHBTRg?oc=5\" target=\"_blank\">\"Une mesure qui vient concrétiser ce à quoi j'avais appel",
+      "publishedAt": "2026-06-15T07:07:22.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-15T02:10:30.049Z",
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
       "isNew": true
     },
     {
@@ -124,14 +94,194 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-15T02:10:30.049Z",
+      "isNew": false
+    },
+    {
+      "title": "IA : Gabriel Attal alerte sur une \"guerre technologique\" et appelle à un sursaut européen - Boursier.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ0hJRVFiMWJoUmpDOUlqcTlESzhsd0JuZUQ0UUl5Nzl1UWQxbHdlTmUyb0NzM205Qmw1LTBOY0dHbHhLazVaM29Jc1UxNzlvSldVOFp6c0ViN0tfbjhoSUswVFlDQnlucUxiZXppMzZyUVBpdk5wZU9xM1FPWjRZbUg4RTRqRkxSZzMtby10THBiZF9uRHhIMTZXRGxfMGxwY2Q4TDUwQWdLRHhITWlEOXo1TmxOZzdkeDJiRGlwOU56OUlYUDU4dGRGQ01GVzdxekw4YWxJNzk?oc=5",
+      "source": "Boursier.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ0hJRVFiMWJoUmpDOUlqcTlESzhsd0JuZUQ0UUl5Nzl1UWQxbHdlTmUyb0NzM205Qmw1LTBOY0dHbHhLazVaM29Jc1UxNzlvSldVOFp6c0ViN0tfbjhoSUswVFlDQnlucUxiZXppMzZyUVBpdk5wZU9xM1FPWjRZbUg4RTRqRkxSZzMtby10THBiZF9uRHhIMTZXRGxfMGxwY2Q4TDUwQWdLRHhITWlEOXo1TmxOZzdkeDJiRGlwOU56OUlYUDU4dG",
+      "publishedAt": "2026-06-15T11:35:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
       "isNew": true
     },
     {
-      "title": "Au meeting de Glucksmann, cette différence de traitement fait déjà l’objet de détournements sur les réseaux sociaux - Le HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLThoODBuRDRYV0I3TEVjOS1xWHlPUEc5djltTm93ajQ3TFdrVEpiSUtQZ01FN2JYQzB0VDJnOXFiNDA3WGxVZUg0Z2VKalBfc1lycmVscm1kMEZtbFBTaDlrM29MNHhXMThhSDIxM0IyUTFHOE8zMy1KdVNsMzRXRk9oTFczbXViMDhabGxkX0xWZXp5UnNNRVlIaHNxSjY3OGxLT0k3VHEyQ2Fmalhpc0tXdExZU1lxaVAxRGNNQmliOFRkU0szOGp1eDE5Rmc4bDF2VlhNUkdUMWlwbkJobV9oSjRmZ0I5Sm5mSzQ2eWZ6UEkyZDNxTnFjODVXelp3cW8zbw?oc=5",
-      "source": "Le HuffPost",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPLThoODBuRDRYV0I3TEVjOS1xWHlPUEc5djltTm93ajQ3TFdrVEpiSUtQZ01FN2JYQzB0VDJnOXFiNDA3WGxVZUg0Z2VKalBfc1lycmVscm1kMEZtbFBTaDlrM29MNHhXMThhSDIxM0IyUTFHOE8zMy1KdVNsMzRXRk9oTFczbXViMDhabGxkX0xWZXp5UnNNRVlIaHNxSjY3OGxLT0k3VHEyQ2Fmalhpc0tXdExZU1lxaVAxRGNNQmliOFRkU0szOG",
-      "publishedAt": "2026-06-14T07:55:59.000Z",
+      "title": "IA : Gabriel Attal estime que la France peut faire partie des gagnants de «la guerre technologique» - Europe 1",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQODNvb1BNa2NiT3FJLVZaR3dtYkJJZkhKZEc5UGFvNzhJSEhUbzZkSFRiRFBib2o2SkRyOGptVWFvUVdhdUJJY1dkbzNaZ1cwaWhkMktBQXpwVFRieks3aDhrbzlSa0hCT0VldUt0Z3RrTjNzVlNyV3VNd0dSRFlyekwxM0xTaUZTUHM3NTV5ZjdCQkplTENJamxqY3BPTG5SVk5xY2JqWDkxRDI1eDlhXy1haWNXa3lfN1NYNHFKVEI4dElqNE9KdWdDNzgxVG160gHWAUFVX3lxTE5qeXhpM2djUS1GVXpHdWJ1TkNqU1lQMGVlbVBMVmhOVG1SVC1qN2FwSjFNNE0xaGhlM0k5aXdRNEhQa010aFFoVGRocG5hbGliWElJQWQxd3Z1UFVodEZrTExmWmpRdzJDeDhxS2tjWTFXNVRBbkx6MjZxdl9hX0xsOWRwR05fTDlXbU9aLTktU0xZa1ljZ0ttXzNHMjB6ZDd3QkpYNHNDRHhJYVlEemRHYzJkYXNfQUpIUXBFV1F0TFlZNG43dGtySm9OSjBlNkR2Uk5BYUE?oc=5",
+      "source": "Europe 1",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQODNvb1BNa2NiT3FJLVZaR3dtYkJJZkhKZEc5UGFvNzhJSEhUbzZkSFRiRFBib2o2SkRyOGptVWFvUVdhdUJJY1dkbzNaZ1cwaWhkMktBQXpwVFRieks3aDhrbzlSa0hCT0VldUt0Z3RrTjNzVlNyV3VNd0dSRFlyekwxM0xTaUZTUHM3NTV5ZjdCQkplTENJamxqY3BPTG5SVk5xY2JqWDkxRDI1eDlhXy1haWNXa3lfN1NYNHFKVEI4dElqNE9KdW",
+      "publishedAt": "2026-06-15T09:53:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal propose \"un parquet national contre la pédocriminalité et les violences sexistes et sexuelles \" - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbmNCWXBGUHhsemVOemFLS2JnR3ZfVVpkSHd5Um1iYk5ib0dCODlKLUlhVkYxZndPTTl4Rnl4N2FTSW1JbG9QU1pXTWdYV0xZOWVaRmlCQjRiZWJWLTExWmZNbW5JWERDVDZFVjdSMWVYUzhVSzZoVkpvaGtsN0dsd29DNnhaQnVJRG04ek9NWS1NZkJaaTRWRFpZcEdBTlhaeUxBcGJjOXpnc1BKVEtTY3lVMWxvcDllV3M4dkdMdE9IX29qT3UySWNhcnR6N3RmYUJYUGxSam44OEtHMjZIR0JuamZRWUpWSXUtMFdKYWFHUHFJTmozNA?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbmNCWXBGUHhsemVOemFLS2JnR3ZfVVpkSHd5Um1iYk5ib0dCODlKLUlhVkYxZndPTTl4Rnl4N2FTSW1JbG9QU1pXTWdYV0xZOWVaRmlCQjRiZWJWLTExWmZNbW5JWERDVDZFVjdSMWVYUzhVSzZoVkpvaGtsN0dsd29DNnhaQnVJRG04ek9NWS1NZkJaaTRWRFpZcEdBTlhaeUxBcGJjOXpnc1BKVEtTY3lVMWxvcDllV3M4dkdMdE9IX29qT3UySW",
+      "publishedAt": "2026-06-15T06:53:13.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Affaire Lyhanna : Gabriel Attal veut traiter les pédocriminels comme les terroristes - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc1NpRHRzYmFhVEc3R3FySUZlMGFBSEI4N3M4OWdDR1JsQTdOZEJOZFlyLTNCWHhqbk5yZFRSbzFySkZKZWZ0bWNyOGRibUlqbXRaWFlEMmhvTXBGRjJnbzRTY2hKaDYyeFJzTXFEQ0FOSjJhUmtHMHBoQVI4OGktQ2ltUzd1UEhxT19GeGRiX0UwMVZRVFNBV1l0UEJUMWdTS2h0MzE1bUZ6TURiOHUzV3dyd3VEZS1CaHZaOFJMdUJtbVZHOFZCeUx6TUNKOHZJRHgtY2ZRQXM?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc1NpRHRzYmFhVEc3R3FySUZlMGFBSEI4N3M4OWdDR1JsQTdOZEJOZFlyLTNCWHhqbk5yZFRSbzFySkZKZWZ0bWNyOGRibUlqbXRaWFlEMmhvTXBGRjJnbzRTY2hKaDYyeFJzTXFEQ0FOSjJhUmtHMHBoQVI4OGktQ2ltUzd1UEhxT19GeGRiX0UwMVZRVFNBV1l0UEJUMWdTS2h0MzE1bUZ6TURiOHUzV3dyd3VEZS1CaHZaOFJMdUJtbVZHOFZCeU",
+      "publishedAt": "2026-06-15T08:15:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Évidemment\": Gabriel Attal annonce \"apporter son soutien\" à Gérald Darmanin après les polémiques qui ont suivi la mort de Lyhanna - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNWRVOVoyMmlWdjJLa2dLNGVfRVlIS0twcS1VSjB4RmlxaWFERkNpSVVLdWkxNmtvTWFudEdobkJoaTM3a3ZMOFFIbjdYelRRbVh5bzJTeF9sMDBlNWJON3NqN1Fua2Nha09DZW90cVprUkY3VGIwak1BVlpqTXU1cXplQ3BBa2szeUdJRlR2MXRiZldScUJQdWo4THJfU2ZmTFpSN3N0bnh5UUszZTJLVXAyQk01YXI0aW1ZbzJ4RWtNVzhUMXRMS0FlZlZ0TUhUci00SW5uQi1FdWVZVDZWRmNNaDd4RHg0dnhV?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNWRVOVoyMmlWdjJLa2dLNGVfRVlIS0twcS1VSjB4RmlxaWFERkNpSVVLdWkxNmtvTWFudEdobkJoaTM3a3ZMOFFIbjdYelRRbVh5bzJTeF9sMDBlNWJON3NqN1Fua2Nha09DZW90cVprUkY3VGIwak1BVlpqTXU1cXplQ3BBa2szeUdJRlR2MXRiZldScUJQdWo4THJfU2ZmTFpSN3N0bnh5UUszZTJLVXAyQk01YXI0aW1ZbzJ4RWtNVzhUMXRMS0",
+      "publishedAt": "2026-06-15T06:47:15.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Intelligence artificielle: Gabriel Attal estime \"qu'on est dans une guerre technologique\" - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVg0b1ZQSkNTajkyc0xKd25TaG8tNlJWb2lsU3ZQR0p2d0RoS2pJdUVlYmI1cVVrU19wS0VjYjVpR2J4alozRWVVS3VLbmlpR21NSFBhd1EzYnRUYkJGRzF2Zi04cklDcE5xQWxpX09xX01lRG1HM2ZSN1NRTnliYVJrUUhXTmp2c2Q5YnJUMUp2TExlR3BhSVRCS0FaQXBRZTRvZ0ZBV09QdlJIM3Z2VFBialcyajhWUXozLUNKczlmTGg4cWVxLUpaWWdqUlZ3dXlPd1M4NHptYTlVVGc?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVg0b1ZQSkNTajkyc0xKd25TaG8tNlJWb2lsU3ZQR0p2d0RoS2pJdUVlYmI1cVVrU19wS0VjYjVpR2J4alozRWVVS3VLbmlpR21NSFBhd1EzYnRUYkJGRzF2Zi04cklDcE5xQWxpX09xX01lRG1HM2ZSN1NRTnliYVJrUUhXTmp2c2Q5YnJUMUp2TExlR3BhSVRCS0FaQXBRZTRvZ0ZBV09QdlJIM3Z2VFBialcyajhWUXozLUNKczlmTGg4cWVxLU",
+      "publishedAt": "2026-06-15T06:53:29.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal: \"On ne peut pas accepter qu'à chaque victoire, que ce soit le PSG ou l'équipe de France, on sait déjà à l'avance qu'il va y avoir des dégradations\" - BFM",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNMTYwb09pSlpsdjB5azZuQVR5aVlfenJEd3ZyT2NZNFBEbFVONzRZQ2pwTC1lZ1JyZ3lFR0pjek1kRi03R1FYYUExOG43eHJPV1RxcU1Sb01OZUdVY2JTZWlwcGlHaGM5VnRsQ0xVVlh6RDRualpnRk55MlJLOVV3c2t4aGlOR0RGWVJ3TjVVQ2R1MWcwSGlUR1E0ajIwV3RzOGQ1Zkt3TXEwM1RpUmNtM1pPVDJJVmFjY0YtYWtacGlYa1JpaFlERHdycklFOEV6X0pIZlMxUjRaN3VvNmtzclpfQm96UTFtSm9IcW81YUNoN1JodFFsU1lMeUdJTHBOd3ZvREZKZzRrTVZaQTNJcVF5MS14czZ4TUZRM19hZU5fUmJrV2Nqb3FBbnJ2cERaZVloVXNieTUxa3A1?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxNMTYwb09pSlpsdjB5azZuQVR5aVlfenJEd3ZyT2NZNFBEbFVONzRZQ2pwTC1lZ1JyZ3lFR0pjek1kRi03R1FYYUExOG43eHJPV1RxcU1Sb01OZUdVY2JTZWlwcGlHaGM5VnRsQ0xVVlh6RDRualpnRk55MlJLOVV3c2t4aGlOR0RGWVJ3TjVVQ2R1MWcwSGlUR1E0ajIwV3RzOGQ1Zkt3TXEwM1RpUmNtM1pPVDJJVmFjY0YtYWtacGlYa1JpaFlERH",
+      "publishedAt": "2026-06-15T06:51:56.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal, le monopole des bobo du 11e - RMC",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWTlUc0xjbHJfRVEtcjg3T19WRC1qTndjMGxGTllmR0tKNzIySFhuUFpXcHlzNVM5Sk1uZEJiVzFBR19JMU9TSGhrbkU1aVYwWUIybUwyNnhHTlhocEozenBfelZkSkhHaGRpMWt1NW5qS040azN5ZXhHdE5fMjNhMXZscEg1VmNtUXBMZTlJQ0x2OTJzUjdqX2wyT0dWeUdlNzQ1LWFRendKNy1KdzFBSVJhRFRBU3ZhU2VZTWN6YlppSVVXOTN6NlF1cU14S3hGMjc4cQ?oc=5",
+      "source": "RMC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWTlUc0xjbHJfRVEtcjg3T19WRC1qTndjMGxGTllmR0tKNzIySFhuUFpXcHlzNVM5Sk1uZEJiVzFBR19JMU9TSGhrbkU1aVYwWUIybUwyNnhHTlhocEozenBfelZkSkhHaGRpMWt1NW5qS040azN5ZXhHdE5fMjNhMXZscEg1VmNtUXBMZTlJQ0x2OTJzUjdqX2wyT0dWeUdlNzQ1LWFRendKNy1KdzFBSVJhRFRBU3ZhU2VZTWN6YlppSVVXOTN6Nl",
+      "publishedAt": "2026-06-15T05:30:28.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Une mesure qui vient concrétiser ce à quoi j'avais appelé\": Gabriel Attal \"salue\" le projet de loi pour faire payer les auteurs de dégradations - BFM",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPcjlYVUZyakk2ZzRqb1VYMWpPcGN5QmdjWWFMZTI4Z0pyZF82N0VqbGhkaXp3b2tfQWk5eWdRTXNHSC1UbHNPUEp4NDFHS3ZtZDk4SFF3akVnTGZsYjZabG5jLWVxSElYbTFnLVgxNXNCMDRlMlpvTGdKaW80VjkyZ2l1cG1MNEt4WWxYS2Y5bW9URVd2M21raFVGQmpfYzR3UGUwdjQ2SnlVMlNTTDJxb0ZjMXFaejdVU01Ma1pRWjBpd1U2NjV1MWNZNVEweDVVZW9ZYkZGekdxdmFRRlYyeDJqVF9lYXBNOGlSZkMxcTJqc1BXOWtvTTZhcWUwdW5iS1FlMFp6VEVtbHplNDFZOUlXMDM3Yllp?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPcjlYVUZyakk2ZzRqb1VYMWpPcGN5QmdjWWFMZTI4Z0pyZF82N0VqbGhkaXp3b2tfQWk5eWdRTXNHSC1UbHNPUEp4NDFHS3ZtZDk4SFF3akVnTGZsYjZabG5jLWVxSElYbTFnLVgxNXNCMDRlMlpvTGdKaW80VjkyZ2l1cG1MNEt4WWxYS2Y5bW9URVd2M21raFVGQmpfYzR3UGUwdjQ2SnlVMlNTTDJxb0ZjMXFaejdVU01Ma1pRWjBpd1U2NjV1MW",
+      "publishedAt": "2026-06-15T07:07:22.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Pédocriminalité: \"Il doit y avoir un suivi qui ne s'arrête jamais\", affirme Gabriel Attal - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSmc5SWtLVEt1VzNZSU1PWUc1czFwTTl3c1J1RWFId1JfdllibVpybmUwRHhxNWdDLUczdWhvX3lfZ050a2V4Q25SRlMyM2NQeUpLNTliN0JrNE02VF84VmNQS3ZONjRZd1J5bkVOZlZmZ3ZyY0tqS0dfZUNOOXpJTU9IV0hiVFN2Ri1hQVBWbWdpbEUyZXBPUWxxMmZEaUMxRXNhOENrTDBLNko1VXZEWmo1UkNpc2hta1NrbzE4U0J0dzlWSU95dF9sZHBTY2VwM2s2Mi1ueTA3U2g4?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSmc5SWtLVEt1VzNZSU1PWUc1czFwTTl3c1J1RWFId1JfdllibVpybmUwRHhxNWdDLUczdWhvX3lfZ050a2V4Q25SRlMyM2NQeUpLNTliN0JrNE02VF84VmNQS3ZONjRZd1J5bkVOZlZmZ3ZyY0tqS0dfZUNOOXpJTU9IV0hiVFN2Ri1hQVBWbWdpbEUyZXBPUWxxMmZEaUMxRXNhOENrTDBLNko1VXZEWmo1UkNpc2hta1NrbzE4U0J0dzlWSU95dF",
+      "publishedAt": "2026-06-15T06:52:39.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Évidemment\": Gabriel Attal annonce \"apporter son soutien\" à Gérald Darmanin après la mort de Lyhanna - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOazVidWIyd191N1V0VlZQWHcxN29fcUxOQlZGeDVWZTdiLWRpNk4zeHlHR0ZFVXNOTk9wV1N1UUM2NXlkOS1yZi04a0RoMUVkLVZmc0NZdXlsYVNpMDh1LTZlT3FXYmVJNFd2VWdVNUJLaXowdXIyaEthQllTeWxOSXJMSWwyRHlCUnNtb051cTVqdjZfXzhDdFlQMUwyckx1WXh5ZWZVSF8wVk5GcmQwMnBjMXFreEFnRWg3LWJjd1FubU1RZ056ZlhQVHdDQVVxTURENXRCLWhNRU91WFZpQWtsaExZdlVQ?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOazVidWIyd191N1V0VlZQWHcxN29fcUxOQlZGeDVWZTdiLWRpNk4zeHlHR0ZFVXNOTk9wV1N1UUM2NXlkOS1yZi04a0RoMUVkLVZmc0NZdXlsYVNpMDh1LTZlT3FXYmVJNFd2VWdVNUJLaXowdXIyaEthQllTeWxOSXJMSWwyRHlCUnNtb051cTVqdjZfXzhDdFlQMUwyckx1WXh5ZWZVSF8wVk5GcmQwMnBjMXFreEFnRWg3LWJjd1FubU1RZ056Zl",
+      "publishedAt": "2026-06-15T06:47:49.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Projet de loi sur les \"casseurs/payeurs\": Gabriel Attal \"salue cette proposition qui a été faite\" - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlVRMU5XZ3RQTzltYTVCQUMxWkFZMC1iYzNQQUJtTDlYell3QkdmUFpaV0Y1cHJURFRrazRFbl9nZ2ZJNnBhZXYxWU5lOXdYNnNra09vNERBcE51Mi10eTIyM0FpZEpzcmhicEV0eldsWGVsVm9sY25DTUtuVVNhaGlDVVBSVHFXY05ienFhbzduOHNSVXVQRC11ZGNkUm4zWmNLeEQwZ0dmQ0hIbVFsbTNQRzFSYzY0dVZQaTFXbGdMQ3VFZTAxa1lkei13bHZCZnZUMkhMTnE1NVNlaFFFTU5icw?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlVRMU5XZ3RQTzltYTVCQUMxWkFZMC1iYzNQQUJtTDlYell3QkdmUFpaV0Y1cHJURFRrazRFbl9nZ2ZJNnBhZXYxWU5lOXdYNnNra09vNERBcE51Mi10eTIyM0FpZEpzcmhicEV0eldsWGVsVm9sY25DTUtuVVNhaGlDVVBSVHFXY05ienFhbzduOHNSVXVQRC11ZGNkUm4zWmNLeEQwZ0dmQ0hIbVFsbTNQRzFSYzY0dVZQaTFXbGdMQ3VFZTAxa1",
+      "publishedAt": "2026-06-15T06:42:55.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Les Jeunes en Marche 04 soutiennent Gabriel Attal - hauteprovenceinfo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpJSmdpNXl3ZHlCVkQ5OEQ1SFh6WFNHY1RrLUlFYThrbU1hRFN3RVRnVjdNWEJjX0c5ZDhLRGdocWFnRGJ0ZWtYWDFpV2txNmp3emlTZDAwaU9vRGtUVjFhR0FBVEVhSFZSbjUzdmY1Sm1PNlRLRzR1ckMtaFYxVFlva1JTRFB5SzhPcGNUNExHWThLaUtHUlo0QjlRdm9Y?oc=5",
+      "source": "hauteprovenceinfo.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlpJSmdpNXl3ZHlCVkQ5OEQ1SFh6WFNHY1RrLUlFYThrbU1hRFN3RVRnVjdNWEJjX0c5ZDhLRGdocWFnRGJ0ZWtYWDFpV2txNmp3emlTZDAwaU9vRGtUVjFhR0FBVEVhSFZSbjUzdmY1Sm1PNlRLRzR1ckMtaFYxVFlva1JTRFB5SzhPcGNUNExHWThLaUtHUlo0QjlRdm9Y?oc=5\" target=\"_blank\">Les Jeunes en Marche 04 soutien",
+      "publishedAt": "2026-06-14T14:32:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -139,36 +289,156 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-15T02:10:30.049Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal souhaite «aligner le traitement des pédocriminels sur celui des terroristes» - lejdd.fr",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbnFSdWNMbGpzRU1xdnNqUDY3Rzc2emlHRFJNOW1wb0U5dDVLamJPWTZVUmd1YVozbkZBNWdiWGRLeEhpWjRwWVJUNkc0RzY1RFB5a05DWkEzUmlfOEV1akNhc1lkS2pQVW5aU0xjaWtvb1RNY2M0VVM5eThoTmhKREZjSTV3NFAtU3hNM3hZNVZXZF9NWUNxcnEzTVBVSW9HT21jWXFWV3hVd0Y1Y3NjUVRrc005UkQzNkRYcy0wUUptRU5J?oc=5",
-      "source": "lejdd.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPbnFSdWNMbGpzRU1xdnNqUDY3Rzc2emlHRFJNOW1wb0U5dDVLamJPWTZVUmd1YVozbkZBNWdiWGRLeEhpWjRwWVJUNkc0RzY1RFB5a05DWkEzUmlfOEV1akNhc1lkS2pQVW5aU0xjaWtvb1RNY2M0VVM5eThoTmhKREZjSTV3NFAtU3hNM3hZNVZXZF9NWUNxcnEzTVBVSW9HT21jWXFWV3hVd0Y1Y3NjUVRrc005UkQzNkRYcy0wUUptRU5J?oc=5\"",
-      "publishedAt": "2026-06-13T07:15:06.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
       "isNew": false
     },
     {
-      "title": "Obsèques de Lyhanna, Gabriel Attal, course à l'Elysée... La revue de presse nationale du 13 juin - Sud Radio",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2aFU5eFdRWDdGNUF6XzlnOUY4RGVsODJLX1ZFZlltcFNtMm1MT1J6RFpqV0t1b1liTDJmSzEyNktvcnJ2a2h4Y2N0c09sWkdVRHF6d1BPRXlEcjU3UzUyeXp1NGRkTGM?oc=5",
-      "source": "Sud Radio",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2aFU5eFdRWDdGNUF6XzlnOUY4RGVsODJLX1ZFZlltcFNtMm1MT1J6RFpqV0t1b1liTDJmSzEyNktvcnJ2a2h4Y2N0c09sWkdVRHF6d1BPRXlEcjU3UzUyeXp1NGRkTGM?oc=5\" target=\"_blank\">Obsèques de Lyhanna, Gabriel Attal, course à l'Elysée... La revue de presse nationale du 13 juin</a>&nbsp;&n",
-      "publishedAt": "2026-06-13T06:25:55.000Z",
+      "title": "Le candidat à la présidence française Gabriel Attal souhaite que les auteurs d'abus sur mineurs soient traités comme des terroristes à la suite de l'affaire Lyhanna - Business AM",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLTBuamI2UGo5XzRXSjJ1Q2h2SzZCdXpoMUNKdGFFWDJuT1pGNzBDUXFpMGhQT3l6eGtqUldwbHZYMXExSk00dDBQTFhsU25VbEFZVmlQY1dQMUxYSjVLbHBnX1VmUmQyTnlxNTJJTEdTOTFlOXU3Q1FlNzY3UG9vY1c3MGtNSk5Ic2VOcjBvdFBNNEQyRDlucVJMX2Rsa0FNT2J5OHZNSHBhN2ZTUnJPQjdTcUJWaFZYSmo2UjRySkpCYm1FREREaHlaZ1N6aFd5NmJWNG9HUDRHRGNESE5WOFJWbm1VUGFVNml6SzNFY2gyQjBfRG54WFNrNFVDWnozbExwYmk1dzNLSzNJSjc2bUkzakNjMmc?oc=5",
+      "source": "Business AM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQLTBuamI2UGo5XzRXSjJ1Q2h2SzZCdXpoMUNKdGFFWDJuT1pGNzBDUXFpMGhQT3l6eGtqUldwbHZYMXExSk00dDBQTFhsU25VbEFZVmlQY1dQMUxYSjVLbHBnX1VmUmQyTnlxNTJJTEdTOTFlOXU3Q1FlNzY3UG9vY1c3MGtNSk5Ic2VOcjBvdFBNNEQyRDlucVJMX2Rsa0FNT2J5OHZNSHBhN2ZTUnJPQjdTcUJWaFZYSmo2UjRySkpCYm1FREREaH",
+      "publishedAt": "2026-06-15T17:16:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Un nouveau conseiller réseaux sociaux pour Gabriel Attal - La Lettre de l'Expansion",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDdudkpGNmNBWXJRRGFESTFWYUNCNU1uUTRnXzNGdmlZdWhkcF9fb3g4eHEyT280YmxYby1GcjgxWElZWHNwX0xYdnpBa2NvSmtIdUZ5SkZQX3p5UllGbDBTeml2UTFXaTFiaWZLd19GVmhTemcwLVdiZjBhck1NTHJMLTRIY1dUUmZFWVVkWlBVaDk0RzZpRzI5ZG9rQzB6R3J6ekxnMURTcHc?oc=5",
+      "source": "La Lettre de l'Expansion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDdudkpGNmNBWXJRRGFESTFWYUNCNU1uUTRnXzNGdmlZdWhkcF9fb3g4eHEyT280YmxYby1GcjgxWElZWHNwX0xYdnpBa2NvSmtIdUZ5SkZQX3p5UllGbDBTeml2UTFXaTFiaWZLd19GVmhTemcwLVdiZjBhck1NTHJMLTRIY1dUUmZFWVVkWlBVaDk0RzZpRzI5ZG9rQzB6R3J6ekxnMURTcHc?oc=5\" target=\"_blank\">Un nouveau conse",
+      "publishedAt": "2026-06-15T03:55:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Meetings en juin, comptes de campagne chagrins: ils lancent leur campagne présidentielle française trop tôt - Le Temps",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTIwUzJCZlNONGpMSDYzVFROTktiNGQ0ODU4ZGxlN1hSemNPMDlGZk9VYU1Vckp1VnZVdE5WOXc3UTNwbFc1WHBnWExZb3k3UFBGR0tZZGtjSFh1OFRwSkpmUlRNWkJ1OFJPeG1QVXJveUN6T3hZS2FCOHVnVXRHQlhFODdFeTBNcDQ4eFRudnNwTDg3U3BQUGViWXdHUVJkNGpPRzd5U0pwSHFLYWg5NlB6Ui03TlZFZTk4bERaY0JTektBaTUxY0ZKVGIwQVRvbmNHRjJrZHg?oc=5",
+      "source": "Le Temps",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTIwUzJCZlNONGpMSDYzVFROTktiNGQ0ODU4ZGxlN1hSemNPMDlGZk9VYU1Vckp1VnZVdE5WOXc3UTNwbFc1WHBnWExZb3k3UFBGR0tZZGtjSFh1OFRwSkpmUlRNWkJ1OFJPeG1QVXJveUN6T3hZS2FCOHVnVXRHQlhFODdFeTBNcDQ4eFRudnNwTDg3U3BQUGViWXdHUVJkNGpPRzd5U0pwSHFLYWg5NlB6Ui03TlZFZTk4bERaY0JTektBaTUxY0",
+      "publishedAt": "2026-06-15T08:35:11.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "La France doit participer \"à l'ouverture\" et \"à la sécurisation\" du détroit d'Ormuz, souligne Gabriel Attal - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQjA3TEwweFVnOVowRWNlWTNIRGFlMFpHOUdhUnNjei1NWERLdG1kZUxkWG4xczcxTWU4S2VUM1phZ2ljWGRfWnVuTF9ua1NMU0UwTHBCeDFEZ3VKYnpTSEN4c0hPRHoxOXZFQnI0LWRwYlZqTEFUNW5mTGkxWTFJZExFTWJQaWNneDMwZTRpZ0syYlFNRURnRHlUUjVBUHRwYWhrUkV3UzhpdXNnT05ZcUZPZl9WZnFwdUFGQ1lyRmk5R2dTTXk2RFpEbFJna2xxejBfUEpJSGdONW4zcEtfWm5ZR1hQYm9tV3poLUY5bE4?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQjA3TEwweFVnOVowRWNlWTNIRGFlMFpHOUdhUnNjei1NWERLdG1kZUxkWG4xczcxTWU4S2VUM1phZ2ljWGRfWnVuTF9ua1NMU0UwTHBCeDFEZ3VKYnpTSEN4c0hPRHoxOXZFQnI0LWRwYlZqTEFUNW5mTGkxWTFJZExFTWJQaWNneDMwZTRpZ0syYlFNRURnRHlUUjVBUHRwYWhrUkV3UzhpdXNnT05ZcUZPZl9WZnFwdUFGQ1lyRmk5R2dTTXk2RF",
+      "publishedAt": "2026-06-15T06:35:22.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : en meeting, Glucksmann appelle à ne pas huer Attal et Philippe mais laisse Mélenchon se faire siffler - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUzdESEZPeEx2bG9sbnVfMGxLaHFLYzJBSXRNblJlR1dIazBvZVlYaHE3cnEtUHU0UlZKT2hBeXQtQVhYSVoxOU5YYUZTb1JUWm9ocU00eTllOFdjS0N6Q2NnQTExY01IQ18zX190dTJ2VjBXWVpWdm03b2xTWkkwQ3pvMEx3cklId1FidzBEX1NpNkxJUWxHOWQzQXVEUmdqRFBzSkRDaWNwajBpa0xKRGVYT3JHRnZmdGo4eFJnWlpSeHk0SUEwY2U1dGVRNHFLRWZQZjRvTEJFV2hoNWJCLXdsTjNMR3lxeXh4WEZDOUhjdjQ2SndyeTc3MDQ4am1oSEN3RGVvTm1QUFk?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUzdESEZPeEx2bG9sbnVfMGxLaHFLYzJBSXRNblJlR1dIazBvZVlYaHE3cnEtUHU0UlZKT2hBeXQtQVhYSVoxOU5YYUZTb1JUWm9ocU00eTllOFdjS0N6Q2NnQTExY01IQ18zX190dTJ2VjBXWVpWdm03b2xTWkkwQ3pvMEx3cklId1FidzBEX1NpNkxJUWxHOWQzQXVEUmdqRFBzSkRDaWNwajBpa0xKRGVYT3JHRnZmdGo4eFJnWlpSeHk0SUEwY2",
+      "publishedAt": "2026-06-15T06:10:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "GPA : derrière le débat politique, la bataille juridique - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjBab1BHckJnWnRBN1lobDY0aEJncnpLWUhSRWJjQ0Q3MDNRNjVCdEVaNUU3ZWRZZWpLNVdyR3BzVUhfaklWLUxCM3Z5V1dCYVZOZnVvZ3VPRVFMMzUtTkllNnpKTDRVN3AyNmVLbXZ3bUtHNmg5REZubE5ZemJnMGFkN242THZZS2YtVDN3OUpKOE0?oc=5",
+      "source": "lejdd.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjBab1BHckJnWnRBN1lobDY0aEJncnpLWUhSRWJjQ0Q3MDNRNjVCdEVaNUU3ZWRZZWpLNVdyR3BzVUhfaklWLUxCM3Z5V1dCYVZOZnVvZ3VPRVFMMzUtTkllNnpKTDRVN3AyNmVLbXZ3bUtHNmg5REZubE5ZemJnMGFkN242THZZS2YtVDN3OUpKOE0?oc=5\" target=\"_blank\">GPA : derrière le débat politique, la bataille j",
+      "publishedAt": "2026-06-15T09:27:01.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal mise sur l’intelligence artificielle pour sa campagne présidentielle - ENTREVUE.FR",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEhNVXlCeG5QeV9HcE1idE53c2syS2ctY1lGVlRpV092SlBLcmZOdDd3WENUNHVzR092aUpDSk9VUXJmSTBHTzFUTEk0NWpiNnljdWw0U2M0eE5sRU1wNnpwTll4ZXdkT3lYM2Z5cDNNVVVVM3g2UVVRQzU5ai16c3RuekZwUW5vVzlnbm9uWnpyR2RwbkR6YWdvUjhGQU5OcU5RM3hkUDdIekgyR1NlODUwaGt0RDNzQ2ZtX0lFSjFQcVdUY0lV?oc=5",
+      "source": "ENTREVUE.FR",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEhNVXlCeG5QeV9HcE1idE53c2syS2ctY1lGVlRpV092SlBLcmZOdDd3WENUNHVzR092aUpDSk9VUXJmSTBHTzFUTEk0NWpiNnljdWw0U2M0eE5sRU1wNnpwTll4ZXdkT3lYM2Z5cDNNVVVVM3g2UVVRQzU5ai16c3RuekZwUW5vVzlnbm9uWnpyR2RwbkR6YWdvUjhGQU5OcU5RM3hkUDdIekgyR1NlODUwaGt0RDNzQ2ZtX0lFSjFQcVdUY0lV?o",
+      "publishedAt": "2026-06-15T09:13:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Accord entre les États-Unis et l'Iran: \"Il y a toujours une vigilance à avoir sur les suites qui seront données à ce préaccord\", affirme Gabriel Attal - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdWJFMkdYSUV1S0wzOVE1bnRJM1FPd1NDMlcyX2J5WVBqLU5tWUNVeFZSZ2ZyVWlOb1ozQnd6RlN3aVRhc1UxbTY2ZlZvYTdRaElMXzlwSUpIa2lYSFQwOElTNkRNU29ldW80MTYzMXRza1hDMjFLVHpmYWNfWk1OYy1OdV9PN0hta05zeF9BUVJ2bzVoNnR4WTNiaVdOdExST0lpaHIyTDluY0xVTEkxcC1JZlkwZkxRdldaeUZXRThtR3Q0bkZFcG04V0kzQmJycnkzS1VJbE4wRi1HS3RNalZGdmlFX0sxVVE4YklTa0p2Vlc4c2x0dWtBWHh5bk00YWRsM3JnaTFCY2lqVlV0Q29RZF9RckhaeHBjWVQ0YXNOOUNFcWhIN0JDNA?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdWJFMkdYSUV1S0wzOVE1bnRJM1FPd1NDMlcyX2J5WVBqLU5tWUNVeFZSZ2ZyVWlOb1ozQnd6RlN3aVRhc1UxbTY2ZlZvYTdRaElMXzlwSUpIa2lYSFQwOElTNkRNU29ldW80MTYzMXRza1hDMjFLVHpmYWNfWk1OYy1OdV9PN0hta05zeF9BUVJ2bzVoNnR4WTNiaVdOdExST0lpaHIyTDluY0xVTEkxcC1JZlkwZkxRdldaeUZXRThtR3Q0bkZFcG",
+      "publishedAt": "2026-06-15T06:39:10.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : la lutte contre la pédocriminalité s'invite dans la campagne - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkV6VDJaQlVlWl9VOHZ5WGNQaHNEQzBfTWJ2Y1lQZlJiT2p5YjViNWRoTFFjN3ZOMDNqMlFfSmt3UUxQbXZidlZvM3lTTUctVWE1Y194ejlXeGFRTURoenJ4dEcyVk01ZzFDSU4zZjJhcXZrcXlqRV93MU1zVHZ4OG9lbXV1WHc4QkFCVTBLQW1ZTWdQZlprdW1xbXp4MGIxbWRVNlljbkZ5dkVXTEl4bksxMmswYVJYdDlPdmF6SGdVekxwNVpEc19pYUxvTnpWRi1LNGJ3?oc=5",
+      "source": "Les Echos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkV6VDJaQlVlWl9VOHZ5WGNQaHNEQzBfTWJ2Y1lQZlJiT2p5YjViNWRoTFFjN3ZOMDNqMlFfSmt3UUxQbXZidlZvM3lTTUctVWE1Y194ejlXeGFRTURoenJ4dEcyVk01ZzFDSU4zZjJhcXZrcXlqRV93MU1zVHZ4OG9lbXV1WHc4QkFCVTBLQW1ZTWdQZlprdW1xbXp4MGIxbWRVNlljbkZ5dkVXTEl4bksxMmswYVJYdDlPdmF6SGdVekxwNVpEc1",
+      "publishedAt": "2026-06-14T14:58:39.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-15T02:10:30.049Z",
+      "isNew": false
+    },
+    {
+      "title": "Au meeting de Glucksmann, cette différence de traitement fait déjà l’objet de détournements sur les réseaux sociaux - Le HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLThoODBuRDRYV0I3TEVjOS1xWHlPUEc5djltTm93ajQ3TFdrVEpiSUtQZ01FN2JYQzB0VDJnOXFiNDA3WGxVZUg0Z2VKalBfc1lycmVscm1kMEZtbFBTaDlrM29MNHhXMThhSDIxM0IyUTFHOE8zMy1KdVNsMzRXRk9oTFczbXViMDhabGxkX0xWZXp5UnNNRVlIaHNxSjY3OGxLT0k3VHEyQ2Fmalhpc0tXdExZU1lxaVAxRGNNQmliOFRkU0szOGp1eDE5Rmc4bDF2VlhNUkdUMWlwbkJobV9oSjRmZ0I5Sm5mSzQ2eWZ6UEkyZDNxTnFjODVXelp3cW8zbw?oc=5",
+      "source": "Le HuffPost",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPLThoODBuRDRYV0I3TEVjOS1xWHlPUEc5djltTm93ajQ3TFdrVEpiSUtQZ01FN2JYQzB0VDJnOXFiNDA3WGxVZUg0Z2VKalBfc1lycmVscm1kMEZtbFBTaDlrM29MNHhXMThhSDIxM0IyUTFHOE8zMy1KdVNsMzRXRk9oTFczbXViMDhabGxkX0xWZXp5UnNNRVlIaHNxSjY3OGxLT0k3VHEyQ2Fmalhpc0tXdExZU1lxaVAxRGNNQmliOFRkU0szOG",
+      "publishedAt": "2026-06-14T07:55:53.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-15T02:10:30.049Z",
       "isNew": false
     },
     {
@@ -176,7 +446,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1ZFSWJkTnIxNzk2clp4UW5kV2dQNjM2ek1xa2FISmJnQVpTS3FhM1VPUHZjSEZvNGgzdmM1LUdTMTJFUjZrRGZuMXBGTlNQNnh0WlE4TENfZDVxN2g3NldKWkg0M0UzckltWE9tY216RHp2TElmRS1wajAxWTJFUXBnUXJOWXVJd0JpTnNxcHpDeDdKUmZSWmhIX3VoU2ZLMEo1YUhEUW5ETGJFejRXVTVWenpxS1JYOUpQNGxfWlRoRGk0aklEY19KUGR6Zk5pYW9MWWVR?oc=5",
       "source": "Le Monde.fr",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1ZFSWJkTnIxNzk2clp4UW5kV2dQNjM2ek1xa2FISmJnQVpTS3FhM1VPUHZjSEZvNGgzdmM1LUdTMTJFUjZrRGZuMXBGTlNQNnh0WlE4TENfZDVxN2g3NldKWkg0M0UzckltWE9tY216RHp2TElmRS1wajAxWTJFUXBnUXJOWXVJd0JpTnNxcHpDeDdKUmZSWmhIX3VoU2ZLMEo1YUhEUW5ETGJFejRXVTVWenpxS1JYOUpQNGxfWlRoRGk0aklEY1",
-      "publishedAt": "2026-06-14T11:30:12.000Z",
+      "publishedAt": "2026-06-14T02:23:16.000Z",
       "lang": "en",
       "type": "media",
       "persons": [
@@ -184,61 +454,32 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-15T02:10:30.049Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal sur BFM TV : « Je veux que la France redevienne la première puissance d&#x27;Europe en dix ans »",
+      "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-la-france-a-toujours-un-role-a-jouer-c-est-sa-mission-c-est-son-destin",
+      "source": "Gabriel Attal — site officiel (actualités)",
+      "snippet": "De la place de la France face aux crises internationales à la sécurité de nos enfants, en passant par le défi crucial de l&#x27;intelligence artificielle, Gabriel Attal trace un chemin ambitieux pour bâtir le plus grand des rassemblements. Une priorité absolue : avoir la force d&#x27;agir pour protéger les Français et ",
+      "publishedAt": "2026-06-15T12:00:00.000Z",
+      "lang": "fr",
+      "type": "official",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "official": "Gabriel Attal — site officiel (actualités)",
+      "firstSeenAt": "2026-06-16T02:14:18.261Z",
       "isNew": true
-    },
-    {
-      "title": "Freins à la réindustrialisation de la France : M. Stéphane Séjourné, vice-président exécutif de la Commission européenne à la prospérité et à la stratégie industrielle, ancien ministre de l’Europe et des affaires étrangères - Contexte",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQUGNsbm9pRmFXOEo1TnFLX2dWWkZONHBYR2NaUjFTOHNUbE9DUXI4dG82WTB3OVBkLUZwZkRVTzFEZ1pTVmNzUjJWaVpmRldjSkY1NjU5a1U2VVBLYllMX0JsMDQwTHhta1FIY3BZaVdkVzJ3a0FNT2t1M2x1M2I3Ujdqdm1XOHhHcUoxcVM0VjRUN2Z2OFYwSVotX0NHRGN4VG03ZjVyQTQ0d2g5XzFRV3FJTGtZX1Q4cWp1Rkk1TlVJUTRKYWNrMXN0SExIMzdwWlJTZEMzNnFXZXZ6RW13bTFTLUdKMWFDQ2hvOGxJWTdNa0RzdjFvd2VhVmZJaUQwM2pBaHNLYTRuWDNjN1hzaEgxRUVlSTB0eV9hSTBxNUpYOGpLa210SFVRWGVKSHJrdW80eWlicVMycVotZExBUk5IUU9qa3B1Rjk3R1p6Rkdtc2VJS01lWVRSakY1ekhqc3J5TXZ3c0F1RzNnSnEzN1JueGRyVUV0aWU4bTYxWnlGVDg?oc=5",
-      "source": "Contexte",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwNBVV95cUxQUGNsbm9pRmFXOEo1TnFLX2dWWkZONHBYR2NaUjFTOHNUbE9DUXI4dG82WTB3OVBkLUZwZkRVTzFEZ1pTVmNzUjJWaVpmRldjSkY1NjU5a1U2VVBLYllMX0JsMDQwTHhta1FIY3BZaVdkVzJ3a0FNT2t1M2x1M2I3Ujdqdm1XOHhHcUoxcVM0VjRUN2Z2OFYwSVotX0NHRGN4VG03ZjVyQTQ0d2g5XzFRV3FJTGtZX1Q4cWp1Rkk1TlVJUTRKYWNrMX",
-      "publishedAt": "2026-06-13T16:48:27.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": false
-    },
-    {
-      "title": "Commission des affaires économiques : Audition, conjointe avec la commission des affaires économiques du Sénat, de M. Stéphane Séjourné, vice-président exécutif pour la prospérité et la stratégie industrielle de la Commission européenne - Contexte",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNQ3BQZXpnMnZPcUx1b1h3ekNheWVsSHdoODQxelROdGJZR09iTktHeVBGYl81RmN1TzZWYjVEZWlEdndFSGFyX2puUlBlMVZIa01hSGthS1RWaXdyU0laMmdIWklrbmlQWTQyeFVTcmxnQ2ZtVElKN3VuWm0tQnNxcEdhZkdrd2txUWd2VWdRV1I5aUJoZzNzSThmNjliSFQ2WUhrZUtLcXVsVURCbjhIZy1zREJsMHNuYWJveFNaLVp4ZXZkdm9TRWc1REJzNUVrUjYweC1lX1pEeHEzdWtmNDFOQjkxdXN3cVR1cEt5Y041ZDlwSVJBaHRSeURtM2tQRGlaa0wwcVM4TU1RZ3djOEVvTno3cUJzNUlobkJtUjFVR2Jpb18xSTl3LWdDVEE2WEo3NTcwUkxGVVNOWTZhNFJWWXAxakptM1E5RnM3US1vNldZSlBFSTJjYVptR3RpeHNCR19YZG83dUx0MWxycTh5TmV2NnNfVk96eDAzZzZTMWw5MjFvbEh2R3NyZEV4amdpYQ?oc=5",
-      "source": "Contexte",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxNQ3BQZXpnMnZPcUx1b1h3ekNheWVsSHdoODQxelROdGJZR09iTktHeVBGYl81RmN1TzZWYjVEZWlEdndFSGFyX2puUlBlMVZIa01hSGthS1RWaXdyU0laMmdIWklrbmlQWTQyeFVTcmxnQ2ZtVElKN3VuWm0tQnNxcEdhZkdrd2txUWd2VWdRV1I5aUJoZzNzSThmNjliSFQ2WUhrZUtLcXVsVURCbjhIZy1zREJsMHNuYWJveFNaLVp4ZXZkdm9TRW",
-      "publishedAt": "2026-06-13T13:16:41.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": false
-    },
-    {
-      "title": "Commission des affaires européennes : Préserver les concessions hydroélectriques françaises d'une mise en concurrence ; M. Stéphane Séjourné, vice-président exécutif de la Commission européenne chargé de la prospérité et de la stratégie industrielle - Contexte",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPZ19SUktvQ3o1SzdaZlZmVzFnZVZxcWJ5eHZFRXBBVllsR2lUUFNtZkdWM2VhVDQyWnotYlhVOFZVQVZ3Qk1OcGlvRzBUQXlVZVV2bno1X3NPM1FycHQ3dmNHRVpselRFWnZ1TEd0bElVQ3UxbVNwMkdlaVVhcV9jX0YyQ0VJWldVdVZjUXZoNmFDZ0xlSzFWWkdwOGdhcDZqOUc5cWp5NEhRaXpZSHk2NlBsSGdEckkxWHVWZFpZbVpnOXRGa1VqazlqTWpLTndDcEpET2JzemhpQTBjYWRKc201VUJZLXlUM3BZWjM2RmZQdzZjWERNZGVfSE5wZzNkdldEQVdmRWxOd0tlZ1Z4OXVSbnk1U1VQbXN3Q3BzQ2NBVTNUNUQ3c2NFLWxDUWVyTDlOYWJPYkNnX0YtVzYtYWxXc2JrZGtiN0pod180YkpLNUxlb2RocENpajNOMVVySlFsTEdzQWdjZVBVSnR6NWN5c1h4QlYyT3FJS1R4cXpDYTBSY1BoVERXZ1pweFluVjdmUklPSnVRdWFCWGRkTzh2c3k?oc=5",
-      "source": "Contexte",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxPZ19SUktvQ3o1SzdaZlZmVzFnZVZxcWJ5eHZFRXBBVllsR2lUUFNtZkdWM2VhVDQyWnotYlhVOFZVQVZ3Qk1OcGlvRzBUQXlVZVV2bno1X3NPM1FycHQ3dmNHRVpselRFWnZ1TEd0bElVQ3UxbVNwMkdlaVVhcV9jX0YyQ0VJWldVdVZjUXZoNmFDZ0xlSzFWWkdwOGdhcDZqOUc5cWp5NEhRaXpZSHk2NlBsSGdEckkxWHVWZFpZbVpnOXRGa1Vqaz",
-      "publishedAt": "2026-06-13T12:09:41.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-14T02:06:20.294Z",
-      "isNew": false
     }
   ],
   "stats": {
-    "total": 15,
-    "new": 6,
-    "carried": 9,
-    "media": 15,
+    "total": 31,
+    "new": 26,
+    "carried": 5,
+    "media": 30,
     "agenda": 0,
-    "official": 0,
+    "official": 1,
     "coOccurrence": 0
   }
 }
