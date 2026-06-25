@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-06-24T01:50:17.317Z",
+  "generatedAt": "2026-06-25T01:54:17.203Z",
   "persons": [
     "attal",
     "sejourne"
   ],
   "lookbackHours": 48,
   "items": [
+    {
+      "title": "Gabriel Attal : « Pour le retour du Royaume-Uni dans l’Union européenne » - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZnRzYUpIa0xhMjZZQWVQQldGM1JDZ1JZWW1SVVRUelNyVGUtVG5rdmRJdWdEbEcwV0llQ3NNY1ZBU3YxZHFPczRQc1pvSnpQUlNCdWk4REZNd3hWb0JyWVhGMkFtT1lnUWpiVGtock9SdEpqMFlBd2NTc3h6YkF6ZTh2RlVPTFJKY290OHRhcmgwdzJpcFpvTFlkOW9KZ3ZsaTZoUjlmLVVaeHJ3VDNTMEtTd1otOXZaM3dHM01GcmF4MzRheFlHMEs3Y0FJU2xxYTN2bE5GU3VQUQ?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZnRzYUpIa0xhMjZZQWVQQldGM1JDZ1JZWW1SVVRUelNyVGUtVG5rdmRJdWdEbEcwV0llQ3NNY1ZBU3YxZHFPczRQc1pvSnpQUlNCdWk4REZNd3hWb0JyWVhGMkFtT1lnUWpiVGtock9SdEpqMFlBd2NTc3h6YkF6ZTh2RlVPTFJKY290OHRhcmgwdzJpcFpvTFlkOW9KZ3ZsaTZoUjlmLVVaeHJ3VDNTMEtTd1otOXZaM3dHM01GcmF4MzRheFlHME",
+      "publishedAt": "2026-06-24T18:00:04.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-25T01:54:17.203Z",
+      "isNew": true
+    },
+    {
+      "title": "Autonomie de la Corse : François Hollande, Marine Le Pen, Gabriel Attal, Laurent Wauquiez, Élisabeth Borne, découvrez ce qu’ils ont voté - France 3 Régions",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObWh5R0RpdUNFME5kUGFqdGlDaUVKak16NnFrV0NZQk8xYnhNTUZ4dlJBV25mRC01MXdPMzRTMy1PM2tqdWV0eHVtYUY4NE01RkJQSnVxYk14MjNuT1hTNGF3UjdZQXEyUTNJVHNXVmV2OGRtLUVxYlpLOXY4eUd6Z3ZsM2ZNT1J4MHZmSjBHcEV1THBSakJKVzdBemY1OEpxM2h5RkJNcFRDTC1PNmJKcThZbzRvbkRkS1dfdzgyTldVQnRNOXg5UXFFQmRhWDhIdkZ0YWMzVERRZTJuLTJYRkNqcFM5bTFWOXV5bl90WEQ2aVZQZEc3RXJJQWpreEVUd0pCNWJpcWh1RDE5dGc4YXRaQXA?oc=5",
+      "source": "France 3 Régions",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxObWh5R0RpdUNFME5kUGFqdGlDaUVKak16NnFrV0NZQk8xYnhNTUZ4dlJBV25mRC01MXdPMzRTMy1PM2tqdWV0eHVtYUY4NE01RkJQSnVxYk14MjNuT1hTNGF3UjdZQXEyUTNJVHNXVmV2OGRtLUVxYlpLOXY4eUd6Z3ZsM2ZNT1J4MHZmSjBHcEV1THBSakJKVzdBemY1OEpxM2h5RkJNcFRDTC1PNmJKcThZbzRvbkRkS1dfdzgyTldVQnRNOXg5UX",
+      "publishedAt": "2026-06-24T08:18:03.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-25T01:54:17.203Z",
+      "isNew": true
+    },
     {
       "title": "Landes : Gabriel Attal, ancien premier ministre et candidat à la présidence de la République, attendu à Sanguinet, ce samedi 27 juin 2026 - Sud Ouest",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNmZFeHZSOU9JS2htUTFMY1hVSFBvRzRzRWNGRnBJT2RmOHF0MjNjMWRza0RWR2VPVWc2WVZGYTVqNE9EcnhqZ0F0REJCN2V0aHdSSVZJMFdBcWpseXhzeFUxRkdmNU1hRVExMUo3VWJYSWRnb2ljT01iSTVFSG9kSWk4d01fMDNhWXA4QzJ3dVZuRlRXcndNelp3bktMTmw1VVJVUW9NVGxuRVJlS3dxM0lQS3hqb3ZQSFp6M016Mk5TMklfS0tzMkVFajJ6dmg1LTNsSkVrRVUxZ1dmQnF6X240RnVKUmJjVDY3UnB0RDhKa0YwOW1iVkN1QVVMREY5MTJ5YUs5UDJqT0lQbVFjS0oxUEI?oc=5",
@@ -19,96 +49,66 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-24T01:50:17.317Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal : visite stratégique chez Optic 2000 à Clamart - Presse Agence",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXJXMEtXQlEwMkpRN3diRUsyYnN4Tm8zcHMzMlplZ1VzbUxYRFlEX3REZ0hqQ2lHRjNDcnVUbmdvbHl4VXo3dlhaVnNCMnlIWTdMZkxYTkhvMTlmczZsTTlsRkpRMDdCUDFrOE1XRUtsSDExOHM3UlM5REJ1QVB1RDFhdm5EWER3QmRBbXB0ZlJTbm8xSWZkeGJSQ182Zy04VGxzMHhVb28wU3hLb1pXWk1BcVhjeE9HOFRsemh0OA?oc=5",
+      "source": "Presse Agence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXJXMEtXQlEwMkpRN3diRUsyYnN4Tm8zcHMzMlplZ1VzbUxYRFlEX3REZ0hqQ2lHRjNDcnVUbmdvbHl4VXo3dlhaVnNCMnlIWTdMZkxYTkhvMTlmczZsTTlsRkpRMDdCUDFrOE1XRUtsSDExOHM3UlM5REJ1QVB1RDFhdm5EWER3QmRBbXB0ZlJTbm8xSWZkeGJSQ182Zy04VGxzMHhVb28wU3hLb1pXWk1BcVhjeE9HOFRsemh0OA?oc=5\" targe",
+      "publishedAt": "2026-06-24T22:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-25T01:54:17.203Z",
       "isNew": true
     },
     {
-      "title": "Marine Tondelier étrille Gabriel Attal qui voit dans son congé climatique « une très mauvaise solution » - Le HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYXhLRXNKc242Qng4NE1Tc2I2M0x2MWtmdDJjTFFyMlg3NzFEZGJldU1GalBGSlhmSjV0OFM5MEw5MmhhSUdMUE1GUHBuNUhQV2Eyc3Uwd25mNlJnT0lkRVptUjVzQkVYU1lVWm02MUlnT0ZUREFvNDRuQV9xZnduQU80UEFkYkdJaGFOOHZkdEtNNEZwN2h1NXRMbUNWZzVaeEF4ZVl4ZGhyQm9XQ2dZU3l1amNXd3dSNDJFNjM1bmNOQm1MYlZ3S0pXbzYtYlJGSEZaMTR6NVB6dVRvNGJ1SS1NZFNnOUczUkhNdnpaZGVWUQ?oc=5",
-      "source": "Le HuffPost",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYXhLRXNKc242Qng4NE1Tc2I2M0x2MWtmdDJjTFFyMlg3NzFEZGJldU1GalBGSlhmSjV0OFM5MEw5MmhhSUdMUE1GUHBuNUhQV2Eyc3Uwd25mNlJnT0lkRVptUjVzQkVYU1lVWm02MUlnT0ZUREFvNDRuQV9xZnduQU80UEFkYkdJaGFOOHZkdEtNNEZwN2h1NXRMbUNWZzVaeEF4ZVl4ZGhyQm9XQ2dZU3l1amNXd3dSNDJFNjM1bmNOQm1MYlZ3S0",
-      "publishedAt": "2026-06-22T11:02:51.000Z",
+      "title": "Hautes-Pyrénées – Valentin Rouby interviewe Gabriel Attal sur la jeunesse et la politique - La Semaine des Pyrénées",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMS00VjJVekFuamtrZjNHaVJXV2dMU0xyYWRRR2h5Yi0xRG1RM25UWUl2R3ZKSkp2eEtJdE9XdTZNRVpIdjNrNEp0QXUtMVdSbVVucXF5Z2pMcl9WUXhfUGdWY1J5cjktSnF3RGJTd1NVTVBwYWE4SUVpYVVERnBQclRPRkxSMjgtNEF3N2t1aGRsbjVjNFVoSFFsZG45NnFEN19VV0RqcFpxSlNiMzByTGZHQmk2RGp4TWhqZUV5Y3I?oc=5",
+      "source": "La Semaine des Pyrénées",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMS00VjJVekFuamtrZjNHaVJXV2dMU0xyYWRRR2h5Yi0xRG1RM25UWUl2R3ZKSkp2eEtJdE9XdTZNRVpIdjNrNEp0QXUtMVdSbVVucXF5Z2pMcl9WUXhfUGdWY1J5cjktSnF3RGJTd1NVTVBwYWE4SUVpYVVERnBQclRPRkxSMjgtNEF3N2t1aGRsbjVjNFVoSFFsZG45NnFEN19VV0RqcFpxSlNiMzByTGZHQmk2RGp4TWhqZUV5Y3I?oc=5\" targ",
+      "publishedAt": "2026-06-24T09:45:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-23T01:52:05.384Z",
-      "isNew": false
-    },
-    {
-      "title": "Législatives : les investitures tendent les relations Attal-Philippe - lejdd.fr",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcW9rX2NvSzJ3MWphbmpHR1d2UTNfM3c1OVFBcW54QktQWnlkU3FKekpTdENWak1CZjhNaTgtTmIwRkItWEFESXhXUl9EaWpldVY2UG04MjZMRG50YmI3eVhkWDdlcjRxUllxWnpkb3dwU1VSNDg3cnJTYUNsek9xdlVLR1pKU2JDbEhtbV9RdS1WWTgxNmVWSXhDVTlCN0J2SzU3cG9Kbw?oc=5",
-      "source": "lejdd.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcW9rX2NvSzJ3MWphbmpHR1d2UTNfM3c1OVFBcW54QktQWnlkU3FKekpTdENWak1CZjhNaTgtTmIwRkItWEFESXhXUl9EaWpldVY2UG04MjZMRG50YmI3eVhkWDdlcjRxUllxWnpkb3dwU1VSNDg3cnJTYUNsek9xdlVLR1pKU2JDbEhtbV9RdS1WWTgxNmVWSXhDVTlCN0J2SzU3cG9Kbw?oc=5\" target=\"_blank\">Législatives : les in",
-      "publishedAt": "2026-06-22T10:28:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-23T01:52:05.384Z",
-      "isNew": false
-    },
-    {
-      "title": "ÉDITORIAL. Trois chefs de parti « jusqu’au-boutistes » pour une défaite annoncée ? - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM2pNVUlnT0JINkFMa2p1R3F2MXNnN2lQNEVKSFY2N3FsX04zdXNJZ1BUY0NMd0psa1U2OGgzcnhKdzg5dS16Snk1WHZNMjhsOUludFdBWVZvenN1eWxOZW1qX0ZfQUYzYjhuWVVwbzUxWFJkck5ZSXQwUGlQRVFubTc1ZWJabm56ZTV5UHpRUnlqaHhxMG1KYk56RVpvSkhhMXRKdjE3ek9OazJUUEpGUVZoYUZNQ2ppNGUxMEkxWmZRTUp2NmJfQ2M1N05fN3l1TEpyeExMXzVvSGZyankyeXlVbw?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPM2pNVUlnT0JINkFMa2p1R3F2MXNnN2lQNEVKSFY2N3FsX04zdXNJZ1BUY0NMd0psa1U2OGgzcnhKdzg5dS16Snk1WHZNMjhsOUludFdBWVZvenN1eWxOZW1qX0ZfQUYzYjhuWVVwbzUxWFJkck5ZSXQwUGlQRVFubTc1ZWJabm56ZTV5UHpRUnlqaHhxMG1KYk56RVpvSkhhMXRKdjE3ek9OazJUUEpGUVZoYUZNQ2ppNGUxMEkxWmZRTUp2NmJfQ2",
-      "publishedAt": "2026-06-22T04:30:18.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-23T01:52:05.384Z",
-      "isNew": false
-    },
-    {
-      "title": "Pour atteindre Bardella, Attal vire au complotisme sur fond de brouille ukraino-polonaise - Boulevard Voltaire",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWJ0dHNiOVZmLXIxOWhaN2Nac1lRMXdZNDlYVFFjWGJCOWFHVUEzR2k3dzJYdHU4MVdrVHJ3cm1VeHVDVGN1NjdKOHdOZHVmSTVjWlE1OHdoOExBWU5FdFVNa1hiZ3VfYWdEQWxlQzdaSDBjU2NXN2RSOEhFNmZMUGtsZ0ZIcHBYOUlOWF9JczItQzgtVWJxbHY1ci1KR2RiZFhvVGVzcEw1Q2VGaGV0VXpGVGk?oc=5",
-      "source": "Boulevard Voltaire",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWJ0dHNiOVZmLXIxOWhaN2Nac1lRMXdZNDlYVFFjWGJCOWFHVUEzR2k3dzJYdHU4MVdrVHJ3cm1VeHVDVGN1NjdKOHdOZHVmSTVjWlE1OHdoOExBWU5FdFVNa1hiZ3VfYWdEQWxlQzdaSDBjU2NXN2RSOEhFNmZMUGtsZ0ZIcHBYOUlOWF9JczItQzgtVWJxbHY1ci1KR2RiZFhvVGVzcEw1Q2VGaGV0VXpGVGk?oc=5\" target=\"_blank\">Pour",
-      "publishedAt": "2026-06-22T15:16:35.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-24T01:50:17.317Z",
+      "firstSeenAt": "2026-06-25T01:54:17.203Z",
       "isNew": true
     },
     {
-      "title": "\"Reconnaître la singularité de la Corse, ce n'est pas affaiblir la République\" - Corse Matin",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPV2hYRmZlNlJXS1ExQWdFOTZQeHZpaGdZblR2TEFWMlJMdlNfRVBFWkttNmotMWxpOUVGOVRWS250ZVdNYm1EUEppTF9ZYVhsOFNGRTFXb2lCdldCdFdRdkZlcXlHdXlsaFZiYldWRFNIRjhDSVBMVW5lNU8xSEpYZTFfV29xQk5uU01JR25UTWJhTDhlS3d2cGI2ME0yWkN2akQtMEZwcWFSYldjbGxDYVpVaU1lUGVNOVdta0R0VkxGLWJQOHRhbjMxR094Rlg5Rmx2MzlQVmN0RlgyeGVLR09hVElMWkRkZTZNcVlWZ05xb1hDbjJiaXVQaXZLZjdfMXVqNTZwWm1kUmxVVVQxYmU2NA?oc=5",
-      "source": "Corse Matin",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPV2hYRmZlNlJXS1ExQWdFOTZQeHZpaGdZblR2TEFWMlJMdlNfRVBFWkttNmotMWxpOUVGOVRWS250ZVdNYm1EUEppTF9ZYVhsOFNGRTFXb2lCdldCdFdRdkZlcXlHdXlsaFZiYldWRFNIRjhDSVBMVW5lNU8xSEpYZTFfV29xQk5uU01JR25UTWJhTDhlS3d2cGI2ME0yWkN2akQtMEZwcWFSYldjbGxDYVpVaU1lUGVNOVdta0R0VkxGLWJQOHRhbj",
-      "publishedAt": "2026-06-22T17:29:12.000Z",
+      "title": "« Je n’ai pas peur de la castagne » : Aurore Bergé, macroniste quoi qu’il en coûte - Le Point",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdGQ5c2RkOE1MbEZ3ckxvOE1tQXA1dDhMd0d5bXllVWZ6OVVTeWR3dVhKVlQwVHVKNEhCcTlnZF9HbDlYVFR5azJna2JxckQ2WXVjdHBfYXljc1pCRFN1WlQ3a19LSnl1WmVMUWo1MDV2X0tZclRfSDYtTW1ZUHdtU05VYXlkcWR1cDMxc0xPelFjT01v?oc=5",
+      "source": "Le Point",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdGQ5c2RkOE1MbEZ3ckxvOE1tQXA1dDhMd0d5bXllVWZ6OVVTeWR3dVhKVlQwVHVKNEhCcTlnZF9HbDlYVFR5azJna2JxckQ2WXVjdHBfYXljc1pCRFN1WlQ3a19LSnl1WmVMUWo1MDV2X0tZclRfSDYtTW1ZUHdtU05VYXlkcWR1cDMxc0xPelFjT01v?oc=5\" target=\"_blank\">« Je n’ai pas peur de la castagne » : Aurore Be",
+      "publishedAt": "2026-06-24T16:30:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-23T01:52:05.384Z",
-      "isNew": false
+      "firstSeenAt": "2026-06-25T01:54:17.203Z",
+      "isNew": true
     },
     {
-      "title": "Canicule : « les moyens et la réponse du gouvernement ne sont pas à la hauteur », et c’est une ministre qui le reconnaît - Sud Ouest",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZzRqUUJEYjB2ZFpaWEhlSjFlcXZ6WjQ0THVtYWMwWld5azM2a2NsdmkweDNTRWY5VklsQldyb1JVdVllRk50Wkx3ajNQNVpfQnBEVkRJUGJXUjdEV3hMVGNHaWhKX1cyOHdyQ1hfRm8tb1ZPY2h5U3pLZlJ6eDNBWGxRaVdFaFZRMGx2VFFSNno0Vk9TbDlRUHlsMDBjbHRrMGxLd0VwOVZJUy02VTM0ME5pVzlwNG5vSlZzbmpmMTJzLXNpTjJITXlDMDF2QkRXeWxLUVpPRG9IQlBQSkp3dDhXZ1phc21qb2ZiS2J1VG94R0oyX1pJ?oc=5",
-      "source": "Sud Ouest",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZzRqUUJEYjB2ZFpaWEhlSjFlcXZ6WjQ0THVtYWMwWld5azM2a2NsdmkweDNTRWY5VklsQldyb1JVdVllRk50Wkx3ajNQNVpfQnBEVkRJUGJXUjdEV3hMVGNHaWhKX1cyOHdyQ1hfRm8tb1ZPY2h5U3pLZlJ6eDNBWGxRaVdFaFZRMGx2VFFSNno0Vk9TbDlRUHlsMDBjbHRrMGxLd0VwOVZJUy02VTM0ME5pVzlwNG5vSlZzbmpmMTJzLXNpTjJITX",
-      "publishedAt": "2026-06-22T11:56:14.000Z",
+      "title": "Présidentielle 2027 : Le duel que les Français veulent au second tour, c'est Philippe-Bardella - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWFhWU9kNnVoMHB5b0R3UmJlYzF3a2h3eWM2V0daTkJRUmlULTFYbW56LTRpZnlwRzVUZ0pFa29vQ1Q0YlV6UlkxQWRsTzA5V3BLenZpYlpKQ1JwMzRqSFloay1kZHNIdFM0T0ltU3RDVEZEWW13a3BuMklKT2ViU0tZZEJPUnB6LVc1OFgtNUltWThlOEg4NFk0NldvX0R2Vjh6djg2NDFxcVY1M1F5SXFzYkM4WExETDBpYmVsUFFRU0F4cklyaFVTUUg?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWFhWU9kNnVoMHB5b0R3UmJlYzF3a2h3eWM2V0daTkJRUmlULTFYbW56LTRpZnlwRzVUZ0pFa29vQ1Q0YlV6UlkxQWRsTzA5V3BLenZpYlpKQ1JwMzRqSFloay1kZHNIdFM0T0ltU3RDVEZEWW13a3BuMklKT2ViU0tZZEJPUnB6LVc1OFgtNUltWThlOEg4NFk0NldvX0R2Vjh6djg2NDFxcVY1M1F5SXFzYkM4WExETDBpYmVsUFFRU0F4cklyaF",
+      "publishedAt": "2026-06-24T15:50:38.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-06-24T01:50:17.317Z",
+      "firstSeenAt": "2026-06-25T01:54:17.203Z",
       "isNew": true
     },
     {
@@ -124,66 +124,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-24T01:50:17.317Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027: Bruno Le Maire se prononcera sur une éventuelle candidature \"en octobre\" - Yahoo Actualités",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFU1T1FvY2JRUVVfdUVqRndFTlhmU1BKdlJ3N0FpV1dBY0lFck9FOXFHeHhYdktGcTU4ZGpxeU8xUldFY0FKUG5lakVkU0JxYnl5WHhaTVI0VjE4dFZwTkpyRWpQMEgxNGxGNlBVdjFnLVo2UzIwb3RJWXJfM3JlN01PSTN6b19HNFFVbFdCNEY5b1NrUExEUDQtQ0o2U29jUUM5VzZNdm8yZUZOVVlBYVh6S08wRlVYT1VvSnd5S0NzdXlycTY1ZEd6bw?oc=5",
-      "source": "Yahoo Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFU1T1FvY2JRUVVfdUVqRndFTlhmU1BKdlJ3N0FpV1dBY0lFck9FOXFHeHhYdktGcTU4ZGpxeU8xUldFY0FKUG5lakVkU0JxYnl5WHhaTVI0VjE4dFZwTkpyRWpQMEgxNGxGNlBVdjFnLVo2UzIwb3RJWXJfM3JlN01PSTN6b19HNFFVbFdCNEY5b1NrUExEUDQtQ0o2U29jUUM5VzZNdm8yZUZOVVlBYVh6S08wRlVYT1VvSnd5S0NzdXlycTY1ZE",
-      "publishedAt": "2026-06-23T07:49:01.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-24T01:50:17.317Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : quand les ambitions des « plans B » gênent les candidats officiels - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb053dkVvNmNwbkpJQ0pPakRHS05zMXc0MzFGWXlJdk5wREsxd0x2V2JXUEY0bThZYnhkMzc5aGVDQlpzaU9ueGtiS01PbE9ZUHhTT0J0cHF5Z2M5NzlFY09pNC1NcFp6M0pfYWNMRHVRSFVCbVo5QkxuRkU5UjZBWm5JbUVpYkZpSzNvYy12d1oyTUVWSi04V2VLZm1zclpwS2QxOU1IM21IcE1XTkFkVXhvZTJhTzU0SWswNGcyWVFYZzZkTFA3UmlYSk1SQ3A3R1JYMXJR?oc=5",
-      "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb053dkVvNmNwbkpJQ0pPakRHS05zMXc0MzFGWXlJdk5wREsxd0x2V2JXUEY0bThZYnhkMzc5aGVDQlpzaU9ueGtiS01PbE9ZUHhTT0J0cHF5Z2M5NzlFY09pNC1NcFp6M0pfYWNMRHVRSFVCbVo5QkxuRkU5UjZBWm5JbUVpYkZpSzNvYy12d1oyTUVWSi04V2VLZm1zclpwS2QxOU1IM21IcE1XTkFkVXhvZTJhTzU0SWswNGcyWVFYZzZkTFA3Um",
-      "publishedAt": "2026-06-22T09:49:24.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-23T01:52:05.384Z",
-      "isNew": false
-    },
-    {
-      "title": "Bruno Le Maire entretient le doute sur 2027, mais devra dire s’il peut vraiment incarner l’alternative du bloc central - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdUt5UkpWUkpTREpQMHlGempsZW9FMGtPR2tKd2VnbkFYaXJWV01EUF95M1FoZFdzY2VELS0yelBTaml1R1BzQldoemlPS0huaXI1Uk1naXBrVUJfSDFhaUVuN05HejUxU0p4d3ItVHFjQlY4Rkg5NUd6bWUySXMtWkNaMjBjMmttdTFaMHJCdk9IeVZwYXVGUUhKNkphaFBRWXlKTDhfa0RzVXA4MlVpdkdic2VObGRiajQyVE91Nm1feHk2R0NXQjVFdFcwMW94SC1EYmdyeVZkVVFDVkxrc0kyZ0lMVlBLTmJVdmtsR0pndnZyQ1BDQQ?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdUt5UkpWUkpTREpQMHlGempsZW9FMGtPR2tKd2VnbkFYaXJWV01EUF95M1FoZFdzY2VELS0yelBTaml1R1BzQldoemlPS0huaXI1Uk1naXBrVUJfSDFhaUVuN05HejUxU0p4d3ItVHFjQlY4Rkg5NUd6bWUySXMtWkNaMjBjMmttdTFaMHJCdk9IeVZwYXVGUUhKNkphaFBRWXlKTDhfa0RzVXA4MlVpdkdic2VObGRiajQyVE91Nm1feHk2R0NXQj",
-      "publishedAt": "2026-06-23T09:30:02.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-24T01:50:17.317Z",
-      "isNew": true
-    },
-    {
-      "title": "Meetings : Philippe fera-t-il mieux que Retailleau ou Attal ? - La Lettre de l'Expansion",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenJFWTVLMDJXM0dETjRfRHlIZ2p1QlJXaFZDd0ViNWNLMjV3S3hRZW0wWHYtM21FYVNvZXpUTTVsUElqTHAxd3RwaWRaWDFtWUpwbkwtM3drUVlULWxXOGhWR2NkU0JHYkVHRjVNakk1cXlxQTB5QnQ5eGRvYTFQY1gzMk9JZ05yb3l6UGFmcDlRRl9BNVB3QjBJdW9nRWdfMWFjbTNmNDlSa0hZ?oc=5",
-      "source": "La Lettre de l'Expansion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQenJFWTVLMDJXM0dETjRfRHlIZ2p1QlJXaFZDd0ViNWNLMjV3S3hRZW0wWHYtM21FYVNvZXpUTTVsUElqTHAxd3RwaWRaWDFtWUpwbkwtM3drUVlULWxXOGhWR2NkU0JHYkVHRjVNakk1cXlxQTB5QnQ5eGRvYTFQY1gzMk9JZ05yb3l6UGFmcDlRRl9BNVB3QjBJdW9nRWdfMWFjbTNmNDlSa0hZ?oc=5\" target=\"_blank\">Meetings : Phil",
-      "publishedAt": "2026-06-22T03:55:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-23T01:52:05.384Z",
       "isNew": false
     },
     {
@@ -191,7 +131,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDd2SFh3VVN0RENSMTR1ODNEUF96TXlCbzZFdm1wMGJ3U2xuazJnUEgweDVXMG5TZEw5T1BlV3NzWm9TcFgwaHdiV1pPTElILUlqZmtXZmVjNlFFT3h5X2lqV0VjNlhPMTJlbF9ReENCOFBJWVBURXlNV2pEM3BLNHRsZGw0Zw?oc=5",
       "source": "News On AIR",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDd2SFh3VVN0RENSMTR1ODNEUF96TXlCbzZFdm1wMGJ3U2xuazJnUEgweDVXMG5TZEw5T1BlV3NzWm9TcFgwaHdiV1pPTElILUlqZmtXZmVjNlFFT3h5X2lqV0VjNlhPMTJlbF9ReENCOFBJWVBURXlNV2pEM3BLNHRsZGw0Zw?oc=5\" target=\"_blank\">French President Macron rejects PM Attal’s resignation</a>&nbsp;&",
-      "publishedAt": "2026-06-23T12:59:41.000Z",
+      "publishedAt": "2026-06-24T16:59:42.000Z",
       "lang": "en",
       "type": "media",
       "persons": [
@@ -214,21 +154,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-24T01:50:17.317Z",
-      "isNew": true
-    },
-    {
-      "title": "Annecy. Stéphane Séjourné au Marché international du film d’animation : « C’est un signal fort » - Le Dauphiné Libéré",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzdpdi1QQ01yS01ONkRZTFE0eXZrTnN3Q1lUSHpVMXctX2J1aDdPSkV1eWlaRlRxZUp4MDZlb1VreWpHTnlFMGxEUm5ac3ZTd2ZodnBrY05ZSVNLSXBuZ2JMZXpDaE5HaFJxcUNsdnBsT3JyUzRueDc1S3BSanVQWWxGalNZYmNQRUNHbzFnQ0ZWbEFtOXl0UzQ3VnV2bFlSakFZMW5HYjhVMlNDNnhoT3FadXlwZkV0ZW90MmdBTXpOa25udThRWQ?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzdpdi1QQ01yS01ONkRZTFE0eXZrTnN3Q1lUSHpVMXctX2J1aDdPSkV1eWlaRlRxZUp4MDZlb1VreWpHTnlFMGxEUm5ac3ZTd2ZodnBrY05ZSVNLSXBuZ2JMZXpDaE5HaFJxcUNsdnBsT3JyUzRueDc1S3BSanVQWWxGalNZYmNQRUNHbzFnQ0ZWbEFtOXl0UzQ3VnV2bFlSakFZMW5HYjhVMlNDNnhoT3FadXlwZkV0ZW90MmdBTXpOa25udThRWQ",
-      "publishedAt": "2026-06-22T14:19:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-23T01:52:05.384Z",
       "isNew": false
     },
     {
@@ -244,7 +169,37 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-24T01:50:17.317Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "title": "Annecy. L’Europe au chevet de l’animation « sans la mettre sous perfusion » - Le Dauphiné Libéré",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmdOT2NVR0wzX04tdTMya24wNHhSVWNGa25SNG93Q0plVmp4T0lhY2hSNFo1dDNYb0lYMk5TM0c1QkFBY29YVmFicDFLUkdIVTVDbUdNcXJjckFianFwazA2NndSemRxUWJ4ZmlDYUNGWkZYOEl0Ri1FNGo2RzJiWUJLX1d1aUFUMkZsUUdfQndMdldZb1A0UTlKdHlEbWJoSkJsbnRNMXZiQjFvaEE0?oc=5",
+      "source": "Le Dauphiné Libéré",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmdOT2NVR0wzX04tdTMya24wNHhSVWNGa25SNG93Q0plVmp4T0lhY2hSNFo1dDNYb0lYMk5TM0c1QkFBY29YVmFicDFLUkdIVTVDbUdNcXJjckFianFwazA2NndSemRxUWJ4ZmlDYUNGWkZYOEl0Ri1FNGo2RzJiWUJLX1d1aUFUMkZsUUdfQndMdldZb1A0UTlKdHlEbWJoSkJsbnRNMXZiQjFvaEE0?oc=5\" target=\"_blank\">Annecy. L’E",
+      "publishedAt": "2026-06-23T03:10:03.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "sejourne"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-24T01:50:17.317Z",
+      "isNew": false
+    },
+    {
+      "title": "Economie. La Commission européenne prévoit d’accompagner les sociétés annéciennes de l’outdoor - Le Dauphiné Libéré",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWRDNjBGb0dNb1k5STNzdUVVSk1idHQ4TDZkRHdPS2hDcEVnTVhrbVF1Z0w5VGc1VlVpSzNmMWR5WEtDX3hSUjJfSFktRmFqNDI2dVVTUEw5czhZNElsNk1paDhibGFMYUVWV0JxQjgzQlR6cFhkbGJuR0oxVWZjeTdKWlF1SkFPOXRoWDBzQ0F3NXFxemRmMU9oeFdjeWhNVWgxRTFUcTZHejk5bHgzWEktRW82SHJMbjVpTE9IaWpVVFpmNGpMTTdITQ?oc=5",
+      "source": "Le Dauphiné Libéré",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWRDNjBGb0dNb1k5STNzdUVVSk1idHQ4TDZkRHdPS2hDcEVnTVhrbVF1Z0w5VGc1VlVpSzNmMWR5WEtDX3hSUjJfSFktRmFqNDI2dVVTUEw5czhZNElsNk1paDhibGFMYUVWV0JxQjgzQlR6cFhkbGJuR0oxVWZjeTdKWlF1SkFPOXRoWDBzQ0F3NXFxemRmMU9oeFdjeWhNVWgxRTFUcTZHejk5bHgzWEktRW82SHJMbjVpTE9IaWpVVFpmNGpMTT",
+      "publishedAt": "2026-06-23T05:40:26.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "sejourne"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-06-24T01:50:17.317Z",
+      "isNew": false
     },
     {
       "title": "Annecy : Le vice-président de la Commission européenne en visite pour le MIFA - ODS Radio",
@@ -259,44 +214,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-06-24T01:50:17.317Z",
-      "isNew": true
-    },
-    {
-      "title": "Annecy. L’Europe au chevet de l’animation « sans la mettre sous perfusion » - Le Dauphiné Libéré",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmdOT2NVR0wzX04tdTMya24wNHhSVWNGa25SNG93Q0plVmp4T0lhY2hSNFo1dDNYb0lYMk5TM0c1QkFBY29YVmFicDFLUkdIVTVDbUdNcXJjckFianFwazA2NndSemRxUWJ4ZmlDYUNGWkZYOEl0Ri1FNGo2RzJiWUJLX1d1aUFUMkZsUUdfQndMdldZb1A0UTlKdHlEbWJoSkJsbnRNMXZiQjFvaEE0?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSmdOT2NVR0wzX04tdTMya24wNHhSVWNGa25SNG93Q0plVmp4T0lhY2hSNFo1dDNYb0lYMk5TM0c1QkFBY29YVmFicDFLUkdIVTVDbUdNcXJjckFianFwazA2NndSemRxUWJ4ZmlDYUNGWkZYOEl0Ri1FNGo2RzJiWUJLX1d1aUFUMkZsUUdfQndMdldZb1A0UTlKdHlEbWJoSkJsbnRNMXZiQjFvaEE0?oc=5\" target=\"_blank\">Annecy. L’E",
-      "publishedAt": "2026-06-23T01:40:02.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-24T01:50:17.317Z",
-      "isNew": true
-    },
-    {
-      "title": "Economie. La Commission européenne prévoit d’accompagner les sociétés annéciennes de l’outdoor - Le Dauphiné Libéré",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWRDNjBGb0dNb1k5STNzdUVVSk1idHQ4TDZkRHdPS2hDcEVnTVhrbVF1Z0w5VGc1VlVpSzNmMWR5WEtDX3hSUjJfSFktRmFqNDI2dVVTUEw5czhZNElsNk1paDhibGFMYUVWV0JxQjgzQlR6cFhkbGJuR0oxVWZjeTdKWlF1SkFPOXRoWDBzQ0F3NXFxemRmMU9oeFdjeWhNVWgxRTFUcTZHejk5bHgzWEktRW82SHJMbjVpTE9IaWpVVFpmNGpMTTdITQ?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWRDNjBGb0dNb1k5STNzdUVVSk1idHQ4TDZkRHdPS2hDcEVnTVhrbVF1Z0w5VGc1VlVpSzNmMWR5WEtDX3hSUjJfSFktRmFqNDI2dVVTUEw5czhZNElsNk1paDhibGFMYUVWV0JxQjgzQlR6cFhkbGJuR0oxVWZjeTdKWlF1SkFPOXRoWDBzQ0F3NXFxemRmMU9oeFdjeWhNVWgxRTFUcTZHejk5bHgzWEktRW82SHJMbjVpTE9IaWpVVFpmNGpMTT",
-      "publishedAt": "2026-06-23T01:10:21.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-06-24T01:50:17.317Z",
-      "isNew": true
+      "isNew": false
     }
   ],
   "stats": {
-    "total": 19,
-    "new": 11,
+    "total": 14,
+    "new": 6,
     "carried": 8,
-    "media": 19,
+    "media": 14,
     "agenda": 0,
     "official": 0,
     "coOccurrence": 0
