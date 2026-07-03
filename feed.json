@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T01:54:18.953Z",
+  "generatedAt": "2026-07-03T01:23:59.780Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,48 +7,33 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Pour Edouard Philippe, ce serait « dangereux » si Gabriel Attal et lui se présentaient à la présidentielle 2027 - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObWxFNk1ieE16Y1JSVDBxVWdwalVvdTlXSUVMbElibFRZTkVrSXJzNnA5YXdzMGowWnNpNURDR3dhQzRJWWg3QTJEVjJLcEJlNnM4UFNzSFZGd21Bb2VhZzQxQXJlNFJLZjZidXFObl9XQy1HSzFKdUNjWEdmMVhPa0tkeEJuNEpFSU53ejYtRVZYM21pOEZNbzZENmVIWklOMkMwZGFRNlR6T3luWXpvejlwQ0tVSVNibGtzMU1zMTBTczNUaFNuVkEyOEdENm0ycTVYQ3JjcHlxUVUxYkJpTXlndmJGQlN0RDU1eGdFUzhWT0Q1QzBERmU4T2Rya2hJT21PRmtYOGp2eFlITDlPSENxTlhBbDFxcEE?oc=5",
+      "title": "Année blanche, 100 000 fonctionnaires en moins, big bang territorial… Gabriel Attal vise le « zéro déficit en 2037 - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPaXcwMGN3ZkxxSmtaVFFkenVXZmE4Z0hKTTEyV3h6MHdjUk5RTC0zM3FZQlg0S3RFdkYwSUhydjMtUno1V2ZhcWNxb2FKc0NPR3BZb2VSenZ5akxndHIwM2dPNlRaTmplQWhxdUVGNXgtZ3J6RFdKZWtSRkxPVTBqcE91WWVhNUd3Nzd1WTIwQkNLWkdlZWIxa1lkaV9DZ3lZc3NoMnE5bDRKQmJRaFFqbGRQdWtHc2EzbVlHYnZPOVlRSEEwSG5oNVNoSFNIa2xCUmJsLWxncW5NMnBNRjVVX0FUVXRSTlloZGNQZHAzeTY0RnZKb0YxVWhHcjlMb0pfSTdkQUFsclE1blZrYXkyWURWNHRnQUVQMU5yZEdEcWJLVGVUX0hDdEpB?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxPaXcwMGN3ZkxxSmtaVFFkenVXZmE4Z0hKTTEyV3h6MHdjUk5RTC0zM3FZQlg0S3RFdkYwSUhydjMtUno1V2ZhcWNxb2FKc0NPR3BZb2VSenZ5akxndHIwM2dPNlRaTmplQWhxdUVGNXgtZ3J6RFdKZWtSRkxPVTBqcE91WWVhNUd3Nzd1WTIwQkNLWkdlZWIxa1lkaV9DZ3lZc3NoMnE5bDRKQmJRaFFqbGRQdWtHc2EzbVlHYnZPOVlRSEEwSG5oNV",
+      "publishedAt": "2026-07-02T17:51:59.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal veut 100 000 suppressions de postes de fonctionnaires et l’« impunité budgétaire zéro » - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPand6aXNZR25mbVl1TnVRYW5aRUhkdmdqR0tkazZOVVNld2F6MTRodEhSbDlaQWhWOTQtQmJsT0JjanNMb0VJcC15NDFHLUgxWTRYemwyOHRfMmN1d1dKY3FHeUQ4N2N4bnh2M2EwQzN2NTB6UER6UnJrUGhjM1Rwa2lROF9XanZHTVNOeGNDaU9JRDh2Y1UzR1E4OVlJNHlKSkxvWFpSRURlcWg0UnlReVQ4Yy1pS3BpMTVBWWtjellkTmZWTjVwbi1uSkFrcDYyRTA5SzN2bGt5VHNDOFVZUXMtaXhwNnlLbjdSQ0JuZnZuRlU4RER5VFBzZnZzR1pwS0c0NzhlYXpxSmJNQ0dxRDlkZmc?oc=5",
       "source": "Le Monde.fr",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxObWxFNk1ieE16Y1JSVDBxVWdwalVvdTlXSUVMbElibFRZTkVrSXJzNnA5YXdzMGowWnNpNURDR3dhQzRJWWg3QTJEVjJLcEJlNnM4UFNzSFZGd21Bb2VhZzQxQXJlNFJLZjZidXFObl9XQy1HSzFKdUNjWEdmMVhPa0tkeEJuNEpFSU53ejYtRVZYM21pOEZNbzZENmVIWklOMkMwZGFRNlR6T3luWXpvejlwQ0tVSVNibGtzMU1zMTBTcz",
-      "publishedAt": "2026-07-01T08:57:42.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPand6aXNZR25mbVl1TnVRYW5aRUhkdmdqR0tkazZOVVNld2F6MTRodEhSbDlaQWhWOTQtQmJsT0JjanNMb0VJcC15NDFHLUgxWTRYemwyOHRfMmN1d1dKY3FHeUQ4N2N4bnh2M2EwQzN2NTB6UER6UnJrUGhjM1Rwa2lROF9XanZHTVNOeGNDaU9JRDh2Y1UzR1E4OVlJNHlKSkxvWFpSRURlcWg0UnlReVQ4Yy1pS3BpMTVBWWtjellkTmZWTjVwbi",
+      "publishedAt": "2026-07-02T01:11:28.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Nétanyahou à Paris ? L’incroyable indulgence de Gabriel Attal envers l’accusé de crime contre l’humanité - Libération",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnJsZzZVR0FvM291bjlQVXRMV09RaDBmd2xsbmJiZDExdmVvUTd5RHlzbUdHZXJURGg3Z3AzU0JCWlV0cExYTjE3NUYyTW5HVm5XS0ozZVVNdzNCNW0tb0FqUjlQeG41dExFbXhremFxb1VXNzg3eFhpWGNDZXdLbE9IcFpYOGZTdUs5WjRrc1FNbjFRekZFaV9vV09UZ1U2b3NYMDRLTk9HcXlZVG1Pa2gzZG9YRlhrUnFGdDZLR0J4SmZ2LUhFcmxZeDl3My1UWm1iZlBna1dhZDRVVFBBU3c4X2xBN1Nha1ZQN3NUVy1zcUZ2MmZiT1ZlY3JheTFVQ0E?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnJsZzZVR0FvM291bjlQVXRMV09RaDBmd2xsbmJiZDExdmVvUTd5RHlzbUdHZXJURGg3Z3AzU0JCWlV0cExYTjE3NUYyTW5HVm5XS0ozZVVNdzNCNW0tb0FqUjlQeG41dExFbXhremFxb1VXNzg3eFhpWGNDZXdLbE9IcFpYOGZTdUs5WjRrc1FNbjFRekZFaV9vV09UZ1U2b3NYMDRLTk9HcXlZVG1Pa2gzZG9YRlhrUnFGdDZLR0J4SmZ2LUhFcm",
-      "publishedAt": "2026-07-01T21:19:52.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "\"Quand on aura gagné elle n'aura pas l'investiture\": le soutien de Maud Bregeon à Édouard Philippe ne passe pas dans le camp de Gabriel Attal - BFM",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPcF9sajRrLXBUSEJwcmQxZE1IU3lsLVl3Xzcybmt5dEVCN2hkQkZNLU1pdDZrNTdWWVRvc1A5R01GTG9xNGpaN2ZpWGVxbUhNRk53eTlzUWZJdERGNHI1dFRkMnl6RElvbmp3YWp4cUVDU3ZYM3VfWFN3NWlKM3BSUmprUXlqd05HQnRfWFpzVzYwRVpBUHZ2Vm1NUDA4X3VJV3Nsc0c4bGZCV2VLcU9XQVJwNVR5RU1STGRWRHFjM2ZxT0N5clBRb0FNOFRwYUJoQkFhNWRUZVZqVkZJSkpkbDF0ZFlrYUlGV0JNLWFaVHFKZXhGWmljcndLUGRjNVpnb2pCOUR4V3djSkotclRNellNV3NSMzR5djNTYnhiekFlLXA5Nm5rMm1tMnRWbGdwdHVJNnFMaW51NkNp?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPcF9sajRrLXBUSEJwcmQxZE1IU3lsLVl3Xzcybmt5dEVCN2hkQkZNLU1pdDZrNTdWWVRvc1A5R01GTG9xNGpaN2ZpWGVxbUhNRk53eTlzUWZJdERGNHI1dFRkMnl6RElvbmp3YWp4cUVDU3ZYM3VfWFN3NWlKM3BSUmprUXlqd05HQnRfWFpzVzYwRVpBUHZ2Vm1NUDA4X3VJV3Nsc0c4bGZCV2VLcU9XQVJwNVR5RU1STGRWRHFjM2ZxT0N5clBRb0",
-      "publishedAt": "2026-07-01T09:54:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
     },
     {
@@ -64,97 +49,397 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "isNew": false
+    },
+    {
+      "title": "Nétanyahou à Paris ? L’incroyable indulgence de Gabriel Attal envers l’accusé de crime contre l’humanité - Libération",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnJsZzZVR0FvM291bjlQVXRMV09RaDBmd2xsbmJiZDExdmVvUTd5RHlzbUdHZXJURGg3Z3AzU0JCWlV0cExYTjE3NUYyTW5HVm5XS0ozZVVNdzNCNW0tb0FqUjlQeG41dExFbXhremFxb1VXNzg3eFhpWGNDZXdLbE9IcFpYOGZTdUs5WjRrc1FNbjFRekZFaV9vV09UZ1U2b3NYMDRLTk9HcXlZVG1Pa2gzZG9YRlhrUnFGdDZLR0J4SmZ2LUhFcmxZeDl3My1UWm1iZlBna1dhZDRVVFBBU3c4X2xBN1Nha1ZQN3NUVy1zcUZ2MmZiT1ZlY3JheTFVQ0E?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnJsZzZVR0FvM291bjlQVXRMV09RaDBmd2xsbmJiZDExdmVvUTd5RHlzbUdHZXJURGg3Z3AzU0JCWlV0cExYTjE3NUYyTW5HVm5XS0ozZVVNdzNCNW0tb0FqUjlQeG41dExFbXhremFxb1VXNzg3eFhpWGNDZXdLbE9IcFpYOGZTdUs5WjRrc1FNbjFRekZFaV9vV09UZ1U2b3NYMDRLTk9HcXlZVG1Pa2gzZG9YRlhrUnFGdDZLR0J4SmZ2LUhFcm",
+      "publishedAt": "2026-07-02T21:16:02.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "isNew": false
+    },
+    {
+      "title": "\"Rafraîchir la France\": Gabriel Attal veut mettre fin aux normes pour adapter la France au changement climatique - BFM",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSnFXckNJdjB2ZWplQll6ZnNvQmg5a0FuWnViQzdzM0R0OGZYS2NKajFuU0g5TWE5UzYwX0tEYzNQRmt6S3ZnWFJQbU4yMkczQTNRS3MyRkJ5SVV4QnUxSFAyU0NCeTZhZkRLcUh5M2xJa3hxNXZwUEFMc0p6UmtwZ0xPRm1wTFg2MlZfVk5JMW5aR21VcUQ3WE9sOHhXcjBlVHFQLVh5dnpVRHM3bGFPZGV0R0lfZ19RTUt0T2ZXMWdaZGF3RnZic3dvRDJzNkgzTEJ4OU04Z2t1LW5tNzFUcnl0elpyazBaVUFhOFB0OTd2bnpNZzNhWV9YS1FPOTgxeGttbjdjWGVkVHBjckF2cGgwZzBQMkVURkJBdWRn?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxQSnFXckNJdjB2ZWplQll6ZnNvQmg5a0FuWnViQzdzM0R0OGZYS2NKajFuU0g5TWE5UzYwX0tEYzNQRmt6S3ZnWFJQbU4yMkczQTNRS3MyRkJ5SVV4QnUxSFAyU0NCeTZhZkRLcUh5M2xJa3hxNXZwUEFMc0p6UmtwZ0xPRm1wTFg2MlZfVk5JMW5aR21VcUQ3WE9sOHhXcjBlVHFQLVh5dnpVRHM3bGFPZGV0R0lfZ19RTUt0T2ZXMWdaZGF3RnZic3",
+      "publishedAt": "2026-07-02T10:28:30.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
     },
     {
-      "title": "Présidentielle 2027 : Gabriel Attal veut poursuivre un rassemblement droite-gauche autour d'un projet «libéral» et «intransigeant» - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV0x4aFR4SFZ0bkRjM1BoQzBnclhxUFhaTlppWi1MU0x0SHN0Z19xN3VFU0tIMjA5Sk0tYm5wY1Qtby1FeEJmZGdUTnBoRkljYnhYc3hYY0RFUFVnUURGQnBvUmxYZTh3NnpGVzYwTE1PRTdqb25IODIzMmpjQXhoNFlReU5KcFpNOGt1TGt2cnZWWENZUmdCY3diN1ZTSmNKT29mSXBaUGQ4WmNUX2JKZjhpbm9Ha3ZSVFQ4cjlBX01Obl9TTGc0Z28tbXVVeG01ams3RE1tb05ONkdTbFFEWUJqYkhqMkhtdUdPdkpnXy0zSWt6UlJQQUpKVQ?oc=5",
+      "title": "Présidentielle 2027 : Gabriel Attal et Raphaël Glucksmann, faux jumeaux et frères rivaux - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbE1CZUxMakpKUl9vaWtsdm9FbGFwRjB1UEhHaURQUzF0Q09TNHVhbmRkbEw2U1dxb2UtRTVnSWhGZURQN1RPRURLRFpmTnNpbm5oZk1aeXZFSEZreEVxMFQzT2ZlMjdjMUFGT1dIdHlQZlQxc2lpc3FYSld0bWtQYllqcW8zeVNoVDhmalp5ZURDemJ2QnFlelI2TVVIXzg4WW42RUt3d1lqWC1pU2R4SWxYWWN6TmJQbFJKVEJrN2JVVnViTGxuR0VPZ2JkUG9ZbzMyTXoyYkZDcVI0?oc=5",
       "source": "Le Figaro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV0x4aFR4SFZ0bkRjM1BoQzBnclhxUFhaTlppWi1MU0x0SHN0Z19xN3VFU0tIMjA5Sk0tYm5wY1Qtby1FeEJmZGdUTnBoRkljYnhYc3hYY0RFUFVnUURGQnBvUmxYZTh3NnpGVzYwTE1PRTdqb25IODIzMmpjQXhoNFlReU5KcFpNOGt1TGt2cnZWWENZUmdCY3diN1ZTSmNKT29mSXBaUGQ4WmNUX2JKZjhpbm9Ha3ZSVFQ4cjlBX01Obl9TTGc0Z2",
-      "publishedAt": "2026-06-30T07:07:37.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbE1CZUxMakpKUl9vaWtsdm9FbGFwRjB1UEhHaURQUzF0Q09TNHVhbmRkbEw2U1dxb2UtRTVnSWhGZURQN1RPRURLRFpmTnNpbm5oZk1aeXZFSEZreEVxMFQzT2ZlMjdjMUFGT1dIdHlQZlQxc2lpc3FYSld0bWtQYllqcW8zeVNoVDhmalp5ZURDemJ2QnFlelI2TVVIXzg4WW42RUt3d1lqWC1pU2R4SWxYWWN6TmJQbFJKVEJrN2JVVnViTGxuR0",
+      "publishedAt": "2026-07-02T11:55:10.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
     },
     {
-      "title": "Gabriel Attal et le boulet du bilan - Le Point",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDJrMkdfT09xRVJ1d2tGUkRlbHpCYzJrb0tsUEVjeFYyYmZ6ZDFadF9JNTc3NTZHWk00aDgzRGZURVJwdFpKbHo4RzVSVXhVLXl0Y05OSG4tMVhMV2lhbnhBbFRnSlp4M3d5d3U2Z3RuYTBNNk1PbTE0M0RuWnE0MVBMSXpfOElYZHJaVnRQaDFrX2JKUTc5OA?oc=5",
-      "source": "Le Point",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDJrMkdfT09xRVJ1d2tGUkRlbHpCYzJrb0tsUEVjeFYyYmZ6ZDFadF9JNTc3NTZHWk00aDgzRGZURVJwdFpKbHo4RzVSVXhVLXl0Y05OSG4tMVhMV2lhbnhBbFRnSlp4M3d5d3U2Z3RuYTBNNk1PbTE0M0RuWnE0MVBMSXpfOElYZHJaVnRQaDFrX2JKUTc5OA?oc=5\" target=\"_blank\">Gabriel Attal et le boulet du bilan</a>&n",
-      "publishedAt": "2026-06-30T06:12:00.000Z",
+      "title": "Gabriel Attal, un candidat en campagne à Villers-Cotterêts - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXBBdFBqM2NabURueVZZYi1rLWZva2hfUGtvcXpWUS1ac0NsYTFheHg2ZTdGT0puaDdKNlNKa0dDc3d0UXJDbHhDR0hURTBSZTgtNkYxS0d3WlNqT2lEclBXSlJlTXN4NC1QdENLVGNBcksxOVRva2ZsWDhjalJiTDlDNmIxNl9zakJZbWZFSDZ3d3ZCNWlZdFZLaVAxY0lUOEJWX251b0s0eUh3aHJKcHdMTWhzV3pBYjVF?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXBBdFBqM2NabURueVZZYi1rLWZva2hfUGtvcXpWUS1ac0NsYTFheHg2ZTdGT0puaDdKNlNKa0dDc3d0UXJDbHhDR0hURTBSZTgtNkYxS0d3WlNqT2lEclBXSlJlTXN4NC1QdENLVGNBcksxOVRva2ZsWDhjalJiTDlDNmIxNl9zakJZbWZFSDZ3d3ZCNWlZdFZLaVAxY0lUOEJWX251b0s0eUh3aHJKcHdMTWhzV3pBYjVF?oc=5\" target=\"_bl",
+      "publishedAt": "2026-07-02T15:33:58.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
     },
     {
-      "title": "Présidentielle 2027 : la ministre Maud Bregeon, qui a rallié Édouard Philippe, va être sanctionnée par Renaissance… “Elle vient de la droite, ces gens-là rêvent de refaire l’UMP” - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0g1WlU2NDYzM1N1anJxTlA4d2ZadUZkcFM0R01NT1JXY3dXclNuSWlyU2ZfLUd3R0VxcGRSZ2NVSFV5eXJVcDFWNGstc1JLeTFKRXhNT3BLMlgxRW90Q0hELXlPU2E5eVRVa2pWSm5rWEgxRzdKUXEtWWN3Szd3aVdGZGJRalYyNUk2SmFxZVZCMnpNb0NtSkhGN1UtcEVBdC1xem9CSWhOYjc2dmNsRERxb2M0NW5GOHBvU21VaWFYSVBzdDlsZnAwZVpzUng1VTBWcTRoWlBWdw?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0g1WlU2NDYzM1N1anJxTlA4d2ZadUZkcFM0R01NT1JXY3dXclNuSWlyU2ZfLUd3R0VxcGRSZ2NVSFV5eXJVcDFWNGstc1JLeTFKRXhNT3BLMlgxRW90Q0hELXlPU2E5eVRVa2pWSm5rWEgxRzdKUXEtWWN3Szd3aVdGZGJRalYyNUk2SmFxZVZCMnpNb0NtSkhGN1UtcEVBdC1xem9CSWhOYjc2dmNsRERxb2M0NW5GOHBvU21VaWFYSVBzdDlsZn",
-      "publishedAt": "2026-06-30T17:28:00.000Z",
+      "title": "Gabriel Attal dévoile les coulisses de la dissolution : “Emmanuel Macron ne répond pas à mes messages et mes appels…” - Gala",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSllyOUw4WjFHQmRZOC1TM0N4RGE4cmdOY3BLSVN0ekdiWTI2TmFNcFZ6cmwtZFJKcUQwTGgxWGNNeGdTZFNFclo5X1NOdUhiVzhFR25STENsa3RoQVc4VnpCZl9raGlBNnpKeHQ1VjdpM21iZi1iSWhTNFc2RFpmVlVIRWduenMtdXNBMmVxckNIcl9mbWpqOTAwTnRfMFk0eE96SURpRENzQjdLMi1uMmRDTEo4WHRMb0RHM180MXk1MWpQa3ZLbXk5TWw4eDhhOXBXTmhiQm5qeHRzMnN3U1pTamJJT1dJYkYyX2w0M3ptS29o?oc=5",
+      "source": "Gala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSllyOUw4WjFHQmRZOC1TM0N4RGE4cmdOY3BLSVN0ekdiWTI2TmFNcFZ6cmwtZFJKcUQwTGgxWGNNeGdTZFNFclo5X1NOdUhiVzhFR25STENsa3RoQVc4VnpCZl9raGlBNnpKeHQ1VjdpM21iZi1iSWhTNFc2RFpmVlVIRWduenMtdXNBMmVxckNIcl9mbWpqOTAwTnRfMFk0eE96SURpRENzQjdLMi1uMmRDTEo4WHRMb0RHM180MXk1MWpQa3ZLbX",
+      "publishedAt": "2026-07-02T18:40:14.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Pour Edouard Philippe, ce serait « dangereux » si Gabriel Attal et lui se présentaient à la présidentielle 2027 - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxObWxFNk1ieE16Y1JSVDBxVWdwalVvdTlXSUVMbElibFRZTkVrSXJzNnA5YXdzMGowWnNpNURDR3dhQzRJWWg3QTJEVjJLcEJlNnM4UFNzSFZGd21Bb2VhZzQxQXJlNFJLZjZidXFObl9XQy1HSzFKdUNjWEdmMVhPa0tkeEJuNEpFSU53ejYtRVZYM21pOEZNbzZENmVIWklOMkMwZGFRNlR6T3luWXpvejlwQ0tVSVNibGtzMU1zMTBTczNUaFNuVkEyOEdENm0ycTVYQ3JjcHlxUVUxYkJpTXlndmJGQlN0RDU1eGdFUzhWT0Q1QzBERmU4T2Rya2hJT21PRmtYOGp2eFlITDlPSENxTlhBbDFxcEE?oc=5",
+      "source": "Le Monde.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxObWxFNk1ieE16Y1JSVDBxVWdwalVvdTlXSUVMbElibFRZTkVrSXJzNnA5YXdzMGowWnNpNURDR3dhQzRJWWg3QTJEVjJLcEJlNnM4UFNzSFZGd21Bb2VhZzQxQXJlNFJLZjZidXFObl9XQy1HSzFKdUNjWEdmMVhPa0tkeEJuNEpFSU53ejYtRVZYM21pOEZNbzZENmVIWklOMkMwZGFRNlR6T3luWXpvejlwQ0tVSVNibGtzMU1zMTBTczNUaFNuVk",
+      "publishedAt": "2026-07-01T08:57:42.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-02T01:54:18.952Z",
       "isNew": false
     },
     {
-      "title": "« Il faut que quelqu'un se lève » : les élus du bloc central pas pressés de soutenir Attal, Philippe ou Retailleau - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaUJ2T0tvcW5vSGk3YUdkamE0Q3EwNE0zUUV6SlVKWWRSU0lwdTVET0taeXd4WjNiaEtaVTBXdlM2cVFXemxKQmFuVXNPSEhiX0Z5d3Q5WFNfbG96WElHbkg1SWUtNms0OWhTUFA1Y29pS1dCeW9MbmotVHpfSEwzR2dDOVpVVnhfa3UzOE9iSWQwVmJlRVRnZkZnR2FXbHRIajF5VXZOZnlWUGMybXk5S2NYNW9MMm9wVEhnRi1UT1N1Z0FoZkdzUGVodG5OSXZnNlZzWVpLVQ?oc=5",
+      "title": "Présidentielle 2027. Édouard Philippe et Gabriel Attal, deux hommes pour un « même espace politique » - Le Dauphiné Libéré",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWJmcFFfWGFkb1lrSmpyQlhhb0FqV3ZkVEswZ2NoSEt6S3hMQ2pyeVNHNjdEMkVnOFAyS29yWlBCdmlBQTJ4TEQxM0FjdUJvQ01wS2t3cmpLWXVJcGVmNW91cl9QcDAxZzh4Ykd5WkRIcUtVY2hjWU9nYkZ0cWROWHRpaTBfOGNvdXlFRHZmVTV1bE9wN2ktWjJRMEJBZkpFLUYtdFZoZ0NMRXRZS29scXdfRFFOaEtmbzRRV1pPRTY?oc=5",
+      "source": "Le Dauphiné Libéré",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWJmcFFfWGFkb1lrSmpyQlhhb0FqV3ZkVEswZ2NoSEt6S3hMQ2pyeVNHNjdEMkVnOFAyS29yWlBCdmlBQTJ4TEQxM0FjdUJvQ01wS2t3cmpLWXVJcGVmNW91cl9QcDAxZzh4Ykd5WkRIcUtVY2hjWU9nYkZ0cWROWHRpaTBfOGNvdXlFRHZmVTV1bE9wN2ktWjJRMEJBZkpFLUYtdFZoZ0NMRXRZS29scXdfRFFOaEtmbzRRV1pPRTY?oc=5\" targ",
+      "publishedAt": "2026-07-02T00:15:34.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Édouard Philippe et Gabriel Attal bientôt \"départagés\" pour 2027 ? Le maire du Havre évoque un \"processus\" - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTmJydHotLWRSdEtQd0NOVnJPMnpGVW5jbWZaWmNQME1aSE4zQ0pldFRzNGZBaFB2aHBQTHZZR1AtOUFZZ2hNUDZCcHdweXgxTUNKZUh6eHdIMUhBcEJHdmJIYnRVZzQ1U2FWbTJYcU1JREhZaVdMOTRaWU8tUWFkd0dJWEE1OVhvM1JUWkhuclRVTUh6SUxjalNhRl9Mb3pxX3BuS3RCdTRxaF91ZDE5YU9Jdjd2WUpmN0hSeG5HNS01QUZVV3JxTnRzZGtURndDemR1Nm1acUM0b3BpWU14R2VpM1NaWW54Nm9Ya0E1Wmw?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTmJydHotLWRSdEtQd0NOVnJPMnpGVW5jbWZaWmNQME1aSE4zQ0pldFRzNGZBaFB2aHBQTHZZR1AtOUFZZ2hNUDZCcHdweXgxTUNKZUh6eHdIMUhBcEJHdmJIYnRVZzQ1U2FWbTJYcU1JREhZaVdMOTRaWU8tUWFkd0dJWEE1OVhvM1JUWkhuclRVTUh6SUxjalNhRl9Mb3pxX3BuS3RCdTRxaF91ZDE5YU9Jdjd2WUpmN0hSeG5HNS01QUZVV3JxTn",
+      "publishedAt": "2026-07-01T17:30:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Les ralliements à Edouard Philippe poussent Gabriel Attal sur une ligne anti-partis - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOC15cUpzeXBfLU40OWhZY3Z0b0hGMExBaVBJTm5pdk9McDFqVDBBczQ0OE0xdVJZeGlzaXJnTUZBaTZ4ZnliZ2xaU0tKVXBhZVk0TmZ1N1o4ZXpacXNkVER4d0VkOVRfaFQ1bG5UN2l2ekNzWnctbU5tcC1KRnhsXzViU3Jrb2RBM0hFRVpMN1pObjlEeGV0Y18xbXNERG9zb3lXb3hIWDA5Y0RHSkZkczZZSEgxS3FR?oc=5",
       "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaUJ2T0tvcW5vSGk3YUdkamE0Q3EwNE0zUUV6SlVKWWRSU0lwdTVET0taeXd4WjNiaEtaVTBXdlM2cVFXemxKQmFuVXNPSEhiX0Z5d3Q5WFNfbG96WElHbkg1SWUtNms0OWhTUFA1Y29pS1dCeW9MbmotVHpfSEwzR2dDOVpVVnhfa3UzOE9iSWQwVmJlRVRnZkZnR2FXbHRIajF5VXZOZnlWUGMybXk5S2NYNW9MMm9wVEhnRi1UT1N1Z0FoZkdzUG",
-      "publishedAt": "2026-06-30T13:00:00.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOC15cUpzeXBfLU40OWhZY3Z0b0hGMExBaVBJTm5pdk9McDFqVDBBczQ0OE0xdVJZeGlzaXJnTUZBaTZ4ZnliZ2xaU0tKVXBhZVk0TmZ1N1o4ZXpacXNkVER4d0VkOVRfaFQ1bG5UN2l2ekNzWnctbU5tcC1KRnhsXzViU3Jrb2RBM0hFRVpMN1pObjlEeGV0Y18xbXNERG9zb3lXb3hIWDA5Y0RHSkZkczZZSEgxS3FR?oc=5\" target=\"_blank\"",
+      "publishedAt": "2026-07-02T16:45:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
     },
     {
-      "title": "Gabriel Attal : « Oui, Benjamin Netanyahou pourrait venir en France » - i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVN3d0ZNQ3d1V1ZSbkRkenlMZnBYMEF4Y1FVX09Ea2l0SW04NmhRWllvYVNkd1ZJSDZzVkNPdmxWRGQyYm1KSVRKQmZJZkd6blp4NkpHY1dZZlNmYXNhU3lmT2p2ajBCVlFFWER5bFVDcFRCa0s3dTNidEdFSmNJRFUycXd0alJfYWwtdWpUUVNkbWN2T0VfSDJPcGlrVGgtNEpORlNSU08?oc=5",
-      "source": "i24NEWS",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVN3d0ZNQ3d1V1ZSbkRkenlMZnBYMEF4Y1FVX09Ea2l0SW04NmhRWllvYVNkd1ZJSDZzVkNPdmxWRGQyYm1KSVRKQmZJZkd6blp4NkpHY1dZZlNmYXNhU3lmT2p2ajBCVlFFWER5bFVDcFRCa0s3dTNidEdFSmNJRFUycXd0alJfYWwtdWpUUVNkbWN2T0VfSDJPcGlrVGgtNEpORlNSU08?oc=5\" target=\"_blank\">Gabriel Attal : « Ou",
-      "publishedAt": "2026-06-30T08:55:49.000Z",
+      "title": "Gabriel Attal promet 100.000 départs volontaires de fonctionnaires et l'«impunité budgétaire zéro» en cas de victoire en 2027 - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ3VUN1FMck9kbkpyOHM1TE9DVXl1QVFQejktNG85ZjU5Yk51WHlBa2xoU1FELVROZkdDSTFyaVB2bG1qR0huQUU5ZzV2SnQzbXRnWk5GY3NmalAwaDJ1NW9GMWpCdWZobEJzTndzLURtWjRJckphTlJ3Z1pZV2NYb3AybkhzS01GSlFJeWp0ZzIyOHVZQ2hYc09RUW82bEVzTWdPaVhrNkkxTE9IUVpyeHJ5aFBua28ybkdrQVdWLTZhSGpyNm5DdFg0SEZCSEF3WXV4dDd4djlVeTFCa1VIRk5ObG5Jc2NBWUNwU2hlQWEza1ZubE8yR1lWTDM?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ3VUN1FMck9kbkpyOHM1TE9DVXl1QVFQejktNG85ZjU5Yk51WHlBa2xoU1FELVROZkdDSTFyaVB2bG1qR0huQUU5ZzV2SnQzbXRnWk5GY3NmalAwaDJ1NW9GMWpCdWZobEJzTndzLURtWjRJckphTlJ3Z1pZV2NYb3AybkhzS01GSlFJeWp0ZzIyOHVZQ2hYc09RUW82bEVzTWdPaVhrNkkxTE9IUVpyeHJ5aFBua28ybkdrQVdWLTZhSGpyNm5DdF",
+      "publishedAt": "2026-07-02T19:12:29.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal veut 100 000 départs volontaires de fonctionnaires et l’« impunité budgétaire zéro » - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOemNLLVFDUjhwaDMzaFg2eHN6NjlxeFVORk9MWGUxeDJxaTB0eGo1UnFBQktsOUEwQlNRdUo3NzlwSTBiSXdrNlpKQTdxZW9VZ2RqWlVZaVIwbzJwdms3aklRd05WNzBsUm1GWVhKTVRUS0JjeExzbHcyc1YyVVBUVkZYOUVVQk9SYlJzSkVJb3p5OFdfZHFES2JWRy1FRlQtNHpzVldIMkdKYk5GMmhPMjlTVUI4d291XzZJUkRKaGRSVXVwUDFIdWp5OEptWWhJeFBOSlQyNm1KNXNFWHkzNndnQ05CLURBcV80c1BxSG9OUmpUeFFpSDAyajQ3VloyZVhFT1JEUEgtYTE3MmNYMndtRUxjVkRFWVAwWGxqb0dGcHo3UnRjSDYyNjE?oc=5",
+      "source": "Ouest-France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOemNLLVFDUjhwaDMzaFg2eHN6NjlxeFVORk9MWGUxeDJxaTB0eGo1UnFBQktsOUEwQlNRdUo3NzlwSTBiSXdrNlpKQTdxZW9VZ2RqWlVZaVIwbzJwdms3aklRd05WNzBsUm1GWVhKTVRUS0JjeExzbHcyc1YyVVBUVkZYOUVVQk9SYlJzSkVJb3p5OFdfZHFES2JWRy1FRlQtNHpzVldIMkdKYk5GMmhPMjlTVUI4d291XzZJUkRKaGRSVXVwUDFIdW",
+      "publishedAt": "2026-07-02T20:38:52.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle : le plan de Gabriel Attal pour redresser les finances publiques - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGlFcFdlZUJkZ3FGNFMtdHBPczdjZWpSTVlSenh4U0l4dXF0TjliMno5RTcyNEc4TU91VUsxYl9uRzdKSXItMndVYTdfa1NUSmFwTEFGZEtvZWY2bVFJVmV0TElBcXROWkNiTVVxaFhXYUpqdHJlbW9Kd2FpaVA5UUNac3JvT0VobUtrMnBjeUx5ejRaSHJhamgxUjFZbVMzZEYxblJkZFNnVkZSNWY2YlJXczRZUQ?oc=5",
+      "source": "lejdd.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGlFcFdlZUJkZ3FGNFMtdHBPczdjZWpSTVlSenh4U0l4dXF0TjliMno5RTcyNEc4TU91VUsxYl9uRzdKSXItMndVYTdfa1NUSmFwTEFGZEtvZWY2bVFJVmV0TElBcXROWkNiTVVxaFhXYUpqdHJlbW9Kd2FpaVA5UUNac3JvT0VobUtrMnBjeUx5ejRaSHJhamgxUjFZbVMzZEYxblJkZFNnVkZSNWY2YlJXczRZUQ?oc=5\" target=\"_blank\">P",
+      "publishedAt": "2026-07-02T21:05:57.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal en campagne à Villers-Cotterêts : « le RN n’est pas une fatalité » - L'Union",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa0hqbFIzbExUVmV1bzRiMDJJalV6eFM5NFRQeGt0VGlrYjZVdlA5UUVLdTIxZU9TUHVUdmZWMWw2SF9HMzZ6eWFDS0V4VnRrV2h2eHlKcUdTZDdVVWdraG1rbl9HWldXQkM1Q1I2YmFpbWh3V2JyN2xSbGRiOE9WX1VPSWtlMUdhNjRQQ2Z4bENtd1hMQ09hVHR5bkRzc2tKRHhYaTJwU1RHLWFWR0lOZnNXSTVHM1kyZ0wxNG13?oc=5",
+      "source": "L'Union",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNa0hqbFIzbExUVmV1bzRiMDJJalV6eFM5NFRQeGt0VGlrYjZVdlA5UUVLdTIxZU9TUHVUdmZWMWw2SF9HMzZ6eWFDS0V4VnRrV2h2eHlKcUdTZDdVVWdraG1rbl9HWldXQkM1Q1I2YmFpbWh3V2JyN2xSbGRiOE9WX1VPSWtlMUdhNjRQQ2Z4bENtd1hMQ09hVHR5bkRzc2tKRHhYaTJwU1RHLWFWR0lOZnNXSTVHM1kyZ0wxNG13?oc=5\" target=",
+      "publishedAt": "2026-07-02T16:42:38.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Les Dossiers\", épisode 2 : Gaspard G reçoit Gabriel Attal - TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFBxV1ZwM1hqYW5KeC1DZDNPUDFKQldlQjhEd1FEZ0ctNXhYZXo5Mjg1V2xGMXo1Umd1TWt2TFBaZWcwcUJWVjFJN0c4QWpPOEhCM0FSTkh0V3l6T1l6Y19RWHNQckU0RU8zcmR1WUVpZEUxdV9EYlBhcEYtQ01CZ2hIQnFuODhNUFY3ZDdUbk96UnJZakkwN3kwb1VLVExOVGxFYlkzeXhCVlhFWjZ0OUR0OTBSVlhjMWRj?oc=5",
+      "source": "TF1 Info",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFBxV1ZwM1hqYW5KeC1DZDNPUDFKQldlQjhEd1FEZ0ctNXhYZXo5Mjg1V2xGMXo1Umd1TWt2TFBaZWcwcUJWVjFJN0c4QWpPOEhCM0FSTkh0V3l6T1l6Y19RWHNQckU0RU8zcmR1WUVpZEUxdV9EYlBhcEYtQ01CZ2hIQnFuODhNUFY3ZDdUbk96UnJZakkwN3kwb1VLVExOVGxFYlkzeXhCVlhFWjZ0OUR0OTBSVlhjMWRj?oc=5\" target=\"_bl",
+      "publishedAt": "2026-07-02T10:47:32.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal en campagne à Villers-Cotterêts : « Pas de fatalité en politique » - L'Aisne nouvelle",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHFhTkZxeWo5WjJrNFBzT3FmclY2b3Jwb3JZajNubVl4NVZvZEkzOTFGdnhnNmNUSXAyemNrLV83Q3I5blgydURZdzRmMXJObXFKZ2xUUVpsOEhPa1pSTUk0elhvTDVtRndzZTNlV3psOXZTMGkxcFNqdUQ3LXQwOEVGT0F3S1BlTTN5QWhSV2J5b3lPZWUtZ2F6TXdqd3REaXBIdnRCaVZqZ1V6TlJNdmctYUh0QktzVk9UU2FOdVVTUkktTGlhQw?oc=5",
+      "source": "L'Aisne nouvelle",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHFhTkZxeWo5WjJrNFBzT3FmclY2b3Jwb3JZajNubVl4NVZvZEkzOTFGdnhnNmNUSXAyemNrLV83Q3I5blgydURZdzRmMXJObXFKZ2xUUVpsOEhPa1pSTUk0elhvTDVtRndzZTNlV3psOXZTMGkxcFNqdUQ3LXQwOEVGT0F3S1BlTTN5QWhSV2J5b3lPZWUtZ2F6TXdqd3REaXBIdnRCaVZqZ1V6TlJNdmctYUh0QktzVk9UU2FOdVVTUkktTGlhQw",
+      "publishedAt": "2026-07-02T16:24:10.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Quand on aura gagné elle n'aura pas l'investiture\": le soutien de Maud Bregeon à Édouard Philippe ne passe pas dans le camp de Gabriel Attal - BFM",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPcF9sajRrLXBUSEJwcmQxZE1IU3lsLVl3Xzcybmt5dEVCN2hkQkZNLU1pdDZrNTdWWVRvc1A5R01GTG9xNGpaN2ZpWGVxbUhNRk53eTlzUWZJdERGNHI1dFRkMnl6RElvbmp3YWp4cUVDU3ZYM3VfWFN3NWlKM3BSUmprUXlqd05HQnRfWFpzVzYwRVpBUHZ2Vm1NUDA4X3VJV3Nsc0c4bGZCV2VLcU9XQVJwNVR5RU1STGRWRHFjM2ZxT0N5clBRb0FNOFRwYUJoQkFhNWRUZVZqVkZJSkpkbDF0ZFlrYUlGV0JNLWFaVHFKZXhGWmljcndLUGRjNVpnb2pCOUR4V3djSkotclRNellNV3NSMzR5djNTYnhiekFlLXA5Nm5rMm1tMnRWbGdwdHVJNnFMaW51NkNp?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAJBVV95cUxPcF9sajRrLXBUSEJwcmQxZE1IU3lsLVl3Xzcybmt5dEVCN2hkQkZNLU1pdDZrNTdWWVRvc1A5R01GTG9xNGpaN2ZpWGVxbUhNRk53eTlzUWZJdERGNHI1dFRkMnl6RElvbmp3YWp4cUVDU3ZYM3VfWFN3NWlKM3BSUmprUXlqd05HQnRfWFpzVzYwRVpBUHZ2Vm1NUDA4X3VJV3Nsc0c4bGZCV2VLcU9XQVJwNVR5RU1STGRWRHFjM2ZxT0N5clBRb0",
+      "publishedAt": "2026-07-01T09:54:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-02T01:54:18.952Z",
       "isNew": false
     },
     {
-      "title": "Présidentielle : des ministres qui soutiennent trois candidats différents, que pourrait-il mal se passer - Libération",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYm1HeG1ueUxibnhVdXhSYnNieWVCUDh2cUpzSEQ4ZThGSFhVaEJUZndxUnBpX3kxOEc5cER3eE84cGtRS2h2WFVaNFZOcnBBSGgydmZ4LVNvX1kwNTVMc3FEV2xNdmVHcEFaMHJ3VzBubGtIN3FFbHZRbWo5NDdSRUJpYjFMM2E2SkRlcGZ3dUhuOFpocS11UG1tWWhsV19CRGJhMlpiZ2VKcVZTVDk2UmNQQy1iSk1sdEwyaWQtTlRVenJxTXU0SGZfZldZcFQzZHBVcUtoY1dPVUR6cTlmdHBXZHd3dDd4QWlTUDcwU3NwUVg5YURLMTVCc0R4RXR4Z1BLdA?oc=5",
+      "title": "A Villers-Cotterêts, Gabriel Attal poursuit son offensive contre le RN et LFI - Libération",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX1VXVE5jMEQ1VDUyNGNXVWJZWWtSanFhd0x5U1h2bFFoTGJQVnNFZjRGOFN1M3NCZEpQMTF5MWVSazNPMUdUVExxRkpGZV9hejFXb3AxV3BELU1nREl2cFoxa2dhMTZaN09MTktqSWs0b05vZmE0MG9NcGpKZXFxeXNsaXNBM21aZmdUcjBLQnRnOF94TElHUFltb3J5ZGU0ZGxldVZsTUp6YnlHeGU4ZmVWbFBPSGJaNzB0Tk9GQ0ppd3NuSTU4ZUNSLUxjbGtYMFVwb1pxQjVtdU5rMndsY0hiemlUTmszUzF5UHdHT3M?oc=5",
       "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQYm1HeG1ueUxibnhVdXhSYnNieWVCUDh2cUpzSEQ4ZThGSFhVaEJUZndxUnBpX3kxOEc5cER3eE84cGtRS2h2WFVaNFZOcnBBSGgydmZ4LVNvX1kwNTVMc3FEV2xNdmVHcEFaMHJ3VzBubGtIN3FFbHZRbWo5NDdSRUJpYjFMM2E2SkRlcGZ3dUhuOFpocS11UG1tWWhsV19CRGJhMlpiZ2VKcVZTVDk2UmNQQy1iSk1sdEwyaWQtTlRVenJxTXU0SG",
-      "publishedAt": "2026-07-01T19:27:28.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX1VXVE5jMEQ1VDUyNGNXVWJZWWtSanFhd0x5U1h2bFFoTGJQVnNFZjRGOFN1M3NCZEpQMTF5MWVSazNPMUdUVExxRkpGZV9hejFXb3AxV3BELU1nREl2cFoxa2dhMTZaN09MTktqSWs0b05vZmE0MG9NcGpKZXFxeXNsaXNBM21aZmdUcjBLQnRnOF94TElHUFltb3J5ZGU0ZGxldVZsTUp6YnlHeGU4ZmVWbFBPSGJaNzB0Tk9GQ0ppd3NuSTU4ZU",
+      "publishedAt": "2026-07-02T10:51:44.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Le candidat Attal veut supprimer 100.000 postes de fonctionnaires - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX3ljUEl5aEYweFJGa0dOLTZtRTdTZXFTUEVOQ01lLVVpN0RadzhUMEJZMG9XQkVsUk41WnpMeldKdWF4Zm42eDdUcWwxWXJJZVhCMW1QYTlwWWJLTU1KOGVlaElLUnhyVGxXSENQYXlOVGI5MndvQVVZOHZJUzZZc1dSTEM2M01GSjZUSU1sbkRTQnlwa1ZxaHNBT3c4SUNka05QQjVGdHZaMHctSFNwdHlCSTNheWJuaXRrdXBJbERxSnh1VXBIUlZhZ095cXluVXpjdlhjNUNKLTN4b2gwbG1UWHRXd29GZHZv?oc=5",
+      "source": "20 Minutes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX3ljUEl5aEYweFJGa0dOLTZtRTdTZXFTUEVOQ01lLVVpN0RadzhUMEJZMG9XQkVsUk41WnpMeldKdWF4Zm42eDdUcWwxWXJJZVhCMW1QYTlwWWJLTU1KOGVlaElLUnhyVGxXSENQYXlOVGI5MndvQVVZOHZJUzZZc1dSTEM2M01GSjZUSU1sbkRTQnlwa1ZxaHNBT3c4SUNka05QQjVGdHZaMHctSFNwdHlCSTNheWJuaXRrdXBJbERxSnh1VXBIUl",
+      "publishedAt": "2026-07-02T19:13:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : «Mon objectif n’est pas de collectionner autour de moi ceux qui ont été ministres depuis 10 ou 20 ans», assure Gabriel Attal - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaXhBcXhpc3NWd01fSUNlMTA4UDdlR2NfcnFiNjAtYnBYUXRhQmUyRjVyWEh3b1liS2ZuUzlMaHpiNGpRQk83Z2pWeTNWelpjMVk3bWVBSmFnUEgzSUN2bFozd3VpZHl4cGNhZm92ZFp2STM3V0JnYzJBMjJmTUhJcVQ0Rk9QVEJzZklObXBOdUtUWjQyUlR5RGhFcUxWdUx5eTlUTFpGOWdjZWhEa3JuVC04M1V0b3Q5LVRHMmlCMjhWTU1iN29JeXktYS1ZRGVMS080NEZTcHAzVzY1Q2pYNk8yYjc4Y3huc0pnQlJ6d2pHNXZ4aWZKalZ2Vy1KUHNCdS1fei0zTFN1enREelJNcF9B?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQaXhBcXhpc3NWd01fSUNlMTA4UDdlR2NfcnFiNjAtYnBYUXRhQmUyRjVyWEh3b1liS2ZuUzlMaHpiNGpRQk83Z2pWeTNWelpjMVk3bWVBSmFnUEgzSUN2bFozd3VpZHl4cGNhZm92ZFp2STM3V0JnYzJBMjJmTUhJcVQ0Rk9QVEJzZklObXBOdUtUWjQyUlR5RGhFcUxWdUx5eTlUTFpGOWdjZWhEa3JuVC04M1V0b3Q5LVRHMmlCMjhWTU1iN29JeX",
+      "publishedAt": "2026-07-02T12:16:48.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal en campagne dans l'Aisne annonce un \"tournant sécuritaire\" - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEhfSWxCNDYwaHc1UGFYcWtkbFAxWmRBaWtqcmNueG1ISnp2b1I5RlNwR1pMYXJ5ZXNHdVJ5azAtUW1kYU1xMXRqWmtOc0pZSE9ZelpLc2dWTFAwNkE4d3R2MTZ4aUEwcnppNXh1Z2pFM3lUZTZHNkdMQldUTTZaMVJIRmJNWkNEWWdMU1I2NGMxYmc1VXFqdG9hbGg3cFlWOFh2LUZLQjNRMzNKREtpbEFVWkVPb2JfM2FhLS0wT0hUZGxhMTZLTWZlUVRYeC1hc1pfMWRB?oc=5",
+      "source": "Actu.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWEhfSWxCNDYwaHc1UGFYcWtkbFAxWmRBaWtqcmNueG1ISnp2b1I5RlNwR1pMYXJ5ZXNHdVJ5azAtUW1kYU1xMXRqWmtOc0pZSE9ZelpLc2dWTFAwNkE4d3R2MTZ4aUEwcnppNXh1Z2pFM3lUZTZHNkdMQldUTTZaMVJIRmJNWkNEWWdMU1I2NGMxYmc1VXFqdG9hbGg3cFlWOFh2LUZLQjNRMzNKREtpbEFVWkVPb2JfM2FhLS0wT0hUZGxhMTZLTW",
+      "publishedAt": "2026-07-02T17:16:01.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "« C’est une ville qui montre qu’il n’y a pas de fatalité en politique » : Gabriel Attal, encore un candidat en campagne à Villers-Cotterêts - L'Union",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDBCSVMya3ZiZThURFpQUmR0SUpoWmxpdVFjWjREUXJneEx5S191ZnkwdmJlMF9PcXlDdUpheFpGYzhMZlRrVGlZTW4tOFJDMk5YVFo2ejdSajBDYV9TdVNSYmhvOEw3YmRyVG1vamRhWklhMXVFWlZ2NS1KUWppdENnU0NwRWNxbFFSQVB2cHZjcnBqN2hvanE1WTdWNGVGVmdpMDNuY2EwNmF0bnZmbTRkbjNSeml4VHNia0tpMmdZUnlR?oc=5",
+      "source": "L'Union",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDBCSVMya3ZiZThURFpQUmR0SUpoWmxpdVFjWjREUXJneEx5S191ZnkwdmJlMF9PcXlDdUpheFpGYzhMZlRrVGlZTW4tOFJDMk5YVFo2ejdSajBDYV9TdVNSYmhvOEw3YmRyVG1vamRhWklhMXVFWlZ2NS1KUWppdENnU0NwRWNxbFFSQVB2cHZjcnBqN2hvanE1WTdWNGVGVmdpMDNuY2EwNmF0bnZmbTRkbjNSeml4VHNia0tpMmdZUnlR?oc=5\"",
+      "publishedAt": "2026-07-02T14:44:29.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Le candidat Attal veut supprimer 100.000 postes de fonctionnaires, via des départs volontaires - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXdOM1Q2bldob3BreG1SQWVDb1Y4NU16QTFSNmM0TjVBQk1zVDhBTjVoODhsbHc5d2xoWEwtd2hjMnRvS0FTNEtYd1J0TFJZQWZuSUM1ZW9fS0FiT3dxSXJzM1hzc05wSnBHS25CamN6NzJhMEs1TngzME1naml2X3NiaGQ3c1ByRW84VWxB?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXdOM1Q2bldob3BreG1SQWVDb1Y4NU16QTFSNmM0TjVBQk1zVDhBTjVoODhsbHc5d2xoWEwtd2hjMnRvS0FTNEtYd1J0TFJZQWZuSUM1ZW9fS0FiT3dxSXJzM1hzc05wSnBHS25CamN6NzJhMEs1TngzME1naml2X3NiaGQ3c1ByRW84VWxB?oc=5\" target=\"_blank\">Présidentielle 2027 : Le candidat Attal veut supprimer ",
+      "publishedAt": "2026-07-02T19:13:03.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle et soutiens à Édouard Philippe: \"Mon objectif, ce n'est pas de collectionner autour de moi ceux qui ont été ministres depuis 10 ou 20 ans\", répond Gabriel Attal - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNVEpzeThZT2VGT3V6VTJhV1RsbDdjRDVxN3A2bVhwWFdlU1JCMzlQdnctczdSZk1rMGx6MlI4NHAtdFFBVEVhTFRCQW1aeU1tQmdCQl9CREhHWF8yTlNOaldTYkVkOUROVV9Uem1iVVFldDQzT3pxdGhJM3EzNE1zcURZaEtqdndxV1ZoeThPYTdYa1MyTVE3SVpOV2lNd3pJN0ljeFpGbWgzNUxvcDdpVFdlWGVEc2JfNVNxTnIyb0tEaEdfLXliYm9hMThUbTN0YXliWkhEZ28xUlRndjBxdGdRbUR6cGNvWXA4U0Q5aTVVdHRLV2pOREZKcUwtRFZGTFh0amtNdUpDOFRMM1g5bll6czhwZDcwVkRoOXdYc05ETXoyUHJaX0VackpIamJkTVlCRGpObjk2TFNiQzI2aUYyMWxjd3F6eGtNOWg2UURqZFpEQWVHRDNwUmR3S1ZCZ2x0Vk5jbExPWGpNNmRn?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wJBVV95cUxNVEpzeThZT2VGT3V6VTJhV1RsbDdjRDVxN3A2bVhwWFdlU1JCMzlQdnctczdSZk1rMGx6MlI4NHAtdFFBVEVhTFRCQW1aeU1tQmdCQl9CREhHWF8yTlNOaldTYkVkOUROVV9Uem1iVVFldDQzT3pxdGhJM3EzNE1zcURZaEtqdndxV1ZoeThPYTdYa1MyTVE3SVpOV2lNd3pJN0ljeFpGbWgzNUxvcDdpVFdlWGVEc2JfNVNxTnIyb0tEaEdfLXliYm",
+      "publishedAt": "2026-07-02T08:14:26.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal face à ses dossiers - Gaspard G - YouTube - Diverto",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZEF0RHd2cnlCYnZWX2NnY0FINnNtMkRyVzFWRlZnM1JmSUlwekdQWEk2Sl8wZG1wSWYzdVFIaDdnSWtEQllfNngxZGVfRF9GdlhNWElwb0Y2akt0c293alNaLXFLVlphdnlfbkI4TnFKWk10Q25xT083UG1zN3R4cTVqMzNMaTY0NTZ6OWdB?oc=5",
+      "source": "Diverto",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZEF0RHd2cnlCYnZWX2NnY0FINnNtMkRyVzFWRlZnM1JmSUlwekdQWEk2Sl8wZG1wSWYzdVFIaDdnSWtEQllfNngxZGVfRF9GdlhNWElwb0Y2akt0c293alNaLXFLVlphdnlfbkI4TnFKWk10Q25xT083UG1zN3R4cTVqMzNMaTY0NTZ6OWdB?oc=5\" target=\"_blank\">Gabriel Attal face à ses dossiers - Gaspard G - YouTube",
+      "publishedAt": "2026-07-02T16:34:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal veut incarner le renouvellement face aux ralliements qui renforcent Édouard Philippe - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONEZWWTNGZ2NzNTU3ekRfMHE5U1BfS19RdjNvOHY2cHpSWTJXSlBueDZjdmo5YzlkQ0Jua1UxeERCSWdrUGxxTUpiOWZjRTI0dXMtWkhodXNhLVAtVVIxOWNYdExTcU1EYUU5T3EwUG9oV090SnViVGRKMXMtLWJJc0JwMFBzUHlpV2FRYll0N29iUGJGcHVmU05uQlZHazcxRld4cUo3VWJ6OWwtSHVEbWdSNmpRNmV5bVcxZGxlTV9JVFBKTThqWFU2enQtOWlleU1wQnhuNElJUHZnZFFKb2doMmk4R0dWT1Z3UEkzTThXcDhuSTlOemNUd1Y?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxONEZWWTNGZ2NzNTU3ekRfMHE5U1BfS19RdjNvOHY2cHpSWTJXSlBueDZjdmo5YzlkQ0Jua1UxeERCSWdrUGxxTUpiOWZjRTI0dXMtWkhodXNhLVAtVVIxOWNYdExTcU1EYUU5T3EwUG9oV090SnViVGRKMXMtLWJJc0JwMFBzUHlpV2FRYll0N29iUGJGcHVmU05uQlZHazcxRld4cUo3VWJ6OWwtSHVEbWdSNmpRNmV5bVcxZGxlTV9JVFBKTThqWF",
+      "publishedAt": "2026-07-02T13:22:34.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Pour Philippe, ce serait « dangereux » que Gabriel Attal soit aussi candidat - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUFKVzFjWU01S1dwWE9VamI2R3J3T1U3dUdCVklhTlczbjJfaHkwN0tDeFBqck1uTl9neDFIbEpFUElSaUlwZW56Y0JSRDBaZV9Qa19KQTBhTDlOX3NUZW5hQllmMDROaktJcW02RTJlYW4wQkc4SVZGeWVjb3BVZVFBYTF0UUtVcHZtT1VCbjI2MVJieXViSmt1dW1WamUyYmx4UXBOMFJCaE1RS2dNOTJINHZLamJXLWVGQjVXVEhRdkJ2SWc?oc=5",
+      "source": "20 Minutes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONUFKVzFjWU01S1dwWE9VamI2R3J3T1U3dUdCVklhTlczbjJfaHkwN0tDeFBqck1uTl9neDFIbEpFUElSaUlwZW56Y0JSRDBaZV9Qa19KQTBhTDlOX3NUZW5hQllmMDROaktJcW02RTJlYW4wQkc4SVZGeWVjb3BVZVFBYTF0UUtVcHZtT1VCbjI2MVJieXViSmt1dW1WamUyYmx4UXBOMFJCaE1RS2dNOTJINHZLamJXLWVGQjVXVEhRdkJ2SWc?oc",
+      "publishedAt": "2026-07-01T10:07:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
     },
     {
       "title": "Présidentielle 2027 : Édouard Philippe évoque un « processus » de départage avec Gabriel Attal « entre octobre et février » - Le Parisien",
@@ -169,21 +454,51 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Que contient le « Plan clim » présenté par le RN ? - Batiweb",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamR4RGc1VXV4WlNlSW83alRuYUdWdHNURGJiXzBNakQ0U3BhcjIweFpVSUw2cTJtR3hBanVtRV96QlVzMlpuNGJIamNIX0NGbnFVbTAycm13TFd2MDhuYVFuSUVQcUw5WjhiazZ3b1k2WEd6QVRBa1RvVjhwQ3ZmZ1Y2UUlfZTl4YkxSbVhwdFdCc1NXN0EwX2NVOGd6UWZm?oc=5",
-      "source": "Batiweb",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNamR4RGc1VXV4WlNlSW83alRuYUdWdHNURGJiXzBNakQ0U3BhcjIweFpVSUw2cTJtR3hBanVtRV96QlVzMlpuNGJIamNIX0NGbnFVbTAycm13TFd2MDhuYVFuSUVQcUw5WjhiazZ3b1k2WEd6QVRBa1RvVjhwQ3ZmZ1Y2UUlfZTl4YkxSbVhwdFdCc1NXN0EwX2NVOGd6UWZm?oc=5\" target=\"_blank\">Que contient le « Plan clim » p",
-      "publishedAt": "2026-07-01T08:35:00.000Z",
+      "title": "Après Lecornu, Attal, Bergé, Lescure… la Macronie à l’assaut des Rencontres d’Aix - - Gomet'",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjhPcW1tWFM5WFVKNTVYalhvU2c5a1AzOC1TaERkRFU4QVNMN0ZXVG4zSENIR2hjc2k4UjNuYVJyN01PbVlmZDdfUl9vSkdPZEl5TENmdlV1eEhSM0pmSUswQml0SmJXNTZPcm4wenpvZE16Q1BIdEtHdndZNUZ5dU1jQlNUamVWMmd2bG1ERWhCM0JDZXBTWmZR?oc=5",
+      "source": "- Gomet'",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjhPcW1tWFM5WFVKNTVYalhvU2c5a1AzOC1TaERkRFU4QVNMN0ZXVG4zSENIR2hjc2k4UjNuYVJyN01PbVlmZDdfUl9vSkdPZEl5TENmdlV1eEhSM0pmSUswQml0SmJXNTZPcm4wenpvZE16Q1BIdEtHdndZNUZ5dU1jQlNUamVWMmd2bG1ERWhCM0JDZXBTWmZR?oc=5\" target=\"_blank\">Après Lecornu, Attal, Bergé, Lescure… l",
+      "publishedAt": "2026-07-02T17:20:32.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Même impasse politique\" : Gabriel Attal en déplacement dans l'Aisne pour contrer l'influence du RN et de LFI - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObnZzc0hOeUxOSS1VNnVJRXBlUUhFMGFtT0Z1QUUxUFRTM1Z2VTJwaG5GOFVRYkRCdUFpZS0yZ21wSTd3LXJOeW13c0pzNndlaHJtX1lpN3BSajMtUE9pZUFzMGRLeUhsTElGOUwwT212cGN6QUVRaUtwLUxKaTI1RktKUlNBaE1JZmhvcnp6NzlUSlNQaHVXOGxiTERWQmRCMUF5Rl9DcWQxYV9JSjE5SkdxaWE4OEg5dnB5cGQyR3B6NFNZWHNLVXJTY0xSMWxpa1ZQaS1lSnV0cURjb1dxaFViUWxHQ1NEc3RESnJUeE9kUE1TeGtWLU5mclZqXzJZVFlZ?oc=5",
+      "source": "Actu.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxObnZzc0hOeUxOSS1VNnVJRXBlUUhFMGFtT0Z1QUUxUFRTM1Z2VTJwaG5GOFVRYkRCdUFpZS0yZ21wSTd3LXJOeW13c0pzNndlaHJtX1lpN3BSajMtUE9pZUFzMGRLeUhsTElGOUwwT212cGN6QUVRaUtwLUxKaTI1RktKUlNBaE1JZmhvcnp6NzlUSlNQaHVXOGxiTERWQmRCMUF5Rl9DcWQxYV9JSjE5SkdxaWE4OEg5dnB5cGQyR3B6NFNZWHNLVX",
+      "publishedAt": "2026-07-02T06:32:31.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Édouard Philippe pense que ce «serait dangereux» si Gabriel Attal et lui se présentaient au premier tour - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVklUNWFhdGhGVVFfX2dOdTdOVi1ndE1yUFhRQ2pVV1FqRmpGclQwdXpXUFFneDExN280MHl4X2NhSGszWEs5OGJzY1JaUThKaXh5VVlwU3otZ2c3eWhZNjJBMjNlaFAyNlREdmlHeWMxWTYzb2t5ZmNwY0s1Tm9QWGNWRGVtYTYxdWZOaTVrZ1Vrd0tna1N1bkxMMzlzR0hNbWRSYnlVZlpONU56ZFJKalhOSG45NnZHZ21PcWhIU1FDcTZKdVNXN0c5ZVU1MlVRZHIwM3p1TzBMMnZncnFkMTlrblA0cFN2aWo0LWRHVmxualljcGNPdg?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVklUNWFhdGhGVVFfX2dOdTdOVi1ndE1yUFhRQ2pVV1FqRmpGclQwdXpXUFFneDExN280MHl4X2NhSGszWEs5OGJzY1JaUThKaXh5VVlwU3otZ2c3eWhZNjJBMjNlaFAyNlREdmlHeWMxWTYzb2t5ZmNwY0s1Tm9QWGNWRGVtYTYxdWZOaTVrZ1Vrd0tna1N1bkxMMzlzR0hNbWRSYnlVZlpONU56ZFJKalhOSG45NnZHZ21PcWhIU1FDcTZKdVNXN0",
+      "publishedAt": "2026-07-01T07:29:34.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
     },
     {
@@ -199,6 +514,36 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "isNew": false
+    },
+    {
+      "title": "Le programme qui a “formé” Emmanuel Macron, Gabriel Attal et plusieurs leaders européens : que sait-on vraiment - Planet.fr",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWHhoazkybE5vMVgzN2s5ek9XdGtOX1BscGdBYi03SVVwdVRRV25KY1dqSS1WODlUZDNBYW1Nd1FBSXJhUmZlQkZMelU1S2Y0N185emR4S1hPYWxnTmJKNGpJTGIwQmdmdjZVRUFXYTJuOTRzdXpzZ0c2cS1Ta01DVUE3T1ppa21ZRTJsOEItSW1tMGZvNWFCRjVZQlR4Y2E4RHhsdEwwNVBFVjRuQ3VldDFWTFl5dW9rd2dIeUFmajVFeDBWTmVRb21lRk1JbFlCYXhUdV8wckx1bTEtc1JsQUdiUC1YOFcxY05YalR3?oc=5",
+      "source": "Planet.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWHhoazkybE5vMVgzN2s5ek9XdGtOX1BscGdBYi03SVVwdVRRV25KY1dqSS1WODlUZDNBYW1Nd1FBSXJhUmZlQkZMelU1S2Y0N185emR4S1hPYWxnTmJKNGpJTGIwQmdmdjZVRUFXYTJuOTRzdXpzZ0c2cS1Ta01DVUE3T1ppa21ZRTJsOEItSW1tMGZvNWFCRjVZQlR4Y2E4RHhsdEwwNVBFVjRuQ3VldDFWTFl5dW9rd2dIeUFmajVFeDBWTmVRb2",
+      "publishedAt": "2026-07-02T14:46:24.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Renaissance, LR, Modem... ces élus qui seront au meeting d’Edouard Philippe - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT21uMEdVMW9IUHJjQWY5anlhbG5pbDY1SWdUaUlDRWxVX1ZTT0UxaTZfdkcyZjhrc1NNNEVfRGtFUVdLUGRvSlh0V1RxQTNfZlpwY0VEdWVTeWNtU0kzOUt3WUtYYzVfOEh4ODRRREpDY0ZqVUZpbnQ5S1NBV3F5a215cWhsYlQ5UnZrOThqN184a0ZfS0tFZ08ydlVhNkdsTDNPQjJ3?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPT21uMEdVMW9IUHJjQWY5anlhbG5pbDY1SWdUaUlDRWxVX1ZTT0UxaTZfdkcyZjhrc1NNNEVfRGtFUVdLUGRvSlh0V1RxQTNfZlpwY0VEdWVTeWNtU0kzOUt3WUtYYzVfOEh4ODRRREpDY0ZqVUZpbnQ5S1NBV3F5a215cWhsYlQ5UnZrOThqN184a0ZfS0tFZ08ydlVhNkdsTDNPQjJ3?oc=5\" target=\"_blank\">Renaissance, LR, Modem.",
+      "publishedAt": "2026-07-02T16:25:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
     },
     {
@@ -214,7 +559,22 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "title": "Que contient le « Plan clim » présenté par le RN ? - Batiweb",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamR4RGc1VXV4WlNlSW83alRuYUdWdHNURGJiXzBNakQ0U3BhcjIweFpVSUw2cTJtR3hBanVtRV96QlVzMlpuNGJIamNIX0NGbnFVbTAycm13TFd2MDhuYVFuSUVQcUw5WjhiazZ3b1k2WEd6QVRBa1RvVjhwQ3ZmZ1Y2UUlfZTl4YkxSbVhwdFdCc1NXN0EwX2NVOGd6UWZm?oc=5",
+      "source": "Batiweb",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNamR4RGc1VXV4WlNlSW83alRuYUdWdHNURGJiXzBNakQ0U3BhcjIweFpVSUw2cTJtR3hBanVtRV96QlVzMlpuNGJIamNIX0NGbnFVbTAycm13TFd2MDhuYVFuSUVQcUw5WjhiazZ3b1k2WEd6QVRBa1RvVjhwQ3ZmZ1Y2UUlfZTl4YkxSbVhwdFdCc1NXN0EwX2NVOGd6UWZm?oc=5\" target=\"_blank\">Que contient le « Plan clim » p",
+      "publishedAt": "2026-07-01T08:35:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "isNew": false
     },
     {
       "title": "Présidentielle 2027 : après Maud Bregeon, Mathieu Lefèvre annonce soutenir Édouard Philippe plutôt que Gabriel Attal - Le Parisien",
@@ -229,96 +589,36 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle : pour Édouard Philippe, ce serait \"dangereux\" si Attal et lui se présentaient au premier tour - lanouvellerepublique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLVF5WnBMRWFySGFqajIxbEk4eHc2TnFIWURYVmMyeUF5YWRLR29paGFWNVEzcnV5RHhnUzFIQ3NnS2ZJejdJdkc4M3VBanlvSkpGMlB6T05aNXQ3MS1FZzBYbU5qeFhJNVUxcHAwRnh1OHFGRkJOa1hYZGtNRUM2RzNiYTZNZDBpNlJpYWVjZmpHWVZvSUd1Mk9hNTdTckVKWlVKS2F5RUFhR2xtNUhnVkxndzZra3V0THBQQXlXclpiT0t5R1pyYmEtZ0lnZ3Jia3FobHhHSWQ1dE41MVhtX0c2azd0VjdJdm1JMDYtTDZHdw?oc=5",
-      "source": "lanouvellerepublique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLVF5WnBMRWFySGFqajIxbEk4eHc2TnFIWURYVmMyeUF5YWRLR29paGFWNVEzcnV5RHhnUzFIQ3NnS2ZJejdJdkc4M3VBanlvSkpGMlB6T05aNXQ3MS1FZzBYbU5qeFhJNVUxcHAwRnh1OHFGRkJOa1hYZGtNRUM2RzNiYTZNZDBpNlJpYWVjZmpHWVZvSUd1Mk9hNTdTckVKWlVKS2F5RUFhR2xtNUhnVkxndzZra3V0THBQQXlXclpiT0t5R1pyYm",
-      "publishedAt": "2026-07-01T09:24:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Philippe, Attal, Retailleau : les déclarations chocs de Wauquiez qui bousculent la présidentielle - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaTEwNnFkODRUaTlOTW9laXZWM0pSckFRNXpaeUlRY1Q2U09jbWpCRERkc0YwRXFLZnFxYUlUczJkRzExM2cxX1RqcUk1Y21ybVRZQ1EwMHh0Ulc2MExkMlhxTFBLb01LR0swU3ZfOF9RY01EQlJHQXJ0aUtSYmxPWFo1ZUd3SktPZDg1dExGaHVPNGg4d2F0SGlzUXJKZDRMZFZ5NDhCeTYyNTVTRndjVzM2VXhrZ0YxODd5TWZBU1hFY2hUckFFRWN4UkVjRFduMndUVTBIaTBPbXRvaGw3OU9fRE03ZzBC?oc=5",
-      "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaTEwNnFkODRUaTlOTW9laXZWM0pSckFRNXpaeUlRY1Q2U09jbWpCRERkc0YwRXFLZnFxYUlUczJkRzExM2cxX1RqcUk1Y21ybVRZQ1EwMHh0Ulc2MExkMlhxTFBLb01LR0swU3ZfOF9RY01EQlJHQXJ0aUtSYmxPWFo1ZUd3SktPZDg1dExGaHVPNGg4d2F0SGlzUXJKZDRMZFZ5NDhCeTYyNTVTRndjVzM2VXhrZ0YxODd5TWZBU1hFY2hUckFFRW",
-      "publishedAt": "2026-07-01T15:13:29.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "\"Je ne me bats pas pour collectionner les visages\": Gabriel Attal minimise le ralliement de Maud Bregeon à Édouard Philippe - BFM",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdDM5S2JVSUlPY3doV1dYRlMzM3NWbzZ4OVVkWHN4QklVTWRNNnh2VzZILU9QZTdHeVBtaHVsODFBMC1pRjg1NVNUVkc2OEt4YmdnLWpTbndBM21mRXlmeHA2Z2V1VTFJUG90UWFjd09FcjJwQ0M5V3hTUUczaVl0blBxWXBrQ1hGdk03TmtMaC1wOVRiN0QwaXFCcHZzSE5LYlFHWmdEMVdDdVJheTk0SnpqOFc0YjhmZDVkaFpYQTZTT0kwOXpza1R6RnE1aVdlZHNHMi1qRHZXc0FIb3ZucUNlZWtQT0hoWjVBTWduZ2VWWkliZWp1NllUZVREVElhaUtxdzBjbTZ5dWFNei1MT1pnVnRqUVRvSXFhOEJWblZEZVU?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQdDM5S2JVSUlPY3doV1dYRlMzM3NWbzZ4OVVkWHN4QklVTWRNNnh2VzZILU9QZTdHeVBtaHVsODFBMC1pRjg1NVNUVkc2OEt4YmdnLWpTbndBM21mRXlmeHA2Z2V1VTFJUG90UWFjd09FcjJwQ0M5V3hTUUczaVl0blBxWXBrQ1hGdk03TmtMaC1wOVRiN0QwaXFCcHZzSE5LYlFHWmdEMVdDdVJheTk0SnpqOFc0YjhmZDVkaFpYQTZTT0kwOXpza1",
-      "publishedAt": "2026-06-30T06:38:21.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
       "isNew": false
     },
     {
-      "title": "Le ‘’ventilateur Attal’’ - Le Club de Mediapart",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWVzWkxpY2tZVjl0Z2VLUzhKX2RuWi0zQ2VibV9zdUhQMGVtNXZCSzlfMWRzYzdqdFR4UXpNNlhIel96VkUyY0NCaGRlclN3ZGM2XzdtZnc3bm0tcUxsWnBoNlkxQ2Eta2s2UkpUOEQwTjFkbXlRVzlOSWRpd2Zmcg?oc=5",
-      "source": "Le Club de Mediapart",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWVzWkxpY2tZVjl0Z2VLUzhKX2RuWi0zQ2VibV9zdUhQMGVtNXZCSzlfMWRzYzdqdFR4UXpNNlhIel96VkUyY0NCaGRlclN3ZGM2XzdtZnc3bm0tcUxsWnBoNlkxQ2Eta2s2UkpUOEQwTjFkbXlRVzlOSWRpd2Zmcg?oc=5\" target=\"_blank\">Le ‘’ventilateur Attal’’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Club de ",
-      "publishedAt": "2026-07-01T06:28:13.000Z",
+      "title": "Gabriel Attal aux Rencontres Économiques d'Aix-en-Provence - Presse Agence",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1RSN2Y1T0lUZEhDUzM2YTdpeGpJbGZieGNPU29Wa3JpY1UxS05aVlNMTnl3V0JSTmtXZ0g0azFfUS15aHVTOG4yem5RU3VyeGVpR0NHSGU3dE1Ld29qS0xvVHBGNzlBUTloazJ0WEtfMVZPR19rSzgwUzJlRzJXYUpyWU41TzZZc05DX0FxX1ZBbjRnV0ZkejdMMWFPUUlhbFVRc2h5Q09vTjNaeVdRQkNVNlBKTEppZGxYNUhoX3M?oc=5",
+      "source": "Presse Agence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1RSN2Y1T0lUZEhDUzM2YTdpeGpJbGZieGNPU29Wa3JpY1UxS05aVlNMTnl3V0JSTmtXZ0g0azFfUS15aHVTOG4yem5RU3VyeGVpR0NHSGU3dE1Ld29qS0xvVHBGNzlBUTloazJ0WEtfMVZPR19rSzgwUzJlRzJXYUpyWU41TzZZc05DX0FxX1ZBbjRnV0ZkejdMMWFPUUlhbFVRc2h5Q09vTjNaeVdRQkNVNlBKTEppZGxYNUhoX3M?oc=5\" targ",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
     },
     {
-      "title": "Présidentielle : Gabriel Attal à Villers-Cotterêts jeudi 2 juillet - L'Union",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVhwTzZhUWhFcTVwNDJhdVF6S1JYUnhwRndSZzFubklTV19yMHktMm9SaFpBWTZXRjBKczB6ZFJSQV9zdW9vb2xUa0tRd2QwSXlUMWdON3QtQTJmNGR1Q3huc012YmtSWFFQM3dTNkxmX2g2OWNwSmpWWERlYlBxNUpVU2d6M1FWQU5DbWszbnZpQTFleTdkTGN2WmZmOG1xdHFIcDNQci1HN2owamxib1dR?oc=5",
-      "source": "L'Union",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVhwTzZhUWhFcTVwNDJhdVF6S1JYUnhwRndSZzFubklTV19yMHktMm9SaFpBWTZXRjBKczB6ZFJSQV9zdW9vb2xUa0tRd2QwSXlUMWdON3QtQTJmNGR1Q3huc012YmtSWFFQM3dTNkxmX2g2OWNwSmpWWERlYlBxNUpVU2d6M1FWQU5DbWszbnZpQTFleTdkTGN2WmZmOG1xdHFIcDNQci1HN2owamxib1dR?oc=5\" target=\"_blank\">Préside",
-      "publishedAt": "2026-06-30T18:00:04.000Z",
+      "title": "Présidentielle 2027. 100 000 départs de fonctionnaires, impunité budgétaire zéro... le plan de Gabriel Attal - Le Dauphiné Libéré",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeFVyVXFiek9xaHNUcFZaTDdKakt2ejF0RVZ6WGQ0ZndMQ2JldEZKSlo4QzA2QnhGRzNVUVZzSFUxZUdTTGVYM2pxYW9iWUZFUkE3aU45cVFhT0xTam52Qzc0S1NoT1AzTF9XTzdIOHBZQXRSYkNjb3lJV3lvSVlNT0ttMnc1SWJMUWtVaDBjdHYyQUhtMTVLQ2lZU1EyRV8xZzBJeDhZYVNxUVZnQXROcDhHdnBpekFfazBfdW13R3JyM3JDYTBjVzdFTmk5ckhRM2c?oc=5",
+      "source": "Le Dauphiné Libéré",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeFVyVXFiek9xaHNUcFZaTDdKakt2ejF0RVZ6WGQ0ZndMQ2JldEZKSlo4QzA2QnhGRzNVUVZzSFUxZUdTTGVYM2pxYW9iWUZFUkE3aU45cVFhT0xTam52Qzc0S1NoT1AzTF9XTzdIOHBZQXRSYkNjb3lJV3lvSVlNT0ttMnc1SWJMUWtVaDBjdHYyQUhtMTVLQ2lZU1EyRV8xZzBJeDhZYVNxUVZnQXROcDhHdnBpekFfazBfdW13R3JyM3JDYTBjVz",
+      "publishedAt": "2026-07-01T23:59:34.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle : selon Edouard Philippe, ce serait « dangereux » si Attal et lui se présentaient au premier tour - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOclpXcDRKTUxqeFZCUjA3VlFjYUdZaUlwWWswOG5zU1R4UFp6VFkteFJVYlVKSU1ScWg4NkcwTGpSdGJjVkFOemd5TUY5MWs3QkQ1QlZnaWNmcEF3UzlURU1WSkExUGFGQVRyTmltTERYc21tOUtFQ2lhWk8wandoVy15cEtmS3lZOHFaNDFoanFSOW9zNGZXbzgwM1dZdk1MbjVldjlVQ19VZ2pDY09HcVM0Q29rMmJFZDZ1bE05eTJyczEtS0M3QkF3b2NXMVBEVk1CNnphNy1BQUhqa1U3cHJXdV9GNmYwNUhRQml0eG1Na0d3aVZmdmtCTm5BaTFSS0F1STJXdHdvS2Z4ZnRMZVFURUJ4QVJKR01IT0o2bDM?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxOclpXcDRKTUxqeFZCUjA3VlFjYUdZaUlwWWswOG5zU1R4UFp6VFkteFJVYlVKSU1ScWg4NkcwTGpSdGJjVkFOemd5TUY5MWs3QkQ1QlZnaWNmcEF3UzlURU1WSkExUGFGQVRyTmltTERYc21tOUtFQ2lhWk8wandoVy15cEtmS3lZOHFaNDFoanFSOW9zNGZXbzgwM1dZdk1MbjVldjlVQ19VZ2pDY09HcVM0Q29rMmJFZDZ1bE05eTJyczEtS0M3Qk",
-      "publishedAt": "2026-07-01T07:28:52.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
     },
     {
@@ -334,14 +634,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Aller sans retour pour Maud Bregeon, qui sera punie par Renaissance pour son soutien à Edouard Philippe - Libération",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRHRWNGVVd1lhN0ZROV83WlJqUm9lZ04tdFpGV1M3RXlLQzFwcEdQdTNSZmpTZW8wM1FWaWc0Uk9qNWZFU0wtLTB2UGFhYXF0anptd0Y1YTJGa2Ftc29sTzVMMjd0OXJRd3lNVUgyWVF3UTgzM1lYNEU5NHVqRXNNQWlCYUZZOUNIaUlpbHJtMnNrQ1B2dnAtWDlIaEFYa3llc2VpRFhIQnNzMG9VZnF0aHpGN0l2TjdZU0VfdVl3VVpzY1lvcy15T0NvMFFsTGFrYm1nYnYzczh5SFBLU2VXZnY0aEJ4UXM0ZllGVnNzY3E1aWFTLS02UjFpcTRfZlBQdEpxUlpR?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQRHRWNGVVd1lhN0ZROV83WlJqUm9lZ04tdFpGV1M3RXlLQzFwcEdQdTNSZmpTZW8wM1FWaWc0Uk9qNWZFU0wtLTB2UGFhYXF0anptd0Y1YTJGa2Ftc29sTzVMMjd0OXJRd3lNVUgyWVF3UTgzM1lYNEU5NHVqRXNNQWlCYUZZOUNIaUlpbHJtMnNrQ1B2dnAtWDlIaEFYa3llc2VpRFhIQnNzMG9VZnF0aHpGN0l2TjdZU0VfdVl3VVpzY1lvcy15T0",
-      "publishedAt": "2026-07-01T08:34:16.000Z",
+      "title": "Présidentielle : pour Édouard Philippe, ce serait \"dangereux\" si Attal et lui se présentaient au premier tour - lanouvellerepublique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLVF5WnBMRWFySGFqajIxbEk4eHc2TnFIWURYVmMyeUF5YWRLR29paGFWNVEzcnV5RHhnUzFIQ3NnS2ZJejdJdkc4M3VBanlvSkpGMlB6T05aNXQ3MS1FZzBYbU5qeFhJNVUxcHAwRnh1OHFGRkJOa1hYZGtNRUM2RzNiYTZNZDBpNlJpYWVjZmpHWVZvSUd1Mk9hNTdTckVKWlVKS2F5RUFhR2xtNUhnVkxndzZra3V0THBQQXlXclpiT0t5R1pyYmEtZ0lnZ3Jia3FobHhHSWQ1dE41MVhtX0c2azd0VjdJdm1JMDYtTDZHdw?oc=5",
+      "source": "lanouvellerepublique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLVF5WnBMRWFySGFqajIxbEk4eHc2TnFIWURYVmMyeUF5YWRLR29paGFWNVEzcnV5RHhnUzFIQ3NnS2ZJejdJdkc4M3VBanlvSkpGMlB6T05aNXQ3MS1FZzBYbU5qeFhJNVUxcHAwRnh1OHFGRkJOa1hYZGtNRUM2RzNiYTZNZDBpNlJpYWVjZmpHWVZvSUd1Mk9hNTdTckVKWlVKS2F5RUFhR2xtNUhnVkxndzZra3V0THBQQXlXclpiT0t5R1pyYm",
+      "publishedAt": "2026-07-01T09:24:09.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -349,22 +649,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Édouard Philippe estime que ce «serait dangereux» si Gabriel Attal et lui se pré... - Jean-Marc Morandini",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOWm1FV25YRlJreEx5Q3Z6dDRvZFRFYWl4ckxSTzVLeFQ3ME9PLUdoT0lmdFpFdHNQVFR2a0xtQ3Z6amR6eldOR0pFbjBpYXRQSkZFOTJWZm9BZEFSMUJqeUwxR2VCSjREMjFaTDdmdmVmYy1qZ1VJTlJXT28tQnNNaUpYRmRIa0NRaEdSVTRza3BqSWw4YklRME1CS1p2VzFwLXIwODlfLW13MzJrc3Iwa2pDM1pzU0NsOUxCdGxuYlN1MkhhYVBJU2I3UDlXeTB6ZGNmQXlicmdsWmNnQlR5b2x3c21ZX0Q3aE03ZHA5YlBfYTNKU3pldmc3OWk3cHBfeEU1bHBsOVVLeVIyUk5RVnpHUlNlUlhjSEZmZGM4QXNrVkVrNmVlRDJZWXPSAbICQVVfeXFMUDFoQ0NyaHFkbmotbGk4UnFYUm5HcU5DNU12UVdZMHFzQ1hTR0tuUFhPd3h2dlE5LS1Tbnp1QUs0cEpIU3A5QllqTjFPejA1YVpQM0pYWGtzYVlRNVg1SHFhZERUQUtSX0phc1VUSWc3b2RTY2UyLXVNSmlwelpnREVxa2IwbklFUDd0UUYwSFFwYWJMMFdISjFQQUt1NWhYVG5aVFRkMFg1Q19MMXRKeXhUMWNGbXM3TEc5SlFfMjBETFZOUTJEaHZIc3F5STBzeGhTd1VnVExycUYtbUxVREQ1SkdvRlNkT05HQnVjNU1oWERxalRHbFlzdXd4WjRta3M1ZlJJMlZWbXUtdXpmMmZvQUgyekxDSDluYjRFdXROaEhPcnBscjd4ejJ4cG1mTWVR?oc=5",
-      "source": "Jean-Marc Morandini",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOWm1FV25YRlJreEx5Q3Z6dDRvZFRFYWl4ckxSTzVLeFQ3ME9PLUdoT0lmdFpFdHNQVFR2a0xtQ3Z6amR6eldOR0pFbjBpYXRQSkZFOTJWZm9BZEFSMUJqeUwxR2VCSjREMjFaTDdmdmVmYy1qZ1VJTlJXT28tQnNNaUpYRmRIa0NRaEdSVTRza3BqSWw4YklRME1CS1p2VzFwLXIwODlfLW13MzJrc3Iwa2pDM1pzU0NsOUxCdGxuYlN1MkhhYVBJU2",
-      "publishedAt": "2026-07-01T09:35:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Le bilan des dix ans de mandat d’Emmanuel Macron embarrasse ses héritiers, candidats à la présidentielle - Le Monde.fr",
@@ -379,7 +664,52 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "isNew": false
+    },
+    {
+      "title": "« Il faut que quelqu'un se lève » : les élus du bloc central pas pressés de soutenir Attal, Philippe ou Retailleau - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaUJ2T0tvcW5vSGk3YUdkamE0Q3EwNE0zUUV6SlVKWWRSU0lwdTVET0taeXd4WjNiaEtaVTBXdlM2cVFXemxKQmFuVXNPSEhiX0Z5d3Q5WFNfbG96WElHbkg1SWUtNms0OWhTUFA1Y29pS1dCeW9MbmotVHpfSEwzR2dDOVpVVnhfa3UzOE9iSWQwVmJlRVRnZkZnR2FXbHRIajF5VXZOZnlWUGMybXk5S2NYNW9MMm9wVEhnRi1UT1N1Z0FoZkdzUGVodG5OSXZnNlZzWVpLVQ?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaUJ2T0tvcW5vSGk3YUdkamE0Q3EwNE0zUUV6SlVKWWRSU0lwdTVET0taeXd4WjNiaEtaVTBXdlM2cVFXemxKQmFuVXNPSEhiX0Z5d3Q5WFNfbG96WElHbkg1SWUtNms0OWhTUFA1Y29pS1dCeW9MbmotVHpfSEwzR2dDOVpVVnhfa3UzOE9iSWQwVmJlRVRnZkZnR2FXbHRIajF5VXZOZnlWUGMybXk5S2NYNW9MMm9wVEhnRi1UT1N1Z0FoZkdzUG",
+      "publishedAt": "2026-07-01T13:07:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-01T02:00:23.220Z",
+      "isNew": false
+    },
+    {
+      "title": "\"Avec moi, il n’y aura jamais d’alliance\": le volte-face de Laurent Wauquiez sur Édouard Philippe qui lui tend désormais la main à un an de la présidentielle - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOU0xNbjRUcDdzUW84R3RDTGdtVXFKOWVYZHh4SFZ4NWJvT3Uwa3BHMDRNVGRReUFuTWxMYlB6aWxWMEI4ancwUnM5UTAzSEdmQVk4dGlzVTMxdTZpZ0xsMWI1MFBzS3k1QVpLSS0tOUFsZWJDNzdOaDA2bFBoanNTZ25VNmd0ZldxRVFtSWhwa1JtWHhiaEk3clAyWktLejd6cl9nQlpnOUJ4NVNlZElaeG0tUEtvcWduSEp0LUNJblpwSTNfS1c2Ulc5aU54ZGdKTHoyRFo3a3lLeFRVZ0xzSUtoSGhjSzNYb2lnLXBQNDVndkl1dGtRbGhVWndrak9MRUdNS1NRaUMzZVZJVmN3Y094Nnp0Nzd3c3ozYmZNeDBDMHhkdk9wUGZ1eWxmTDBGeW00X1JmMndfcGhGeExOZzVBejhYa1pVQUFvNkc3MmI?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxOU0xNbjRUcDdzUW84R3RDTGdtVXFKOWVYZHh4SFZ4NWJvT3Uwa3BHMDRNVGRReUFuTWxMYlB6aWxWMEI4ancwUnM5UTAzSEdmQVk4dGlzVTMxdTZpZ0xsMWI1MFBzS3k1QVpLSS0tOUFsZWJDNzdOaDA2bFBoanNTZ25VNmd0ZldxRVFtSWhwa1JtWHhiaEk3clAyWktLejd6cl9nQlpnOUJ4NVNlZElaeG0tUEtvcWduSEp0LUNJblpwSTNfS1c2Ul",
+      "publishedAt": "2026-07-02T08:19:22.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
+    },
+    {
+      "title": "Aller sans retour pour Maud Bregeon, qui sera punie par Renaissance pour son soutien à Edouard Philippe - Libération",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRHRWNGVVd1lhN0ZROV83WlJqUm9lZ04tdFpGV1M3RXlLQzFwcEdQdTNSZmpTZW8wM1FWaWc0Uk9qNWZFU0wtLTB2UGFhYXF0anptd0Y1YTJGa2Ftc29sTzVMMjd0OXJRd3lNVUgyWVF3UTgzM1lYNEU5NHVqRXNNQWlCYUZZOUNIaUlpbHJtMnNrQ1B2dnAtWDlIaEFYa3llc2VpRFhIQnNzMG9VZnF0aHpGN0l2TjdZU0VfdVl3VVpzY1lvcy15T0NvMFFsTGFrYm1nYnYzczh5SFBLU2VXZnY0aEJ4UXM0ZllGVnNzY3E1aWFTLS02UjFpcTRfZlBQdEpxUlpR?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQRHRWNGVVd1lhN0ZROV83WlJqUm9lZ04tdFpGV1M3RXlLQzFwcEdQdTNSZmpTZW8wM1FWaWc0Uk9qNWZFU0wtLTB2UGFhYXF0anptd0Y1YTJGa2Ftc29sTzVMMjd0OXJRd3lNVUgyWVF3UTgzM1lYNEU5NHVqRXNNQWlCYUZZOUNIaUlpbHJtMnNrQ1B2dnAtWDlIaEFYa3llc2VpRFhIQnNzMG9VZnF0aHpGN0l2TjdZU0VfdVl3VVpzY1lvcy15T0",
+      "publishedAt": "2026-07-01T08:32:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "isNew": false
     },
     {
       "title": "Quand des ministres Renaissance choisissent Édouard Philippe, Gabriel Attal voit sa majorité commencer à se fracturer - parlons-politique.fr",
@@ -394,44 +724,44 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "« Il était temps » : pourquoi Édouard Philippe accélère dans la course présidentielle - Le Point",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3dNSFFFUUROMExoREFyWk9Mb19BU2U0bERCNzRrRl95OUV4ZGhzSFRFRkNhU1o1bXdlM0NTaW1KVmhkanZSTWh2b3hlMEhlNDFPRWhmaWx4WkJOa0FiRUJ4UFc1RXBKTDBxVWd5UGVwdUVmRENxSXhRdHVkbHdkT3FJUUUwNUEzTms2T0Z4ZmNHMXMwQXNUM0gtOEYwNGFjVGpDelFEenhhSVo5aFNIVEVMT3Z4ajFRV1F0WEQ4aDhZYVFYalE?oc=5",
-      "source": "Le Point",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ3dNSFFFUUROMExoREFyWk9Mb19BU2U0bERCNzRrRl95OUV4ZGhzSFRFRkNhU1o1bXdlM0NTaW1KVmhkanZSTWh2b3hlMEhlNDFPRWhmaWx4WkJOa0FiRUJ4UFc1RXBKTDBxVWd5UGVwdUVmRENxSXhRdHVkbHdkT3FJUUUwNUEzTms2T0Z4ZmNHMXMwQXNUM0gtOEYwNGFjVGpDelFEenhhSVo5aFNIVEVMT3Z4ajFRV1F0WEQ4aDhZYVFYalE?oc",
-      "publishedAt": "2026-07-01T16:30:00.000Z",
+      "title": "Dissolution : ce que Macron a dit à Attal, avec @TF1INFO - Gaspard G - YouTube - Diverto",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHNxMkkwS0RTbEtic2s4SEJBem1qc3hNcTdpWUkxSnp1VEZYTTNMcXZMSDNaSFQxWHc5eFc3RWRJWU5GOVhZVFlHT2VuTWZ3eFQ3dGdUSXdRMFRyUWc0NzB2WWhibkpCMERMQkNncGM3RFJ6S1R1SndlaG1MQktBVEliclhPaExhcGhVcnNzUW1DaW1KOVk0UWlPV1Q3VnRGbUhOT3RaRQ?oc=5",
+      "source": "Diverto",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHNxMkkwS0RTbEtic2s4SEJBem1qc3hNcTdpWUkxSnp1VEZYTTNMcXZMSDNaSFQxWHc5eFc3RWRJWU5GOVhZVFlHT2VuTWZ3eFQ3dGdUSXdRMFRyUWc0NzB2WWhibkpCMERMQkNncGM3RFJ6S1R1SndlaG1MQktBVEliclhPaExhcGhVcnNzUW1DaW1KOVk0UWlPV1Q3VnRGbUhOT3RaRQ?oc=5\" target=\"_blank\">Dissolution : ce que ",
+      "publishedAt": "2026-07-02T16:30:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
     },
     {
-      "title": "Présidentielle 2027 : Wauquiez tend la main à Philippe et juge que Retailleau doit \"savoir se retirer si c'est nécessaire\" - TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNE5JVE9DS1NNLTZTTk1kcHZOOVp3TFNPSjU1bHJxUTI0Qzd2cU1sNFpIVUUwUURkanhYRHpKSmE5b2UxV2VoWWU1cVIzaU5HaUlTZFREZUZabENKU3AxQk9zZzJ3WXpPcEpjSkcwbjhIYUxOMXYyWHdVSnNRZ0tQRUNkbk5Fc0RXSm9SNURzQWRzTlVGOFZXczRlYjA2aE9SUWNPNUhQa2JBMWpRMWpBMk9iZ1RQWjhZUWMxVHlNZGtvYWQzNzZGQ0tQWXl3Y29McHk3QlcwMHNNNUhZaWl6aWlqdE40Z29CeFhPMmxOWGdFOFBvV2JhMEpoRjBabzdDaXBVczRheWExV1lwZ1RnRWRfbEs3TnhSc1p4a3FlZExVM3Fl?oc=5",
-      "source": "TF1 Info",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQNE5JVE9DS1NNLTZTTk1kcHZOOVp3TFNPSjU1bHJxUTI0Qzd2cU1sNFpIVUUwUURkanhYRHpKSmE5b2UxV2VoWWU1cVIzaU5HaUlTZFREZUZabENKU3AxQk9zZzJ3WXpPcEpjSkcwbjhIYUxOMXYyWHdVSnNRZ0tQRUNkbk5Fc0RXSm9SNURzQWRzTlVGOFZXczRlYjA2aE9SUWNPNUhQa2JBMWpRMWpBMk9iZ1RQWjhZUWMxVHlNZGtvYWQzNzZGQ0",
-      "publishedAt": "2026-07-01T16:09:31.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : la droite peine à choisir entre Philippe, Attal et Retailleau, tandis que l’union reste introuvable - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPREVka0cyMGdwUGpBeGR5MEFOUk91YnVzQmVTZGx1RVRQQTUtU1hPbGVEcFdPX3pGam11YnI0YWhyMXpwTE1fSjhFVGhMVzFyaHNVMTJZd1d1dEFHWGZnaDBLYUVkVnJVLWpmSlpKOWpNZldDczJyNGN2MzVfOFNCSHphZlFEMm40M0tad2k5bFZxckFwekNqRG96LXBIZWhGN2ZJSmtnQzdJZmROeWRNaEZnUkI4UEJDTy1DWnFfLUNuZmd3MXR3Uzh6UnNOa0lWaklVM1dKN25aNnBpR0gyVFRSNjVpS3FsSVd3THVMZ1hiMVpQbVQteF9n?oc=5",
+      "title": "Présidentielle 2027 : les Français voient déjà s’installer un duel d’héritiers alors que Macron ne peut pas se représenter - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVzkya2Qyd3plWDVNbkhRdVhwWmpuZ1cwMEhDTlZOc2xjSjI0ell1YjBfMWQ5ZzBBOWVXLXozTTA4cTRIQ3pDMjJ4X0VPdDRyVnlFdk5lQ25HTTdmUE9tNG1rYUI0SkN5ZnRpRk51Wi13ZnB0cEYxSjMzYWxNOThpOEQwOEVGYmxHY24tbWo3TVd0V3dVdWt3Y2Y4RktKTGNSSmR6UlgyVURtVm5OT0pPQW9aa0FITVNyZ0FXZG5YbWFmMkI5QzhpSWJ5YnFNYXdHWW9NeUdaVjZHZ3dkeDFBdWlMRkN6QXpHMkZwclBXNldvN0Y0Mk5rbl9VaTA?oc=5",
       "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPREVka0cyMGdwUGpBeGR5MEFOUk91YnVzQmVTZGx1RVRQQTUtU1hPbGVEcFdPX3pGam11YnI0YWhyMXpwTE1fSjhFVGhMVzFyaHNVMTJZd1d1dEFHWGZnaDBLYUVkVnJVLWpmSlpKOWpNZldDczJyNGN2MzVfOFNCSHphZlFEMm40M0tad2k5bFZxckFwekNqRG96LXBIZWhGN2ZJSmtnQzdJZmROeWRNaEZnUkI4UEJDTy1DWnFfLUNuZmd3MXR3Uz",
-      "publishedAt": "2026-07-01T15:46:13.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVzkya2Qyd3plWDVNbkhRdVhwWmpuZ1cwMEhDTlZOc2xjSjI0ell1YjBfMWQ5ZzBBOWVXLXozTTA4cTRIQ3pDMjJ4X0VPdDRyVnlFdk5lQ25HTTdmUE9tNG1rYUI0SkN5ZnRpRk51Wi13ZnB0cEYxSjMzYWxNOThpOEQwOEVGYmxHY24tbWo3TVd0V3dVdWt3Y2Y4RktKTGNSSmR6UlgyVURtVm5OT0pPQW9aa0FITVNyZ0FXZG5YbWFmMkI5QzhpSW",
+      "publishedAt": "2026-07-02T14:33:02.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Édouard Philippe estime que ce «serait dangereux» si Gabriel Attal et lui se pré... - Jean-Marc Morandini",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOWm1FV25YRlJreEx5Q3Z6dDRvZFRFYWl4ckxSTzVLeFQ3ME9PLUdoT0lmdFpFdHNQVFR2a0xtQ3Z6amR6eldOR0pFbjBpYXRQSkZFOTJWZm9BZEFSMUJqeUwxR2VCSjREMjFaTDdmdmVmYy1qZ1VJTlJXT28tQnNNaUpYRmRIa0NRaEdSVTRza3BqSWw4YklRME1CS1p2VzFwLXIwODlfLW13MzJrc3Iwa2pDM1pzU0NsOUxCdGxuYlN1MkhhYVBJU2I3UDlXeTB6ZGNmQXlicmdsWmNnQlR5b2x3c21ZX0Q3aE03ZHA5YlBfYTNKU3pldmc3OWk3cHBfeEU1bHBsOVVLeVIyUk5RVnpHUlNlUlhjSEZmZGM4QXNrVkVrNmVlRDJZWXPSAbICQVVfeXFMUDFoQ0NyaHFkbmotbGk4UnFYUm5HcU5DNU12UVdZMHFzQ1hTR0tuUFhPd3h2dlE5LS1Tbnp1QUs0cEpIU3A5QllqTjFPejA1YVpQM0pYWGtzYVlRNVg1SHFhZERUQUtSX0phc1VUSWc3b2RTY2UyLXVNSmlwelpnREVxa2IwbklFUDd0UUYwSFFwYWJMMFdISjFQQUt1NWhYVG5aVFRkMFg1Q19MMXRKeXhUMWNGbXM3TEc5SlFfMjBETFZOUTJEaHZIc3F5STBzeGhTd1VnVExycUYtbUxVREQ1SkdvRlNkT05HQnVjNU1oWERxalRHbFlzdXd4WjRta3M1ZlJJMlZWbXUtdXpmMmZvQUgyekxDSDluYjRFdXROaEhPcnBscjd4ejJ4cG1mTWVR?oc=5",
+      "source": "Jean-Marc Morandini",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOWm1FV25YRlJreEx5Q3Z6dDRvZFRFYWl4ckxSTzVLeFQ3ME9PLUdoT0lmdFpFdHNQVFR2a0xtQ3Z6amR6eldOR0pFbjBpYXRQSkZFOTJWZm9BZEFSMUJqeUwxR2VCSjREMjFaTDdmdmVmYy1qZ1VJTlJXT28tQnNNaUpYRmRIa0NRaEdSVTRza3BqSWw4YklRME1CS1p2VzFwLXIwODlfLW13MzJrc3Iwa2pDM1pzU0NsOUxCdGxuYlN1MkhhYVBJU2",
+      "publishedAt": "2026-07-01T14:43:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -439,14 +769,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Présidentielle 2027: le ministre Mathieu Lefèvre rallie à son tour la candidature d'Édouard Philippe - BFM",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaVFLbGJxbHBqa1JzajE0aV8yWE9KbWs2TFE4U040dTVmVVc3SFU5dXFySkczMlc4SC16cHNRbXo5WDM1ZnRxZjkwYTNIWkZzdkhtOFo4dzNfS0diYjQyYWJmN041SlZBdVluVjVtTEhCc00tLWRXXzlGaklQWDNrcTVqOGUzMDc5UV9hVUFidlRlemNPMlZPaVFKcWowZzhjU2tKbXk4RDRWd0VuM2VpZG9weEJjY3R1WDdQT2lFWkRIYk5PNllLTzJwSkJ1d2ZTVDhxbG5vdEJ1cnF5c1VlQzdteGtySTJmdUU2Zk5ndER0azhXQ1k3eExRTGp5OWZkRFVFNnVxYXg?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPaVFLbGJxbHBqa1JzajE0aV8yWE9KbWs2TFE4U040dTVmVVc3SFU5dXFySkczMlc4SC16cHNRbXo5WDM1ZnRxZjkwYTNIWkZzdkhtOFo4dzNfS0diYjQyYWJmN041SlZBdVluVjVtTEhCc00tLWRXXzlGaklQWDNrcTVqOGUzMDc5UV9hVUFidlRlemNPMlZPaVFKcWowZzhjU2tKbXk4RDRWd0VuM2VpZG9weEJjY3R1WDdQT2lFWkRIYk5PNllLTz",
-      "publishedAt": "2026-07-01T06:09:25.000Z",
+      "title": "Le ‘’ventilateur Attal’’ - Le Club de Mediapart",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWVzWkxpY2tZVjl0Z2VLUzhKX2RuWi0zQ2VibV9zdUhQMGVtNXZCSzlfMWRzYzdqdFR4UXpNNlhIel96VkUyY0NCaGRlclN3ZGM2XzdtZnc3bm0tcUxsWnBoNlkxQ2Eta2s2UkpUOEQwTjFkbXlRVzlOSWRpd2Zmcg?oc=5",
+      "source": "Le Club de Mediapart",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWVzWkxpY2tZVjl0Z2VLUzhKX2RuWi0zQ2VibV9zdUhQMGVtNXZCSzlfMWRzYzdqdFR4UXpNNlhIel96VkUyY0NCaGRlclN3ZGM2XzdtZnc3bm0tcUxsWnBoNlkxQ2Eta2s2UkpUOEQwTjFkbXlRVzlOSWRpd2Zmcg?oc=5\" target=\"_blank\">Le ‘’ventilateur Attal’’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Club de ",
+      "publishedAt": "2026-07-01T06:28:13.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -454,141 +784,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal en visite à Villers-Cotterêts le 2 juillet - Presse Agence",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGpXcUdrZTNlUTlpY19kV3lqd0RtZFFpLXVpQWVPRU5JX0hUVzlJOGt6bXRoNDZUbFp0UENSRElnQU5MeTJVYWpFNzlmTTl3UUp1OWdfUWU3UThtMWZ3R3dodWZ0bnNvMGNQcXVTSVpad0VvTFROUjJPNVBPVS1zdWczOG92LWlJMmJFeGR3dEE4NWtsdUN5UDBkeHNIclZRalp0QkxYTnM?oc=5",
-      "source": "Presse Agence",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGpXcUdrZTNlUTlpY19kV3lqd0RtZFFpLXVpQWVPRU5JX0hUVzlJOGt6bXRoNDZUbFp0UENSRElnQU5MeTJVYWpFNzlmTTl3UUp1OWdfUWU3UThtMWZ3R3dodWZ0bnNvMGNQcXVTSVpad0VvTFROUjJPNVBPVS1zdWczOG92LWlJMmJFeGR3dEE4NWtsdUN5UDBkeHNIclZRalp0QkxYTnM?oc=5\" target=\"_blank\">Gabriel Attal en vis",
-      "publishedAt": "2026-06-30T17:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
-    },
-    {
-      "title": "Soutenir Édouard Philippe peut-il coûter sa circonscription à Maud Bregeon dans la bataille du bloc central ? - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdUhFc1lmRVNmWS1TNDI5OVlKTG1id1dSSG1FNDJzTWJ3QzJ2eG42QVVmLXpBWW0zVDVMWFRQZVdsZ0lJY25YWUpyVGlwU2l0QzV0NHpJX0Y4eHQ3NGJObHBnRlFvUEE2TDhONVg0alR1SVlYOW96WFVYSGtUU2VPTml0ejFyUUVZa0xaX2lud01iVkxXR2VBNkllVk82ZDJlWF80Wk5BcXYweWtVY09zOG5kQVBacnZvUjFsWkRDMFg4Nzk1QkNXd3NUVk5RQ0NITHVxUWFDM3B0akxVZUxJTFJvV2kxU1hSWUx0WS1B?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdUhFc1lmRVNmWS1TNDI5OVlKTG1id1dSSG1FNDJzTWJ3QzJ2eG42QVVmLXpBWW0zVDVMWFRQZVdsZ0lJY25YWUpyVGlwU2l0QzV0NHpJX0Y4eHQ3NGJObHBnRlFvUEE2TDhONVg0alR1SVlYOW96WFVYSGtUU2VPTml0ejFyUUVZa0xaX2lud01iVkxXR2VBNkllVk82ZDJlWF80Wk5BcXYweWtVY09zOG5kQVBacnZvUjFsWkRDMFg4Nzk1QkNXd3",
-      "publishedAt": "2026-07-01T10:11:10.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027: l'élection aura lieu les dimanches 18 avril et 2 mai - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaHNOdlZaQ2xfU3R6WHhNMjdGMUpBUWFSZXU4WFJrZlNJUUVLbkJmaGhKeFk0TTdKbllaS2ZHV1ZSSS1tZ0NYUGZreTJVOWJFT0tYVk90NmVGMnk3bmY5eWh1aUhlcjZQSHVWV01HUTNsdTU5SlI0NDhNTHMyc3RsUy0xaTZyU1FUZ1p0QlJsX290MHVtUm9pNmZ4eHk4azlFUk4tSWRyVWw4dmRad29sREFsSTJrcDVEbjhzektCM01hNjc5M2lWVA?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaHNOdlZaQ2xfU3R6WHhNMjdGMUpBUWFSZXU4WFJrZlNJUUVLbkJmaGhKeFk0TTdKbllaS2ZHV1ZSSS1tZ0NYUGZreTJVOWJFT0tYVk90NmVGMnk3bmY5eWh1aUhlcjZQSHVWV01HUTNsdTU5SlI0NDhNTHMyc3RsUy0xaTZyU1FUZ1p0QlJsX290MHVtUm9pNmZ4eHk4azlFUk4tSWRyVWw4dmRad29sREFsSTJrcDVEbjhzektCM01hNjc5M2lWVA",
-      "publishedAt": "2026-07-01T05:22:36.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Maud Bregeon se range derrière Édouard Philippe et sa « capacité de rassembler » - TIME France",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUko5VnFid2FlcWtZTjRhX3FCX3pHUWo5MDVpMm1teXR3TEYwdUtGLWhjYUd1MUwwVzU1Yi1iYUNvN0pjY0pQNHhzZVdmWUNtNHl3R0ZpdkNFbXFkOERIbFZESml5RE5kaEdlZ281aDQ1YXNmeEppN1ZIcjB6dEgxbGhoeWd0dkFZWDc3eWpKdXVoWW5EbUZIY0pTTWM1UHYxR3k0NkZMLVZqYUJQRFQ3UlUwTQ?oc=5",
-      "source": "TIME France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUko5VnFid2FlcWtZTjRhX3FCX3pHUWo5MDVpMm1teXR3TEYwdUtGLWhjYUd1MUwwVzU1Yi1iYUNvN0pjY0pQNHhzZVdmWUNtNHl3R0ZpdkNFbXFkOERIbFZESml5RE5kaEdlZ281aDQ1YXNmeEppN1ZIcjB6dEgxbGhoeWd0dkFZWDc3eWpKdXVoWW5EbUZIY0pTTWM1UHYxR3k0NkZMLVZqYUJQRFQ3UlUwTQ?oc=5\" target=\"_blank\">Maud ",
-      "publishedAt": "2026-06-30T10:06:53.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : ces candidats ont une part de Maghreb en eux - Le Courrier de l'Atlas",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlRWTEhaSUhUWExFemlMaW9Qd3ZHcEpURzQteWxGYmREXzlUbnN6a1k2aTVwNUNhZVFDZkx0N0JqcThqdWZ5cXhkUVcybWs4cV9UbTg4S1JpNFNpeVlwdmh6emNwXzEtNkVuR1ZTZ2NLeHlxWFZFODR1N3BUMUhTWGx0MkNTVnlGaGc?oc=5",
-      "source": "Le Courrier de l'Atlas",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORlRWTEhaSUhUWExFemlMaW9Qd3ZHcEpURzQteWxGYmREXzlUbnN6a1k2aTVwNUNhZVFDZkx0N0JqcThqdWZ5cXhkUVcybWs4cV9UbTg4S1JpNFNpeVlwdmh6emNwXzEtNkVuR1ZTZ2NLeHlxWFZFODR1N3BUMUhTWGx0MkNTVnlGaGc?oc=5\" target=\"_blank\">Présidentielle 2027 : ces candidats ont une part de Maghreb ",
-      "publishedAt": "2026-06-30T15:23:52.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : Jean Castex n'a pas une candidature «dans son horizon» - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjUzRFQwRUJEX09McnlsZ2hvYURieWFYUDZQRlZUa054cklfTVc3LXgwQ2YzYnZCa3g4TlBpQTh5bTFhb0lmdl8zMlh5RHQ4NWpmaG9VdHBqdnBzY01ObUxBbWY4MVFlRmZER3NJTUJOSFNoV1RobG5uQl9kU0xheUNnOVpGYmpXMXNIUS1JVmZBT0RtclJNRmRTNzlFenU4blJSaE1ja21iQWJqZTN5VWRKVTBZZw?oc=5",
-      "source": "Le Figaro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjUzRFQwRUJEX09McnlsZ2hvYURieWFYUDZQRlZUa054cklfTVc3LXgwQ2YzYnZCa3g4TlBpQTh5bTFhb0lmdl8zMlh5RHQ4NWpmaG9VdHBqdnBzY01ObUxBbWY4MVFlRmZER3NJTUJOSFNoV1RobG5uQl9kU0xheUNnOVpGYmpXMXNIUS1JVmZBT0RtclJNRmRTNzlFenU4blJSaE1ja21iQWJqZTN5VWRKVTBZZw?oc=5\" target=\"_blank\">P",
-      "publishedAt": "2026-07-01T08:55:36.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Yaël Braun-Pivet, Gérald Darmanin, Elisabeth Borne… Les indécis du bloc central vont-ils rallier Gabriel Attal ou Edouard Philippe - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOX094N2FhaW5hMzdTQ0NNRWJCQnlZUEdXX3cyenR6Ry1mYUVMckRYYmcxS0MwTDAtVFo2TVI1RGgyeUhzU0l1MmZZbFUtYnJ2dGNoOGxiT0xhMm1JODBzaTltYzVjaHlTcWNkUnF4dkxLRU4wX3BQTy14UU1LbDN4S1VkbUxqUVlIZThYYl9RYW40NDRkNDdmVzZPaDhTQ01VVEhqZ19CODMzSkEwSks1b21RY1RPdmxTajNOcmFUTGZSam1fTjJjY3pwU2ktMXY5bVJleFFqUTNPSkQyX0pWZkd2dkNONTh0ZXpCMWpEN2hVOXpYb0dlZ1FZMHhtbEN5QlZJTlRYOUtSUzA0VHNFb2FfaVdrUjJzMF93bU9USnlSN0ZMdnkxYzVkUk5MOWh1bTJlQm93?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxOX094N2FhaW5hMzdTQ0NNRWJCQnlZUEdXX3cyenR6Ry1mYUVMckRYYmcxS0MwTDAtVFo2TVI1RGgyeUhzU0l1MmZZbFUtYnJ2dGNoOGxiT0xhMm1JODBzaTltYzVjaHlTcWNkUnF4dkxLRU4wX3BQTy14UU1LbDN4S1VkbUxqUVlIZThYYl9RYW40NDRkNDdmVzZPaDhTQ01VVEhqZ19CODMzSkEwSks1b21RY1RPdmxTajNOcmFUTGZSam1fTjJjY3",
-      "publishedAt": "2026-06-30T03:49:56.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
-    },
-    {
-      "title": "\"La campagne ne se fait pas au 1er rang d'un meeting\" : Kosciusko-Morizet, Bregeon, Woerth... Les nouveaux soutiens d'Édouard Philippe, coup de pouce ou repoussoir pour la présidentielle ? - RTL.fr",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVkJHRGFQSFlkMjM0MUs1bnBHb0FGS0ozaC03WFkwcURLWXAwbFJYZUs1cGNkcm1rTE10S3VMcHY5Rjk1MjFRZ3NSSDE1V3BpRU1XWnlISXhhY2tsYzItNUdxaHdfejJ1VWF5ZVVYUlJmV0JfTDBHZjVrcDdzTTJ5OHllalpYYml2ZjJ5RndpSEFmdXFhTFVKdUY5alZ1QW85Z1UxYUhrYTB0ZV9JeXFWZHcwTWNYZ3JHbVRPYmdGaDB0cFowZnZNNWhuUy1sbEE1NnNva21UQlBNaXFYMVVnYzN0OHVRLUx3ZW1POFhiR1F4OWRHMmcxZW9XSHpTaGx5aDJUYzNmYzA1aG1BNWdmanNNWFZDU2V4TnJaV3FqQzF1RlUwYmxUdXBKMUZFR09vTEZwRVNXSkNVQlZCRWdoYy1zZw?oc=5",
-      "source": "RTL.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVkJHRGFQSFlkMjM0MUs1bnBHb0FGS0ozaC03WFkwcURLWXAwbFJYZUs1cGNkcm1rTE10S3VMcHY5Rjk1MjFRZ3NSSDE1V3BpRU1XWnlISXhhY2tsYzItNUdxaHdfejJ1VWF5ZVVYUlJmV0JfTDBHZjVrcDdzTTJ5OHllalpYYml2ZjJ5RndpSEFmdXFhTFVKdUY5alZ1QW85Z1UxYUhrYTB0ZV9JeXFWZHcwTWNYZ3JHbVRPYmdGaDB0cFowZnZNNW",
-      "publishedAt": "2026-06-30T09:08:49.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : L’horizon Breton de François Bayrou - Le Canard enchaîné",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmNzcVg2TjQ3NHVQWk1kN1hYQmtCUEZCMmdGUVVLM1pSSG9IVmduTFRHdkYzQ1I4WmwzN3kzUWVYVEdxbTc4WmxLWE5uMzBRd0luMGhuSkstZG01OElmcVliTnlrOU1SYk1KUkdzX052ZFpmNU5oUnZ4SjFMNlZWOXFURTJqa216MXNR?oc=5",
-      "source": "Le Canard enchaîné",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmNzcVg2TjQ3NHVQWk1kN1hYQmtCUEZCMmdGUVVLM1pSSG9IVmduTFRHdkYzQ1I4WmwzN3kzUWVYVEdxbTc4WmxLWE5uMzBRd0luMGhuSkstZG01OElmcVliTnlrOU1SYk1KUkdzX052ZFpmNU5oUnZ4SjFMNlZWOXFURTJqa216MXNR?oc=5\" target=\"_blank\">Présidentielle 2027 : L’horizon Breton de François Bayrou</",
-      "publishedAt": "2026-06-30T19:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
       "isNew": false
     },
     {
@@ -604,44 +799,29 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-02T01:54:18.952Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "The French government has set the dates for the presidential elections in 2027, with the first round on April 18 and the second on May 2. - Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0ZoRlhkM2llZFVwYURiM2R3TlRkS05hWmM5TUlpSXlJNnhHWmdPTG1ha0VNaVJ2aHc0NUZxRmRRbklHVzVOSFpSWUhqa1hNQk1qMW42V0tZSlllOU1XWDRiT3F1RTd4RjBraDFyNlQza2xaZVVsSkdWWmQ1R1JXQ3R2VFR6RmFqakY3WlgtNnJqWDA0QzVhQmhoSmtZZFpEaFljeDN2S0pmb1FxWGFLZ0hLR3MxZUpTM1VfY2s5WG9QOHZKUWlaTEsxblNCbXBmaGg2MUxmb2hYaTRp?oc=5",
-      "source": "Informat.ro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd0ZoRlhkM2llZFVwYURiM2R3TlRkS05hWmM5TUlpSXlJNnhHWmdPTG1ha0VNaVJ2aHc0NUZxRmRRbklHVzVOSFpSWUhqa1hNQk1qMW42V0tZSlllOU1XWDRiT3F1RTd4RjBraDFyNlQza2xaZVVsSkdWWmQ1R1JXQ3R2VFR6RmFqakY3WlgtNnJqWDA0QzVhQmhoSmtZZFpEaFljeDN2S0pmb1FxWGFLZ0hLR3MxZUpTM1VfY2s5WG9QOHZKUWlaTE",
-      "publishedAt": "2026-07-01T01:42:14.000Z",
+      "title": "Macron's heirs contend with perceptions of his track record - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWU9HUHdnSThqQkhwS2U4dXppNnk2VUljUnpEYTlFWkFBVTl1WF94bktBZldfR1FKMzBpdVM4VzYtRlJIUWxNZmJ1anBqd0lfV1VYU3VNWW9XTlFDMGxSZFRPMkxGV3E3U2tiRlRyZzFsVzhINjEyZ2E3RklXRkxzcjZrVmhTOERVR252ZEZObUEtdkxweUx3OWNCb0g1d2I1YlRublJYb0NCSnc1VEdoVnlJWWpPcV9xNkFINnZlSHV6dmVTV0hn?oc=5",
+      "source": "Le Monde.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWU9HUHdnSThqQkhwS2U4dXppNnk2VUljUnpEYTlFWkFBVTl1WF94bktBZldfR1FKMzBpdVM4VzYtRlJIUWxNZmJ1anBqd0lfV1VYU3VNWW9XTlFDMGxSZFRPMkxGV3E3U2tiRlRyZzFsVzhINjEyZ2E3RklXRkxzcjZrVmhTOERVR252ZEZObUEtdkxweUx3OWNCb0g1d2I1YlRublJYb0NCSnc1VEdoVnlJWWpPcV9xNkFINnZlSHV6dmVTV0hn?o",
+      "publishedAt": "2026-07-02T03:00:09.000Z",
       "lang": "en",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-02T01:54:18.952Z",
+      "firstSeenAt": "2026-07-03T01:23:59.779Z",
       "isNew": true
-    },
-    {
-      "title": "Stéphane Séjourné And David Lammy Visit Israel And The OPTs Heart (ZT0FgVryUC) - Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3b3V5TkZ6U3NnRUNFd3VJZ1VUeHl5dGprQTN1ZEZTbmdyTW1kS3hsVUZnZEtoSmhHZGJod0pXWWE5ODBLTDRzdGVMREdkTzY1R0xQRnlWVGJHc2tTdHZpeQ?oc=5",
-      "source": "Mshale",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3b3V5TkZ6U3NnRUNFd3VJZ1VUeHl5dGprQTN1ZEZTbmdyTW1kS3hsVUZnZEtoSmhHZGJod0pXWWE5ODBLTDRzdGVMREdkTzY1R0xQRnlWVGJHc2tTdHZpeQ?oc=5\" target=\"_blank\">Stéphane Séjourné And David Lammy Visit Israel And The OPTs Heart (ZT0FgVryUC)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M",
-      "publishedAt": "2026-06-30T04:08:37.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-01T02:00:23.220Z",
-      "isNew": false
     }
   ],
   "stats": {
-    "total": 42,
-    "new": 27,
-    "carried": 15,
-    "media": 42,
+    "total": 54,
+    "new": 36,
+    "carried": 18,
+    "media": 54,
     "agenda": 0,
     "official": 0,
     "coOccurrence": 0
