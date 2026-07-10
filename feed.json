@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T01:23:27.555Z",
+  "generatedAt": "2026-07-10T01:20:28.649Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,19 +7,19 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Marine Le Pen candidate : une bonne nouvelle pour la stratégie d’Édouard Philippe, moins pour Gabriel Attal - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSUJvZVRBZGNINWtVQ3VGbWJubUswQjN0NFBTdnN3eDlmdGJiVm9vRFFVbDVKUW9YSlJ4Ty1rQkYwak9pVGgwNHcyRnM1ZWpMWFRYWWJVX1Jwb0pZazlnQlRzb3drS2FoTzZrNzFlZ0MzU3B3eFNISzlienZsZk1DS2dfckZEc2h2MXI1RlFSUVhGRWFTUWxWT0ZubDZTa082MHJaMzdKS3JRTnNWYUVzSUJ6dmstYXhucHlkaXJvU3p0NHRTR2p2TlZrVy1DTFJCSTNxUnlkYnFreDh6bF91VjRxWTNBOHUwQUF3a0xLcTZOdmFzS2c?oc=5",
-      "source": "Le Figaro",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSUJvZVRBZGNINWtVQ3VGbWJubUswQjN0NFBTdnN3eDlmdGJiVm9vRFFVbDVKUW9YSlJ4Ty1rQkYwak9pVGgwNHcyRnM1ZWpMWFRYWWJVX1Jwb0pZazlnQlRzb3drS2FoTzZrNzFlZ0MzU3B3eFNISzlienZsZk1DS2dfckZEc2h2MXI1RlFSUVhGRWFTUWxWT0ZubDZTa082MHJaMzdKS3JRTnNWYUVzSUJ6dmstYXhucHlkaXJvU3p0NH",
-      "publishedAt": "2026-07-07T19:51:20.000Z",
+      "title": "Gabriel Attal : « Je propose de changer notre régime de retraite de fond en comble » - Challenges",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmNvay1OdUh2a053UkotMzBHZXpVb1NpS2cxZzVlaFdyaWpadnpNbzlpMFd2Ni1iRXUyanNqakVyRHRUeXpXUFE0U0JVU2YwQV9ldFJqX05nZmdEdk5sdlBpQmpMSklmZV9iSVhTaUhiNllwb0RHV1RhdEYzb3VzcEVCeFE1dkVYRFFkTlkwSkE1aUdiaVNqcjVpMWtXTFY0Nm8xOU5qTENhbHpZbXpOdTR3dnNlMDFMUVZWYQ?oc=5",
+      "source": "Challenges",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmNvay1OdUh2a053UkotMzBHZXpVb1NpS2cxZzVlaFdyaWpadnpNbzlpMFd2Ni1iRXUyanNqakVyRHRUeXpXUFE0U0JVU2YwQV9ldFJqX05nZmdEdk5sdlBpQmpMSklmZV9iSVhTaUhiNllwb0RHV1RhdEYzb3VzcEVCeFE1dkVYRFFkTlkwSkE1aUdiaVNqcjVpMWtXTFY0Nm8xOU5qTENhbHpZbXpOdTR3dnNlMDFMUVZWYQ?oc=5\" target=\"_",
+      "publishedAt": "2026-07-09T10:36:48.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-10T01:20:28.648Z",
+      "isNew": true
     },
     {
       "title": "« Les portes ne s’ouvrent jamais d’elles-mêmes » : Paul Midy, le Monsieur « éco » de Gabriel Attal - parismatch.com",
@@ -34,141 +34,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "« Doubler tous les salaires, grâce à l’IA » : la proposition choc du Monsieur éco de Gabriel Attal - Yahoo Actualités",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmtmSkIwclZrLXp0NEd6MlI5M3czUVhvVXNLc2JCb2VmWHVvV1k4RjhScXc1SXY3TFVjc2NYVDRDenY1OVlxZEp2TGFCV012ckNOS1JVa1FoMGNkNXBUVzZlTDhfLXFnSW5RN2R4cmV5Ulp6OUxDRVJTYmVzeWdYZC1LWQ?oc=5",
-      "source": "Yahoo Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmtmSkIwclZrLXp0NEd6MlI5M3czUVhvVXNLc2JCb2VmWHVvV1k4RjhScXc1SXY3TFVjc2NYVDRDenY1OVlxZEp2TGFCV012ckNOS1JVa1FoMGNkNXBUVzZlTDhfLXFnSW5RN2R4cmV5Ulp6OUxDRVJTYmVzeWdYZC1LWQ?oc=5\" target=\"_blank\">« Doubler tous les salaires, grâce à l’IA » : la proposition choc du ",
-      "publishedAt": "2026-07-08T10:33:33.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : les candidats du centre et de la droite ancrent l’IA dans leur programme - CNews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUhVWk5SeHhvNE1ySHFEamVWYnl3SG13aF9yWlRRM2VhY2R5X1FvT0gtUng2NW9LQksxZTd1M1J1Vy1QYmJleldhNXhGelBvdFBUdnNxRDQ4RDdkdE9ZYlBEMGlfN18yeVEyZHVwS0UteGotU3V3YmpuUDNETXlCcl95anVGdlZYZjB2cndpMURNb3d3OURxdGlJeUZMSDV1b1N0SVRUblM2OWtEV2cybFJDT1ZVYmdzNndDbdIBwgFBVV95cUxOTkxONUZKZVJHRGNvRVFSaVM0S0tIdXFZOUZPbHFpdVVwSmdSTk1pRFpwd2R6eURMWlR1NUhvZlNSQVktc1d6Vjk3SXBqRWRrUURSMWhWcDlYM3ZVSHVEbmhzNjdvV2l1d2Nvb092eF8ta09MTW5NSlFaZ2xHVDhnXzlrZUZGbTRpUlFtd1VvREE1MGMxNU5rTDhPV1EzamQ4Y204WVlIdzEtclpFTUxzanRYSzZPNnZ6aDZSVXdjSTlNZw?oc=5",
-      "source": "CNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONUhVWk5SeHhvNE1ySHFEamVWYnl3SG13aF9yWlRRM2VhY2R5X1FvT0gtUng2NW9LQksxZTd1M1J1Vy1QYmJleldhNXhGelBvdFBUdnNxRDQ4RDdkdE9ZYlBEMGlfN18yeVEyZHVwS0UteGotU3V3YmpuUDNETXlCcl95anVGdlZYZjB2cndpMURNb3d3OURxdGlJeUZMSDV1b1N0SVRUblM2OWtEV2cybFJDT1ZVYmdzNndDbdIBwgFBVV95cUxOTk",
-      "publishedAt": "2026-07-07T05:34:59.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
       "isNew": false
     },
     {
-      "title": "Creil. Gabriel Attal cible un sursaut de la jeunesse et visite une ville ceinturée par LFI et le RN - Oise Hebdo",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzB5QTc4MVpJN01Za3Q2MzBfaDRBcXgwT2NoX1M0VEgza0ZVOHAwZkdDWkI1QWZhbjlTNnJiVm51M1hSOUxUVU5rTDN1UW8tRU16TmlCN2k0cmpRZUVOemtwNE5wVGlnaHJ5Z25kb1dJZjdVRHc0YVM1ay00WEpScE1oWDdOZDBSZFZHZ0lyVU8tR0dHTTlITXVvLUhHRlpjY2VDajdXczVQV3hlYWFyYksxS2tpQXpxdU5nb1VvTElvRDFBMHpPRjFxdTVobjhC?oc=5",
-      "source": "Oise Hebdo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzB5QTc4MVpJN01Za3Q2MzBfaDRBcXgwT2NoX1M0VEgza0ZVOHAwZkdDWkI1QWZhbjlTNnJiVm51M1hSOUxUVU5rTDN1UW8tRU16TmlCN2k0cmpRZUVOemtwNE5wVGlnaHJ5Z25kb1dJZjdVRHc0YVM1ay00WEpScE1oWDdOZDBSZFZHZ0lyVU8tR0dHTTlITXVvLUhHRlpjY2VDajdXczVQV3hlYWFyYksxS2tpQXpxdU5nb1VvTElvRDFBMHpPRj",
-      "publishedAt": "2026-07-07T18:42:11.000Z",
+      "title": "Une amitié qui dure ! Claire Chazal tout sourire avec un candidat à la présidentielle 2027, ce selfie en dit long sur leur relation… - Gala",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObld4OWJIMTl5UGZyM3N5eXZURVZHZXVGMHBEams0YXlyX1RpNmRLVm9IU3g4SFVYaGFRVG9oZzdNRk9kVkRvS05ab1BnbEpfRmY1YlY5aEJYblBRUlJLWHFkaHlkY2FNOU1NRTBDM2VfYmRNdl9zdVJ2eEdSeXVYOGJxbERKeUpKMnNjWGpFcUQ1cGxINjBvU0xjTzhxbkRFUU8wZXJKVHpaVkU3X0F5S0VqM1ZJLWR6SkFPaGc3UG9uUmpma1lnaDJVMVpYSXZIeUJDWXlQZzVJUGJLVmZSWFpwOTROQU1VMVpWQkM3OTVnLTh5YVdXcWRnMA?oc=5",
+      "source": "Gala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxObld4OWJIMTl5UGZyM3N5eXZURVZHZXVGMHBEams0YXlyX1RpNmRLVm9IU3g4SFVYaGFRVG9oZzdNRk9kVkRvS05ab1BnbEpfRmY1YlY5aEJYblBRUlJLWHFkaHlkY2FNOU1NRTBDM2VfYmRNdl9zdVJ2eEdSeXVYOGJxbERKeUpKMnNjWGpFcUQ1cGxINjBvU0xjTzhxbkRFUU8wZXJKVHpaVkU3X0F5S0VqM1ZJLWR6SkFPaGc3UG9uUmpma1lnaD",
+      "publishedAt": "2026-07-09T19:50:10.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027: Gabriel Attal épingle la \"dimension morale\" de la candidature de Marine Le Pen \"condamnée à deux reprises\" - BFM",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSGZrc05mZEZwSFNBU2wxNy14Zm1iVWdxajIwcmFKMXBnZThDalRvbGpIWXNRc2RoSTF0dklNRm9VX1Z4c21jTmRXV3dEMEl0SF9nTkJ2dVRsWmZLOWdoWnJyQ3Blbm5Ud2hTaHNKVmZwbkNUbTlVcDMxWk1ONWJ5cFRKM1hCbmdqZzBIZUxxNXh4SmNZZEVIRXUwTG53U0NZeG1IcW1qb3plSHkydGF0dlIyaEE1cG5yNFBMN1FWSzFjZzFLRWtZR1R1MGlTOTBjQXJNRmtsQ0UxTnJ5ejQxQjhmSjZIdlFNVC1hYmJXbWhuaXpnbWtpZ0dXOXZlZmluVkhmeldn?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNSGZrc05mZEZwSFNBU2wxNy14Zm1iVWdxajIwcmFKMXBnZThDalRvbGpIWXNRc2RoSTF0dklNRm9VX1Z4c21jTmRXV3dEMEl0SF9nTkJ2dVRsWmZLOWdoWnJyQ3Blbm5Ud2hTaHNKVmZwbkNUbTlVcDMxWk1ONWJ5cFRKM1hCbmdqZzBIZUxxNXh4SmNZZEVIRXUwTG53U0NZeG1IcW1qb3plSHkydGF0dlIyaEE1cG5yNFBMN1FWSzFjZzFLRWtZR1",
-      "publishedAt": "2026-07-07T18:40:06.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
-    },
-    {
-      "title": "Après le pourvoi en cassation de Marine Le Pen, Gabriel Attal dénonce \"une forme de guérilla judiciaire, qui prend en otage toute la campagne présidentielle\" - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOR0piV3laYXFoV2RqRUQ1WDlhWlo5c19oR1hOWmdSRjdCRzRsQmZVMEtRVmx0VE4ycGVhX3FkS0twVHJZRHV4U3llYVBDb1ZZNVJzRmF5LVplQm82X29zZWxieW9HSEU3bmxHMDFCcUh0RnpfOXluREtkTnR3eENsMjA1ZTFmbTFPX1VZVkU3YnF5NlpDYjVzc1ptZTQ4TUZ5QjRqa3pKU1MyMkdPVUpjcF9sM0ZnT1gzbkNJNllCRFBEZ3hNanpCWExodHBkOXlMSzBjZmNwX2xzOHdJU0R4aGFRbjlvOURQN1k1OC1EQmtody1LQXlUOGFGcTQ5SFlRTWpyTXJBZTF4Z1IyTEdEWHhWYUJ3RW9YenI5ZjZMVTNNN1hid2N2TEpxeW1PQW1KRWhQWXNJOVYyOFZkRXhvZUhId3VVam9hWHdwWEdXZE9sRkhFdVpQTnp0dVEzN2RzaGlUZ1h6RWtMVWFUUVlXMUpTX0ZlOEFsUTZ6NURB?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxOR0piV3laYXFoV2RqRUQ1WDlhWlo5c19oR1hOWmdSRjdCRzRsQmZVMEtRVmx0VE4ycGVhX3FkS0twVHJZRHV4U3llYVBDb1ZZNVJzRmF5LVplQm82X29zZWxieW9HSEU3bmxHMDFCcUh0RnpfOXluREtkTnR3eENsMjA1ZTFmbTFPX1VZVkU3YnF5NlpDYjVzc1ptZTQ4TUZ5QjRqa3pKU1MyMkdPVUpjcF9sM0ZnT1gzbkNJNllCRFBEZ3hNanpCWE",
-      "publishedAt": "2026-07-08T08:08:43.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : face à Le Pen, Attal et Philippe rivaux pour incarner le vote utile - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWDFzRnlaSWdsRG12WV8tME5hb3BhWGt4eFFhaFhpMWZPcC0xbndOUms0OVZYVjJIaE91YThYdDVoZUZaMFlNcUpLQ1k1ZDRoTGVFUXNScmJsdDBORmZBZkVxWmRJOERfdThRTTFMaFBmX3lnZmVKZDlhNGVQVzNjNnZIVEZkbnBBMVkzcnNMX25YZkxPM3VaMmE4U2RtTHpWbFFXbG9GZGVobFE0cWdET2owblV4WDZETkNjTHpsTEx0TjBDcl84N1kwSHJyQjBXZElrSkFVdVRKMnc?oc=5",
-      "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWDFzRnlaSWdsRG12WV8tME5hb3BhWGt4eFFhaFhpMWZPcC0xbndOUms0OVZYVjJIaE91YThYdDVoZUZaMFlNcUpLQ1k1ZDRoTGVFUXNScmJsdDBORmZBZkVxWmRJOERfdThRTTFMaFBmX3lnZmVKZDlhNGVQVzNjNnZIVEZkbnBBMVkzcnNMX25YZkxPM3VaMmE4U2RtTHpWbFFXbG9GZGVobFE0cWdET2owblV4WDZETkNjTHpsTEx0TjBDcl84N1",
-      "publishedAt": "2026-07-08T15:58:17.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "Marine Le Pen candidate à l'élection présidentielle : \"Il y a une dimension morale à se présenter alors même qu'on a été condamné\", fustige Gabriel Attal sur TF1 - TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZFZ6WmNfRHRBdklvamt2N1gxazI1eXpJR3ZzU2JsVmJMeC1VUndMem9GeWxHSl9rcXRvWXdFOFBGNGl2aHN0RWhNZ2k3LUFmZmNaanVEZTdOVDItUFMwV3kyVXQxSk9OOGs2Y3p0UVUzNnJFYUZRRG5HcGZRNDUydGdlY0ZtYlpscGxqUG05S296ZlV5d0pjZUNvWFE4WnZqOTVWTGhKUW1qSlc2TTVyNFFhbnZidHZ5WVktMktZdDdPOGVtTUxxNTU5aHVSRGtIaWtZSklUamxNb0hkMnpIaDhjUzVDUEwtdDlyU3VnSlFjMEpwa3pWaVFNM2RZTlZCTE9NSFNzR1lmVFBiem15U1ZYa1B1bGZoQ1dSYzdJa0Y3S1pZdjhWRTNn?oc=5",
-      "source": "TF1 Info",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZFZ6WmNfRHRBdklvamt2N1gxazI1eXpJR3ZzU2JsVmJMeC1VUndMem9GeWxHSl9rcXRvWXdFOFBGNGl2aHN0RWhNZ2k3LUFmZmNaanVEZTdOVDItUFMwV3kyVXQxSk9OOGs2Y3p0UVUzNnJFYUZRRG5HcGZRNDUydGdlY0ZtYlpscGxqUG05S296ZlV5d0pjZUNvWFE4WnZqOTVWTGhKUW1qSlc2TTVyNFFhbnZidHZ5WVktMktZdDdPOGVtTUxxNT",
-      "publishedAt": "2026-07-07T20:54:14.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027. Sondage Toluna: Gabriel Attal en ballotage pour le second tour / Marine Le Pen élue / Les extrêmes entre 58% et 63% - lecentrisme.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q2JPVjFPeE9jYmZBNU1yMVFEUS12SGtac3Vscnd5bkE4cVVBeXRsN01PODNaUHZhdmJ2YXc3RzVVMVVZY2tkNlVfTEl2VnRtSW5RREphdEVvZnVqVTdwQlM5UG5lLW9ldGJYc0h1ZXBuZEdpakJhZS1pb1Nrb1U?oc=5",
-      "source": "lecentrisme.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q2JPVjFPeE9jYmZBNU1yMVFEUS12SGtac3Vscnd5bkE4cVVBeXRsN01PODNaUHZhdmJ2YXc3RzVVMVVZY2tkNlVfTEl2VnRtSW5RREphdEVvZnVqVTdwQlM5UG5lLW9ldGJYc0h1ZXBuZEdpakJhZS1pb1Nrb1U?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage Toluna: Gabriel Attal en ballotage pour le seco",
-      "publishedAt": "2026-07-08T19:06:05.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "En chiffrant son programme, Bruno Retailleau entend se distinguer de Gabriel Attal sur l’intelligence artificielle - Contexte",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTVo1Zm9DemJpcmtTMklJZUVxNmFFYzJQc0RwUGJQaW42X2RHUTFXZmoyUUZaVmxmQlpLVkp4QXRTakRqSmhlQ2dYemNZYzdEcWUtVVkxYndtcS1jUEFCbFhEZHdYQllGdFJRV3lMcXVtZ3NaYWQwNTFOREpKNFNTekhLLUNNX0o2NnVBUGQzU0taY1RBWExadVZVM3pwQzY3cjhWUjRtYW9EbEh0OEI4VzVKUHgzZ1dkTDhueFpiQzFzaHE1NjF2bmIxYUJsYUdZX25TRXZOWUVEWTRaRG91TmtlUU9nd1RuVDZKMUpoSlZkUlRW?oc=5",
-      "source": "Contexte",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTVo1Zm9DemJpcmtTMklJZUVxNmFFYzJQc0RwUGJQaW42X2RHUTFXZmoyUUZaVmxmQlpLVkp4QXRTakRqSmhlQ2dYemNZYzdEcWUtVVkxYndtcS1jUEFCbFhEZHdYQllGdFJRV3lMcXVtZ3NaYWQwNTFOREpKNFNTekhLLUNNX0o2NnVBUGQzU0taY1RBWExadVZVM3pwQzY3cjhWUjRtYW9EbEh0OEI4VzVKUHgzZ1dkTDhueFpiQzFzaHE1NjF2bm",
-      "publishedAt": "2026-07-08T06:02:21.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
+      "firstSeenAt": "2026-07-10T01:20:28.648Z",
       "isNew": true
     },
     {
@@ -184,14 +64,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "A droite et au centre, réveillez-vous ! - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUWWFVcWowU1NMd2RuWWhrUmZ0OWdLVjU3Mzg4UjJKM1RHbllwSmlKZUxNa0NodWRRU3AzV002eHFkaFkwSGNWRGpxcndvYjRYbGprTlAwZ0pLYzI4TlFPY1cyTjV3eDBCZ01VT3NvcGw2U2hWQ0wzczFR?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBUWWFVcWowU1NMd2RuWWhrUmZ0OWdLVjU3Mzg4UjJKM1RHbllwSmlKZUxNa0NodWRRU3AzV002eHFkaFkwSGNWRGpxcndvYjRYbGprTlAwZ0pLYzI4TlFPY1cyTjV3eDBCZ01VT3NvcGw2U2hWQ0wzczFR?oc=5\" target=\"_blank\">A droite et au centre, réveillez-vous !</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">l'Opin",
-      "publishedAt": "2026-07-08T17:07:18.000Z",
+      "title": "Après le pourvoi en cassation de Marine Le Pen, Gabriel Attal dénonce \"une forme de guérilla judiciaire, qui prend en otage toute la campagne présidentielle\" - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOR0piV3laYXFoV2RqRUQ1WDlhWlo5c19oR1hOWmdSRjdCRzRsQmZVMEtRVmx0VE4ycGVhX3FkS0twVHJZRHV4U3llYVBDb1ZZNVJzRmF5LVplQm82X29zZWxieW9HSEU3bmxHMDFCcUh0RnpfOXluREtkTnR3eENsMjA1ZTFmbTFPX1VZVkU3YnF5NlpDYjVzc1ptZTQ4TUZ5QjRqa3pKU1MyMkdPVUpjcF9sM0ZnT1gzbkNJNllCRFBEZ3hNanpCWExodHBkOXlMSzBjZmNwX2xzOHdJU0R4aGFRbjlvOURQN1k1OC1EQmtody1LQXlUOGFGcTQ5SFlRTWpyTXJBZTF4Z1IyTEdEWHhWYUJ3RW9YenI5ZjZMVTNNN1hid2N2TEpxeW1PQW1KRWhQWXNJOVYyOFZkRXhvZUhId3VVam9hWHdwWEdXZE9sRkhFdVpQTnp0dVEzN2RzaGlUZ1h6RWtMVWFUUVlXMUpTX0ZlOEFsUTZ6NURB?oc=5",
+      "source": "franceinfo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxOR0piV3laYXFoV2RqRUQ1WDlhWlo5c19oR1hOWmdSRjdCRzRsQmZVMEtRVmx0VE4ycGVhX3FkS0twVHJZRHV4U3llYVBDb1ZZNVJzRmF5LVplQm82X29zZWxieW9HSEU3bmxHMDFCcUh0RnpfOXluREtkTnR3eENsMjA1ZTFmbTFPX1VZVkU3YnF5NlpDYjVzc1ptZTQ4TUZ5QjRqa3pKU1MyMkdPVUpjcF9sM0ZnT1gzbkNJNllCRFBEZ3hNanpCWE",
+      "publishedAt": "2026-07-08T08:08:43.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -199,7 +79,37 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal et Edouard Philippe peuvent-ils survivre à la campagne imposée par Marine Le Pen - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVhjZm9JeVRrWk9EdXk5TzMzZFFLUm9fc0J0TTB5bVV3YUxkTzcxci1PTkl5RXdpX3NhWm1heldrYk1KNFVOZlEyeXl1RkF2b21GUEdMVHJVZFFQY0xkcUZpM3p3UXNVQ0E4WHhMaTRpd2E2NnlIeF9xV0FXTERzWWRuSGhnd1kwTzF0R1Y2aVpDbThQNUVlc2VJR1FtQzgzNktrVHpGS18zcDJkNGV6aHJObDZQNTBxRjNQT1RDa2xjZDR0bXFF?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVhjZm9JeVRrWk9EdXk5TzMzZFFLUm9fc0J0TTB5bVV3YUxkTzcxci1PTkl5RXdpX3NhWm1heldrYk1KNFVOZlEyeXl1RkF2b21GUEdMVHJVZFFQY0xkcUZpM3p3UXNVQ0E4WHhMaTRpd2E2NnlIeF9xV0FXTERzWWRuSGhnd1kwTzF0R1Y2aVpDbThQNUVlc2VJR1FtQzgzNktrVHpGS18zcDJkNGV6aHJObDZQNTBxRjNQT1RDa2xjZDR0bXFF?o",
+      "publishedAt": "2026-07-08T17:15:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-10T01:20:28.648Z",
       "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : face à Le Pen, Attal et Philippe rivaux pour incarner le vote utile - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWDFzRnlaSWdsRG12WV8tME5hb3BhWGt4eFFhaFhpMWZPcC0xbndOUms0OVZYVjJIaE91YThYdDVoZUZaMFlNcUpLQ1k1ZDRoTGVFUXNScmJsdDBORmZBZkVxWmRJOERfdThRTTFMaFBmX3lnZmVKZDlhNGVQVzNjNnZIVEZkbnBBMVkzcnNMX25YZkxPM3VaMmE4U2RtTHpWbFFXbG9GZGVobFE0cWdET2owblV4WDZETkNjTHpsTEx0TjBDcl84N1kwSHJyQjBXZElrSkFVdVRKMnc?oc=5",
+      "source": "Les Echos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWDFzRnlaSWdsRG12WV8tME5hb3BhWGt4eFFhaFhpMWZPcC0xbndOUms0OVZYVjJIaE91YThYdDVoZUZaMFlNcUpLQ1k1ZDRoTGVFUXNScmJsdDBORmZBZkVxWmRJOERfdThRTTFMaFBmX3lnZmVKZDlhNGVQVzNjNnZIVEZkbnBBMVkzcnNMX25YZkxPM3VaMmE4U2RtTHpWbFFXbG9GZGVobFE0cWdET2owblV4WDZETkNjTHpsTEx0TjBDcl84N1",
+      "publishedAt": "2026-07-08T15:58:17.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-09T01:23:27.555Z",
+      "isNew": false
     },
     {
       "title": "« Tout s'est précipité avec l'affaire Anthropic » : comment l'IA s'invite dans la campagne présidentielle - Les Echos",
@@ -214,21 +124,126 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Présidentielles 2027 : Édouard Philippe, Gabriel Attal… les premières réactions à la candidature de Marine Le Pen - lanouvellerepublique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQejB4RmZnWVJ0akh3bmtnMG9FNFhkUFNmbXZUQ1k2dERHTkhuUzBnbGdOVmVaOTRnUW9pc2VoSE1NRHFMQ0JCR1lWRDJqajNMR1pQOE5PeDlhbkdZMzlqbVpYdjA1T2tuMURmdFZtbFl0V1dkVWFvdFhnU2ktdzZTSHRlSmlpTVh2VVBqMDItYkVPRXVYbnJ5LWhSWjRGYWJjYURNQnJPSlNnYktLTGlvOXlnc1g3Nkh5OUVER2tPMkIwMUdhQ3ExeHRBeENyZ3R2aUdMbDVKYzhZZFU5V1FhLWtXdmRBc0RiSUlCaW15UUdYQzdrQ1pWYg?oc=5",
-      "source": "lanouvellerepublique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQejB4RmZnWVJ0akh3bmtnMG9FNFhkUFNmbXZUQ1k2dERHTkhuUzBnbGdOVmVaOTRnUW9pc2VoSE1NRHFMQ0JCR1lWRDJqajNMR1pQOE5PeDlhbkdZMzlqbVpYdjA1T2tuMURmdFZtbFl0V1dkVWFvdFhnU2ktdzZTSHRlSmlpTVh2VVBqMDItYkVPRXVYbnJ5LWhSWjRGYWJjYURNQnJPSlNnYktLTGlvOXlnc1g3Nkh5OUVER2tPMkIwMUdhQ3ExeH",
-      "publishedAt": "2026-07-07T19:52:09.000Z",
+      "title": "Gabriel Attal juge que la condamnation de Marine Le Pen détourne déjà la campagne présidentielle des vrais enjeux - ENTREVUE.FR",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSWJHWDBFNmhKSEYxRDJDUHlvaVlVVm9YSHJQVlh3bG56d3JwQlFuUmlnRzRZSlhVRGxMOG1OczhhQk5kenNTNU1tX1RPdHo0dHI2bmctWVdZOFhhZ0drME0zdUlqZXVtWWpKc1BJUmh0czE4VU5hYmZkR1hhbHRvNGlSZGlzbjc2UGhMaTFDaXRGSGIyRDVjTkloZUFRbEVoei1YcnZOTVJnenBRanVNNTVGUWtnbE5MMUhEdF9OWWs5eTZ3YjI4NW1IdmkzUUxtNTFmWWluZ21pRlR6?oc=5",
+      "source": "ENTREVUE.FR",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSWJHWDBFNmhKSEYxRDJDUHlvaVlVVm9YSHJQVlh3bG56d3JwQlFuUmlnRzRZSlhVRGxMOG1OczhhQk5kenNTNU1tX1RPdHo0dHI2bmctWVdZOFhhZ0drME0zdUlqZXVtWWpKc1BJUmh0czE4VU5hYmZkR1hhbHRvNGlSZGlzbjc2UGhMaTFDaXRGSGIyRDVjTkloZUFRbEVoei1YcnZOTVJnenBRanVNNTVGUWtnbE5MMUhEdF9OWWs5eTZ3YjI4NW",
+      "publishedAt": "2026-07-09T10:24:52.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
+      "firstSeenAt": "2026-07-10T01:20:28.648Z",
+      "isNew": true
+    },
+    {
+      "title": "« Doubler tous les salaires, grâce à l’IA » : la proposition choc du Monsieur éco de Gabriel Attal - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmtmSkIwclZrLXp0NEd6MlI5M3czUVhvVXNLc2JCb2VmWHVvV1k4RjhScXc1SXY3TFVjc2NYVDRDenY1OVlxZEp2TGFCV012ckNOS1JVa1FoMGNkNXBUVzZlTDhfLXFnSW5RN2R4cmV5Ulp6OUxDRVJTYmVzeWdYZC1LWQ?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmtmSkIwclZrLXp0NEd6MlI5M3czUVhvVXNLc2JCb2VmWHVvV1k4RjhScXc1SXY3TFVjc2NYVDRDenY1OVlxZEp2TGFCV012ckNOS1JVa1FoMGNkNXBUVzZlTDhfLXFnSW5RN2R4cmV5Ulp6OUxDRVJTYmVzeWdYZC1LWQ?oc=5\" target=\"_blank\">« Doubler tous les salaires, grâce à l’IA » : la proposition choc du ",
+      "publishedAt": "2026-07-08T10:33:33.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-09T01:23:27.555Z",
+      "isNew": false
+    },
+    {
+      "title": "Quand Marine Le Pen s’impose au centre du jeu, Attal et Philippe se disputent le vote utile du bloc central avant 2027 - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUk5ySV9ZcU9zVFB4ZmZCWVg1RjdrUS1IUV9MMDRQMWRWQVpGMGhUR2xORGhDeENQNmc4TXU3WE5LTUtqM3MyTnV3TTNhNWdoMFh0N2pIOFpyU0NrOEdSNzFDXzM4MUdSOEVEbEE4QzBXZnFrNEo1RDVoWE8yZXQ3QW1QLTJuZTMzSE9kUXAtMWpySkphUkxqUDI3ejhtZF9TMnVwRDg5d3BveVgzS0VfazJfcnFlS3ZGYUhzd2FhdzJxTGJOcmcyWUJVVzY0UzlaVHNHZ1RYcTZjSVNlZ3JZSnZUZkV0RzE3SWdjSm13U2FzOVRpTExhWV93?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUk5ySV9ZcU9zVFB4ZmZCWVg1RjdrUS1IUV9MMDRQMWRWQVpGMGhUR2xORGhDeENQNmc4TXU3WE5LTUtqM3MyTnV3TTNhNWdoMFh0N2pIOFpyU0NrOEdSNzFDXzM4MUdSOEVEbEE4QzBXZnFrNEo1RDVoWE8yZXQ3QW1QLTJuZTMzSE9kUXAtMWpySkphUkxqUDI3ejhtZF9TMnVwRDg5d3BveVgzS0VfazJfcnFlS3ZGYUhzd2FhdzJxTGJOcmcyWU",
+      "publishedAt": "2026-07-09T09:30:40.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-10T01:20:28.648Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Marine Le Pen largement en tête devant Édouard Philippe, selon deux sondages - CNews",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEJ5TnNhSS1VMVptajVYSXFhS1ZmTFJDYXJ6WFMwUWh3SGpEN0laTHAxUFduQmt6M2Nxdmc0enFxV3JCVV9JZ1JydHI5a2U3bS0xdXhYNUNVXy1hQXpOaVZfellGVzRtZW9Ia3htck9MTWV1WFk1el9md04tZ19TdWZpNkY4LXhxY2NKVGdtc19kVmhZT2pjdFI5b0ZwN180My1CWkxfbENCMll4WFRGVTBOaU9Gd3pid3owUNIBwgFBVV95cUxPY2x0aGdsckZqUFlwaEg1cGtyWkxUT0NQLUk3RURmcllvY2VhakU3YzQ4WVNsMWxnaFJHWktPeVdVSU9sd3JFcU9nWlptM24tcmVqNktyMTVhTGo3SDg3eXd0dHowekg2NkMzczZPaDdBdGJIV2k0alN4c0Z4Yk80VlJ1eTBWT0NPUFlNUjRGcl9XMWxNMWpqRFBBa2hMTDJFMTBKZC1jVDcyZHdlWkUzaFZ1SGw0aG9GT241ZlNBLWdHdw?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEJ5TnNhSS1VMVptajVYSXFhS1ZmTFJDYXJ6WFMwUWh3SGpEN0laTHAxUFduQmt6M2Nxdmc0enFxV3JCVV9JZ1JydHI5a2U3bS0xdXhYNUNVXy1hQXpOaVZfellGVzRtZW9Ia3htck9MTWV1WFk1el9md04tZ19TdWZpNkY4LXhxY2NKVGdtc19kVmhZT2pjdFI5b0ZwN180My1CWkxfbENCMll4WFRGVTBOaU9Gd3pid3owUNIBwgFBVV95cUxPY2",
+      "publishedAt": "2026-07-09T07:28:17.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-10T01:20:28.648Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Marine Le Pen donnée gagnante dans tous les duels testés, selon un sondage - Valeurs actuelles",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUd1cDNoYzJJZnhIdTVzWlV1RUFJY3FJb21UTnNUZVZxRU1IVUpfN3doV3pqR0dtZlNoRXEzbGVJMGpBZjNIOFN3OVpNUzNRUkpDdnM1bDBoVVNUNFl4dVZKbTc4TzVYelVTZXM3ZTdhbXh6aXBISDZJcWlBeFJjM1c3a0x6RDNBNFNvam1MNFYwSm0yQmtqa016M1d6bEpHbUpiaEJlVFlkODJtMEtkZ0hmOFhfYmxxWEVySlpFcHlrTEpaS3BERjR6ZkFyc05yWEE?oc=5",
+      "source": "Valeurs actuelles",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUd1cDNoYzJJZnhIdTVzWlV1RUFJY3FJb21UTnNUZVZxRU1IVUpfN3doV3pqR0dtZlNoRXEzbGVJMGpBZjNIOFN3OVpNUzNRUkpDdnM1bDBoVVNUNFl4dVZKbTc4TzVYelVTZXM3ZTdhbXh6aXBISDZJcWlBeFJjM1c3a0x6RDNBNFNvam1MNFYwSm0yQmtqa016M1d6bEpHbUpiaEJlVFlkODJtMEtkZ0hmOFhfYmxxWEVySlpFcHlrTEpaS3BERj",
+      "publishedAt": "2026-07-09T09:30:49.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-10T01:20:28.648Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027. Sondage Toluna: Gabriel Attal en ballotage pour le second tour / Marine Le Pen élue / Les extrêmes entre 58% et 63% - lecentrisme.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q2JPVjFPeE9jYmZBNU1yMVFEUS12SGtac3Vscnd5bkE4cVVBeXRsN01PODNaUHZhdmJ2YXc3RzVVMVVZY2tkNlVfTEl2VnRtSW5RREphdEVvZnVqVTdwQlM5UG5lLW9ldGJYc0h1ZXBuZEdpakJhZS1pb1Nrb1U?oc=5",
+      "source": "lecentrisme.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Q2JPVjFPeE9jYmZBNU1yMVFEUS12SGtac3Vscnd5bkE4cVVBeXRsN01PODNaUHZhdmJ2YXc3RzVVMVVZY2tkNlVfTEl2VnRtSW5RREphdEVvZnVqVTdwQlM5UG5lLW9ldGJYc0h1ZXBuZEdpakJhZS1pb1Nrb1U?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage Toluna: Gabriel Attal en ballotage pour le seco",
+      "publishedAt": "2026-07-08T19:06:05.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-09T01:23:27.555Z",
+      "isNew": false
+    },
+    {
+      "title": "A droite et au centre, réveillez-vous ! - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUWWFVcWowU1NMd2RuWWhrUmZ0OWdLVjU3Mzg4UjJKM1RHbllwSmlKZUxNa0NodWRRU3AzV002eHFkaFkwSGNWRGpxcndvYjRYbGprTlAwZ0pLYzI4TlFPY1cyTjV3eDBCZ01VT3NvcGw2U2hWQ0wzczFR?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBUWWFVcWowU1NMd2RuWWhrUmZ0OWdLVjU3Mzg4UjJKM1RHbllwSmlKZUxNa0NodWRRU3AzV002eHFkaFkwSGNWRGpxcndvYjRYbGprTlAwZ0pLYzI4TlFPY1cyTjV3eDBCZ01VT3NvcGw2U2hWQ0wzczFR?oc=5\" target=\"_blank\">A droite et au centre, réveillez-vous !</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">l'Opin",
+      "publishedAt": "2026-07-08T17:07:18.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-09T01:23:27.555Z",
+      "isNew": false
+    },
+    {
+      "title": "Pourvoi en cassation : Attal vise Le Pen et 2027 - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQWdkQnczTjdGN2lrakdzeXRHVFBDU3dzNTg3RmhLUDN4bmpZM2lWRkpsQ0p3ekJOOUNaVTFtUzZWenlLZTJGc2xCeDJFSXU4VmhwOFJhV3JhU0diYllrOWNhakhQSnRlOENTcnM5alhTbnpfS0h5M2MyVW82M0ZpQ1BDVDF5ZDNkTlhzQTVKTU5tQlhOeV90X2hONGsyXy1VZDJFa0xRTF9fRXM0UHo1ZjF6M3Q5SWNERjFLNk1wc1p5ME8za29QVkpnbnBwazc5NUVRQW8tRURqVGxrcUVKLThlY3Y5N2xXQ0tuSk5TZzNJbkZVS0J3RGhXOEhZODBjc3Rsdw?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQQWdkQnczTjdGN2lrakdzeXRHVFBDU3dzNTg3RmhLUDN4bmpZM2lWRkpsQ0p3ekJOOUNaVTFtUzZWenlLZTJGc2xCeDJFSXU4VmhwOFJhV3JhU0diYllrOWNhakhQSnRlOENTcnM5alhTbnpfS0h5M2MyVW82M0ZpQ1BDVDF5ZDNkTlhzQTVKTU5tQlhOeV90X2hONGsyXy1VZDJFa0xRTF9fRXM0UHo1ZjF6M3Q5SWNERjFLNk1wc1p5ME8za29QVk",
+      "publishedAt": "2026-07-08T14:44:11.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-09T01:23:27.555Z",
       "isNew": false
     },
     {
@@ -244,37 +259,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "Pourvoi en cassation : Attal vise Le Pen et 2027 - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQWdkQnczTjdGN2lrakdzeXRHVFBDU3dzNTg3RmhLUDN4bmpZM2lWRkpsQ0p3ekJOOUNaVTFtUzZWenlLZTJGc2xCeDJFSXU4VmhwOFJhV3JhU0diYllrOWNhakhQSnRlOENTcnM5alhTbnpfS0h5M2MyVW82M0ZpQ1BDVDF5ZDNkTlhzQTVKTU5tQlhOeV90X2hONGsyXy1VZDJFa0xRTF9fRXM0UHo1ZjF6M3Q5SWNERjFLNk1wc1p5ME8za29QVkpnbnBwazc5NUVRQW8tRURqVGxrcUVKLThlY3Y5N2xXQ0tuSk5TZzNJbkZVS0J3RGhXOEhZODBjc3Rsdw?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQQWdkQnczTjdGN2lrakdzeXRHVFBDU3dzNTg3RmhLUDN4bmpZM2lWRkpsQ0p3ekJOOUNaVTFtUzZWenlLZTJGc2xCeDJFSXU4VmhwOFJhV3JhU0diYllrOWNhakhQSnRlOENTcnM5alhTbnpfS0h5M2MyVW82M0ZpQ1BDVDF5ZDNkTlhzQTVKTU5tQlhOeV90X2hONGsyXy1VZDJFa0xRTF9fRXM0UHo1ZjF6M3Q5SWNERjFLNk1wc1p5ME8za29QVk",
-      "publishedAt": "2026-07-08T14:44:11.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027. Sondage IFOP: Attal à égalité avec Mélenchon / Le Pen largement en tête et élue au second tour / Les extrêmes à 58,5%-59% - lecentrisme.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNktKVkpSZGZoV1RxaW5NRWxLWTB5ZmFZQ0N1UllvZkhBQndCNXY2SW04SzNackJPaDRmZXZsZHoySnNLdk5pSDJ0ODlUTE53MW0weUlUQThOdDlkYXZYY3dTZnpZRzRGM00yQ21XSUtGMy1pLXFDWFE2Ylg3WnozN1JwcHA?oc=5",
-      "source": "lecentrisme.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNktKVkpSZGZoV1RxaW5NRWxLWTB5ZmFZQ0N1UllvZkhBQndCNXY2SW04SzNackJPaDRmZXZsZHoySnNLdk5pSDJ0ODlUTE53MW0weUlUQThOdDlkYXZYY3dTZnpZRzRGM00yQ21XSUtGMy1pLXFDWFE2Ylg3WnozN1JwcHA?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage IFOP: Attal à égalité avec Mélenchon / ",
-      "publishedAt": "2026-07-08T20:56:06.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "«Cette décision fait en réalité deux morts: Bardella et Attal» - L'essentiel",
@@ -289,81 +274,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "« Démocratie en otage », « nouveau reniement »… La candidature de Marine Le Pen à la présidentielle malgré sa condamnation secoue la classe politique - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNG00VlB6eDRxTndfUWZWcUhXaVpKOE9mbU9PLWJCY3NRXzAycnZLeVB5WWFYUktHZXpycGQyY2V0bkVKZVdHbFFad0lxb2pOYm1yZndJbU0wajJrZllMN1hvSFF0elpnMkhKSGZuamFZa1FteEFHTjBpZTh3cVZhb1RxUkZET2tDdVJKUWRpZmIzcEo1bEE0VGhkWU1YdjZESlNwdV9CcS1NRlhtMC15T3U2VnJfV1pael9mVlJla19JSWhCQzgzbFZkZkxHS0k5ektmcThUMXdzQ051SEJEWVFvQVRpZ3gxZDdNOElaajJRaVJtY1hxd3FtVC1sMWdEMUs3M01GaU1teWE2ZmwxVTMxTUJ6WU1KSEpMVkgtNWlQUQ?oc=5",
-      "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQNG00VlB6eDRxTndfUWZWcUhXaVpKOE9mbU9PLWJCY3NRXzAycnZLeVB5WWFYUktHZXpycGQyY2V0bkVKZVdHbFFad0lxb2pOYm1yZndJbU0wajJrZllMN1hvSFF0elpnMkhKSGZuamFZa1FteEFHTjBpZTh3cVZhb1RxUkZET2tDdVJKUWRpZmIzcEo1bEE0VGhkWU1YdjZESlNwdV9CcS1NRlhtMC15T3U2VnJfV1pael9mVlJla19JSWhCQzgzbF",
-      "publishedAt": "2026-07-07T20:23:24.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
-    },
-    {
-      "title": "« C’est la miraculée, c’est Jeanne d’Arc mais après le bûcher » : Philippe et Attal cherchent la parade face à Le Pen - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOeDdYbndCblVkSnBPUXZpd1l3Vmd0RDFMTTVRd1FuVkQ2bEtmLTVNbEhzVVdleF9CWVlaZTZveTh1ZWdiTElLb25nWXk5TndKZFFsS185bW5ZV2RWZ2hNTUdQaFFDUXRXdWpLZVhOVWhrUHZUM2Y5LTlaZ244Tkk0VDJsRGwtTjVhMXZaUWJULTBOUzF1aC02NE11MG1NNmc3VHBvbExNMFhxQ1N0clpnemRKSlZFb0MtX09DaEFhelp5X3M0VHFlNVZlaXBITF90SjhJZUptY3NQeFFzX3Rrc3p6czNJRFY3bDVwYlY1YlpWaHkyaGNKclpTcGJreDdvQ3NWY3M3QWd4LTNQdmk5RDM5YVlVTTNLV2F4WG14UUVPbmR5eGkw?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxOeDdYbndCblVkSnBPUXZpd1l3Vmd0RDFMTTVRd1FuVkQ2bEtmLTVNbEhzVVdleF9CWVlaZTZveTh1ZWdiTElLb25nWXk5TndKZFFsS185bW5ZV2RWZ2hNTUdQaFFDUXRXdWpLZVhOVWhrUHZUM2Y5LTlaZ244Tkk0VDJsRGwtTjVhMXZaUWJULTBOUzF1aC02NE11MG1NNmc3VHBvbExNMFhxQ1N0clpnemRKSlZFb0MtX09DaEFhelp5X3M0VHFlNV",
-      "publishedAt": "2026-07-07T21:30:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
-    },
-    {
-      "title": "Marine Le Pen candidate : scénario noir pour les héritiers du macronisme - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakZBMWlmMnZGU3JERFpiQm02MVY3dEIzQ0d0RVJLUzgwdzJ1YmZjUUdoQVh5ZV9JUTFEX3J5R253c1B5WTRMY3FEUzFtV0NfYVN1N3RMRnRtQkExMWRKRFdoRmNzbjAwVGpzWGlrdW5vcTN4NXVicXBVUjJwaFRzRUxjRHhINTRSQU4wUjU0bEJzMEdfRm9jdTllQzRPTzI1NGRKNlIxOA?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPakZBMWlmMnZGU3JERFpiQm02MVY3dEIzQ0d0RVJLUzgwdzJ1YmZjUUdoQVh5ZV9JUTFEX3J5R253c1B5WTRMY3FEUzFtV0NfYVN1N3RMRnRtQkExMWRKRFdoRmNzbjAwVGpzWGlrdW5vcTN4NXVicXBVUjJwaFRzRUxjRHhINTRSQU4wUjU0bEJzMEdfRm9jdTllQzRPTzI1NGRKNlIxOA?oc=5\" target=\"_blank\">Marine Le Pen candida",
-      "publishedAt": "2026-07-07T19:03:22.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal défie Jordan Bardella : place au débat pour 2027 ! - Ohmymag",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmVEWTZ5WWE2VS10MGw1a1JNZlM0aDdHZGNwNjNSRVJYNEU4RGMxcEtBMXZhaFdYaXBNQU1oeXpteHllV1dzWVMxZkQ0Yk4tVjIzb0JTaUQyWHR2Y2haUi1GbV9tYlFDOGlnS2QtbmxsYV9HMGE0SHJBYTRpTklhY3VmS1ZlcjhFMFZnaTk1elRKUzM3dkhJWGdYMThhZ3UweHdIMHJWRk4zWjNBdnB3Q1lIblUwQ0xjc1E?oc=5",
-      "source": "Ohmymag",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmVEWTZ5WWE2VS10MGw1a1JNZlM0aDdHZGNwNjNSRVJYNEU4RGMxcEtBMXZhaFdYaXBNQU1oeXpteHllV1dzWVMxZkQ0Yk4tVjIzb0JTaUQyWHR2Y2haUi1GbV9tYlFDOGlnS2QtbmxsYV9HMGE0SHJBYTRpTklhY3VmS1ZlcjhFMFZnaTk1elRKUzM3dkhJWGdYMThhZ3UweHdIMHJWRk4zWjNBdnB3Q1lIblUwQ0xjc1E?oc=5\" target=\"_bla",
-      "publishedAt": "2026-07-07T18:30:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
-    },
-    {
-      "title": "Après Philippe et Attal, Bruno Retailleau se met à son tour à l’IA : «La grande bataille technologique de notre histoire - Libération",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdy1ybC1TQlRUb1NiajdqOVpsZ20tYVdTbGlWSDVWQ01YYTlmdDNhWlpDbjJpY3VDY3Q4U09pYjczMFZOTEZOZVk2VmpnQXRtV2lHZmNndlN6alFiREQ1bVZrUkZyanpNc1FzZl9YdXJMLXRCbFo5cjFnMktONHBGZTRqR0paRDBBNHhVWWt6cG04WU5rZmthRzNtdGZfZmd1eklzd0x6US1aQjVTS2l1bUtibXJXdllORHRCa3pNUlRCS3BZRUpBN1FLTTNaMDI5VnpJT0M2YmVPTnVBQ2JQTVBES2thUnNVWXRRcTJHWVRtT0MwbmpVOGVNV1F0N1d1REhfdXJ1dnppNmx5OFBEMmRwOVBnR1k?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPdy1ybC1TQlRUb1NiajdqOVpsZ20tYVdTbGlWSDVWQ01YYTlmdDNhWlpDbjJpY3VDY3Q4U09pYjczMFZOTEZOZVk2VmpnQXRtV2lHZmNndlN6alFiREQ1bVZrUkZyanpNc1FzZl9YdXJMLXRCbFo5cjFnMktONHBGZTRqR0paRDBBNHhVWWt6cG04WU5rZmthRzNtdGZfZmd1eklzd0x6US1aQjVTS2l1bUtibXJXdllORHRCa3pNUlRCS3BZRUpBN1",
-      "publishedAt": "2026-07-07T21:20:04.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
       "isNew": false
     },
     {
@@ -379,29 +289,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "« On n’est pas des enfants de chœur » : la violente charge de Michel Barnier contre Laurent Wauquiez - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDN4NWpjVVBwV2ZYcExZNHZlZ2NUZHBKdkptaVgxMk8tbThpY3FKTXBoT1VPRWxtUVl2ekdJV055MHNUSmFQeWc0U3h3czg2SFhveVQ1a2F5QzdpdUNCVVY4eENtdGEyMmhIWVNpZnJqLVg4UnJKeEhwa1U4VjEwUEliQUlPZkhBWEhGRjMydU5ITHJhNzRaMkpjcktXR0NVaEJlR2NGcXNGczR1THJaMlVwOGU5QTQ?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDN4NWpjVVBwV2ZYcExZNHZlZ2NUZHBKdkptaVgxMk8tbThpY3FKTXBoT1VPRWxtUVl2ekdJV055MHNUSmFQeWc0U3h3czg2SFhveVQ1a2F5QzdpdUNCVVY4eENtdGEyMmhIWVNpZnJqLVg4UnJKeEhwa1U4VjEwUEliQUlPZkhBWEhGRjMydU5ITHJhNzRaMkpjcktXR0NVaEJlR2NGcXNGczR1THJaMlVwOGU5QTQ?oc=5\" target=\"_blank\">",
-      "publishedAt": "2026-07-07T14:35:41.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
       "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : pourquoi Gabriel Attal veut faire de la probité un test décisif face à Marine Le Pen - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnF4c2IyY1Q1QjJDVUNqX0FieTBpdnhqa0dMaEtNRS1ZU1Z0Vk5uOEo0RzFWOXNTQUNIMTF5S2VsWDJzYkJ0UlIzR241dGZVOHlFNVFKbUFTODdqR2ZIcVhxMlFvdkhWc1gydmstSVNCQUVSUmkwNndFWWV2WVlTM3Z4cHFxMFRobXpOZmVWNm1pSHJKd3k0RDcyb3hmLVhRSC1meTdrbVRVZTZqZ2tMemhKS3I3THJnUGx2Yng3WWRwcWdrV1U5RFl1ODJiMVdtVTBfd09iWnppODA3bFNHSVkyRWdpUWNGdkE?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnF4c2IyY1Q1QjJDVUNqX0FieTBpdnhqa0dMaEtNRS1ZU1Z0Vk5uOEo0RzFWOXNTQUNIMTF5S2VsWDJzYkJ0UlIzR241dGZVOHlFNVFKbUFTODdqR2ZIcVhxMlFvdkhWc1gydmstSVNCQUVSUmkwNndFWWV2WVlTM3Z4cHFxMFRobXpOZmVWNm1pSHJKd3k0RDcyb3hmLVhRSC1meTdrbVRVZTZqZ2tMemhKS3I3THJnUGx2Yng3WWRwcWdrV1U5RF",
-      "publishedAt": "2026-07-07T19:27:42.000Z",
+      "title": "Présidentielle 2027. Sondage IFOP: Attal à égalité avec Mélenchon / Le Pen largement en tête et élue au second tour / Les extrêmes à 58,5%-59% - lecentrisme.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNktKVkpSZGZoV1RxaW5NRWxLWTB5ZmFZQ0N1UllvZkhBQndCNXY2SW04SzNackJPaDRmZXZsZHoySnNLdk5pSDJ0ODlUTE53MW0weUlUQThOdDlkYXZYY3dTZnpZRzRGM00yQ21XSUtGMy1pLXFDWFE2Ylg3WnozN1JwcHA?oc=5",
+      "source": "lecentrisme.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNktKVkpSZGZoV1RxaW5NRWxLWTB5ZmFZQ0N1UllvZkhBQndCNXY2SW04SzNackJPaDRmZXZsZHoySnNLdk5pSDJ0ODlUTE53MW0weUlUQThOdDlkYXZYY3dTZnpZRzRGM00yQ21XSUtGMy1pLXFDWFE2Ylg3WnozN1JwcHA?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage IFOP: Attal à égalité avec Mélenchon / ",
+      "publishedAt": "2026-07-08T20:56:06.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -409,52 +304,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "Quand Marine Le Pen revient dans la course, Édouard Philippe se clarifie et Gabriel Attal doit choisir le ton juste - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTG53T0FKakJvN0FFQjFWdmw4bFdCek5ySkZpUVBSTDZSLVloV09Qc1BESEpKUW9VZzNCX25pVDdSNnZHNlN2MUg3RWNVczIzdERmb1lGZEk4MWg4NDhOYU9janNBOVhoMzROUVZlckJ5bkhENEtYWURadGVNY3FOdlR4eU81VTZwcl9WU0RoUGF5dEozSDNJRmI0Tno0RENQeHgydkdaUjB3Ui1JZ0k3RXNEQVg0NnY5WjY5UWR6emgwZFlvX3dHeTJDSzNPRVpuRU1YaDZ5V3BaUTd5bG1Xb0xoSVhHcHVLOENWTUtsRENaa2lVUEt3?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTG53T0FKakJvN0FFQjFWdmw4bFdCek5ySkZpUVBSTDZSLVloV09Qc1BESEpKUW9VZzNCX25pVDdSNnZHNlN2MUg3RWNVczIzdERmb1lGZEk4MWg4NDhOYU9janNBOVhoMzROUVZlckJ5bkhENEtYWURadGVNY3FOdlR4eU81VTZwcl9WU0RoUGF5dEozSDNJRmI0Tno0RENQeHgydkdaUjB3Ui1JZ0k3RXNEQVg0NnY5WjY5UWR6emgwZFlvX3dHeT",
-      "publishedAt": "2026-07-07T20:31:50.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
       "isNew": false
-    },
-    {
-      "title": "Les réactions politiques à la candidature de Marine Le Pen après sa condamnation - Le Soir",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2tGYzN3LXBUODgtYzJFUWQ4eEFscWI5cWx5bGNoWDZ6bnktNkQwTElfOVBuaDFvS09sVlJQcTN1RWdUWVk3VkhNOGg2ZXVVV2FJeE9EWHVTTGlGNk1vTnoyMkVrV1FLdjk2RnhLVDNQZlFKOXN1TV9FTUhfUzV1MG9rY0RiVVhTR21QSVBlX2VxS1MyRmRBU2dLb21oTy1tVlhrU0V5REhNeG1MVnhWRU1URndHME9mckYwTkRCMWZSbnhl?oc=5",
-      "source": "Le Soir",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2tGYzN3LXBUODgtYzJFUWQ4eEFscWI5cWx5bGNoWDZ6bnktNkQwTElfOVBuaDFvS09sVlJQcTN1RWdUWVk3VkhNOGg2ZXVVV2FJeE9EWHVTTGlGNk1vTnoyMkVrV1FLdjk2RnhLVDNQZlFKOXN1TV9FTUhfUzV1MG9rY0RiVVhTR21QSVBlX2VxS1MyRmRBU2dLb21oTy1tVlhrU0V5REhNeG1MVnhWRU1URndHME9mckYwTkRCMWZSbnhl?oc=5\"",
-      "publishedAt": "2026-07-07T19:31:04.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-08T01:15:15.078Z",
-      "isNew": false
-    },
-    {
-      "title": "Paquet automobile : en plénière, un débat encore très idéologique malgré les appels répétés de Stéphane Séjourné à aller au plus vite - Contexte",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOeW1vZjYzaS1KNTM3VnRjLW5uejJibXVycFRtU3J0OEVVdUxWX290cXBkM2lTUktmc01ZX2RaM3JubHpkODhnaF9OUUNxXzE3QWsyaFlMZFlnbVF6djNjazA4Yy0xNFRIMW9WSTRpbHc1M0VpQXFJcFNiX1hObGdNRXZXam9vUmszN181ZHk0ellNTmtwQjFnMjFHNnEtZldfeVo5VkczamFTYkZBQ1Z6R0ZyMlNLLWZCSWFsR3N2aHctYl93N3BNUnNXZ0E3dFpRMHE5WldOdWZhUVRCcXZaV2RuNDFGVk5GMGZOdnprMVRjSll2QW81SDI2QTVqbnVId0VNMGxNM2piVkh6UzZzcjV2SVU?oc=5",
-      "source": "Contexte",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOeW1vZjYzaS1KNTM3VnRjLW5uejJibXVycFRtU3J0OEVVdUxWX290cXBkM2lTUktmc01ZX2RaM3JubHpkODhnaF9OUUNxXzE3QWsyaFlMZFlnbVF6djNjazA4Yy0xNFRIMW9WSTRpbHc1M0VpQXFJcFNiX1hObGdNRXZXam9vUmszN181ZHk0ellNTmtwQjFnMjFHNnEtZldfeVo5VkczamFTYkZBQ1Z6R0ZyMlNLLWZCSWFsR3N2aHctYl93N3BNUn",
-      "publishedAt": "2026-07-08T12:36:27.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
     },
     {
       "title": "Gabriel Attal sur France Inter : la France mérite mieux qu&#x27;une guérilla judiciaire",
@@ -470,32 +320,16 @@
       "coOccurrence": false,
       "official": "Gabriel Attal — site officiel (actualités)",
       "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal sur TF1 : Le choix du Rassemblement National est un choix qui nous emmènerait dans le mur",
-      "url": "https://attalpresident.fr/actualites/gabriel-attal-sur-tf1-le-choix-du-rassemblement-national-est-un-choix-qui-nous-emmenerait-dans-le-mur",
-      "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "Invité du journal de TF1, pour réagir à la condamnation de Marine Le Pen en appel, Gabriel Attal a fixé le cap de sa campagne. Face à la candidature de Marine Le Pen, Gabriel Attal refuse de banaliser une situation politique et morale majeure. Condamnée à deux reprises à de la prison ferme pour détournement de fonds pu",
-      "publishedAt": "2026-07-07T12:00:00.000Z",
-      "lang": "fr",
-      "type": "official",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-07-09T01:23:27.555Z",
-      "isNew": true
+      "isNew": false
     }
   ],
   "stats": {
-    "total": 32,
-    "new": 18,
+    "total": 21,
+    "new": 7,
     "carried": 14,
-    "media": 30,
+    "media": 20,
     "agenda": 0,
-    "official": 2,
+    "official": 1,
     "coOccurrence": 0
   }
 }
