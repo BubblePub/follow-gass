@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T01:12:34.773Z",
+  "generatedAt": "2026-07-17T01:16:43.008Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,10 +7,40 @@
   "lookbackHours": 48,
   "items": [
     {
+      "title": "Gabriel Attal a-t-il vraiment empêché la commande de deux Canadair en 2024 ? - Le HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWhuZVRVTzBWLUsyZE0xZUlEREJWdG5NQUdpR1NBNnJMRkFlNzVBN09DUDRyVXR0MWpyUWZFWlc5TWFYVmkwcjVTY1FWVEFJZ3Vmb3VNRnI2YklTZ3RhMFVCUjdsc1UwQ2NVZGhUaXJfVllYZ3d1ODdXSlFMcTlZOHFpbkZrTG1ycXRPekhRSG84V3lQTkd0ekFQN08ydkg0bGctb1JFUGs0bkNLQzNTbmV4MVgzZHdrVV8zX1ZlSnA4U2FtcXNtajRpT0NVdEk?oc=5",
+      "source": "Le HuffPost",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWhuZVRVTzBWLUsyZE0xZUlEREJWdG5NQUdpR1NBNnJMRkFlNzVBN09DUDRyVXR0MWpyUWZFWlc5TWFYVmkwcjVTY1FWVEFJZ3Vmb3VNRnI2YklTZ3RhMFVCUjdsc1UwQ2NVZGhUaXJfVllYZ3d1ODdXSlFMcTlZOHFpbkZrTG1ycXRPekhRSG84V3lQTkd0ekFQN08ydkg0bGctb1JFUGs0bkNLQzNTbmV4MVgzZHdrVV8zX1ZlSnA4U2",
+      "publishedAt": "2026-07-16T11:09:02.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Marine Le Pen, Sophia Chikirou, Gabriel Attal… Qu'ont voté les députés sur le texte créant un droit à l'aide à mourir? - BFM",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVUdKRUYyRVhMOHpDMDg0UmdBSlNTRHRPeVl3NEtiUHhHVDBveHZfQ3BjUTVvZENnMGpmVFU0OWMzU0NHNGNsLU9yRFVNWEtSUkJteFFROXZFVThyNmJ0NFJ1T3h4UHF1Mi0waDZZbmwxbGNZc3doZExrM3daVVZpdU82TXdXdkhUcU8wazVYNGllV3Y1UDNacFdXdThiNnFma2NnR1RlZHdkY2Q0MldINjlvQTVoQ2NiYlp1VHJDN2pnRW9DRHlpZUNiRTRrQXBKVjVWVWlDUGpaYlh5Ri1jSGZhakgtUWdrRU9KVFVsYTR3cDlCbGZURGlaa25ISy11T192bnl0d28?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVUdKRUYyRVhMOHpDMDg0UmdBSlNTRHRPeVl3NEtiUHhHVDBveHZfQ3BjUTVvZENnMGpmVFU0OWMzU0NHNGNsLU9yRFVNWEtSUkJteFFROXZFVThyNmJ0NFJ1T3h4UHF1Mi0waDZZbmwxbGNZc3doZExrM3daVVZpdU82TXdXdkhUcU8wazVYNGllV3Y1UDNacFdXdThiNnFma2NnR1RlZHdkY2Q0MldINjlvQTVoQ2NiYlp1VHJDN2pnRW9DRHlpZU",
+      "publishedAt": "2026-07-16T10:17:40.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
       "title": "INFO RTL - \"Pour la France. La Renaissance\" : le parti de Gabriel Attal poursuit Marine Le Pen et le RN pour \"parasitisme\" et \"contrefaçon de marque\" - RTL",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOalFsQUJlbGh5YVllVUNtbmJkNzJUTFRsc2NFMXV4WTRXeFpTLTUxOXdyME5vSTZtODZMYmNESHdTcnN4dGtJRGF1M1JXR1VNWUotZC0wS3paY1pHTjl4RENSX2xwakpqaTRnQm1MSVBiSXp1RVB3djJUMWx6blZqRWNPZHpxOHhZZzVhVUdhWmp1czlWeTZrYnF5Y0wxUXZvdnlOS0phNFNpVUdMSGFHQ2V4ZGlwY1JGQ013c1VRdTI1MEotNkNJeklkdDZWS3FLZVNKSDM4QkxFOTIxMllOSjhOUnphZlM2dERILVJDSFRtd1NTeGk5WDdDcDJLRl9DZGttWkRtOGpTMGttbExDbA?oc=5",
       "source": "RTL",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOalFsQUJlbGh5YVllVUNtbmJkNzJUTFRsc2NFMXV4WTRXeFpTLTUxOXdyME5vSTZtODZMYmNESHdTcnN4dGtJRGF1M1JXR1VNWUotZC0wS3paY1pHTjl4RENSX2xwakpqaTRnQm1MSVBiSXp1RVB3djJUMWx6blZqRWNPZHpxOHhZZzVhVUdhWmp1czlWeTZrYnF5Y0wxUXZvdnlOS0phNFNpVUdMSGFHQ2V4ZGlwY1JGQ013c1VRdTI1ME",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOalFsQUJlbGh5YVllVUNtbmJkNzJUTFRsc2NFMXV4WTRXeFpTLTUxOXdyME5vSTZtODZMYmNESHdTcnN4dGtJRGF1M1JXR1VNWUotZC0wS3paY1pHTjl4RENSX2xwakpqaTRnQm1MSVBiSXp1RVB3djJUMWx6blZqRWNPZHpxOHhZZzVhVUdhWmp1czlWeTZrYnF5Y0wxUXZvdnlOS0phNFNpVUdMSGFHQ2V4ZGlwY1JGQ013c1VRdTI1MEotNkNJek",
       "publishedAt": "2026-07-15T09:45:13.000Z",
       "lang": "fr",
       "type": "media",
@@ -19,66 +49,186 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Polémique sur les Canadair: Gabriel Attal répond à Jean-Luc Mélenchon et lui reproche de \"faire du trumpisme\" - BFM",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQclY1MkRINm9JQXhrRmNIYUVZMzloNzMwcGdJQndwbU5mX3dwV2k4c0p0Y3I0aWNCVE95ZW9RdWxwWDRUaE5FM1hSMEptMzVzd1p3QWVYMHRqajJlYndta3p0ZzRPdGRoQ1IyUmt0dElXNnREUDBzaGZqdExzSlZGWDE3MHNqYm1ucno4bk1KczRvenJSNm1QS19mdGhVMk5FUk1JNFFiRU5QZDhSc1FtTnFQUG43VGFiTTRmaTBfRkhna3hBU19lZ1VfcVctU3VhVXF0a1FQNEV4ZF81dk9MdXo4VDVoV3ZHTWtjbWVxV011VkZYUE1fMWc4SHNObjZFdG9IeVhSOVktYk5sbG5oZg?oc=5",
-      "source": "BFM",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQclY1MkRINm9JQXhrRmNIYUVZMzloNzMwcGdJQndwbU5mX3dwV2k4c0p0Y3I0aWNCVE95ZW9RdWxwWDRUaE5FM1hSMEptMzVzd1p3QWVYMHRqajJlYndta3p0ZzRPdGRoQ1IyUmt0dElXNnREUDBzaGZqdExzSlZGWDE3MHNqYm1ucno4bk1KczRvenJSNm1QS19mdGhVMk5FUk1JNFFiRU5QZDhSc1FtTnFQUG43VGFiTTRmaTBfRkhna3",
-      "publishedAt": "2026-07-15T17:07:03.000Z",
+      "title": "Gabriel Attal assigne Marine Le Pen pour « contrefaçon » sur l’utilisation du terme « renaissance » dans son affiche de campagne - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNV2tVR3B2cGFHZlFlUGpzY2lXcGotMlZmazlESkljbERVQW5zcnZYWF9RV2h1M1dMbU5Pd3NlSEYtSHdxZmpobUF1dk40c2c5MWhRdnhNeEJ2QUhRUnRLMTdHTWJWbDFRNFJoZTBHUjFRMEkzc2pDRDVUYWhvdHpMTThXM0RId2NjYUllZ1BwUGhPb3dqbnBEeVA1SDJqV1hxMTJCdXdKS0tIZUpLNDdwamY2OThoSmdUd2ItTUFQZUl0S2MyMHdxVjlObEltM2VzS0JaQ3NlRHhjN25CVzBqYktxaTVtalhxSDZtdFhORERwU09vU1JmYmlwb0JEc044NDZveF85OEYtS1VlQlRlenNXdFJwV3J2N1p1STgybkU1dm11QVNwQy1LODAtMmx1ZWRMUHJORQ?oc=5",
+      "source": "Le Monde.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxNV2tVR3B2cGFHZlFlUGpzY2lXcGotMlZmazlESkljbERVQW5zcnZYWF9RV2h1M1dMbU5Pd3NlSEYtSHdxZmpobUF1dk40c2c5MWhRdnhNeEJ2QUhRUnRLMTdHTWJWbDFRNFJoZTBHUjFRMEkzc2pDRDVUYWhvdHpMTThXM0RId2NjYUllZ1BwUGhPb3dqbnBEeVA1SDJqV1hxMTJCdXdKS0tIZUpLNDdwamY2OThoSmdUd2ItTUFQZUl0S2MyMHdxVj",
+      "publishedAt": "2026-07-15T11:23:41.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "Le van de Gabriel Attal s’arrête à Cholet ce samedi 18 juillet - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMzlHbTNla3RrYlVxbUJkR3pycVFtemFzeW16aUhVdE1BdEh1U05oUXhueENIdHRVcDBqcG5wN0ExM1J5REFmenJuR0p5WV9YN3d5a0tYV3JmWE5hYWlOU3VqN29FdXRha3FSREpVaWc2Yk9UN2hHUGpnWE1JZnpNaW9ldzFSVTNpdmU4VkN2UElLSU5vYzVWMl9oMlhKWDFST1hjM29GYS14TEJvb3dCZF9mYWpwT2w1LWtzd2hnTlMyLTk0VkRPelJXdWV3Vm16LXNFRnJDd0YwTk5uaFd1X2dJLVdxd3VwMVB2SQ?oc=5",
+      "title": "Le Rassemblement National juge “pathétique” l’action en justice de Gabriel Attal pour l’utilisation du mot “Renaissance” sur une affiche - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ3BHbGVOY09BNnFZTldpRHhhdDdINHdZb1pYcmZ3YUQ3cjVxZ1dvaTVWa3A3Z2tWV1lmS0lrVFQ1VlhOeWNXUTRjRE9KRVV1dDhENHhZbTNmSmZpNlJsSWxUMk45di1feXNDUEJBZlFKbkNtTEFDLUJEZTFTcjZvU09HQlYxTmRXemM5NEJxSWd4YjhoVWhuVnFHWEc1Zk5Hb0RuMkRaMFJrQWVESWI4S2otcjhmdjlsYUtVT1c4bzQ3Szg2U21EdHlKM3dranlzRDYwUVQ3V2tob2N1WEM4S0pEN1FnRXRvck9zTHU5UkxwX1NVbXU4anJfRExoTEVrdE9vZm51WHJPa1FTTW55a2hSZmltdUU?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ3BHbGVOY09BNnFZTldpRHhhdDdINHdZb1pYcmZ3YUQ3cjVxZ1dvaTVWa3A3Z2tWV1lmS0lrVFQ1VlhOeWNXUTRjRE9KRVV1dDhENHhZbTNmSmZpNlJsSWxUMk45di1feXNDUEJBZlFKbkNtTEFDLUJEZTFTcjZvU09HQlYxTmRXemM5NEJxSWd4YjhoVWhuVnFHWEc1Zk5Hb0RuMkRaMFJrQWVESWI4S2otcjhmdjlsYUtVT1c4bzQ3Szg2U21EdH",
+      "publishedAt": "2026-07-16T14:35:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "L'édito de David Revault d'Allonnes : Gabriel Attal, la jeunesse comme arme politique - TF1+",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmptUFhRWFQ5U1lZdWl3TExJUDVCN21jd2xueTkxT2RDZGdlUFBFVUFBZi16dFN3bUNEbk9CV2Y3bnRkbHBubnlmdXRSMDFzVnMxMGZyekhxYzlBYW15ZVdESHJqa00zam9BMnJQNHNpbjAwZXh4aG13eDZNYUFYM2s3OVc4LTRYcktYaWJaLVhNejVWNDIzZkFpYjdxUE1Tdms5aFBhOFZqZ3lKRW1SQU94Q0tmdk00UEpGYUlDWXNsYTFRUEZmSXJSVjRVUkVMOGNka0dmcVgwUUxBc01RTHpn?oc=5",
+      "source": "TF1+",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmptUFhRWFQ5U1lZdWl3TExJUDVCN21jd2xueTkxT2RDZGdlUFBFVUFBZi16dFN3bUNEbk9CV2Y3bnRkbHBubnlmdXRSMDFzVnMxMGZyekhxYzlBYW15ZVdESHJqa00zam9BMnJQNHNpbjAwZXh4aG13eDZNYUFYM2s3OVc4LTRYcktYaWJaLVhNejVWNDIzZkFpYjdxUE1Tdms5aFBhOFZqZ3lKRW1SQU94Q0tmdk00UEpGYUlDWXNsYTFRUEZmSX",
+      "publishedAt": "2026-07-16T04:54:52.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal annonce un «grand meeting» à Lyon le 10 octobre - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTkx3azVsZHg0b2lnQ1FIaFpoT083ODY0ZXFpemFhUm9BSjZpR19xamYwX2hNTVcwYlZvZlRQRjhjMXFxdTdxaTVYOGI5SE1FTGxTWkp6UllQTXhUSnlsUlMxaVdLME13ajNfTGs3dG04cmRNV1lVTmVwdGt1b0psQ0JqbjNDUTBnQUh4aFR2dDB1Q2xjRFVxUEdwcGZVVGVCY25OUlM3Sm1lRWdKZ21iUENRUnZWdHNZb2MzTUh6RjJQd3BsWHVGUGZGQXp4SmZuWHVLMg?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTkx3azVsZHg0b2lnQ1FIaFpoT083ODY0ZXFpemFhUm9BSjZpR19xamYwX2hNTVcwYlZvZlRQRjhjMXFxdTdxaTVYOGI5SE1FTGxTWkp6UllQTXhUSnlsUlMxaVdLME13ajNfTGs3dG04cmRNV1lVTmVwdGt1b0psQ0JqbjNDUTBnQUh4aFR2dDB1Q2xjRFVxUEdwcGZVVGVCY25OUlM3Sm1lRWdKZ21iUENRUnZWdHNZb2MzTUh6RjJQd3BsWHVGUG",
+      "publishedAt": "2026-07-16T18:43:49.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027: Sébastien Lecornu jugé meilleur candidat qu'Édouard Philippe et Gabriel Attal par les électeurs Renaissance selon un sondage - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWlwZGt1QmVMdFNWUjJ6aDRIUVl2R2xlVlpvOG1sYUpwbHJVQTdTeUd0dnk1RGN2N1NDand5YWpjVDFrTWpaNnFMcVU0NGRIcUd5SEFId2xhOHVMVmEyNklWMGhfSEFuelZIVS1YZ0N6TGZHeGFYTDJSOFBMSUxhaU5HamgwWnh6bmVKeFNaUEZJQjNtTEIySGFGQTZMODA?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWlwZGt1QmVMdFNWUjJ6aDRIUVl2R2xlVlpvOG1sYUpwbHJVQTdTeUd0dnk1RGN2N1NDand5YWpjVDFrTWpaNnFMcVU0NGRIcUd5SEFId2xhOHVMVmEyNklWMGhfSEFuelZIVS1YZ0N6TGZHeGFYTDJSOFBMSUxhaU5HamgwWnh6bmVKeFNaUEZJQjNtTEIySGFGQTZMODA?oc=5\" target=\"_blank\">Présidentielle 2027: Sébastien L",
+      "publishedAt": "2026-07-16T17:56:35.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "« Pour moi, ce sont mes grands-parents maternels… » : Gabriel Attal nous raconte son Tour de France - parismatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnZyb2dOZ2ZLbHhHM2paeDNpRG41TkRZWTVZZWdQT0xhOXRxVXJldm1sMzRBZ0kyMWhzcDVtMzluRm1jSVdYZ2JYUFppZUdGaXBMWHA3YjNaeTlzOFNIUDV6V19odE02UG9xcDJDN1VyN0ZMY1F1b3lNN3doRjZkRktvYURjd1dGSkltMjRYdnZmcDczSWdxei1kXzJMMmdSVk1fSUY0SjgydjhiNk0zRU5SckZPX2FkZHNKbjZwZjN4MU1OVG1RVmxQYWZlTGhzdklCd0ZPTQ?oc=5",
+      "source": "parismatch.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnZyb2dOZ2ZLbHhHM2paeDNpRG41TkRZWTVZZWdQT0xhOXRxVXJldm1sMzRBZ0kyMWhzcDVtMzluRm1jSVdYZ2JYUFppZUdGaXBMWHA3YjNaeTlzOFNIUDV6V19odE02UG9xcDJDN1VyN0ZMY1F1b3lNN3doRjZkRktvYURjd1dGSkltMjRYdnZmcDczSWdxei1kXzJMMmdSVk1fSUY0SjgydjhiNk0zRU5SckZPX2FkZHNKbjZwZjN4MU1OVG1RVm",
+      "publishedAt": "2026-07-16T10:17:20.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : l’Esti’van de Gabriel Attal fait étape dans le Maine-et-Loire - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaHdWQnF4bHZDR2lnS1VQdzFDNTFKNU9tYkNkQ1gxSFVKcDVzNWRtOGR1c1VxNWNJRE9kblQtVUNzc3JheWNudFprZHBpbU85cHFhVmZteXVlNGkzb2tjN3Y2bkFCLUJicDlIQlRzaER2MHBDVDZtQkF6X2p5bHZLak1oazJFbjNCb21TVHNwbjVfaGo5V25GWjZVbDdITVlnaDVFaFU3TUJnUWdTQ3d2TEtNLWQwMzA4elV1ZTVMaUZEcTRpcXo4RFVUREZYZEV2YWFCdmtYek1yOEtIdWhzVXU4RWJTRFRUbnFXeU1xOU1DWEp1WWJ5eTNQaEhlb0NIZjdDTw?oc=5",
       "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMzlHbTNla3RrYlVxbUJkR3pycVFtemFzeW16aUhVdE1BdEh1U05oUXhueENIdHRVcDBqcG5wN0ExM1J5REFmenJuR0p5WV9YN3d5a0tYV3JmWE5hYWlOU3VqN29FdXRha3FSREpVaWc2Yk9UN2hHUGpnWE1JZnpNaW9ldzFSVTNpdmU4VkN2UElLSU5vYzVWMl9oMlhKWDFST1hjM29GYS14TEJvb3dCZF9mYWpwT2w1LWtzd2hnTlMyLTk0VkRPel",
-      "publishedAt": "2026-07-15T17:08:26.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPaHdWQnF4bHZDR2lnS1VQdzFDNTFKNU9tYkNkQ1gxSFVKcDVzNWRtOGR1c1VxNWNJRE9kblQtVUNzc3JheWNudFprZHBpbU85cHFhVmZteXVlNGkzb2tjN3Y2bkFCLUJicDlIQlRzaER2MHBDVDZtQkF6X2p5bHZLak1oazJFbjNCb21TVHNwbjVfaGo5V25GWjZVbDdITVlnaDVFaFU3TUJnUWdTQ3d2TEtNLWQwMzA4elV1ZTVMaUZEcTRpcXo4RF",
+      "publishedAt": "2026-07-16T11:02:02.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "Attal, Philippe, Retailleau : comment ils se préparent au rôle de chef des Armées - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUJfa0RuVnQyN0d4MktJaFRRRllxazY5WnFNMkdoMU85RTc5eFVYa2V4RWZFN0hkQm5sZmt3Ny1HS2N2MlRxMzVnUEl2dWNvNmlpTXFnREZqbFk4OFVqUTIxQWVtY1ZVU281U3FCNWN5YTFSSFBOLUFYM292bmVVNXFJSVpuQk9NZEJLeXFDVlFlNkxCZEVsVjUtSmFoV0YwM2tGcEoybEV6LUU2a0VFeg?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUJfa0RuVnQyN0d4MktJaFRRRllxazY5WnFNMkdoMU85RTc5eFVYa2V4RWZFN0hkQm5sZmt3Ny1HS2N2MlRxMzVnUEl2dWNvNmlpTXFnREZqbFk4OFVqUTIxQWVtY1ZVU281U3FCNWN5YTFSSFBOLUFYM292bmVVNXFJSVpuQk9NZEJLeXFDVlFlNkxCZEVsVjUtSmFoV0YwM2tGcEoybEV6LUU2a0VFeg?oc=5\" target=\"_blank\">Attal, Ph",
-      "publishedAt": "2026-07-14T07:11:00.000Z",
+      "title": "Rhône. Présidentielle 2027 : Gabriel Attal choisit Lyon pour son premier meeting de campagne - Le Progrès",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzR2d2ZHSGZ2TmVCRHpjd2ZKanlqTFZ3VV8tWUp5a1NBcVEzQTZIWHEtLW1hNTZoc1J0SlFIbkROWWs1ZHRGZ21UYm1WRm5zeGRRYXRBQThqdTFDOVlFYktLVG1GdWxwRkxBdWNSRFRodm5nbGhkaG5naHVraGdQcVlUMFBSNDR3aV9yckh5M21Na18zdm1ITmxybTAyZXhFVERQamtIOVNaOGpOeG5UM2pZNzJKS0xYYkdzcURUX3BMZEI3ZzJKOQ?oc=5",
+      "source": "Le Progrès",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzR2d2ZHSGZ2TmVCRHpjd2ZKanlqTFZ3VV8tWUp5a1NBcVEzQTZIWHEtLW1hNTZoc1J0SlFIbkROWWs1ZHRGZ21UYm1WRm5zeGRRYXRBQThqdTFDOVlFYktLVG1GdWxwRkxBdWNSRFRodm5nbGhkaG5naHVraGdQcVlUMFBSNDR3aV9yckh5M21Na18zdm1ITmxybTAyZXhFVERQamtIOVNaOGpOeG5UM2pZNzJKS0xYYkdzcURUX3BMZEI3ZzJKOQ",
+      "publishedAt": "2026-07-15T23:50:31.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "Gabriel Attal, candidat à la présidentielle, était au Village du Tour de France à Nevers - Le Journal du Centre",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDk2anRSekVaNWwtN05BcldCUkRpUGpzUjcxZUZSbGU4Si13SjhidVlaQUVPR2ExUVdtUVlRTGVRY0xaamc0SzRtUjB5cHA4ZzZ3anVYT25IeEtZWklZY1d4NXZUd3Q1VXlvMUVqdlBSUTFVYUxzaUNpc181V0R5OXQzLUtsVU5uT2kyaV9jaDdxckFWcG53d296cVc0aEd5SVVwOWJpSUpxM0t5VXI2X3ltRVZtcDc4ODlkbTZBeHRpUEQ2NkZoLVk3ZUVkMnlORmNN?oc=5",
-      "source": "Le Journal du Centre",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDk2anRSekVaNWwtN05BcldCUkRpUGpzUjcxZUZSbGU4Si13SjhidVlaQUVPR2ExUVdtUVlRTGVRY0xaamc0SzRtUjB5cHA4ZzZ3anVYT25IeEtZWklZY1d4NXZUd3Q1VXlvMUVqdlBSUTFVYUxzaUNpc181V0R5OXQzLUtsVU5uT2kyaV9jaDdxckFWcG53d296cVc0aEd5SVVwOWJpSUpxM0t5VXI2X3ltRVZtcDc4ODlkbTZBeHRpUEQ2NkZoLV",
-      "publishedAt": "2026-07-15T16:10:00.000Z",
+      "title": "Présidentielle : Sébastien Lecornu devance Gabriel Attal et Édouard Philippe auprès des sympathisants Renaissance - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnR4Rml1bEFZUTlhaUVlZG8yZGNjcFgwN0xBVUNxazNTUS1mWEhseUFmM2FxR2hsZ0ZTUDdTLUp4ZXBmTWhoM1BuZlh3UjFIbC1iTXRNNW9KTDNnUWx2Sy1tbmpZVnFhLTRkZlJGWS1Nd1VwOWEwNHc5SlBFWm1FZ0NSZFBYMW5rc193a1UzdnVKdnFEX0txVEd6RXhocDN3VEJoSFg5bFJKZmEtUDJjTUxLU20zQlRTd2RnQllEOEpmcDRwSUxPMWtIQWliMTRsLWZKRGtqLWFManlpRVU5OFBtNA?oc=5",
+      "source": "lejdd.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnR4Rml1bEFZUTlhaUVlZG8yZGNjcFgwN0xBVUNxazNTUS1mWEhseUFmM2FxR2hsZ0ZTUDdTLUp4ZXBmTWhoM1BuZlh3UjFIbC1iTXRNNW9KTDNnUWx2Sy1tbmpZVnFhLTRkZlJGWS1Nd1VwOWEwNHc5SlBFWm1FZ0NSZFBYMW5rc193a1UzdnVKdnFEX0txVEd6RXhocDN3VEJoSFg5bFJKZmEtUDJjTUxLU20zQlRTd2RnQllEOEpmcDRwSUxPMW",
+      "publishedAt": "2026-07-16T16:03:54.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal a-t-il vraiment annulé l’achat de deux Canadair, comme l'affirment LFI et le RN ? - RTL",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNWY4Yng4SEpsRHlLMVMxUXpCcTVVdlIzVFBJMkUzdWhpSEJZMTI2NURnRE1rQ1lia2Fpb2lzYWY2UGY0UUsxbk51V1pGallKR0hTbG1JSFpiUGEwd3hWWEM4VlAxU0JHX1dPMmlNV1hmME9PdlcyakRzX2RiMGRNdldDR2g2V2prMHNJbkx2Uy1EXy1ncmJSODFTLUtPU0JNR1BHZFVQck1abGFsYVpRYkRkc3lPT2RKajZPbjdIc3g2V0RvNmlJY1FXbFZkcUxfT3Nv?oc=5",
+      "source": "RTL",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNWY4Yng4SEpsRHlLMVMxUXpCcTVVdlIzVFBJMkUzdWhpSEJZMTI2NURnRE1rQ1lia2Fpb2lzYWY2UGY0UUsxbk51V1pGallKR0hTbG1JSFpiUGEwd3hWWEM4VlAxU0JHX1dPMmlNV1hmME9PdlcyakRzX2RiMGRNdldDR2g2V2prMHNJbkx2Uy1EXy1ncmJSODFTLUtPU0JNR1BHZFVQck1abGFsYVpRYkRkc3lPT2RKajZPbjdIc3g2V0RvNmlJY1",
+      "publishedAt": "2026-07-16T12:54:07.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027: Sébastien Lecornu jugé meilleur candidat qu'Édouard Philippe et Gabriel Attal par les électeurs Renaissance selon un sondage - BFM",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQbHJIb0ZEX3lmcUkybzZHdEJxQzgzbGV5bE1OZUZ3QWpBMVlWSE43NTdocl9OcWNEc1NheEVvUXc0WV9aLVozZFphMnZoaUtQMlJBWGl2VmQ4VncyRzdDQTZtUDQ0V29FdHpRUWctMnNJMGlYbU1ZdlJ2dkN6VW5mcDZfbmZyY1kzRy03YXVQcmFWS1FlNmt4WVlOT29aV0M1MS1FV2I3UDFTWDlIYTYyaHZ4M0I4MTNaRHJhVW91TWkxVklOT0g5NVNaRGFOQ3hPRzc3SklNQU5Wc1BYUWxfTElheC1JWXM5ZGVuNVBrNjBDNTdBdEk1Y1B4QUxWVzZ2T1Q4Q29nR0Jqc0tTUi1tcXdqR0RiNDk1WTNYTVY2TnlpYzd5TG52SmRqWXFvTnZSeHF3aDBNeFVfeWdYblZMaDNXTUM?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxQbHJIb0ZEX3lmcUkybzZHdEJxQzgzbGV5bE1OZUZ3QWpBMVlWSE43NTdocl9OcWNEc1NheEVvUXc0WV9aLVozZFphMnZoaUtQMlJBWGl2VmQ4VncyRzdDQTZtUDQ0V29FdHpRUWctMnNJMGlYbU1ZdlJ2dkN6VW5mcDZfbmZyY1kzRy03YXVQcmFWS1FlNmt4WVlOT29aV0M1MS1FV2I3UDFTWDlIYTYyaHZ4M0I4MTNaRHJhVW91TWkxVklOT0g5NV",
+      "publishedAt": "2026-07-16T17:56:35.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "DÉCRYPTAGE. Incendies en série et manque de Canadair : Gabriel Attal accusé d’avoir annulé 53 millions d’euros pour deux avions anti-feu - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcnhUMkowOGltcVJPYzlHQ1JVRnZxeXlaczFJd0ZTT2h2TmZaMHIzc051ZTFLUHZVLWFjSzQyaDJ2aV9BZ05SdUxXS0ZIMjhtLTRvR2hDdllFcHFQNGUtZGV0V09rZVdVbjc4OTE1WlFTWUpMVXFJbTIwM3NvMVNLc2Qyek9YMEtRQlFBc09aTEhrTEdMYVozMXAtX3pWWFJhM1ZLdXFlMTZicXhQZGl1SGpUZGw4aDMtRDFRN0NyZEhHRllQdWRTbmVGU3Ffc2h5RTlJaWpsZ0JJdXF0aWdaUmVNVmpGaGZJbHJjQU1qaFVzWmRFLVk4VkVaU2xXR0Vnck1JRDRvclQxa3JZ?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQcnhUMkowOGltcVJPYzlHQ1JVRnZxeXlaczFJd0ZTT2h2TmZaMHIzc051ZTFLUHZVLWFjSzQyaDJ2aV9BZ05SdUxXS0ZIMjhtLTRvR2hDdllFcHFQNGUtZGV0V09rZVdVbjc4OTE1WlFTWUpMVXFJbTIwM3NvMVNLc2Qyek9YMEtRQlFBc09aTEhrTEdMYVozMXAtX3pWWFJhM1ZLdXFlMTZicXhQZGl1SGpUZGw4aDMtRDFRN0NyZEhHRllQdWRTbm",
+      "publishedAt": "2026-07-15T04:16:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
@@ -94,7 +244,22 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "title": "Polémique sur les Canadair: Gabriel Attal répond à Jean-Luc Mélenchon et lui reproche de \"faire du trumpisme\" - BFM",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQclY1MkRINm9JQXhrRmNIYUVZMzloNzMwcGdJQndwbU5mX3dwV2k4c0p0Y3I0aWNCVE95ZW9RdWxwWDRUaE5FM1hSMEptMzVzd1p3QWVYMHRqajJlYndta3p0ZzRPdGRoQ1IyUmt0dElXNnREUDBzaGZqdExzSlZGWDE3MHNqYm1ucno4bk1KczRvenJSNm1QS19mdGhVMk5FUk1JNFFiRU5QZDhSc1FtTnFQUG43VGFiTTRmaTBfRkhna3hBU19lZ1VfcVctU3VhVXF0a1FQNEV4ZF81dk9MdXo4VDVoV3ZHTWtjbWVxV011VkZYUE1fMWc4SHNObjZFdG9IeVhSOVktYk5sbG5oZg?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQclY1MkRINm9JQXhrRmNIYUVZMzloNzMwcGdJQndwbU5mX3dwV2k4c0p0Y3I0aWNCVE95ZW9RdWxwWDRUaE5FM1hSMEptMzVzd1p3QWVYMHRqajJlYndta3p0ZzRPdGRoQ1IyUmt0dElXNnREUDBzaGZqdExzSlZGWDE3MHNqYm1ucno4bk1KczRvenJSNm1QS19mdGhVMk5FUk1JNFFiRU5QZDhSc1FtTnFQUG43VGFiTTRmaTBfRkhna3hBU19lZ1",
+      "publishedAt": "2026-07-15T17:07:03.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
     },
     {
       "title": "Attal assigne Le Pen pour l’utilisation du nom «Renaissance» sur son affiche de campagne - Libération",
@@ -110,14 +275,29 @@
       ],
       "coOccurrence": true,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "France: la polémique sur les Canadairs rattrape Gabriel Attal en pleine campagne présidentielle - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVVzdVBiN2ZTcUdYOXRyYzRZQ2sxdXJKLWUzUnZXYm0xaXdicGZvMUUzNVRKRGJobXVfMVJ0T25fY05xVmMtbGk5QnpzV2ZpZjgxWFp4OG82djBOdnFEeXBWaWk0Sm5PSVpad3lmQnpzWjNBaHR0ektsLWNoTW1vNEVRUTdOUlJFSkQyRXVlYTN4M0N0QzRVY3VsczhINC1xS3FqeVh1d0pOaDZsdmdLMzhZYklxSVE4VWp6RWNuNkRMeUtWeTBOTzFMeWhlUV80QUZrcnpibHBpQQ?oc=5",
+      "source": "RFI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVVzdVBiN2ZTcUdYOXRyYzRZQ2sxdXJKLWUzUnZXYm0xaXdicGZvMUUzNVRKRGJobXVfMVJ0T25fY05xVmMtbGk5QnpzV2ZpZjgxWFp4OG82djBOdnFEeXBWaWk0Sm5PSVpad3lmQnpzWjNBaHR0ektsLWNoTW1vNEVRUTdOUlJFSkQyRXVlYTN4M0N0QzRVY3VsczhINC1xS3FqeVh1d0pOaDZsdmdLMzhZYklxSVE4VWp6RWNuNkRMeUtWeTBOTz",
+      "publishedAt": "2026-07-16T02:19:01.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "« Nous n’accuserions pas sans preuve » : passe d’armes entre Gabriel Attal et Jean-Luc Mélenchon sur les Canadair - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOS1VNjN2Sy1pUmJIcXYxd2h0VnBtVnRXTXZueU5pNW9HZXJYX3otWkZ4aWQxSjZCbTRDTGo3T0lZX0VOTmM1VlhUNjhkdjBBajVncGNHTzN5Ymp5ZTNxaWNjZ1VXTlZJUXRIRC1tZHUzNV8yaFU4VHJPbVRxbDd4bW1CSlJPOVJwc2JKaTl5ZHY4OEZWcnI2NElBcjJiOWhWRUpIWGRJY1JKUkdkaTFmbWpIZVpJbmpOcUlBWG5YQnJiUnBKZWdONFhqWFJCa1R6VFpDN1Jn?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOS1VNjN2Sy1pUmJIcXYxd2h0VnBtVnRXTXZueU5pNW9HZXJYX3otWkZ4aWQxSjZCbTRDTGo3T0lZX0VOTmM1VlhUNjhkdjBBajVncGNHTzN5Ymp5ZTNxaWNjZ1VXTlZJUXRIRC1tZHUzNV8yaFU4VHJPbVRxbDd4bW1CSlJPOVJwc2JKaTl5ZHY4OEZWcnI2NElBcjJiOWhWRUpIWGRJY1JKUkdkaTFmbWpIZVpJbmpOcUlBWG5YQnJiUnBKZWdONF",
-      "publishedAt": "2026-07-15T15:21:11.000Z",
+      "title": "Gabriel Attal a-t-il annulé des commandes de Canadair lorsqu’il était Premier ministre ? - La Voix du Nord",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWdndmw1TjliNUN4SS1BUGtHc1pENTZ6WEVmeV96QVpmNFBiWTE5MURoSEd3d3RuRkVZa0UtMGhPb0dwZVZoYmFidkFVWTVLTTA0X0RxeGJsckwtakIxaFdhVHJJOGFyWThLRGt3T3MtLUhyclRFVWtOdzNhUGlnZENjUmlZZy12OFd6ZW52RjJKV1l2aVZlWFp1WDI0MUVzWjd6RG1rSGM5QUNmaVJKNDVybGgtV1ZLRGFLbTZ4S1dFLVBZU2tmbEdR?oc=5",
+      "source": "La Voix du Nord",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWdndmw1TjliNUN4SS1BUGtHc1pENTZ6WEVmeV96QVpmNFBiWTE5MURoSEd3d3RuRkVZa0UtMGhPb0dwZVZoYmFidkFVWTVLTTA0X0RxeGJsckwtakIxaFdhVHJJOGFyWThLRGt3T3MtLUhyclRFVWtOdzNhUGlnZENjUmlZZy12OFd6ZW52RjJKV1l2aVZlWFp1WDI0MUVzWjd6RG1rSGM5QUNmaVJKNDVybGgtV1ZLRGFLbTZ4S1dFLVBZU2tmbE",
+      "publishedAt": "2026-07-15T15:56:53.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -125,10 +305,10 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : « Pour la France, la renaissance », le parti de Gabriel Attal attaque le RN pour « contrefaçon » - Les Echos",
+      "title": "Présidentielle 2027 : « Pour la France. La Renaissance », le parti de Gabriel Attal attaque le RN pour contrefaçon - Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRWxCSi1pU0M3Z1hHRkgtbFgydlVMRUh0YlFWM0t1T3YyUnRCZndMRHJGczZwRWg5ZWROVlo0Um9MQ3RuR0FubktGdG93elNXNFZNSkViajI0WUkza0g0cFpUZEVkTXJPX0pEWHh2WU1SX0NZeXd5aElKTGRySVVRTFRvSWE1R1c1V0JBNVFDVld6OVpKdDc3cmFLZ0QyX1cwSUhiOHRxSGxRNFJZc1FOTWx4cllnN2NSV2hhdDA2Vkt3eUVlSzV4c3FLbE94bUZCNnpybGotTjh4bV9NS1hzZHQ3SjhpXzE0a1ZQMDF2SWQ1blJBTHc?oc=5",
       "source": "Les Echos",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRWxCSi1pU0M3Z1hHRkgtbFgydlVMRUh0YlFWM0t1T3YyUnRCZndMRHJGczZwRWg5ZWROVlo0Um9MQ3RuR0FubktGdG93elNXNFZNSkViajI0WUkza0g0cFpUZEVkTXJPX0pEWHh2WU1SX0NZeXd5aElKTGRySVVRTFRvSWE1R1c1V0JBNVFDVld6OVpKdDc3cmFLZ0QyX1cwSUhiOHRxSGxRNFJZc1FOTWx4cllnN2NSV2hhdDA2Vkt3eUVlSzV4c3",
@@ -140,37 +320,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Incendies : Gabriel Attal a-t-il annulé une commande de deux Canadair lorsqu'il était Premier ministre - ici.fr",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEJKVEM2UmZ6ellRZmx1QkJPcW45UWowOE1jMFBsMFJDdXhQNEtCWjJleFBTSXlXNVNROHlDTkRvYUNHbzJWRENqNjdSTWJwOWh5X2ZrM2tMWTNUemhEdU5iYTJ6c3NoN0NCZy10a3ZPQjgyanAyd1RBQklBMHFobk91QmkwVzJQQkI4T0x3RUloLTRQYW95YjIyN1lySGVVdmI0bVU3UjNTWkhxMEQ2U2gxV1F2QTc0WDdjNzRDNk5kRldzbEpXZngxMUdIaF9aVndDVkZrem1vT2FNWVNhT0dxQQ?oc=5",
-      "source": "ici.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEJKVEM2UmZ6ellRZmx1QkJPcW45UWowOE1jMFBsMFJDdXhQNEtCWjJleFBTSXlXNVNROHlDTkRvYUNHbzJWRENqNjdSTWJwOWh5X2ZrM2tMWTNUemhEdU5iYTJ6c3NoN0NCZy10a3ZPQjgyanAyd1RBQklBMHFobk91QmkwVzJQQkI4T0x3RUloLTRQYW95YjIyN1lySGVVdmI0bVU3UjNTWkhxMEQ2U2gxV1F2QTc0WDdjNzRDNk5kRldzbEpXZn",
-      "publishedAt": "2026-07-15T15:19:10.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "VRAI OU FAUX. Le gouvernement Attal a-t-il coupé dans le budget de la sécurité civile, entraînant l'annulation de la commande de deux Canadair - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeF93cnpKN0xiTDRLVHV1LWJqXzdTNXpMVFdPekhuNGlUeFYwOHNMM01uVzBtMi0waDZBbFpwSXF6cTJJSGo5SG9pZkhLM1lJc1MzWlo0dU5UREZpMGlnSi0zVEhTWmlObkdIYi00eV8xbVRSQUJzT3FEb3hHalhMaHRuU1gxN1RFMDhFT0dzc3daS0F5OWZqUDZaQjUtb2NUYVFNTzltbWM1RXZMY1kxNjJJdTlWUXRYSko1YnlMTnZkeGdfbGtFZVZBOWRHNzhlakc1R3pfejVKVGVQamJzQ3R1cXhCRFNVM3YyNFdEV2xkSGV5VTNMQ1QtcnNzUUw0Xzl3STlreUpCbUZ6RzhtMWtaTV95MEhYclVaVFJIZWZUMEVGd2U4NUxLSWNTNXFLb2c?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxQeF93cnpKN0xiTDRLVHV1LWJqXzdTNXpMVFdPekhuNGlUeFYwOHNMM01uVzBtMi0waDZBbFpwSXF6cTJJSGo5SG9pZkhLM1lJc1MzWlo0dU5UREZpMGlnSi0zVEhTWmlObkdIYi00eV8xbVRSQUJzT3FEb3hHalhMaHRuU1gxN1RFMDhFT0dzc3daS0F5OWZqUDZaQjUtb2NUYVFNTzltbWM1RXZMY1kxNjJJdTlWUXRYSko1YnlMTnZkeGdfbGtFZV",
-      "publishedAt": "2026-07-14T05:34:59.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "«Une appropriation indue» : Attal annonce des poursuites contre Le Pen autour du slogan «Renaissance» - Le Figaro",
@@ -185,14 +335,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Gabriel Attal assigne en justice Marine Le Pen pour \"contrefaçon\" sur l'utilisation de Renaissance - Corse Matin",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWdLbWNVeDBLTDZkcVJXTlZQWk1MVmxVRkNWVWNUZ2FvUU5xdGN5d2RWOUw4N0FlYlUtcDBCc25iQ1EyWFgxdGkzUER6a0JZdHJVOXVubHlVU085eFZUNmZNbTVjdjdhQ3BPV1JYcTg2QXVBbU1VUHlNQktLNkJRRHJaU1hkTlg3bzBzQjBfTDM0Z1E2U0xnU1dhY0ZIUFAwRld5cUNEWWlOU2FLNFhrenhiWDlYYjFmaFlWZzQxb0lOdTdKeFNEbW9WX1RUWEhORml6ajRXNWVVUUxXbEl6THhMV3ViX2NJTjF3aTBjcGE?oc=5",
-      "source": "Corse Matin",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWdLbWNVeDBLTDZkcVJXTlZQWk1MVmxVRkNWVWNUZ2FvUU5xdGN5d2RWOUw4N0FlYlUtcDBCc25iQ1EyWFgxdGkzUER6a0JZdHJVOXVubHlVU085eFZUNmZNbTVjdjdhQ3BPV1JYcTg2QXVBbU1VUHlNQktLNkJRRHJaU1hkTlg3bzBzQjBfTDM0Z1E2U0xnU1dhY0ZIUFAwRld5cUNEWWlOU2FLNFhrenhiWDlYYjFmaFlWZzQxb0lOdTdKeFNEbW",
-      "publishedAt": "2026-07-15T13:39:03.000Z",
+      "title": "« Nous n’accuserions pas sans preuve » : passe d’armes entre Gabriel Attal et Jean-Luc Mélenchon sur les Canadair - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOS1VNjN2Sy1pUmJIcXYxd2h0VnBtVnRXTXZueU5pNW9HZXJYX3otWkZ4aWQxSjZCbTRDTGo3T0lZX0VOTmM1VlhUNjhkdjBBajVncGNHTzN5Ymp5ZTNxaWNjZ1VXTlZJUXRIRC1tZHUzNV8yaFU4VHJPbVRxbDd4bW1CSlJPOVJwc2JKaTl5ZHY4OEZWcnI2NElBcjJiOWhWRUpIWGRJY1JKUkdkaTFmbWpIZVpJbmpOcUlBWG5YQnJiUnBKZWdONFhqWFJCa1R6VFpDN1Jn?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOS1VNjN2Sy1pUmJIcXYxd2h0VnBtVnRXTXZueU5pNW9HZXJYX3otWkZ4aWQxSjZCbTRDTGo3T0lZX0VOTmM1VlhUNjhkdjBBajVncGNHTzN5Ymp5ZTNxaWNjZ1VXTlZJUXRIRC1tZHUzNV8yaFU4VHJPbVRxbDd4bW1CSlJPOVJwc2JKaTl5ZHY4OEZWcnI2NElBcjJiOWhWRUpIWGRJY1JKUkdkaTFmbWpIZVpJbmpOcUlBWG5YQnJiUnBKZWdONF",
+      "publishedAt": "2026-07-15T15:21:11.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -200,22 +350,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Jean-Luc Mélenchon attaque le bilan de Gabriel Attal. Le candidat de La France insoumise accuse l'ancien Premier ministre d'avoir annulé des commandes de Canadair - BFM",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPMmVOSC1nb05xcU5sWTNneHRQQkFoek9lLTNjZG03ckhsUDNHeVZZemVPdG1SbWQ3WnFzMUdtcklPZzBaZXk1ZHJOT2xoLTVPcldQcmtoWWx6M2JxTUJLLUkxYl9NeGdBY003M2djZHVjUWZhbElmbmJjMTFvRWRiZjFIdmdPbzhjNUptdjU0ZjIteXJER29QOE1MdkFQSHJoXzlnSVFiUDhYQ1MxYm95SDNlaWpXV3BvS0xMQ3BXY2lNbzVrTFVCWHNvczJ6eHoyN3hxX3VtX2FLNFFHaWxrTkx2a3VGRUVMMEdheDNLQk9ramNpeVE5UmVZaFdOUHNIaGlvLTE3VlhQU1o0cnl4dzcyaXoySE1Qbm9hS3IxZHA5bVdwNktjVjV3NnBCNkZyc3NlQ0JTc1BUYVpPUGNsaTVtT3ZYSzd3d1hSY3Q0anVoOU5RTzJMT2Q5OW8?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxPMmVOSC1nb05xcU5sWTNneHRQQkFoek9lLTNjZG03ckhsUDNHeVZZemVPdG1SbWQ3WnFzMUdtcklPZzBaZXk1ZHJOT2xoLTVPcldQcmtoWWx6M2JxTUJLLUkxYl9NeGdBY003M2djZHVjUWZhbElmbmJjMTFvRWRiZjFIdmdPbzhjNUptdjU0ZjIteXJER29QOE1MdkFQSHJoXzlnSVFiUDhYQ1MxYm95SDNlaWpXV3BvS0xMQ3BXY2lNbzVrTFVCWH",
-      "publishedAt": "2026-07-15T04:41:39.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "VRAI OU FAUX. Incendies : Gabriel Attal est-il vraiment à l’origine de l’annulation d’une commande de Canadair lorsqu’il était Premier ministre - ladepeche.fr",
@@ -230,6 +365,66 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 : l’Esti’van de Gabriel Attal fait étape dans le Maine-et-Loire - Maville Angers",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcS1nWFZManRKZVk0cDVlQjZzMDhZZWkxS1JYVzAyWHhES3Q4b2dld1lIQ1dVV0hLOGxmMEZpZXgyc09nM1BKdkEtMDNMa2x1VjRnMzBRMVlEUE41Sl9WQnBBT2hHSkg1d3M4TEpCSFJMSlpLZHd0SjNkM1BwTFEyb3BoZUpUbFljelJTX25SQ2dLTVJieWVDQTBrSjJsNDdoN0hjNkNGbmh3RFA0blQxZUZwVHdNblBnRFBQbS04QWNZRkprcXZqLWNkOE1Eb3dZbkJ0QXNFd09QbVho?oc=5",
+      "source": "Maville Angers",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcS1nWFZManRKZVk0cDVlQjZzMDhZZWkxS1JYVzAyWHhES3Q4b2dld1lIQ1dVV0hLOGxmMEZpZXgyc09nM1BKdkEtMDNMa2x1VjRnMzBRMVlEUE41Sl9WQnBBT2hHSkg1d3M4TEpCSFJMSlpLZHd0SjNkM1BwTFEyb3BoZUpUbFljelJTX25SQ2dLTVJieWVDQTBrSjJsNDdoN0hjNkNGbmh3RFA0blQxZUZwVHdNblBnRFBQbS04QWNZRkprcXZqLW",
+      "publishedAt": "2026-07-16T11:02:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Politique : le grand n’importe quoi - Contre Attaque",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93NEs5bEx4cC1DQVE1VjRVTElWbGFydWFlSkV0MUJOSU9uY0xBN3l4dk5ZM2JPZW51dEo1REpkNWdhankxUjBGY1VJV0ZzdlBlZnJOYmh1dG9rQUNQLVV5NHRTT1U3VENjV0kyRzlTWGw1WjQyZ3NuUU5pOA?oc=5",
+      "source": "Contre Attaque",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE93NEs5bEx4cC1DQVE1VjRVTElWbGFydWFlSkV0MUJOSU9uY0xBN3l4dk5ZM2JPZW51dEo1REpkNWdhankxUjBGY1VJV0ZzdlBlZnJOYmh1dG9rQUNQLVV5NHRTT1U3VENjV0kyRzlTWGw1WjQyZ3NuUU5pOA?oc=5\" target=\"_blank\">Politique : le grand n’importe quoi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Contre A",
+      "publishedAt": "2026-07-16T22:05:08.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Entre Mélenchon et Attal, qui dit vrai sur les Canadairs qui font défaut à la France ? - Le Nouvel Obs",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmlnc1EwWG5uemtKY2Z4cFQ3cmxOdUg2VUFVd0hGZnZ6cUt6U2NNdHNoNUVTYWxUbXhuV3JpNGdINGFMRzBJRk1jSzRzU3BmbVlzMHVIMFY5QXVUQ2cxWmc0ejE0S1RaTi1PRVozY2ZiOERGeUctOTJQZmktMC1QdVhhSWJldWlVbFh2anhHWG5NWTdZMFk1Sy1VNkVKSW5fS1o0cUowVlJ0czAyYlVWWC1CMngtWGRKOVNGYWVSbHItZHM3Z0VGclNNTXJyN21NTkRUM0dieXJUcjQ?oc=5",
+      "source": "Le Nouvel Obs",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmlnc1EwWG5uemtKY2Z4cFQ3cmxOdUg2VUFVd0hGZnZ6cUt6U2NNdHNoNUVTYWxUbXhuV3JpNGdINGFMRzBJRk1jSzRzU3BmbVlzMHVIMFY5QXVUQ2cxWmc0ejE0S1RaTi1PRVozY2ZiOERGeUctOTJQZmktMC1QdVhhSWJldWlVbFh2anhHWG5NWTdZMFk1Sy1VNkVKSW5fS1o0cUowVlJ0czAyYlVWWC1CMngtWGRKOVNGYWVSbHItZHM3Z0VGcl",
+      "publishedAt": "2026-07-16T16:37:12.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Commandes de Canadair : \"Jean-Luc Mélenchon fait du trumpisme et raconte absolument n’importe quoi\", l’ancien Premier ministre Gabriel Attal fustige le leader insoumis - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxORmVQeUtvNUVZc3ZpR2djang5eWZwOTdJeG1DQW5xWjRuVjdnYTNjWF9Ya2FTbDYydEJBSXNjQmFCVndzQ1RhVElzSHdGd3ZESklzYzJlTmZDRDhmWVFvX1QtZnJQWUtaenFxLWR2dzVTdGVIb3VjS0lNcjZCZmdwcUVlVTd4R3BIZEgtMnVRYXhkck5wVWgtbTM3bXhzTjFnYjRBM0hrR1RXak1leG80TUN6cEIxYnJRSEx0WndZc083VGtvR3RJbmp2RmxKTmU1OEc1Vk9sUWh4X1NrZ1VHTEJvalUxaTM4M1l5UmJ5STVTbVRiV2t3d1k4NVNIRDB1QkY0MWRsc0hyclp6ZnRMMGU2aWFUR29UaUR2SWJR?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxORmVQeUtvNUVZc3ZpR2djang5eWZwOTdJeG1DQW5xWjRuVjdnYTNjWF9Ya2FTbDYydEJBSXNjQmFCVndzQ1RhVElzSHdGd3ZESklzYzJlTmZDRDhmWVFvX1QtZnJQWUtaenFxLWR2dzVTdGVIb3VjS0lNcjZCZmdwcUVlVTd4R3BIZEgtMnVRYXhkck5wVWgtbTM3bXhzTjFnYjRBM0hrR1RXak1leG80TUN6cEIxYnJRSEx0WndZc083VGtvR3RJbm",
+      "publishedAt": "2026-07-16T09:21:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
@@ -245,14 +440,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "«Jean-Luc Mélenchon fait du trumpisme. Si on écoutait ce que LFI propose, on désarmerait aussi les pompiers», Gabriel Attal répond aux critiques - CNews",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0d6ZVA5c0NQOWdFLUtMN0pZb0VtNlk3cXItQkhaR1JaM0xGREE4RHFHQzFDeHJVYkkxSzE5TWFPMU5rNUZraGNPUmN3YmtzLVI2MVhEUmtpWHNTeVFob3J2M3BXdGR6UXNLc0JMOUlzLTdTdUsyQzhtZkNNUkRPWnpSMWhjMVZDOXZ2S0lCLU1tWllvWmkzN3gyQjc1UjUyQUNuUC1EdUQzeXR5NWozYVJBX3JianQwYWfSAb8BQVVfeXFMTXEzb0J0SXVmSExDOFZIdkRlNHZxa0xtSWdBdWFGeHJTZF95VjFvM1JVcmJ0Mm5SMHNvZk15MzVmNmt5REJNaWIyeG96Qk96a21INjJpM0Z4OGR3MThReDh0U1B2QUlFQ2pLQUVFZDV6YlNrMkZxWGM5eGRfZlptODh5ZTA3R05HbXdxMmxQRzM2WjBKZnMtWXhLT0NwaW9pcERabDJkeTNULUJteU1jeTFwYXd5NWFqZXpIUUpDdlE?oc=5",
-      "source": "CNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON0d6ZVA5c0NQOWdFLUtMN0pZb0VtNlk3cXItQkhaR1JaM0xGREE4RHFHQzFDeHJVYkkxSzE5TWFPMU5rNUZraGNPUmN3YmtzLVI2MVhEUmtpWHNTeVFob3J2M3BXdGR6UXNLc0JMOUlzLTdTdUsyQzhtZkNNUkRPWnpSMWhjMVZDOXZ2S0lCLU1tWllvWmkzN3gyQjc1UjUyQUNuUC1EdUQzeXR5NWozYVJBX3JianQwYWfSAb8BQVVfeXFMTXEzb0",
-      "publishedAt": "2026-07-15T12:54:01.000Z",
+      "title": "Incendies : Gabriel Attal a-t-il annulé une commande de deux Canadair lorsqu'il était Premier ministre - ici.fr",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEJKVEM2UmZ6ellRZmx1QkJPcW45UWowOE1jMFBsMFJDdXhQNEtCWjJleFBTSXlXNVNROHlDTkRvYUNHbzJWRENqNjdSTWJwOWh5X2ZrM2tMWTNUemhEdU5iYTJ6c3NoN0NCZy10a3ZPQjgyanAyd1RBQklBMHFobk91QmkwVzJQQkI4T0x3RUloLTRQYW95YjIyN1lySGVVdmI0bVU3UjNTWkhxMEQ2U2gxV1F2QTc0WDdjNzRDNk5kRldzbEpXZngxMUdIaF9aVndDVkZrem1vT2FNWVNhT0dxQQ?oc=5",
+      "source": "ici.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSEJKVEM2UmZ6ellRZmx1QkJPcW45UWowOE1jMFBsMFJDdXhQNEtCWjJleFBTSXlXNVNROHlDTkRvYUNHbzJWRENqNjdSTWJwOWh5X2ZrM2tMWTNUemhEdU5iYTJ6c3NoN0NCZy10a3ZPQjgyanAyd1RBQklBMHFobk91QmkwVzJQQkI4T0x3RUloLTRQYW95YjIyN1lySGVVdmI0bVU3UjNTWkhxMEQ2U2gxV1F2QTc0WDdjNzRDNk5kRldzbEpXZn",
+      "publishedAt": "2026-07-15T15:19:10.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -260,134 +455,29 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Pourquoi Gabriel Attal assigne Marine Le Pen en justice ? - Le Télégramme",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjF3a2pVVzZCTGdiTFducmlocWh3QUZ2azRrc0dCQ3JFXy10SmUtWlpUc3lXZFBmRGtmb0s0ajJNNE1JaWk5OWl0NzJfOGxaTjdJYVpnbFUzdG9EbEtvMlM3Qm1NQl9hNDYwVlUzeEl5ak83NzhFVlZkNU9TdUFLeUh0RWIzMW1SZW5BU3JqMTNoSHd1a3JpWEJtSEhSUm9VZDZneWV1Skk?oc=5",
-      "source": "Le Télégramme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjF3a2pVVzZCTGdiTFducmlocWh3QUZ2azRrc0dCQ3JFXy10SmUtWlpUc3lXZFBmRGtmb0s0ajJNNE1JaWk5OWl0NzJfOGxaTjdJYVpnbFUzdG9EbEtvMlM3Qm1NQl9hNDYwVlUzeEl5ak83NzhFVlZkNU9TdUFLeUh0RWIzMW1SZW5BU3JqMTNoSHd1a3JpWEJtSEhSUm9VZDZneWV1Skk?oc=5\" target=\"_blank\">Pourquoi Gabriel Att",
-      "publishedAt": "2026-07-15T11:18:23.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Le van de Gabriel Attal s’arrête à Cholet ce samedi 18 juillet - Maville Angers",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWphOW1zcTdjZS1Wdkl0Y3o1RE1HUUtUdlJlMGt2YnhOS21PdVBpMU1wb3Frd2tMbGpKNm1jWHNJVjNBcTVnWDBYam1kNlNZbzlPOGwxMHhfd1dmeTBMZVZzUGhISXQtbG5tWmx0ZHJqRjAySjdhamhNWndpdk8yVjlOMllPeENFZjhLWXE1aW4tNlo3N2JEdWhqVlVycWFXbnp1WXZ2aXJrTmFCMllacER3MGdUM0FvWnVIODZLWnpDeXM?oc=5",
-      "source": "Maville Angers",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWphOW1zcTdjZS1Wdkl0Y3o1RE1HUUtUdlJlMGt2YnhOS21PdVBpMU1wb3Frd2tMbGpKNm1jWHNJVjNBcTVnWDBYam1kNlNZbzlPOGwxMHhfd1dmeTBMZVZzUGhISXQtbG5tWmx0ZHJqRjAySjdhamhNWndpdk8yVjlOMllPeENFZjhLWXE1aW4tNlo3N2JEdWhqVlVycWFXbnp1WXZ2aXJrTmFCMllacER3MGdUM0FvWnVIODZLWnpDeXM?oc=5\" ",
-      "publishedAt": "2026-07-15T17:08:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Pourquoi Gabriel Attal assigne Marine Le Pen et le RN en justice - Le Nouvel Obs",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUltaU53eDEycUZmU3BBYk1SQnV1eVZodE5MQzZkREJNZ19HNkI0OTlna3F6YzZNVlZLaEppMFRSMzFfVkRVeWhnRW9CbmpxN3NMczNGdFRXWGRjQWZ2dlZtSEV1eXIyV01NZi13ZEpHN19pUE44N0o5RUE2RnMxSExjMjhhWWVuTzIwbUI1R0NvVjQ1bzNYbUxNb3RrU0lnZm9VcktMeXh0ektQS1pTMTFtXzVPS2R0dXJsXzZFbklZdw?oc=5",
-      "source": "Le Nouvel Obs",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUltaU53eDEycUZmU3BBYk1SQnV1eVZodE5MQzZkREJNZ19HNkI0OTlna3F6YzZNVlZLaEppMFRSMzFfVkRVeWhnRW9CbmpxN3NMczNGdFRXWGRjQWZ2dlZtSEV1eXIyV01NZi13ZEpHN19pUE44N0o5RUE2RnMxSExjMjhhWWVuTzIwbUI1R0NvVjQ1bzNYbUxNb3RrU0lnZm9VcktMeXh0ektQS1pTMTFtXzVPS2R0dXJsXzZFbklZdw?oc=5\" t",
-      "publishedAt": "2026-07-15T15:18:41.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "« Un condensé de trumpisme » : Jean-Luc Mélenchon et Gabriel Attal s’écharpent autour du nombre de Canadair en France - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ2xKVDRON29fTlp0YWNYNVJaaTMtWlZtSlRQR25YUi1KMjJVZE1ScFN6V2hXbHBlTDAzRjNpWE1JWU4yc19ZbUhfXzdaYTM2c1FJME5tNER4Njd6TW5PRFNobU16MkdWQnlSQTRzZnJOUVdaa2V2WjhaQnVFV3BMRkoyOVhVZUEwLWZEVS1FenJYVm1GVTg0VE5GSUxYaXlEMWZOS3B3NXRPOU5kTHA4TTBGY05UNXVqTFJIWGhQdlRiNDJaZmxsUVdUbFN1ZkR5dm96a1lZd1l3ZnJsOFdJVTlWMkFXN2FIbTlkQ2ZISnRVemwtQ0psaE5GbkRqUXFfU0NwMjJPUDF0NDhyWHlJdUx4TWZOYVU?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ2xKVDRON29fTlp0YWNYNVJaaTMtWlZtSlRQR25YUi1KMjJVZE1ScFN6V2hXbHBlTDAzRjNpWE1JWU4yc19ZbUhfXzdaYTM2c1FJME5tNER4Njd6TW5PRFNobU16MkdWQnlSQTRzZnJOUVdaa2V2WjhaQnVFV3BMRkoyOVhVZUEwLWZEVS1FenJYVm1GVTg0VE5GSUxYaXlEMWZOS3B3NXRPOU5kTHA4TTBGY05UNXVqTFJIWGhQdlRiNDJaZmxsUV",
-      "publishedAt": "2026-07-15T16:44:04.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : le parti de Gabriel Attal assigne en justice Marine Le Pen et le RN pour avoir utilisé le terme \"Renaissance\" sur son affiche de campagne - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQX3dJdWdSNWw4SkZ5WDRQMmZDYjBIRVE1MF82V2Z5U2R4OHI3VzMtMTlMQ2xEU3VHeVpLN0dSSDNfUGFROEhUUmNKNTJmWnBCcU1oMFl6SmZQZ1dxM2VHUG5ybTNhaW1wUUlQNjZvZW9JWU9ZM3hoUVZoRkkzOFpiZWRyTUF6UlFxMmhQVF9nU0pWeHo5N0FxWDJVZjZaLTBkOHlDalktRi1NbkFWQkhFRkwwUHNndm01QUM0Z0puSkp4UEM5STdGajMtem5vLWtRMUktcGVqVkQ5cVgwdlpYVTNHSk5ySjRIVjU3VVMtMkV3NHJkUENQZE15MHRGT2FRQ203UHNHNlZBbHJUa0JTcWR4dm93a3VKV2VvUG1zVkM?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQX3dJdWdSNWw4SkZ5WDRQMmZDYjBIRVE1MF82V2Z5U2R4OHI3VzMtMTlMQ2xEU3VHeVpLN0dSSDNfUGFROEhUUmNKNTJmWnBCcU1oMFl6SmZQZ1dxM2VHUG5ybTNhaW1wUUlQNjZvZW9JWU9ZM3hoUVZoRkkzOFpiZWRyTUF6UlFxMmhQVF9nU0pWeHo5N0FxWDJVZjZaLTBkOHlDalktRi1NbkFWQkhFRkwwUHNndm01QUM0Z0puSkp4UEM5STdGaj",
-      "publishedAt": "2026-07-15T13:56:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal poursuit Marine Le Pen et le Rassemblement national pour “parasitisme” et “contrefaçon de marque” - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcU10WG9FVU1nVmlCOUlRbG45NHh0U1YtWVEyVllmcWt3bUtFaG1LZHFQRnF1UmZBT2pRamRkcmhIUWptMVh0WDFhRWVMVWhwMUdtX1Vvb2poYXlEM3M0aTdRU1NRR0VQZVBwX1NzQ1VHYWViNGZjVXBIdXJwaXl1Y0hWYlk5TnczRXR3UWIwY2lqZlZtU1pKdWF4SjJJd2Q1NFpYZ0pQUVp3OVVGUU1fWm5vT2Rhd0hZYi1oZHctM0dRLVNaWGhWZVkzWU1QT3lrVFE5Zl9VcE91a3dmbGVfb2FNTjVISi1mOXZRakFSSUtIeFBCWWR6bThZMA?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcU10WG9FVU1nVmlCOUlRbG45NHh0U1YtWVEyVllmcWt3bUtFaG1LZHFQRnF1UmZBT2pRamRkcmhIUWptMVh0WDFhRWVMVWhwMUdtX1Vvb2poYXlEM3M0aTdRU1NRR0VQZVBwX1NzQ1VHYWViNGZjVXBIdXJwaXl1Y0hWYlk5TnczRXR3UWIwY2lqZlZtU1pKdWF4SjJJd2Q1NFpYZ0pQUVp3OVVGUU1fWm5vT2Rhd0hZYi1oZHctM0dRLVNaWGhWZV",
-      "publishedAt": "2026-07-15T14:44:37.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Marine Le Pen et le RN poursuivis par le parti de Gabriel Attal pour l’utilisation du terme «Renaissance» - CNews",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWVUNkdubXRDaDU5TW1hZmFPSUxqakRWSXFoeDAtOHZZTjJ6ZjNldzZhMzYtVGN4U19XUmlVNXgtSFBsQk5Mb3AxRU1HQnFSVExGR2xCbHYzWTJfTDFtT2pDRlpQT1JNOTBRcFpMaS1fRjk4THNRX1RCWlk5N2JOMkpUX1hQWUlfUktHamdtdGZPc0NXRy1pRlFzSG5TejZxSklpdGJ3d0RKaTVmYUcxSHBUMHJXV1XSAbwBQVVfeXFMTUJrVWFHZm01bnRKdnNvTHYzS0M3dWlPZHhYeWI2Vko0bmdMLVo5ZTBIVUdMMm5rVmRCSkFVRXFWMHpsQl9UOGhrdERTekVYWF8tdUlqcGExcFItQzdWZm92aDNxcmlSVkpleTNlOE02SGpoSDJaclhVWmZGazJqdnA4djBtbFkwNTE1SGpRNGMwMEJsMTQ2blZnRmVYVFllaXFsdlZaWDNWeERQZ3FuN2pqUVJlQ3dMQ0tyTVM?oc=5",
-      "source": "CNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWVUNkdubXRDaDU5TW1hZmFPSUxqakRWSXFoeDAtOHZZTjJ6ZjNldzZhMzYtVGN4U19XUmlVNXgtSFBsQk5Mb3AxRU1HQnFSVExGR2xCbHYzWTJfTDFtT2pDRlpQT1JNOTBRcFpMaS1fRjk4THNRX1RCWlk5N2JOMkpUX1hQWUlfUktHamdtdGZPc0NXRy1pRlFzSG5TejZxSklpdGJ3d0RKaTVmYUcxSHBUMHJXV1XSAbwBQVVfeXFMTUJrVWFHZm",
-      "publishedAt": "2026-07-15T11:03:17.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "\"Contrefaçon de marque\" et \"parasitisme\": Renaissance attaque le RN en justice pour l'\"appropriation\" de son nom sur une affiche de campagne présidentielle - BFM",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcmk1dXRuaTlHb1gtbzBaMndLbGZrazh4ZXlWUWYySlJqbFBETFJVTkdkYzltTkdRMjFRU25oMVZVZU12LWhENWU1RGxPRXZmSE9HUGVMX0FIcU1lVHozV1BQVGRvWmttNkhvOVFiRTlMQ291QmtsajBYSkVyaFpQakZkV2otVmxqRHVLUzBCcTVlUXQwRmJjblNUYllKa2UwYkp1QXJ1ekZVSHd0cUZPd1BZR2h3WDVRdjFIandoazhVMV9FTTRUb1p6UWh3cDBDRHZBT2RFVUN6ZlNBZmdkTW1FRk15aklnbHMxb1NtOWRqOHNETTRnRHRjdnZKUGtqQTE2UG8zc3BfSzNZbjctM21sMU01b2tuSUJZc0lpZ0VFbjhDSks1dlQ3cDdnRU55VTVYUkNiSkVtVWZ6MlhkOW9yVVg0Yzlx?oc=5",
+      "title": "Polémique sur les commandes de Canadair: \"Il faut qu'on invente le Canadair européen\", assure Gabriel Attal - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUhhRDZBU0tCRnJ6M3BiM2ZSc2lNclAxX2trUWFTT2dfLU1JMlUwcWpoVDI3eHVJUjBaOTd4Wk1zcUhyeC1McDRjSG54ZTlmYXhtaVllOHhFNjVVSlFRWjJJNHBERGZLWGZhbDV1SEFIVEFaTE96dTlsQkl6ODl0NVBIdTRmeFk4WHZwUXYybXpHVDlSOE10NW1TdFVXMDlsdnhERVZkcHNuQWFxOWhZcEgtRFZKV215TjlTcDNZZjZYbDA1UnljV0EwTnZVdDcwMDVVQ1hGX3NwVndRXzdQOHFuM1BGYTZJMENxNkVyREdKMFU5?oc=5",
       "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcmk1dXRuaTlHb1gtbzBaMndLbGZrazh4ZXlWUWYySlJqbFBETFJVTkdkYzltTkdRMjFRU25oMVZVZU12LWhENWU1RGxPRXZmSE9HUGVMX0FIcU1lVHozV1BQVGRvWmttNkhvOVFiRTlMQ291QmtsajBYSkVyaFpQakZkV2otVmxqRHVLUzBCcTVlUXQwRmJjblNUYllKa2UwYkp1QXJ1ekZVSHd0cUZPd1BZR2h3WDVRdjFIandoazhVMV9FTTRUb1",
-      "publishedAt": "2026-07-15T10:44:56.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUhhRDZBU0tCRnJ6M3BiM2ZSc2lNclAxX2trUWFTT2dfLU1JMlUwcWpoVDI3eHVJUjBaOTd4Wk1zcUhyeC1McDRjSG54ZTlmYXhtaVllOHhFNjVVSlFRWjJJNHBERGZLWGZhbDV1SEFIVEFaTE96dTlsQkl6ODl0NVBIdTRmeFk4WHZwUXYybXpHVDlSOE10NW1TdFVXMDlsdnhERVZkcHNuQWFxOWhZcEgtRFZKV215TjlTcDNZZjZYbDA1UnljV0",
+      "publishedAt": "2026-07-15T12:55:59.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "C’est quoi cette histoire de commande de Canadair annulée par Gabriel Attal lorsqu’il était Premier ministre - La Voix du Nord",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWdndmw1TjliNUN4SS1BUGtHc1pENTZ6WEVmeV96QVpmNFBiWTE5MURoSEd3d3RuRkVZa0UtMGhPb0dwZVZoYmFidkFVWTVLTTA0X0RxeGJsckwtakIxaFdhVHJJOGFyWThLRGt3T3MtLUhyclRFVWtOdzNhUGlnZENjUmlZZy12OFd6ZW52RjJKV1l2aVZlWFp1WDI0MUVzWjd6RG1rSGM5QUNmaVJKNDVybGgtV1ZLRGFLbTZ4S1dFLVBZU2tmbEdR?oc=5",
-      "source": "La Voix du Nord",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWdndmw1TjliNUN4SS1BUGtHc1pENTZ6WEVmeV96QVpmNFBiWTE5MURoSEd3d3RuRkVZa0UtMGhPb0dwZVZoYmFidkFVWTVLTTA0X0RxeGJsckwtakIxaFdhVHJJOGFyWThLRGt3T3MtLUhyclRFVWtOdzNhUGlnZENjUmlZZy12OFd6ZW52RjJKV1l2aVZlWFp1WDI0MUVzWjd6RG1rSGM5QUNmaVJKNDVybGgtV1ZLRGFLbTZ4S1dFLVBZU2tmbE",
-      "publishedAt": "2026-07-15T15:56:53.000Z",
+      "title": "Gabriel Attal assigne en justice Marine Le Pen pour \"contrefaçon\" sur l'utilisation de Renaissance - Corse Matin",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWdLbWNVeDBLTDZkcVJXTlZQWk1MVmxVRkNWVWNUZ2FvUU5xdGN5d2RWOUw4N0FlYlUtcDBCc25iQ1EyWFgxdGkzUER6a0JZdHJVOXVubHlVU085eFZUNmZNbTVjdjdhQ3BPV1JYcTg2QXVBbU1VUHlNQktLNkJRRHJaU1hkTlg3bzBzQjBfTDM0Z1E2U0xnU1dhY0ZIUFAwRld5cUNEWWlOU2FLNFhrenhiWDlYYjFmaFlWZzQxb0lOdTdKeFNEbW9WX1RUWEhORml6ajRXNWVVUUxXbEl6THhMV3ViX2NJTjF3aTBjcGE?oc=5",
+      "source": "Corse Matin",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWdLbWNVeDBLTDZkcVJXTlZQWk1MVmxVRkNWVWNUZ2FvUU5xdGN5d2RWOUw4N0FlYlUtcDBCc25iQ1EyWFgxdGkzUER6a0JZdHJVOXVubHlVU085eFZUNmZNbTVjdjdhQ3BPV1JYcTg2QXVBbU1VUHlNQktLNkJRRHJaU1hkTlg3bzBzQjBfTDM0Z1E2U0xnU1dhY0ZIUFAwRld5cUNEWWlOU2FLNFhrenhiWDlYYjFmaFlWZzQxb0lOdTdKeFNEbW",
+      "publishedAt": "2026-07-15T13:39:03.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -395,14 +485,59 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal poursuit Marine Le Pen et le Rassemblement national pour “parasitisme” et “contrefaçon de marque” - BFM",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZ3cwM2VjU0Rxdnh1MGltcWZiaUhJM1gxWE0zOUhlOThSbkdld2xKVUxjQVpGVmpDN1hvY3R2ZU1ETUloZWt5QzE0OUhJYWhxMXVINW4xREhuV0hLQ3pId21abFBGTDVRZEJUcC1ydFYzVThTR0s2WlZYWnhWZS1RT1ZMeE9oOENxRjRKQ3RUVkltYV9RR2JKN1dNODBkSllsYmFMY3dJc0ItVVNRWU94ei0yb0NVZW0zYmU5RTNpVjQ1eFpISmszRzQzVzlaOVBma0hnYlVVTkxBZmdneE9uZjRNeVoxckpuRDBpbThhZ3lVUnBEb1YwQ1ZBbW9nbm1vaTlyYk12b29LcmJnM1pxNGhuT3V3VGFYdTZR?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQZ3cwM2VjU0Rxdnh1MGltcWZiaUhJM1gxWE0zOUhlOThSbkdld2xKVUxjQVpGVmpDN1hvY3R2ZU1ETUloZWt5QzE0OUhJYWhxMXVINW4xREhuV0hLQ3pId21abFBGTDVRZEJUcC1ydFYzVThTR0s2WlZYWnhWZS1RT1ZMeE9oOENxRjRKQ3RUVkltYV9RR2JKN1dNODBkSllsYmFMY3dJc0ItVVNRWU94ei0yb0NVZW0zYmU5RTNpVjQ1eFpISmszRz",
+      "publishedAt": "2026-07-15T14:44:14.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "“Pour la France, la Renaissance” : le slogan de Marine Le Pen lui vaut une plainte pour contrefaçon - guadeloupe.franceantilles.fr",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaG81LVlOT0xPQW15Z2RmZnlNbzdYOTEwR3dMeWExeUFJRU1oRFAwOGU5cXRUYURJaC00Wm02VXAwMGtMeEZsWDF2ekw4ZzFVMENTbFpOSTFzSXRPRUtzbnVtcHU4UEdBRlJWQ1drX1ZSRk1zR21LWXlLOWVKR3ZhR1pxUXhqVWJINWdCb3VDRDVDVHROYWdVREk5ZjZkbWthTWNscFljeWxic1dfbGN2RFUybG5LOC03c0k4U2dsU1FCdXR5YmNFMnVEdWVwR3pnWFVyd29ySVlMUW5yakw3QXZKZWZLckNQQTFxM2dOT0lvVUxQZHJaRnY4VQ?oc=5",
-      "source": "guadeloupe.franceantilles.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaG81LVlOT0xPQW15Z2RmZnlNbzdYOTEwR3dMeWExeUFJRU1oRFAwOGU5cXRUYURJaC00Wm02VXAwMGtMeEZsWDF2ekw4ZzFVMENTbFpOSTFzSXRPRUtzbnVtcHU4UEdBRlJWQ1drX1ZSRk1zR21LWXlLOWVKR3ZhR1pxUXhqVWJINWdCb3VDRDVDVHROYWdVREk5ZjZkbWthTWNscFljeWxic1dfbGN2RFUybG5LOC03c0k4U2dsU1FCdXR5YmNFMn",
-      "publishedAt": "2026-07-15T20:17:09.000Z",
+      "title": "[Podcasts] Le tacle du jour - Agnès Pannier-Runacher : \"On savait que Jean-Luc Mélenchon était un menteur. C'est encore une fake news de LFI. Gabriel Attal est le 1er Premier ministre à avoir commandé des Canadair depuis 2007\" - 16/07 - RMC",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPZGVldU9fTjJHUnpYZWtlU2t5dEJ4LXlOU0VsVXloekYtRVJMSjc4YlZBNXliRVNpVW1HQmQ1cThxelVaUm5UNUdmblE4UEJJbDBKZzhZN3RxZ1YwRnZVcVNkc1Z6VHBYUW1tSV8tazgxZWRlU1d2ZmQwcm52TVpka1lTX2dEYk9Zd3hLSS1wZjVPZkxKVXZSVkp4RGlWdENFTVF5NG80SUcySWhFS1pseWdJYkt1UnV5bmRId0dqLWdHR1loWUl6VUpFb3AwQXMtOUlrWUR3M3FCdVYwbWxXVXJIeDk3R1ZLSzRhdnNHNkQ5bHdrTjBXQmVNdDFJaGNTVXl0b1V5WnhWbE9QY2NZLXFkUUZkaE9PQ2MzQTdsZlJZa2RZb0RVS0RnRFVPZXdtV0JLRmdwa2RObDVJMVZuUWU2M19yYWtPeUtqZzl6SUg5QmZaU2JieEJURWVaS1BHa1FKemJYUmVNa1dYRU56T214ZVVrcHdEd05tcEtBd0U0RF80R3UyWERMOXNidkdGNTYwSGpWQnRsN0JRQjRjNXE5NA?oc=5",
+      "source": "RMC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowNBVV95cUxPZGVldU9fTjJHUnpYZWtlU2t5dEJ4LXlOU0VsVXloekYtRVJMSjc4YlZBNXliRVNpVW1HQmQ1cThxelVaUm5UNUdmblE4UEJJbDBKZzhZN3RxZ1YwRnZVcVNkc1Z6VHBYUW1tSV8tazgxZWRlU1d2ZmQwcm52TVpka1lTX2dEYk9Zd3hLSS1wZjVPZkxKVXZSVkp4RGlWdENFTVF5NG80SUcySWhFS1pseWdJYkt1UnV5bmRId0dqLWdHR1loWUl6VU",
+      "publishedAt": "2026-07-16T14:05:48.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "France: la polémique sur les Canadairs rattrape Gabriel Attal en pleine campagne présidentielle - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNamY1NkF1T3ZtV2ptUnJUTDFVelZuMWpwdExSdVJ1Z1lwS0VkS096VHd4WUNBMHc3ZHpNb2JFNU1Qd0M0cVVTOFF2NUQ2SElwNWhHNnc0c0luanhpM1JWN3FCQkpraU8tRUxVZDBmV01YOHUyVFEyNUdjRUFYdTYtcklrODRGUWNObTF6ZnRES2Z4bFU?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNamY1NkF1T3ZtV2ptUnJUTDFVelZuMWpwdExSdVJ1Z1lwS0VkS096VHd4WUNBMHc3ZHpNb2JFNU1Qd0M0cVVTOFF2NUQ2SElwNWhHNnc0c0luanhpM1JWN3FCQkpraU8tRUxVZDBmV01YOHUyVFEyNUdjRUFYdTYtcklrODRGUWNObTF6ZnRES2Z4bFU?oc=5\" target=\"_blank\">France: la polémique sur les Canadairs rattrape ",
+      "publishedAt": "2026-07-15T19:19:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Le van de Gabriel Attal s’arrête à Cholet ce samedi 18 juillet - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMzlHbTNla3RrYlVxbUJkR3pycVFtemFzeW16aUhVdE1BdEh1U05oUXhueENIdHRVcDBqcG5wN0ExM1J5REFmenJuR0p5WV9YN3d5a0tYV3JmWE5hYWlOU3VqN29FdXRha3FSREpVaWc2Yk9UN2hHUGpnWE1JZnpNaW9ldzFSVTNpdmU4VkN2UElLSU5vYzVWMl9oMlhKWDFST1hjM29GYS14TEJvb3dCZF9mYWpwT2w1LWtzd2hnTlMyLTk0VkRPelJXdWV3Vm16LXNFRnJDd0YwTk5uaFd1X2dJLVdxd3VwMVB2SQ?oc=5",
+      "source": "Ouest-France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMzlHbTNla3RrYlVxbUJkR3pycVFtemFzeW16aUhVdE1BdEh1U05oUXhueENIdHRVcDBqcG5wN0ExM1J5REFmenJuR0p5WV9YN3d5a0tYV3JmWE5hYWlOU3VqN29FdXRha3FSREpVaWc2Yk9UN2hHUGpnWE1JZnpNaW9ldzFSVTNpdmU4VkN2UElLSU5vYzVWMl9oMlhKWDFST1hjM29GYS14TEJvb3dCZF9mYWpwT2w1LWtzd2hnTlMyLTk0VkRPel",
+      "publishedAt": "2026-07-15T17:08:26.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -410,6 +545,51 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal, candidat à la présidentielle, était au Village du Tour de France à Nevers - Le Journal du Centre",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDk2anRSekVaNWwtN05BcldCUkRpUGpzUjcxZUZSbGU4Si13SjhidVlaQUVPR2ExUVdtUVlRTGVRY0xaamc0SzRtUjB5cHA4ZzZ3anVYT25IeEtZWklZY1d4NXZUd3Q1VXlvMUVqdlBSUTFVYUxzaUNpc181V0R5OXQzLUtsVU5uT2kyaV9jaDdxckFWcG53d296cVc0aEd5SVVwOWJpSUpxM0t5VXI2X3ltRVZtcDc4ODlkbTZBeHRpUEQ2NkZoLVk3ZUVkMnlORmNN?oc=5",
+      "source": "Le Journal du Centre",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDk2anRSekVaNWwtN05BcldCUkRpUGpzUjcxZUZSbGU4Si13SjhidVlaQUVPR2ExUVdtUVlRTGVRY0xaamc0SzRtUjB5cHA4ZzZ3anVYT25IeEtZWklZY1d4NXZUd3Q1VXlvMUVqdlBSUTFVYUxzaUNpc181V0R5OXQzLUtsVU5uT2kyaV9jaDdxckFWcG53d296cVc0aEd5SVVwOWJpSUpxM0t5VXI2X3ltRVZtcDc4ODlkbTZBeHRpUEQ2NkZoLV",
+      "publishedAt": "2026-07-15T16:10:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "«Les Canadair, il s’en fout» : le gouvernement Attal a-t-il vraiment annulé une commande de bombardiers d’eau ? - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX2U5aGdRS19OODV2TERxMEFXaER5QW0wMlNucWlqZ3FSaHpUOWM4aG9XVkppZTRRT2x0a3NvWlB5SHU4eHNlQ3g2RmxYb1FUTFVjSVhuemUyQXZwWkh3azk0LU9oYTVvM21hWGFNRl9fRFp5Zk5CYjFKMlZJUnZCOUpXbU5mTkticEwtSU1EeXl2dHQ0MTJQdGpDbmFrNHdVT2Fwc1NYRWl1QndlNWNxVFlteWpMRXpESV90UV94YTZSODFqa25iTXcwbnZONWk3cV9Ja3pidFhhdlVFQkphaQ?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX2U5aGdRS19OODV2TERxMEFXaER5QW0wMlNucWlqZ3FSaHpUOWM4aG9XVkppZTRRT2x0a3NvWlB5SHU4eHNlQ3g2RmxYb1FUTFVjSVhuemUyQXZwWkh3azk0LU9oYTVvM21hWGFNRl9fRFp5Zk5CYjFKMlZJUnZCOUpXbU5mTkticEwtSU1EeXl2dHQ0MTJQdGpDbmFrNHdVT2Fwc1NYRWl1QndlNWNxVFlteWpMRXpESV90UV94YTZSODFqa25iTX",
+      "publishedAt": "2026-07-16T14:31:02.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "« Il faut se méfier des gens qui ne veulent pas y aller » : l’hypothèse Lecornu, recours du bloc central - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaHdEeHJvZ096SG84d1JGLTc0dUJSbUthb2FOVnpWYVRGTW9jNHA1WmlBS3M4LVh2dkl2N2JMSEQxc2hRNHpYSXlHQ0tNZk1DT1hEckJpTl9vbWdxNXRtemtJaDYyRUpySzQ2Y1BGY0dwM2N0czJrSXJNTi1TS3NhSGFYVnJOUi1ROURIQ2FVTWlqOHMzSGVYN3pUNkpxeHhMcG5fSURvVEUtc3JhYVB1MXRqY0IzNG1fOFRPZTQ1eXdWTGwyeW9ra3JSN3lZbVVheE8ycFEtMU5ZeTBWTDlZb3JmZktNSkxaT1lSZA?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaHdEeHJvZ096SG84d1JGLTc0dUJSbUthb2FOVnpWYVRGTW9jNHA1WmlBS3M4LVh2dkl2N2JMSEQxc2hRNHpYSXlHQ0tNZk1DT1hEckJpTl9vbWdxNXRtemtJaDYyRUpySzQ2Y1BGY0dwM2N0czJrSXJNTi1TS3NhSGFYVnJOUi1ROURIQ2FVTWlqOHMzSGVYN3pUNkpxeHhMcG5fSURvVEUtc3JhYVB1MXRqY0IzNG1fOFRPZTQ1eXdWTGwyeW9ra3",
+      "publishedAt": "2026-07-16T17:39:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
@@ -425,14 +605,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "« La renaissance » : Gabriel Attal assigne Marine Le Pen pour « contrefaçon de marque » - Le Dauphiné Libéré",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjMzMkVhREZQOUpFbzUtYWE1TmVtLUtISzVZQUZZa0NBV0JJQ0hGeWpzV29uUURtYmlVbHdNYkpFQkJvMy05NEs5QlNIc05OMUhTUHdxbi03aTdQcW9LYTdTa1JLMFJHd0ZGdVhMdmVDYzgzdXNWRWxfYzhsd3pZcFV6ZGxucmotZ2U3Y1RoU290N0t2czNMSEU0TFRqZWNOZVJtbk5oTS1JY1h4dGNQcXNlX3BRMVRtblRiMFlkWHhHaGs?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjMzMkVhREZQOUpFbzUtYWE1TmVtLUtISzVZQUZZa0NBV0JJQ0hGeWpzV29uUURtYmlVbHdNYkpFQkJvMy05NEs5QlNIc05OMUhTUHdxbi03aTdQcW9LYTdTa1JLMFJHd0ZGdVhMdmVDYzgzdXNWRWxfYzhsd3pZcFV6ZGxucmotZ2U3Y1RoU290N0t2czNMSEU0TFRqZWNOZVJtbk5oTS1JY1h4dGNQcXNlX3BRMVRtblRiMFlkWHhHaGs?oc=5\" ",
-      "publishedAt": "2026-07-14T23:36:41.000Z",
+      "title": "Pourquoi Gabriel Attal assigne Marine Le Pen en justice ? - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjF3a2pVVzZCTGdiTFducmlocWh3QUZ2azRrc0dCQ3JFXy10SmUtWlpUc3lXZFBmRGtmb0s0ajJNNE1JaWk5OWl0NzJfOGxaTjdJYVpnbFUzdG9EbEtvMlM3Qm1NQl9hNDYwVlUzeEl5ak83NzhFVlZkNU9TdUFLeUh0RWIzMW1SZW5BU3JqMTNoSHd1a3JpWEJtSEhSUm9VZDZneWV1Skk?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjF3a2pVVzZCTGdiTFducmlocWh3QUZ2azRrc0dCQ3JFXy10SmUtWlpUc3lXZFBmRGtmb0s0ajJNNE1JaWk5OWl0NzJfOGxaTjdJYVpnbFUzdG9EbEtvMlM3Qm1NQl9hNDYwVlUzeEl5ak83NzhFVlZkNU9TdUFLeUh0RWIzMW1SZW5BU3JqMTNoSHd1a3JpWEJtSEhSUm9VZDZneWV1Skk?oc=5\" target=\"_blank\">Pourquoi Gabriel Att",
+      "publishedAt": "2026-07-15T11:18:23.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -440,14 +620,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : le parti de Gabriel Attal attaque Marine Le Pen pour contrefaçon - Boulevard Voltaire",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEZyeUdCSEoyNEFxM3pIMHljbUt2aGxyZ28wUm9ZVVE3WjVMczI2aGJKVjIyMk9mYllaQXoweXFuaF8tYWdzY0x0cktIcVk1Z3hndVA4ajItbDQxY2psOGs3ZlZJUmFpTG1OSnRMeW83VXJmVnJiblQ4ZEZjSEJXWVAxaUJCRFhiYkZPNm5IVHdjVlE3enRMN0x5bTh0Z29GZzdiRWxBLW55SVl6Y0Rj?oc=5",
-      "source": "Boulevard Voltaire",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEZyeUdCSEoyNEFxM3pIMHljbUt2aGxyZ28wUm9ZVVE3WjVMczI2aGJKVjIyMk9mYllaQXoweXFuaF8tYWdzY0x0cktIcVk1Z3hndVA4ajItbDQxY2psOGs3ZlZJUmFpTG1OSnRMeW83VXJmVnJiblQ4ZEZjSEJXWVAxaUJCRFhiYkZPNm5IVHdjVlE3enRMN0x5bTh0Z29GZzdiRWxBLW55SVl6Y0Rj?oc=5\" target=\"_blank\">Présidentie",
-      "publishedAt": "2026-07-15T13:46:53.000Z",
+      "title": "«Jean-Luc Mélenchon fait du trumpisme. Si on écoutait ce que LFI propose, on désarmerait aussi les pompiers», Gabriel Attal répond aux critiques - CNews",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0d6ZVA5c0NQOWdFLUtMN0pZb0VtNlk3cXItQkhaR1JaM0xGREE4RHFHQzFDeHJVYkkxSzE5TWFPMU5rNUZraGNPUmN3YmtzLVI2MVhEUmtpWHNTeVFob3J2M3BXdGR6UXNLc0JMOUlzLTdTdUsyQzhtZkNNUkRPWnpSMWhjMVZDOXZ2S0lCLU1tWllvWmkzN3gyQjc1UjUyQUNuUC1EdUQzeXR5NWozYVJBX3JianQwYWfSAb8BQVVfeXFMTXEzb0J0SXVmSExDOFZIdkRlNHZxa0xtSWdBdWFGeHJTZF95VjFvM1JVcmJ0Mm5SMHNvZk15MzVmNmt5REJNaWIyeG96Qk96a21INjJpM0Z4OGR3MThReDh0U1B2QUlFQ2pLQUVFZDV6YlNrMkZxWGM5eGRfZlptODh5ZTA3R05HbXdxMmxQRzM2WjBKZnMtWXhLT0NwaW9pcERabDJkeTNULUJteU1jeTFwYXd5NWFqZXpIUUpDdlE?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxON0d6ZVA5c0NQOWdFLUtMN0pZb0VtNlk3cXItQkhaR1JaM0xGREE4RHFHQzFDeHJVYkkxSzE5TWFPMU5rNUZraGNPUmN3YmtzLVI2MVhEUmtpWHNTeVFob3J2M3BXdGR6UXNLc0JMOUlzLTdTdUsyQzhtZkNNUkRPWnpSMWhjMVZDOXZ2S0lCLU1tWllvWmkzN3gyQjc1UjUyQUNuUC1EdUQzeXR5NWozYVJBX3JianQwYWfSAb8BQVVfeXFMTXEzb0",
+      "publishedAt": "2026-07-15T12:54:01.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -455,14 +635,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Guerre des noms : Gabriel Attal assigne Marine Le Pen en justice - Planet.fr",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVU8yZDduV3YxSzVhLWlMQWUwM1ZrZ1MwazNPdlpLejdma3dVN3JvblJsOGxNeFNSbnNJV2ExU05tdUU0Um8zS3FRdjIxaVlaNzhiWm1YcmxaMVBBYWtLaWxMM2E0SlQtT3lWZ05pNUN5RlpiVGRQX09KSlh0anBQYTJVTk8wU25jaVRpLUFnR0VFaFZPTk92ck56T29MTm9rZkFRZ0ZJVHgwNHlGZmhkQ2U5dw?oc=5",
-      "source": "Planet.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVU8yZDduV3YxSzVhLWlMQWUwM1ZrZ1MwazNPdlpLejdma3dVN3JvblJsOGxNeFNSbnNJV2ExU05tdUU0Um8zS3FRdjIxaVlaNzhiWm1YcmxaMVBBYWtLaWxMM2E0SlQtT3lWZ05pNUN5RlpiVGRQX09KSlh0anBQYTJVTk8wU25jaVRpLUFnR0VFaFZPTk92ck56T29MTm9rZkFRZ0ZJVHgwNHlGZmhkQ2U5dw?oc=5\" target=\"_blank\">Guerr",
-      "publishedAt": "2026-07-15T15:15:00.000Z",
+      "title": "Pourquoi Gabriel Attal assigne Marine Le Pen et le RN en justice - Le Nouvel Obs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUltaU53eDEycUZmU3BBYk1SQnV1eVZodE5MQzZkREJNZ19HNkI0OTlna3F6YzZNVlZLaEppMFRSMzFfVkRVeWhnRW9CbmpxN3NMczNGdFRXWGRjQWZ2dlZtSEV1eXIyV01NZi13ZEpHN19pUE44N0o5RUE2RnMxSExjMjhhWWVuTzIwbUI1R0NvVjQ1bzNYbUxNb3RrU0lnZm9VcktMeXh0ektQS1pTMTFtXzVPS2R0dXJsXzZFbklZdw?oc=5",
+      "source": "Le Nouvel Obs",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUltaU53eDEycUZmU3BBYk1SQnV1eVZodE5MQzZkREJNZ19HNkI0OTlna3F6YzZNVlZLaEppMFRSMzFfVkRVeWhnRW9CbmpxN3NMczNGdFRXWGRjQWZ2dlZtSEV1eXIyV01NZi13ZEpHN19pUE44N0o5RUE2RnMxSExjMjhhWWVuTzIwbUI1R0NvVjQ1bzNYbUxNb3RrU0lnZm9VcktMeXh0ektQS1pTMTFtXzVPS2R0dXJsXzZFbklZdw?oc=5\" t",
+      "publishedAt": "2026-07-15T15:18:41.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -470,14 +650,44 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal à Nevers : visite politique au Tour de France - Presse Agence",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHYxMGJ4MjFidkNZNkJyM3ZITzd6UDBGckxmLXJUM0lva2d2OTN3Ull2QWpmUm9ocldGUkc2WlQzcUcwU011MFh5Q1pKOTZORlkwamtQLXBIYUUxcy1rbFYwYkNrNnFGblJCaHllcGtsZHdwUzR3ckFVZ1p5Qm56cGlqRzdCT2FhTUJ4ZnF6RXpjZTJQTDRNTFVXZkU5QnhKbkdfRndkaG1KeVVVSWZxb1dyOVowVFE?oc=5",
+      "source": "Presse Agence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHYxMGJ4MjFidkNZNkJyM3ZITzd6UDBGckxmLXJUM0lva2d2OTN3Ull2QWpmUm9ocldGUkc2WlQzcUcwU011MFh5Q1pKOTZORlkwamtQLXBIYUUxcy1rbFYwYkNrNnFGblJCaHllcGtsZHdwUzR3ckFVZ1p5Qm56cGlqRzdCT2FhTUJ4ZnF6RXpjZTJQTDRNTFVXZkU5QnhKbkdfRndkaG1KeVVVSWZxb1dyOVowVFE?oc=5\" target=\"_blank\">",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-14T01:06:40.893Z",
+      "isNew": false
+    },
+    {
+      "title": "Emmanuel Macron répond aux critiques sur les commandes de Canadair, assurant avoir relancé la production depuis 2017 - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTU1SVlWMDFJdHZfYkozRXFfeUZwV2p4UFNfS0ljT2ljYkhCQllHaklveVNzbTdrQ1lWZHRnU2VWbVZYSnJmbHVDMl9VRDl5Y3NDbHZMeGpiV21VR2xNU2lDY2lBUWtwd3d6R3lkajVGR1FVREdyVjJQdWNlWjZUbDJEYllkbkYwOXZRaGdSUzgxSnZBcFlaVzR6MndQUUtrVkhIY1pUNy1oYzdDZTNIZTZKanN0LUtLbHM3cWMxX3dJaGhCekhkUVN1YmdZVUt3aThVZC1YSEJzZTRjcDQ4Z2lDOGNER3NKeFRiU21LM2dLTjE2X3NLVWFZWQ?oc=5",
+      "source": "franceinfo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTU1SVlWMDFJdHZfYkozRXFfeUZwV2p4UFNfS0ljT2ljYkhCQllHaklveVNzbTdrQ1lWZHRnU2VWbVZYSnJmbHVDMl9VRDl5Y3NDbHZMeGpiV21VR2xNU2lDY2lBUWtwd3d6R3lkajVGR1FVREdyVjJQdWNlWjZUbDJEYllkbkYwOXZRaGdSUzgxSnZBcFlaVzR6MndQUUtrVkhIY1pUNy1oYzdDZTNIZTZKanN0LUtLbHM3cWMxX3dJaGhCekhkUV",
+      "publishedAt": "2026-07-16T11:59:24.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "Une affiche de Marine Le Pen attaquée en justice par Gabriel Attal, le RN répond en se moquant de lui - Linternaute.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTXI3YUI4MFFRY3gyZHl4b1lrb2N5aHEyd3lpcFdIS2tZamRnRDRXRVp0cHAzTkFqazBQcVUxYTlIcDBMeUNyNGtlSEwxTFdFQ0pDUWFvUGo4amY4RXBsWTdFSktfTmtTWGI5YU5TU3lZMy1oX2Q5a0R0eC1HQUlVOGVKalA1Q2pxUm1wSmZYdkRiZ2xyZjhOSTJ0c093NzlNTERPWHJtSml4cU9aU3NGQWpOSTA2M2w5NjgtQVYzR3VuWHhXZVRIT3hrS2VucjZYN0U5OFR4czZHRm9FUUxBSnBDczE3RmVBY3VHcQ?oc=5",
-      "source": "Linternaute.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTXI3YUI4MFFRY3gyZHl4b1lrb2N5aHEyd3lpcFdIS2tZamRnRDRXRVp0cHAzTkFqazBQcVUxYTlIcDBMeUNyNGtlSEwxTFdFQ0pDUWFvUGo4amY4RXBsWTdFSktfTmtTWGI5YU5TU3lZMy1oX2Q5a0R0eC1HQUlVOGVKalA1Q2pxUm1wSmZYdkRiZ2xyZjhOSTJ0c093NzlNTERPWHJtSml4cU9aU3NGQWpOSTA2M2w5NjgtQVYzR3VuWHhXZVRIT3",
-      "publishedAt": "2026-07-15T20:17:55.000Z",
+      "title": "« Un condensé de trumpisme » : Jean-Luc Mélenchon et Gabriel Attal s’écharpent autour du nombre de Canadair en France - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ2xKVDRON29fTlp0YWNYNVJaaTMtWlZtSlRQR25YUi1KMjJVZE1ScFN6V2hXbHBlTDAzRjNpWE1JWU4yc19ZbUhfXzdaYTM2c1FJME5tNER4Njd6TW5PRFNobU16MkdWQnlSQTRzZnJOUVdaa2V2WjhaQnVFV3BMRkoyOVhVZUEwLWZEVS1FenJYVm1GVTg0VE5GSUxYaXlEMWZOS3B3NXRPOU5kTHA4TTBGY05UNXVqTFJIWGhQdlRiNDJaZmxsUVdUbFN1ZkR5dm96a1lZd1l3ZnJsOFdJVTlWMkFXN2FIbTlkQ2ZISnRVemwtQ0psaE5GbkRqUXFfU0NwMjJPUDF0NDhyWHlJdUx4TWZOYVU?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNQ2xKVDRON29fTlp0YWNYNVJaaTMtWlZtSlRQR25YUi1KMjJVZE1ScFN6V2hXbHBlTDAzRjNpWE1JWU4yc19ZbUhfXzdaYTM2c1FJME5tNER4Njd6TW5PRFNobU16MkdWQnlSQTRzZnJOUVdaa2V2WjhaQnVFV3BMRkoyOVhVZUEwLWZEVS1FenJYVm1GVTg0VE5GSUxYaXlEMWZOS3B3NXRPOU5kTHA4TTBGY05UNXVqTFJIWGhQdlRiNDJaZmxsUV",
+      "publishedAt": "2026-07-15T16:44:04.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -485,14 +695,74 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Le van de Gabriel Attal s’arrête à Cholet ce samedi 18 juillet - Maville Angers",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1JjcnFFaFNJRzVlYldQMkdDcWR3VndHWDdRWlBOazMyakhLcEFDcWc1Zm9wY01OYWF6NHd1c2h3SXFZZ0Y5enRYMmJvRUxsaGNWWklJd3pveXV0ZWphenRJSXFZUTBsaEhvWjlHSVRxTEJPV1dBNV9wOUx1Vy1WU3BZTWJ2TWo4MjFxdk9GYjNHUGFWczdsYm5hSWh0dEV6Q1JFbndEXy1VY25mcnYzTGR3TUZJU2UxeFdiZXJSMzFRY1U?oc=5",
+      "source": "Maville Angers",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1JjcnFFaFNJRzVlYldQMkdDcWR3VndHWDdRWlBOazMyakhLcEFDcWc1Zm9wY01OYWF6NHd1c2h3SXFZZ0Y5enRYMmJvRUxsaGNWWklJd3pveXV0ZWphenRJSXFZUTBsaEhvWjlHSVRxTEJPV1dBNV9wOUx1Vy1WU3BZTWJ2TWo4MjFxdk9GYjNHUGFWczdsYm5hSWh0dEV6Q1JFbndEXy1VY25mcnYzTGR3TUZJU2UxeFdiZXJSMzFRY1U?oc=5\" ",
+      "publishedAt": "2026-07-15T17:08:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "Renaissance attaque le RN en justice pour l'\"appropriation\" de son nom sur une affiche de campagne présidentielle: \"Les Français ont besoin de clarté\", assure Gabriel Attal - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQc0tKZVN5dnRLSE5BV0l3Zk9yNjkxcXJieFl2OU5RMFFfMzdySVJ5aG5aUF9jZlNRSWFVdnpqb1hsT3dZbDBvd0wxeHB5WGxkOXA1VkpHVDJvZ1paZ012ZlZhSjRNRlIweXhKbmtlWjRXeGhIMmpSdXRleFd0TTNLald1MTEzVlYzZnVPNmIwTHZMZ2dyaFg3S2FIRUhBTEwxSVhuUF9HWTdBSmc1X2J2NWJZcy1VWUVMVjRtSWNzMEpzcXU5ZElNWF9seFRwM2h4M3FMUzJJbDJURlpjR1hWVEs1aDE4YlMwd1lOR0l3a0p0M0hCUnNPcUVqZ2JHQWNWQWd6Vm5RVkZaMndkOTRfWmo0cnR2S2lOdDVtRGlKQ2I2dExSSUlZY2NaZTFpWE1DcThyMVJUbDRMWUJNLTJCTnRFYXQ3dw?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxQc0tKZVN5dnRLSE5BV0l3Zk9yNjkxcXJieFl2OU5RMFFfMzdySVJ5aG5aUF9jZlNRSWFVdnpqb1hsT3dZbDBvd0wxeHB5WGxkOXA1VkpHVDJvZ1paZ012ZlZhSjRNRlIweXhKbmtlWjRXeGhIMmpSdXRleFd0TTNLald1MTEzVlYzZnVPNmIwTHZMZ2dyaFg3S2FIRUhBTEwxSVhuUF9HWTdBSmc1X2J2NWJZcy1VWUVMVjRtSWNzMEpzcXU5ZElNWF",
-      "publishedAt": "2026-07-15T13:01:54.000Z",
+      "title": "Le RN assigné pour \"contrefaçon\" sur l'utilisation du mot \"renaissance\" : \"Personne au monde ne l’associe à Gabriel Attal\", plaide Laurent Jacobelli - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMTNHSHFsSUt0QUgydngwTmYwWlFTcF9NUVhwb1N3UGo0SWxVSE9xdkdtaEJad3lsc3Y3amJXUjQ1OEZJLWFGOUllVVo2MzdvQ3FJYzA4NVJ3RXNBQUZBSXhvUUlFM2lUcXpCdlphUDh1ZGhUMTQ0OWczcWRZZnpNend6c0hwN055dk9ZcW9vcDRXY2tvTm5DeFUtRTVKdmNLVmZWb0xGWDAya3JtMTVkOEZMYXZfQW9iWVA2SHBxTlNOOGJUeGpNVkRIci1USkNOVTA3OVRBZFBvWlZtU2F5ZmppT3llUFpvOGc0NXJ5eFF5Zlg3ZlgwcDItbEV4TElQOThkTk12MjdoZFlIU25GVUJmelozN1E3aG1zYjVFTExWbnljWU02eElaZw?oc=5",
+      "source": "franceinfo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMTNHSHFsSUt0QUgydngwTmYwWlFTcF9NUVhwb1N3UGo0SWxVSE9xdkdtaEJad3lsc3Y3amJXUjQ1OEZJLWFGOUllVVo2MzdvQ3FJYzA4NVJ3RXNBQUZBSXhvUUlFM2lUcXpCdlphUDh1ZGhUMTQ0OWczcWRZZnpNend6c0hwN055dk9ZcW9vcDRXY2tvTm5DeFUtRTVKdmNLVmZWb0xGWDAya3JtMTVkOEZMYXZfQW9iWVA2SHBxTlNOOGJUeGpNVk",
+      "publishedAt": "2026-07-16T08:47:19.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Pourquoi les électeurs Renaissance préfèrent Sébastien Lecornu à Attal et Philippe pour la présidentielle 2027 - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWjdmdlBhMVBoQmJJY1VWS01KY2lpb1R1ZDFHZW5GSTVuMzlGaDFITDVONWxFSU8xVlpkUzZsYmFsanBubmVVWGVueDQ2c2hrb2JneVhrc3V2SFpPZWNtbWJuSWZSSDNBQ0JqZHJRSlBwSVhSNE56dnRaMHh1LWxnNTNqR2I1RE1RWGRNcUstQ0RpOFNkRG82d202RHM5UXV4cnJSNkMxZ0EyNTJoZWNTNWVPSHBvWEhsYkNSOHR2N0Faal9UWGRRSHplb1VtZGhnLTZmWU1IZy1CZy16eXB1akc0ankyVGp2NmpXNXpqUmlVZw?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWjdmdlBhMVBoQmJJY1VWS01KY2lpb1R1ZDFHZW5GSTVuMzlGaDFITDVONWxFSU8xVlpkUzZsYmFsanBubmVVWGVueDQ2c2hrb2JneVhrc3V2SFpPZWNtbWJuSWZSSDNBQ0JqZHJRSlBwSVhSNE56dnRaMHh1LWxnNTNqR2I1RE1RWGRNcUstQ0RpOFNkRG82d202RHM5UXV4cnJSNkMxZ0EyNTJoZWNTNWVPSHBvWEhsYkNSOHR2N0Faal9UWGRRSH",
+      "publishedAt": "2026-07-16T18:14:50.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Austérité meurtrière : en 2024, le gouvernement Attal a sacrifié deux Canadair pour 50 millions d'euros - Revolution Permanente",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmd4d013ci1pZUk5VG9UQm5BN21MQzJzRVhUZkZUSzU3QV9IU1NaQ0J4c2dVendWQ2E1dXVnUkdxOHR3M0I3OTdORjBFa09IcUM2M2V3OE1NTFk1Snc4ZHpDVGRFTkI1eHBvUDdYUDhIZXF0QmI1OVVCSjJDQWxISE5sYUtST25QeXh6RFpzby1sQjJMeGlpUk5BNWxwMjRnVXZZUmhOWENKVFNwbWo4LWNiVzI2VGFyT012QUlHUTFNTmZWQVU0eHF30gHSAUFVX3lxTE50d0EzYUFzT05fVUZ3QmkwazBaZ2VMTjFIX0FSUkFLVk40MFB0NERYbGNqcV9PSnNjSGZweGktd0RId1RVY1ktelBIU0ZmbzdFT25vRnItU2xZQkZFUHdIY0hhcmlYWTlXb3ZSZUFEZFBwUGVtN3l6N19PT1RYN0t1MFRGWFFIUUNyM0licTcxUGFYcDlJdWhCUXhCVXVydVdZNjNoQ05VLXJ6eFRIVUoxUHJRUVBUZmp1N1pUTGN3eGdyc3drMlBUR1NZWEI3Nm12Zw?oc=5",
+      "source": "Revolution Permanente",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmd4d013ci1pZUk5VG9UQm5BN21MQzJzRVhUZkZUSzU3QV9IU1NaQ0J4c2dVendWQ2E1dXVnUkdxOHR3M0I3OTdORjBFa09IcUM2M2V3OE1NTFk1Snc4ZHpDVGRFTkI1eHBvUDdYUDhIZXF0QmI1OVVCSjJDQWxISE5sYUtST25QeXh6RFpzby1sQjJMeGlpUk5BNWxwMjRnVXZZUmhOWENKVFNwbWo4LWNiVzI2VGFyT012QUlHUTFNTmZWQVU0eH",
+      "publishedAt": "2026-07-16T15:57:35.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : le parti de Gabriel Attal assigne en justice Marine Le Pen et le RN pour avoir utilisé le terme \"Renaissance\" sur son affiche de campagne - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQX3dJdWdSNWw4SkZ5WDRQMmZDYjBIRVE1MF82V2Z5U2R4OHI3VzMtMTlMQ2xEU3VHeVpLN0dSSDNfUGFROEhUUmNKNTJmWnBCcU1oMFl6SmZQZ1dxM2VHUG5ybTNhaW1wUUlQNjZvZW9JWU9ZM3hoUVZoRkkzOFpiZWRyTUF6UlFxMmhQVF9nU0pWeHo5N0FxWDJVZjZaLTBkOHlDalktRi1NbkFWQkhFRkwwUHNndm01QUM0Z0puSkp4UEM5STdGajMtem5vLWtRMUktcGVqVkQ5cVgwdlpYVTNHSk5ySjRIVjU3VVMtMkV3NHJkUENQZE15MHRGT2FRQ203UHNHNlZBbHJUa0JTcWR4dm93a3VKV2VvUG1zVkM?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQX3dJdWdSNWw4SkZ5WDRQMmZDYjBIRVE1MF82V2Z5U2R4OHI3VzMtMTlMQ2xEU3VHeVpLN0dSSDNfUGFROEhUUmNKNTJmWnBCcU1oMFl6SmZQZ1dxM2VHUG5ybTNhaW1wUUlQNjZvZW9JWU9ZM3hoUVZoRkkzOFpiZWRyTUF6UlFxMmhQVF9nU0pWeHo5N0FxWDJVZjZaLTBkOHlDalktRi1NbkFWQkhFRkwwUHNndm01QUM0Z0puSkp4UEM5STdGaj",
+      "publishedAt": "2026-07-15T13:56:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -500,14 +770,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Incendies : Attal, Mélenchon, Nuñez… On vous résume la polémique sur les Canadair - 20 Minutes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkh0NU1ra2UwZGRZU2ZPOV9nMk5OdFR4azc1MU5SVXZsU29jN2huMnEtQk5kX003U0VRc0VOd3NvRzlIOGFvX0JoRmpBOVVwRjVzMURJTEMyQ2tBQTNDMlRobmlNOTlDOGVQVWpPX0l3WW1OZXNTd0NoTWItMjJnTU03aVFVOWhIeklJV0J6SGJrcy1fNW54SmNvQ1BVLWZlellQMVVRVHdVWEtiN3c?oc=5",
-      "source": "20 Minutes",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkh0NU1ra2UwZGRZU2ZPOV9nMk5OdFR4azc1MU5SVXZsU29jN2huMnEtQk5kX003U0VRc0VOd3NvRzlIOGFvX0JoRmpBOVVwRjVzMURJTEMyQ2tBQTNDMlRobmlNOTlDOGVQVWpPX0l3WW1OZXNTd0NoTWItMjJnTU03aVFVOWhIeklJV0J6SGJrcy1fNW54SmNvQ1BVLWZlellQMVVRVHdVWEtiN3c?oc=5\" target=\"_blank\">Incendies : ",
-      "publishedAt": "2026-07-15T20:59:00.000Z",
+      "title": "\"Contrefaçon de marque\" et \"parasitisme\": Renaissance attaque le RN en justice pour l'\"appropriation\" de son nom sur une affiche de campagne présidentielle - BFM",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcmk1dXRuaTlHb1gtbzBaMndLbGZrazh4ZXlWUWYySlJqbFBETFJVTkdkYzltTkdRMjFRU25oMVZVZU12LWhENWU1RGxPRXZmSE9HUGVMX0FIcU1lVHozV1BQVGRvWmttNkhvOVFiRTlMQ291QmtsajBYSkVyaFpQakZkV2otVmxqRHVLUzBCcTVlUXQwRmJjblNUYllKa2UwYkp1QXJ1ekZVSHd0cUZPd1BZR2h3WDVRdjFIandoazhVMV9FTTRUb1p6UWh3cDBDRHZBT2RFVUN6ZlNBZmdkTW1FRk15aklnbHMxb1NtOWRqOHNETTRnRHRjdnZKUGtqQTE2UG8zc3BfSzNZbjctM21sMU01b2tuSUJZc0lpZ0VFbjhDSks1dlQ3cDdnRU55VTVYUkNiSkVtVWZ6MlhkOW9yVVg0Yzlx?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcmk1dXRuaTlHb1gtbzBaMndLbGZrazh4ZXlWUWYySlJqbFBETFJVTkdkYzltTkdRMjFRU25oMVZVZU12LWhENWU1RGxPRXZmSE9HUGVMX0FIcU1lVHozV1BQVGRvWmttNkhvOVFiRTlMQ291QmtsajBYSkVyaFpQakZkV2otVmxqRHVLUzBCcTVlUXQwRmJjblNUYllKa2UwYkp1QXJ1ekZVSHd0cUZPd1BZR2h3WDVRdjFIandoazhVMV9FTTRUb1",
+      "publishedAt": "2026-07-15T10:44:56.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -515,70 +785,10 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Gabriel Attal poursuit Marine Le Pen pour «contrefaçon» sur l’utilisation du terme «renaissance» dans son affiche de campagne - Gentside",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYlhVTVNXb0ctVGNnSmxMY2ZiZGpoTGtjUThhdEtGSTRKVEhoTTFFM296YVpfenNnZ09TaWdyNTd5WU1VdFJjYVZhQmlqWGw1Tkktci12ZThXX2RsdVFNY3FjdTlEZTQxQXdsZDR0azRnblBZemJQZXBFeUdEQmdOcmV0SloyS1VjS3h3LUdxYVgtSmY0cUlBVklId1hPZERSZzI4VWlBRVdKRy1jODJrLTZBd2NHRnpTLWNKbnd1TXpJZ04xSG16UGJBbXFoSWEzd1QxY2lMeGtKaThrb2FIa0gzVXVwU1oyUldsYjhLaGJMc0hNZXViWGc2RGFTUndES2ZFY2wyUUgtOVdVQk5YXzhOT0pibG8?oc=5",
-      "source": "Gentside",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOYlhVTVNXb0ctVGNnSmxMY2ZiZGpoTGtjUThhdEtGSTRKVEhoTTFFM296YVpfenNnZ09TaWdyNTd5WU1VdFJjYVZhQmlqWGw1Tkktci12ZThXX2RsdVFNY3FjdTlEZTQxQXdsZDR0azRnblBZemJQZXBFeUdEQmdOcmV0SloyS1VjS3h3LUdxYVgtSmY0cUlBVklId1hPZERSZzI4VWlBRVdKRy1jODJrLTZBd2NHRnpTLWNKbnd1TXpJZ04xSG16UG",
-      "publishedAt": "2026-07-15T18:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Polémique sur les commandes de Canadair: \"Il faut qu'on invente le Canadair européen\", assure Gabriel Attal - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTkpCYWFFenJYS09vYTVlZXNIRXkwUnRBZmVOVTFQN3VOMmV5VmFnLTZxQzhhdDhCRnQzVm56RW83MTQxSnJldDhvSEdqbzhGQUM3eWVLMmRnWnBVTktxLWFvWXBhWE9qSlg1cl82cllLY0d4YTFRN1ktNDRLR0x2TXQyOUpqV3dQU1YwbGVzQmtWY3dOQXVsOXlpYTRtV3J5WGVpSml2UlVxdzJ0YUpHUHJDM1FlczFwWnhWR05zM1Y5NlotWXFyMXRhdU41ZW00NUM3V3BpaGlrbjZ5dWRNaExzSVd1ekxqZ0hhd2c1OUs3QQ?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTkpCYWFFenJYS09vYTVlZXNIRXkwUnRBZmVOVTFQN3VOMmV5VmFnLTZxQzhhdDhCRnQzVm56RW83MTQxSnJldDhvSEdqbzhGQUM3eWVLMmRnWnBVTktxLWFvWXBhWE9qSlg1cl82cllLY0d4YTFRN1ktNDRLR0x2TXQyOUpqV3dQU1YwbGVzQmtWY3dOQXVsOXlpYTRtV3J5WGVpSml2UlVxdzJ0YUpHUHJDM1FlczFwWnhWR05zM1Y5NlotWXFyMX",
-      "publishedAt": "2026-07-15T12:56:15.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Renaissance poursuit Marine Le Pen et le RN pour \"parasitisme\" et \"contrefaçon de marque\" - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWHlCM2dNSUR6WkVMRHQ0dk9TWVNyQlBvam9lRUlsMTl6aGw4NjM3UDJ2ME02WTI2TG5ERE92bW9LQlRwX21JNnd6aTB0RWdXRmtLVVhDNzdiOGxjcUROZWR1c1p4NTNIR01scHdpV3B3ekIxVjZzeWxfdURRVmxDcVdZWkRpck5seE9GZkNkRjBxU0lMNlFleEJoRVdhM2k2S0tKaXdjTWdGTGVGcGc4eUxaWXBIOGZaUjNKc2RDSjNfZ3N6NVNFd2doLV9QQmVZZzh2U2JUV01tdkdWb21YZ1Z0SnF3MzZ6NzE4YTFMMDhiSjVuZUhj?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWHlCM2dNSUR6WkVMRHQ0dk9TWVNyQlBvam9lRUlsMTl6aGw4NjM3UDJ2ME02WTI2TG5ERE92bW9LQlRwX21JNnd6aTB0RWdXRmtLVVhDNzdiOGxjcUROZWR1c1p4NTNIR01scHdpV3B3ekIxVjZzeWxfdURRVmxDcVdZWkRpck5seE9GZkNkRjBxU0lMNlFleEJoRVdhM2k2S0tKaXdjTWdGTGVGcGc4eUxaWXBIOGZaUjNKc2RDSjNfZ3N6NVNFd2",
-      "publishedAt": "2026-07-15T10:25:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Marine Le Pen utilise le mot « Renaissance » sur son affiche électorale, Gabriel Attal l’assigne pour « contrefaçon » - Sud Ouest",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU0dhcTV2bUQ1MVdmNFdjaW40dzl5OUZEOF9pVng5MWNHNjhNN0UwUHVMMV9OMmFpY0dEdkgzM0lCRTBfVzZ5N0pyay1wbDlEdU5Qa09zU204bUNRZHBGRkhtd3pBcTZhYjgyb3Y1aTdpcTJNaHZuZW5WM3NWV0d0QkFER1Uxb1gxZzRZdlJkZUhvc2h5WEtMOFYwZlU5SXhuTUR0NHRnYVNOby1CZ2tVVkRKQ1JWX3doOG0zdW82RVVvdmtEaVBWaU1DSFpCd3VETU81NzZLRTViS05nVm9xa2x2M0g1ZnUtUUhkQVBMUUdGbWN6c0lWbm1IOXJJQmJDc3lB?oc=5",
-      "source": "Sud Ouest",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNU0dhcTV2bUQ1MVdmNFdjaW40dzl5OUZEOF9pVng5MWNHNjhNN0UwUHVMMV9OMmFpY0dEdkgzM0lCRTBfVzZ5N0pyay1wbDlEdU5Qa09zU204bUNRZHBGRkhtd3pBcTZhYjgyb3Y1aTdpcTJNaHZuZW5WM3NWV0d0QkFER1Uxb1gxZzRZdlJkZUhvc2h5WEtMOFYwZlU5SXhuTUR0NHRnYVNOby1CZ2tVVkRKQ1JWX3doOG0zdW82RVVvdmtEaVBWaU",
-      "publishedAt": "2026-07-15T12:27:40.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
-    },
-    {
-      "title": "L’affiche de campagne de Le Pen lui vaut des poursuites de Renaissance - Le HuffPost",
+      "title": "L’affiche de campagne de Marine Le Pen lui vaut des poursuites de Renaissance - Le HuffPost",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXQwVWZtVVVhWHlQTDhQZlpIRmh5Q1RFXzZuaHZtS04wcEx1RXNtTzRVczlRNUJsVHJMQ2RMd1FPa2wtRXJhOEtmYzVjcTRrUmZ4cjRIaUwwLVVJYTVyZTlqSlhBbTZ1VFFRa0kyVFk4dDRzWDNOeEp2MkJrUjlDTERXaFJUQ1F5MHF0OXA0eHFBeks3V1FCdzFIUHBVRmpnMXRhV1JtaXVkS1dDdkg3WXowVGhWR2NibUxKRktTNHAzaF9yem1lUWtMSGpnYkJPbXl3?oc=5",
       "source": "Le HuffPost",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXQwVWZtVVVhWHlQTDhQZlpIRmh5Q1RFXzZuaHZtS04wcEx1RXNtTzRVczlRNUJsVHJMQ2RMd1FPa2wtRXJhOEtmYzVjcTRrUmZ4cjRIaUwwLVVJYTVyZTlqSlhBbTZ1VFFRa0kyVFk4dDRzWDNOeEp2MkJrUjlDTERXaFJUQ1F5MHF0OXA0eHFBeks3V1FCdzFIUHBVRmpnMXRhV1JtaXVkS1dDdkg3WXowVGhWR2NibUxKRktTNHAzaF9yem1lUW",
@@ -590,14 +800,29 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "\"Contrefaçon de marque\" : cette affiche de Marine Le Pen ne plaît pas du tout à Gabriel Attal, le RN répond avec ironie - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQXpzLWhqVW0tVUIzb0lVZFlJMVl4ZHZPYVdHZEFmX0xCZGU5NlV5WU5vZEduSDNQMTJ1d0ZlV2VNdi0yaGU5ak9EVFZLTDdnRktYRGZnVGlXTnR5NzZONHV4TFFUb3Bxb29pOENrelBJbDJRaUxFWlQ4N3JVZ2lPeGtwYk5Ta0VFQ2FWbmE5OGVoVHdweUFWdWZyYWF0RC1TTzJBSTMxd1ZxbTNoQnphTUU2QWFqWjh2Z0tET0IxXy1lZ3VjcnU0Z2o1Sks3cTczeGFqNUxrNjRWeEtyQ1NVQ2hCdG8wNEFVbEE?oc=5",
+      "source": "Actu.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQXpzLWhqVW0tVUIzb0lVZFlJMVl4ZHZPYVdHZEFmX0xCZGU5NlV5WU5vZEduSDNQMTJ1d0ZlV2VNdi0yaGU5ak9EVFZLTDdnRktYRGZnVGlXTnR5NzZONHV4TFFUb3Bxb29pOENrelBJbDJRaUxFWlQ4N3JVZ2lPeGtwYk5Ta0VFQ2FWbmE5OGVoVHdweUFWdWZyYWF0RC1TTzJBSTMxd1ZxbTNoQnphTUU2QWFqWjh2Z0tET0IxXy1lZ3VjcnU0Z2",
+      "publishedAt": "2026-07-15T16:12:54.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "Gabriel Attal attendu à Nevers pour le Tour de France - Presse Agence",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHgxSlVjZ0tEbmhoN25nMmdLQTdFQ01wUHNYeDRmYldVV1BfNW1FcjdxRFI3ZDJIcW0zTUkxeDZFYUlaZjVCZXFHZ0hVdEo5Yng5TlNyM2pNUTE2WU45VEdYRVhtUjkzbE5QTDVWcURqVnh4dWxlMENHUnFBMFR1aDFwNDdhQnk0RVpkTnFzdHpKWGNRaVBxNnVSdE1xVVlaeEVJYkxSaXpwLWp2ODdR?oc=5",
-      "source": "Presse Agence",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHgxSlVjZ0tEbmhoN25nMmdLQTdFQ01wUHNYeDRmYldVV1BfNW1FcjdxRFI3ZDJIcW0zTUkxeDZFYUlaZjVCZXFHZ0hVdEo5Yng5TlNyM2pNUTE2WU45VEdYRVhtUjkzbE5QTDVWcURqVnh4dWxlMENHUnFBMFR1aDFwNDdhQnk0RVpkTnFzdHpKWGNRaVBxNnVSdE1xVVlaeEVJYkxSaXpwLWp2ODdR?oc=5\" target=\"_blank\">Gabriel Att",
-      "publishedAt": "2026-07-14T16:00:00.000Z",
+      "title": "Présidentielle 2027 : Marine Le Pen et le RN poursuivis par le parti de Gabriel Attal pour l’utilisation du terme «Renaissance» - CNews",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWVUNkdubXRDaDU5TW1hZmFPSUxqakRWSXFoeDAtOHZZTjJ6ZjNldzZhMzYtVGN4U19XUmlVNXgtSFBsQk5Mb3AxRU1HQnFSVExGR2xCbHYzWTJfTDFtT2pDRlpQT1JNOTBRcFpMaS1fRjk4THNRX1RCWlk5N2JOMkpUX1hQWUlfUktHamdtdGZPc0NXRy1pRlFzSG5TejZxSklpdGJ3d0RKaTVmYUcxSHBUMHJXV1XSAbwBQVVfeXFMTUJrVWFHZm01bnRKdnNvTHYzS0M3dWlPZHhYeWI2Vko0bmdMLVo5ZTBIVUdMMm5rVmRCSkFVRXFWMHpsQl9UOGhrdERTekVYWF8tdUlqcGExcFItQzdWZm92aDNxcmlSVkpleTNlOE02SGpoSDJaclhVWmZGazJqdnA4djBtbFkwNTE1SGpRNGMwMEJsMTQ2blZnRmVYVFllaXFsdlZaWDNWeERQZ3FuN2pqUVJlQ3dMQ0tyTVM?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWVUNkdubXRDaDU5TW1hZmFPSUxqakRWSXFoeDAtOHZZTjJ6ZjNldzZhMzYtVGN4U19XUmlVNXgtSFBsQk5Mb3AxRU1HQnFSVExGR2xCbHYzWTJfTDFtT2pDRlpQT1JNOTBRcFpMaS1fRjk4THNRX1RCWlk5N2JOMkpUX1hQWUlfUktHamdtdGZPc0NXRy1pRlFzSG5TejZxSklpdGJ3d0RKaTVmYUcxSHBUMHJXV1XSAbwBQVVfeXFMTUJrVWFHZm",
+      "publishedAt": "2026-07-15T11:03:17.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -605,51 +830,51 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Attal attaque Le Pen pour «parasitisme» et «contrefaçon» - L'essentiel",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUo2eE9zNEZCZjFxV2VtM1V2VlBZYkFzWVVHQzBxRU50NUJvcnYwRDUwbjdHQzZPZFJPOFl1aVZGZWJ6VGptR1FnLTF5b0lqUWt0RXBid0p0WXEyX0FocjhhazNDdTF4RTMtamRXbm95bHlQTGJ6VmNxbVYyRlRjRkhEdnNyNHFTTWg1eUI5X1JmV1NNNGFWX0ZQcGFGNE8zQ3RTSTMxYw?oc=5",
-      "source": "L'essentiel",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUo2eE9zNEZCZjFxV2VtM1V2VlBZYkFzWVVHQzBxRU50NUJvcnYwRDUwbjdHQzZPZFJPOFl1aVZGZWJ6VGptR1FnLTF5b0lqUWt0RXBid0p0WXEyX0FocjhhazNDdTF4RTMtamRXbm95bHlQTGJ6VmNxbVYyRlRjRkhEdnNyNHFTTWg1eUI5X1JmV1NNNGFWX0ZQcGFGNE8zQ3RTSTMxYw?oc=5\" target=\"_blank\">Attal attaque Le Pen ",
-      "publishedAt": "2026-07-15T13:36:02.000Z",
+      "title": "Présidentielle 2027 : les électeurs macronistes préféreraient que Lecornu soit candidat à la place de Attal et Philippe - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOakRQS20wR0JfUVBpMmR2YTUzaDJoTjZsOFBHOU5IV2RKNVU1M1JyektWWnlDYTNTQlRLWmRpdThxbFEtdmdDV2RqeUhlbnR4ai15MnZsOG1VOTFEbEJPc1NZcUJ4cVMzeHE0NFl5WHVOVnFtV2lXTV80U3AtTVVjVkRLVXV2MVNwZkZ5UG8xVnd3cFoxZlhVRVgxMVlSV0pfbm5zcnVPSUN1dkxPZ3pxWGotU1JKS2hETUdGS2k3OWsyRE10cXA4aGdfVkpIdjBXczZYQ1NWMUc4al80Z19iZGE2UmhoN3EwdkRacUU3Nmtkdw?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOakRQS20wR0JfUVBpMmR2YTUzaDJoTjZsOFBHOU5IV2RKNVU1M1JyektWWnlDYTNTQlRLWmRpdThxbFEtdmdDV2RqeUhlbnR4ai15MnZsOG1VOTFEbEJPc1NZcUJ4cVMzeHE0NFl5WHVOVnFtV2lXTV80U3AtTVVjVkRLVXV2MVNwZkZ5UG8xVnd3cFoxZlhVRVgxMVlSV0pfbm5zcnVPSUN1dkxPZ3pxWGotU1JKS2hETUdGS2k3OWsyRE10cXA4aG",
+      "publishedAt": "2026-07-16T15:00:08.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "Pourquoi le mot Renaissance devient un enjeu de campagne entre le RN et le camp Attal - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORDFXa2h2Vl9jRUFRQTNfbDBSbllwM1RqZkhzMFRicUV2RXliZTV2RHk0ek11YjlSMHloM0ZDSEJMNEhYUGpzRm13aUszWm1ob1dNVllPSHBhZ09YTGs0Z3VkZ1U4RnAxNW13aE8wZlhQYVF2bk9kVXRMYnlHR3R1ZlNKS3J5UWt0Q2VIck5IZXNiZkhvQnh1SmlBaVd1SE1IWGhIZ2xkUDJOTUp5YkRGVmdoZklGaGhaWERaVnhWTEpqTGVlM1MydGFpSlBkeWRV?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORDFXa2h2Vl9jRUFRQTNfbDBSbllwM1RqZkhzMFRicUV2RXliZTV2RHk0ek11YjlSMHloM0ZDSEJMNEhYUGpzRm13aUszWm1ob1dNVllPSHBhZ09YTGs0Z3VkZ1U4RnAxNW13aE8wZlhQYVF2bk9kVXRMYnlHR3R1ZlNKS3J5UWt0Q2VIck5IZXNiZkhvQnh1SmlBaVd1SE1IWGhIZ2xkUDJOTUp5YkRGVmdoZklGaGhaWERaVnhWTEpqTGVlM1MydG",
-      "publishedAt": "2026-07-15T14:25:03.000Z",
+      "title": "Polémique sur les commandes de Canadair: \"Il faut qu'on invente le Canadair européen\", assure Gabriel Attal - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjMxUHEwMU4zUmNySHFtZ1E4MFV3ZFl5alM0eHp0eHBwS0JzdWxRQVpXQVV1a0lLWURSR0VBVUR5NGRLcldyRzB1TjZjY1E4cVZoQlR4OTNoQjB1YVh0b2RRUVJZUE9saXV3WEdsTU9qNDlqbDNxRHdTWVBkS3h6dWVjUWNrYklDVzVaRQ?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjMxUHEwMU4zUmNySHFtZ1E4MFV3ZFl5alM0eHp0eHBwS0JzdWxRQVpXQVV1a0lLWURSR0VBVUR5NGRLcldyRzB1TjZjY1E4cVZoQlR4OTNoQjB1YVh0b2RRUVJZUE9saXV3WEdsTU9qNDlqbDNxRHdTWVBkS3h6dWVjUWNrYklDVzVaRQ?oc=5\" target=\"_blank\">Polémique sur les commandes de Canadair: \"Il faut qu'on i",
+      "publishedAt": "2026-07-15T12:55:59.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "Gabriel Attal assigne Marine Le Pen pour l’utilisation du mot \"renaissance\" sur une affiche de campagne - La Provence",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSmpNRnpOZDlLU3F2bHpQSUZaRFJEOHhKdzkwQ1p4aHNLTnlVVzlDck9xU2VKVGw4cUJGcDFHMGNXNDFWWm5FdXI4MWRzUzVoaWpiYUNpQmV5Q041QmZETVJCN2haZ21XekFUdHBYOTZ2U3N0aFg1NzFaVE9EQTAxMEJpSW94NWp2aXZhREQzeFNCVUs1TFVGX01hRXl0NUtCb3FSTVQwMUhfSXBNb19GSHd6QjFzdWxUdzJ5M2JRb1VESFlXTnR3ekVZYzI0a01IMGRjQmQxb2xBdXFBV1g2NHhZYVVXNk5fSjJrMGllUU5KbUhVUWc?oc=5",
-      "source": "La Provence",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSmpNRnpOZDlLU3F2bHpQSUZaRFJEOHhKdzkwQ1p4aHNLTnlVVzlDck9xU2VKVGw4cUJGcDFHMGNXNDFWWm5FdXI4MWRzUzVoaWpiYUNpQmV5Q041QmZETVJCN2haZ21XekFUdHBYOTZ2U3N0aFg1NzFaVE9EQTAxMEJpSW94NWp2aXZhREQzeFNCVUs1TFVGX01hRXl0NUtCb3FSTVQwMUhfSXBNb19GSHd6QjFzdWxUdzJ5M2JRb1VESFlXTnR3ek",
-      "publishedAt": "2026-07-15T02:51:00.000Z",
+      "title": "Une affiche électorale de Marine Le Pen suscite la colère de Gabriel Attal - La Libre.be",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbzg5cFJQTTRaRXlQSGZuYTdNaHlOUld0dldEMEJnb2xyX0hEZWJER1lDNl9NLUlzMmtMNkdQekl2YWZETmlnR25JLXlRNHRKX2xGV1dfUGlTTlpkazRqQk9UQnhEckRZbHNER0FGcVFHMkRrTFNOQXVYZld1WHNjWXlGUWJiU1BUcHNvaXM3WWtCREpzWkdwNFA3d2xlUnYxY0p2NXBnQ0pHVzd1YjBNWFJoZ3YwUEh0cUdOampMS24yQndvM2x5Mm1QOE53VVdLWmZRQlJBY011RlFQbkNqckdVMEIwN2xSMVdmV05QTVdqSzh6WjZnbTNwWkZlM3Qxb1pKSw?oc=5",
+      "source": "La Libre.be",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPbzg5cFJQTTRaRXlQSGZuYTdNaHlOUld0dldEMEJnb2xyX0hEZWJER1lDNl9NLUlzMmtMNkdQekl2YWZETmlnR25JLXlRNHRKX2xGV1dfUGlTTlpkazRqQk9UQnhEckRZbHNER0FGcVFHMkRrTFNOQXVYZld1WHNjWXlGUWJiU1BUcHNvaXM3WWtCREpzWkdwNFA3d2xlUnYxY0p2NXBnQ0pHVzd1YjBNWFJoZ3YwUEh0cUdOampMS24yQndvM2x5Mm",
+      "publishedAt": "2026-07-16T06:33:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
@@ -665,14 +890,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "\"Pas la même chose si l’on est vu à Monaco ou à Palavas-les-Flots” : pour Gabriel Attal ou Marine Le Pen, la grosse galère des vacances d’été - Closer",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaGtwSm5Qa0JLcDhuNzl5WFZLZXhGUnJMZ1p3TXM4OGxIak9ZWDVMR29CT0JBTVZQNzN5azUxX3lmUWhPM3AteGtIV3JMd0JoSDQ1WDhVVUxTMTd4WmVzcnZ2RmhvYkZUTEtLXzNkdHM0VktwSlJ6dlJGR1didi10Y3pmQXBWX1RDUmI0cmY1aFJwcWhlSDdmblpTUnlqVEhTVG1kbUJzZWJHMXBQSkRwRFdNTlZQakF6Ri0ySksxV2I3MDZwUUtTbzJCREJHSHpJM0J6YmFlaUNvbW5zU1hzaDliYnd6WnhhYThaVHVFNmJEMkhkLUJtdHB1bl9TSUhWbktpSHpjamo?oc=5",
-      "source": "Closer",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaGtwSm5Qa0JLcDhuNzl5WFZLZXhGUnJMZ1p3TXM4OGxIak9ZWDVMR29CT0JBTVZQNzN5azUxX3lmUWhPM3AteGtIV3JMd0JoSDQ1WDhVVUxTMTd4WmVzcnZ2RmhvYkZUTEtLXzNkdHM0VktwSlJ6dlJGR1didi10Y3pmQXBWX1RDUmI0cmY1aFJwcWhlSDdmblpTUnlqVEhTVG1kbUJzZWJHMXBQSkRwRFdNTlZQakF6Ri0ySksxV2I3MDZwUUtTbz",
-      "publishedAt": "2026-07-15T06:45:07.000Z",
+      "title": "Gabriel Attal poursuit Marine Le Pen pour «contrefaçon» sur l’utilisation du terme «renaissance» dans son affiche de campagne - Gentside",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYlhVTVNXb0ctVGNnSmxMY2ZiZGpoTGtjUThhdEtGSTRKVEhoTTFFM296YVpfenNnZ09TaWdyNTd5WU1VdFJjYVZhQmlqWGw1Tkktci12ZThXX2RsdVFNY3FjdTlEZTQxQXdsZDR0azRnblBZemJQZXBFeUdEQmdOcmV0SloyS1VjS3h3LUdxYVgtSmY0cUlBVklId1hPZERSZzI4VWlBRVdKRy1jODJrLTZBd2NHRnpTLWNKbnd1TXpJZ04xSG16UGJBbXFoSWEzd1QxY2lMeGtKaThrb2FIa0gzVXVwU1oyUldsYjhLaGJMc0hNZXViWGc2RGFTUndES2ZFY2wyUUgtOVdVQk5YXzhOT0pibG8?oc=5",
+      "source": "Gentside",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOYlhVTVNXb0ctVGNnSmxMY2ZiZGpoTGtjUThhdEtGSTRKVEhoTTFFM296YVpfenNnZ09TaWdyNTd5WU1VdFJjYVZhQmlqWGw1Tkktci12ZThXX2RsdVFNY3FjdTlEZTQxQXdsZDR0azRnblBZemJQZXBFeUdEQmdOcmV0SloyS1VjS3h3LUdxYVgtSmY0cUlBVklId1hPZERSZzI4VWlBRVdKRy1jODJrLTZBd2NHRnpTLWNKbnd1TXpJZ04xSG16UG",
+      "publishedAt": "2026-07-15T18:00:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -680,14 +905,44 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Jean-Luc Mélenchon attaque le bilan de Gabriel Attal. Le candidat de La France insoumise accuse l'ancien Premier ministre d'avoir annulé des commandes de Canadair - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZTRVLUxfNmktU1NiVHlrY3Q5a01vaDNQQ25BaU5LN0J0VlJyOUd1OGk1bEhLYzhnRVJidV8yOVNYVE51QktIUzFXSndKMF9EZ1Fnd1ZYY1llajlzaWFVOHZ4dEFIODE3TXVEc1BvTnk4b1Q4TE1FbzBfRnlERXRUcjEwd1h2UW1jMEgyZFdJbGo5eXdxQXEtZGxyQ29McnpoT2F5QThTeGZ1anBoSk9NeEV3cVVHaExYbDNubGltOUlKMkFoU19qRnlsRl9Vc1VBUXhTOVBZNGtOdm5uMmJycGJNUXdCVnBFNzVYeWo5T0pnWTYyZE5ZZTNfZ1FDWWF3bm02MmVTeWwzSmRPWXRmNkxNM0JsRWh1S2dhdF9FVUo1eUx3VUlMQ25qZlo3YlBES1VNNXJFUjRtR0RGTlFB?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxPZTRVLUxfNmktU1NiVHlrY3Q5a01vaDNQQ25BaU5LN0J0VlJyOUd1OGk1bEhLYzhnRVJidV8yOVNYVE51QktIUzFXSndKMF9EZ1Fnd1ZYY1llajlzaWFVOHZ4dEFIODE3TXVEc1BvTnk4b1Q4TE1FbzBfRnlERXRUcjEwd1h2UW1jMEgyZFdJbGo5eXdxQXEtZGxyQ29McnpoT2F5QThTeGZ1anBoSk9NeEV3cVVHaExYbDNubGltOUlKMkFoU19qRn",
+      "publishedAt": "2026-07-15T04:42:15.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     },
     {
-      "title": "« Ce détournement n’est pas anodin » : Renaissance assigne le RN pour « contrefaçon » après son slogan de campagne pour 2027 - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOV0tVaTNaNVItTlZxSVVsUDFlUVVEOG5CRWNnQm16MGl0d0lBUzg2cUxWQk5yT3k2bm1DcGt6eHZ4Qm05SDJFa1pqYjMwLXdNell6M3VhUDFtT0FIY2s2UEJ5VS0zbnBncTlMSWQ3cGsybGt4SEYtYnp5OERiR1hvNTU3ZXltd1pfejNVd1FERXlIc0NuYVdOMi10WkdsWUxxSGQyenpDUnRWZ1pESUNhWHlMWlFhaDRrcDI1dE1nb1hsb3NDLVBlYmV2UXUzbGd3cTZHck9zc01HYWFSaEtydnprSFh0VEZtUnNMSllXcVNYWGVGMjR0WXFzaGp3UjR6THFZYlpDcTR4RDA2aGhqSVYzd09KN2h3TFBF?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxOV0tVaTNaNVItTlZxSVVsUDFlUVVEOG5CRWNnQm16MGl0d0lBUzg2cUxWQk5yT3k2bm1DcGt6eHZ4Qm05SDJFa1pqYjMwLXdNell6M3VhUDFtT0FIY2s2UEJ5VS0zbnBncTlMSWQ3cGsybGt4SEYtYnp5OERiR1hvNTU3ZXltd1pfejNVd1FERXlIc0NuYVdOMi10WkdsWUxxSGQyenpDUnRWZ1pESUNhWHlMWlFhaDRrcDI1dE1nb1hsb3NDLVBlYm",
-      "publishedAt": "2026-07-15T11:40:26.000Z",
+      "title": "Incendies : Attal, Mélenchon, Nuñez… On vous résume la polémique sur les Canadair - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM093NW5VeG5MY2RHM1ItRmJ3Ukh3Z1lhcGZSWEptei1HMGJqMExFZUVGSU5SVENJc1dXbWtVNUpIWDNGZFRfbkpBcGZPVjE1cWJuREJnREpWdXFGd2NEVndyZGtxd0tGZWtjcEtjcnl4eklES0FobE1yQ1ZpSjFKSEJzYWxUMUVBSGx3OE0wMHg3dHdHQjFsdy1B?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM093NW5VeG5MY2RHM1ItRmJ3Ukh3Z1lhcGZSWEptei1HMGJqMExFZUVGSU5SVENJc1dXbWtVNUpIWDNGZFRfbkpBcGZPVjE1cWJuREJnREpWdXFGd2NEVndyZGtxd0tGZWtjcEtjcnl4eklES0FobE1yQ1ZpSjFKSEJzYWxUMUVBSGx3OE0wMHg3dHdHQjFsdy1B?oc=5\" target=\"_blank\">Incendies : Attal, Mélenchon, Nuñez… On",
+      "publishedAt": "2026-07-15T20:59:44.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Guerre des noms : Gabriel Attal assigne Marine Le Pen en justice - Planet.fr",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVU8yZDduV3YxSzVhLWlMQWUwM1ZrZ1MwazNPdlpLejdma3dVN3JvblJsOGxNeFNSbnNJV2ExU05tdUU0Um8zS3FRdjIxaVlaNzhiWm1YcmxaMVBBYWtLaWxMM2E0SlQtT3lWZ05pNUN5RlpiVGRQX09KSlh0anBQYTJVTk8wU25jaVRpLUFnR0VFaFZPTk92ck56T29MTm9rZkFRZ0ZJVHgwNHlGZmhkQ2U5dw?oc=5",
+      "source": "Planet.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVU8yZDduV3YxSzVhLWlMQWUwM1ZrZ1MwazNPdlpLejdma3dVN3JvblJsOGxNeFNSbnNJV2ExU05tdUU0Um8zS3FRdjIxaVlaNzhiWm1YcmxaMVBBYWtLaWxMM2E0SlQtT3lWZ05pNUN5RlpiVGRQX09KSlh0anBQYTJVTk8wU25jaVRpLUFnR0VFaFZPTk92ck56T29MTm9rZkFRZ0ZJVHgwNHlGZmhkQ2U5dw?oc=5\" target=\"_blank\">Guerr",
+      "publishedAt": "2026-07-15T15:15:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -695,14 +950,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Renaissance contre le RN : bataille judiciaire autour d’une affiche de campagne - Politique Matin",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDJTTVljZTZDYkpwVWdHYlc4Z1hTa3RkTTQwaGVBcXdTOFNlSkZYams5Nm56RVo1OTkyY3NYRGJTNmozUnBrSjI3dl9lVDJ1OHFCQWxuMlZxQ0pORTRfdW1hMG9LZjJkRERDS0xUMEtyUTJiYy03X2V5S2NvZWZsREdJbTZNZlhaQ01ocVpFSVhhanVSOC0tOENjbw?oc=5",
-      "source": "Politique Matin",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDJTTVljZTZDYkpwVWdHYlc4Z1hTa3RkTTQwaGVBcXdTOFNlSkZYams5Nm56RVo1OTkyY3NYRGJTNmozUnBrSjI3dl9lVDJ1OHFCQWxuMlZxQ0pORTRfdW1hMG9LZjJkRERDS0xUMEtyUTJiYy03X2V5S2NvZWZsREdJbTZNZlhaQ01ocVpFSVhhanVSOC0tOENjbw?oc=5\" target=\"_blank\">Renaissance contre le RN : bataille j",
-      "publishedAt": "2026-07-15T10:51:36.000Z",
+      "title": "Gabriel Attal assigne Marine Le Pen pour l’utilisation du mot \"renaissance\" sur une affiche de campagne - La Provence",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSmpNRnpOZDlLU3F2bHpQSUZaRFJEOHhKdzkwQ1p4aHNLTnlVVzlDck9xU2VKVGw4cUJGcDFHMGNXNDFWWm5FdXI4MWRzUzVoaWpiYUNpQmV5Q041QmZETVJCN2haZ21XekFUdHBYOTZ2U3N0aFg1NzFaVE9EQTAxMEJpSW94NWp2aXZhREQzeFNCVUs1TFVGX01hRXl0NUtCb3FSTVQwMUhfSXBNb19GSHd6QjFzdWxUdzJ5M2JRb1VESFlXTnR3ekVZYzI0a01IMGRjQmQxb2xBdXFBV1g2NHhZYVVXNk5fSjJrMGllUU5KbUhVUWc?oc=5",
+      "source": "La Provence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSmpNRnpOZDlLU3F2bHpQSUZaRFJEOHhKdzkwQ1p4aHNLTnlVVzlDck9xU2VKVGw4cUJGcDFHMGNXNDFWWm5FdXI4MWRzUzVoaWpiYUNpQmV5Q041QmZETVJCN2haZ21XekFUdHBYOTZ2U3N0aFg1NzFaVE9EQTAxMEJpSW94NWp2aXZhREQzeFNCVUs1TFVGX01hRXl0NUtCb3FSTVQwMUhfSXBNb19GSHd6QjFzdWxUdzJ5M2JRb1VESFlXTnR3ek",
+      "publishedAt": "2026-07-15T02:51:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -710,14 +965,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Quand un slogan de campagne brouille les repères : Renaissance accuse le RN d’emprunter son identité politique - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN0NPUWJjMnlOQTJGZzdWRElZQmFDblNQcXo4Uk5lVVNTQy01Qmh6Tkt1UDRfcTkxSUFrdFI1clA1UU9jTzlpalU4ZnlvamhJRGVZN1YwNXFjZzVDTzQ4STNpZGNjTHVrWXhhUzF0R1BmOS1LbXhuSWJMMFJibWE2XzV6Tll6b3ZkN0tEM003XzhzR0Q0bGZabmVVUEJTYlVGa3BNb1pmbXhFN2hUTmxyanpmY1l3X0NPTjZHckpFMFhyTEx6ZFl0ZmEzZ1l1QVY2b3UxU09DV3l4WEhmcGh6QUUzd1JpNTlzdDFnMDhR?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN0NPUWJjMnlOQTJGZzdWRElZQmFDblNQcXo4Uk5lVVNTQy01Qmh6Tkt1UDRfcTkxSUFrdFI1clA1UU9jTzlpalU4ZnlvamhJRGVZN1YwNXFjZzVDTzQ4STNpZGNjTHVrWXhhUzF0R1BmOS1LbXhuSWJMMFJibWE2XzV6Tll6b3ZkN0tEM003XzhzR0Q0bGZabmVVUEJTYlVGa3BNb1pmbXhFN2hUTmxyanpmY1l3X0NPTjZHckpFMFhyTEx6ZFl0Zm",
-      "publishedAt": "2026-07-15T11:17:53.000Z",
+      "title": "Renaissance attaque le RN en justice pour l'\"appropriation\" de son nom sur une affiche de campagne présidentielle: \"Les Français ont besoin de clarté\", assure Gabriel Attal - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQc0tKZVN5dnRLSE5BV0l3Zk9yNjkxcXJieFl2OU5RMFFfMzdySVJ5aG5aUF9jZlNRSWFVdnpqb1hsT3dZbDBvd0wxeHB5WGxkOXA1VkpHVDJvZ1paZ012ZlZhSjRNRlIweXhKbmtlWjRXeGhIMmpSdXRleFd0TTNLald1MTEzVlYzZnVPNmIwTHZMZ2dyaFg3S2FIRUhBTEwxSVhuUF9HWTdBSmc1X2J2NWJZcy1VWUVMVjRtSWNzMEpzcXU5ZElNWF9seFRwM2h4M3FMUzJJbDJURlpjR1hWVEs1aDE4YlMwd1lOR0l3a0p0M0hCUnNPcUVqZ2JHQWNWQWd6Vm5RVkZaMndkOTRfWmo0cnR2S2lOdDVtRGlKQ2I2dExSSUlZY2NaZTFpWE1DcThyMVJUbDRMWUJNLTJCTnRFYXQ3dw?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxQc0tKZVN5dnRLSE5BV0l3Zk9yNjkxcXJieFl2OU5RMFFfMzdySVJ5aG5aUF9jZlNRSWFVdnpqb1hsT3dZbDBvd0wxeHB5WGxkOXA1VkpHVDJvZ1paZ012ZlZhSjRNRlIweXhKbmtlWjRXeGhIMmpSdXRleFd0TTNLald1MTEzVlYzZnVPNmIwTHZMZ2dyaFg3S2FIRUhBTEwxSVhuUF9HWTdBSmc1X2J2NWJZcy1VWUVMVjRtSWNzMEpzcXU5ZElNWF",
+      "publishedAt": "2026-07-15T13:01:54.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -725,16 +980,109 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "“Pour la France, la Renaissance” : le slogan de Marine Le Pen lui vaut une plainte pour contrefaçon - guadeloupe.franceantilles.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaG81LVlOT0xPQW15Z2RmZnlNbzdYOTEwR3dMeWExeUFJRU1oRFAwOGU5cXRUYURJaC00Wm02VXAwMGtMeEZsWDF2ekw4ZzFVMENTbFpOSTFzSXRPRUtzbnVtcHU4UEdBRlJWQ1drX1ZSRk1zR21LWXlLOWVKR3ZhR1pxUXhqVWJINWdCb3VDRDVDVHROYWdVREk5ZjZkbWthTWNscFljeWxic1dfbGN2RFUybG5LOC03c0k4U2dsU1FCdXR5YmNFMnVEdWVwR3pnWFVyd29ySVlMUW5yakw3QXZKZWZLckNQQTFxM2dOT0lvVUxQZHJaRnY4VQ?oc=5",
+      "source": "guadeloupe.franceantilles.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaG81LVlOT0xPQW15Z2RmZnlNbzdYOTEwR3dMeWExeUFJRU1oRFAwOGU5cXRUYURJaC00Wm02VXAwMGtMeEZsWDF2ekw4ZzFVMENTbFpOSTFzSXRPRUtzbnVtcHU4UEdBRlJWQ1drX1ZSRk1zR21LWXlLOWVKR3ZhR1pxUXhqVWJINWdCb3VDRDVDVHROYWdVREk5ZjZkbWthTWNscFljeWxic1dfbGN2RFUybG5LOC03c0k4U2dsU1FCdXR5YmNFMn",
+      "publishedAt": "2026-07-15T20:17:09.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 : le parti de Gabriel Attal attaque Marine Le Pen pour contrefaçon - Boulevard Voltaire",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEZyeUdCSEoyNEFxM3pIMHljbUt2aGxyZ28wUm9ZVVE3WjVMczI2aGJKVjIyMk9mYllaQXoweXFuaF8tYWdzY0x0cktIcVk1Z3hndVA4ajItbDQxY2psOGs3ZlZJUmFpTG1OSnRMeW83VXJmVnJiblQ4ZEZjSEJXWVAxaUJCRFhiYkZPNm5IVHdjVlE3enRMN0x5bTh0Z29GZzdiRWxBLW55SVl6Y0Rj?oc=5",
+      "source": "Boulevard Voltaire",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEZyeUdCSEoyNEFxM3pIMHljbUt2aGxyZ28wUm9ZVVE3WjVMczI2aGJKVjIyMk9mYllaQXoweXFuaF8tYWdzY0x0cktIcVk1Z3hndVA4ajItbDQxY2psOGs3ZlZJUmFpTG1OSnRMeW83VXJmVnJiblQ4ZEZjSEJXWVAxaUJCRFhiYkZPNm5IVHdjVlE3enRMN0x5bTh0Z29GZzdiRWxBLW55SVl6Y0Rj?oc=5\" target=\"_blank\">Présidentie",
+      "publishedAt": "2026-07-15T13:46:53.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 : Renaissance poursuit Marine Le Pen et le RN pour \"parasitisme\" et \"contrefaçon de marque\" - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWHlCM2dNSUR6WkVMRHQ0dk9TWVNyQlBvam9lRUlsMTl6aGw4NjM3UDJ2ME02WTI2TG5ERE92bW9LQlRwX21JNnd6aTB0RWdXRmtLVVhDNzdiOGxjcUROZWR1c1p4NTNIR01scHdpV3B3ekIxVjZzeWxfdURRVmxDcVdZWkRpck5seE9GZkNkRjBxU0lMNlFleEJoRVdhM2k2S0tKaXdjTWdGTGVGcGc4eUxaWXBIOGZaUjNKc2RDSjNfZ3N6NVNFd2doLV9QQmVZZzh2U2JUV01tdkdWb21YZ1Z0SnF3MzZ6NzE4YTFMMDhiSjVuZUhj?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWHlCM2dNSUR6WkVMRHQ0dk9TWVNyQlBvam9lRUlsMTl6aGw4NjM3UDJ2ME02WTI2TG5ERE92bW9LQlRwX21JNnd6aTB0RWdXRmtLVVhDNzdiOGxjcUROZWR1c1p4NTNIR01scHdpV3B3ekIxVjZzeWxfdURRVmxDcVdZWkRpck5seE9GZkNkRjBxU0lMNlFleEJoRVdhM2k2S0tKaXdjTWdGTGVGcGc4eUxaWXBIOGZaUjNKc2RDSjNfZ3N6NVNFd2",
+      "publishedAt": "2026-07-15T10:25:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-16T01:12:34.773Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal annonce un grand meeting régional le 10 octobre à Lyon",
+      "url": "https://attalpresident.fr/actualites/gabriel-attal-annonce-un-grand-meeting-regional-10-octobre-a-lyon",
+      "source": "Gabriel Attal — site officiel (actualités)",
+      "snippet": "Rendez-vous dès 14h00 pour un grand rassemblement populaire et gratuit. L&#x27;objectif : porter ensemble un projet d&#x27;avenir, d&#x27;espoir et d&#x27;engagement pour la France et refuser la tenaille entre le RN et LFI.",
+      "publishedAt": "2026-07-16T12:00:00.000Z",
+      "lang": "fr",
+      "type": "official",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "official": "Gabriel Attal — site officiel (actualités)",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal continue son Tour de France à Nevers.",
+      "url": "https://attalpresident.fr/actualites/gabriel-attal-continue-son-tour-de-france-a-nevers",
+      "source": "Gabriel Attal — site officiel (actualités)",
+      "snippet": "Proximité, écoute et présence sur le terrain, au plus près des Français, Gabriel Attal était en déplacement dans la Nièvre sur le parcours du Tour de France, entre Vichy et Nevers, ce mercredi 15 juillet.",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "lang": "fr",
+      "type": "official",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "official": "Gabriel Attal — site officiel (actualités)",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
+      "isNew": true
+    },
+    {
+      "title": "Fin de vie : Gabriel Attal salue la consécration d&#x27;un nouveau droit et d&#x27;une liberté.",
+      "url": "https://attalpresident.fr/actualites/gabriel-attal-fin-de-vie-l-aboutissement-d-un-long-chemin-et-la-consecration-d-un-droit-nouveau",
+      "source": "Gabriel Attal — site officiel (actualités)",
+      "snippet": "L&#x27;Assemblée nationale vient d&#x27;adopter définitivement le projet de loi sur la fin de vie, marquant l&#x27;aboutissement d&#x27;un processus démocratique de quatre ans. À l&#x27;issue de ce vote historique, Gabriel Attal s&#x27;est exprimé pour revenir sur la consécration de ce droit nouveau, strictement encadr",
+      "publishedAt": "2026-07-15T12:00:00.000Z",
+      "lang": "fr",
+      "type": "official",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "official": "Gabriel Attal — site officiel (actualités)",
+      "firstSeenAt": "2026-07-17T01:16:43.008Z",
       "isNew": true
     }
   ],
   "stats": {
-    "total": 48,
-    "new": 48,
-    "carried": 0,
-    "media": 48,
+    "total": 71,
+    "new": 39,
+    "carried": 32,
+    "media": 68,
     "agenda": 0,
-    "official": 0,
+    "official": 3,
     "coOccurrence": 1
   }
 }
