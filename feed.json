@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-07-20T01:16:59.489Z",
+  "generatedAt": "2026-07-21T01:13:55.572Z",
   "persons": [
     "attal",
     "sejourne"
   ],
   "lookbackHours": 48,
   "items": [
+    {
+      "title": "Philippe-Attal-Retailleau : des dîners secrets de conseillers pour éviter la guerre - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTR4NTdzeUxDT19YQjdxZWhUMk9vNmE3LUFmcjhoVlo4SXQ4Yi1qM3FRM3hNWkVIRTZxRGdhTXpFVlRmWE9XcmJoWkx3QUxLeC14cnJ4c1NjRWVIOWt2b0s5bmJnVWV0a044OUduRkgyWWg3S0FxekVyM3B0dlVNZUlNVUtfV3hIaXNhZnd6eWJLRUN0SXJvTFAxRjU1eG1pNTFrQ3lHQVJRS3Blem1FYlEtckNlQQ?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTR4NTdzeUxDT19YQjdxZWhUMk9vNmE3LUFmcjhoVlo4SXQ4Yi1qM3FRM3hNWkVIRTZxRGdhTXpFVlRmWE9XcmJoWkx3QUxLeC14cnJ4c1NjRWVIOWt2b0s5bmJnVWV0a044OUduRkgyWWg3S0FxekVyM3B0dlVNZUlNVUtfV3hIaXNhZnd6eWJLRUN0SXJvTFAxRjU1eG1pNTFrQ3lHQVJRS3Blem1FYlEtckNlQQ?oc=5\" target=\"_blank\">P",
+      "publishedAt": "2026-07-20T15:30:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-21T01:13:55.572Z",
+      "isNew": true
+    },
     {
       "title": "Présidentielle 2027: Jean-François Copé (LR), estime \"qu'à l'automne ceux qui seront les moins biens placés\" parmi Gabriel Attal, Édouard Philippe et Bruno Retailleau \"se retirent\" - BFM",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPaXR0LXJVbDNTQWJzZjZneHZ4Ml9NNktFRi1CdXVZZEVreTV3Yks5WFlERnZPQlRxVGE2b3JIYnNzZF9JS2RmUVhwNy1oTmFoWU53OGt4Zk5ST2hEMjBFMnM4WjBBVkE1M3NCRHBlc29PR3BOczdXUHFyZkN4ME50d3ZBbVhVOERpckJ3bmN6SnRFRElIR2lHOEpaUms1N3VsV01MdHI3MGtjc0RTejBMbl84UEhiRzJmeEtoejJSdFFDUzlkZGQ0Q1JIN3p5VURPTEpSUDBlOGJ5VGpWaTBCYVZqcmVFUGYtSV9YeFQ4dktZVEtoazF3YXBONzZHMjJxY1JJdUpFM3AzWUd5b2RxcXBUZHV6YzRQYW9OVjdTSGtuZE5iWlNwNjFYLU9qaHluWTVCdktLNVRzZm0wWmpvUmRBMWJpM2NWaUVRRTAwOA?oc=5",
@@ -19,22 +34,67 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-20T01:16:59.489Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "DECRYPTAGE. Présidentielle 2027 : comment Attal, Mélenchon ou Glucksmann profitent de l’été pour se rapprocher des Français - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZk82MVlPYUdPTnZJcTZoWWgyMDZGWXA3WGhkRXFPZHVXUGEwVm5PQkh4cnVvaTk3SDlEaWlDaVBKNnpHVXRiS2tHdkNyX2hPenNBVEh5bjZEMDF6V3hQVGdsS3ZmTHBWTHp0bHpSV29kR3h3OW5CUGZweTdkQnJSbHpkbkRBT050Q0RWQ1paaGtscC1rdTNtcDFzeTFPUDdoQzZGaWFSQXAtRVJBWDZ1MWFSaHJkUWd5WWZOQWhHb2ExM1ktX1BCcHI3bC1xSUMxUUxEWTBUMlpRMGN3Q1pIYkdORGozeEpSdWttQ0x0ZmMwOFA2MVozSHVyMA?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZk82MVlPYUdPTnZJcTZoWWgyMDZGWXA3WGhkRXFPZHVXUGEwVm5PQkh4cnVvaTk3SDlEaWlDaVBKNnpHVXRiS2tHdkNyX2hPenNBVEh5bjZEMDF6V3hQVGdsS3ZmTHBWTHp0bHpSV29kR3h3OW5CUGZweTdkQnJSbHpkbkRBT050Q0RWQ1paaGtscC1rdTNtcDFzeTFPUDdoQzZGaWFSQXAtRVJBWDZ1MWFSaHJkUWd5WWZOQWhHb2ExM1ktX1BCcH",
-      "publishedAt": "2026-07-18T04:48:00.000Z",
+      "title": "Joyce Jonathan au \"paradis des villages perchés\" : la chanteuse retrouve Gabriel Attal et profite avec sa fille - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGNiS0JPX2RNaU1kWUthLV94cFQ2Mmw1OWlnNlNGcnVkVEZRODA5UDE2OEs5SGx5ZmxXWndhcnJRUlBwcnRYd1NBTERIcHhtUEdHWkZ1OXJEQ0FvRER2ZlBwUXBKbDNIVUg0UXVkNUhGTWp2c0hVdXFCM2xVbHVrLQ?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGNiS0JPX2RNaU1kWUthLV94cFQ2Mmw1OWlnNlNGcnVkVEZRODA5UDE2OEs5SGx5ZmxXWndhcnJRUlBwcnRYd1NBTERIcHhtUEdHWkZ1OXJEQ0FvRER2ZlBwUXBKbDNIVUg0UXVkNUhGTWp2c0hVdXFCM2xVbHVrLQ?oc=5\" target=\"_blank\">Joyce Jonathan au \"paradis des villages perchés\" : la chanteuse retrouve ",
+      "publishedAt": "2026-07-20T20:16:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-19T01:13:29.936Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-21T01:13:55.572Z",
+      "isNew": true
+    },
+    {
+      "title": "Concert de Barbara Butch interrompu : Manuel Bompard comprend «les protestations pacifiques», Gabriel Attal répond qu'il s'agit «d'antisémitisme pur» - CNews",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOenJHSGhjYmFCTjhZMXpZYUFXRmVlSjFfT245WUZOR1JheWRxVjNRMW9Zd2VGTldqOVhMSGNOeGQzV2lsUDhhZTdzbGJ0cF93V2dIOHl2RmhLVTE1bXNzWUxSb2VWOWF4VUFPeHhoTG15Q3RhM1BDMElKbHVHZkhiXzBIT09WcmJvazVmS3FZZy02Sjd4dTJEcDNCNmlZUnlvSVh0b05pd0RuWWtjQTBWWlhabzdBUlnSAbwBQVVfeXFMTkVUamxZVEtBSE0tQmpxbU1GNFVFaTFmQmhpZS01bFVLMUVsQ2I3eC1xNWdfS20wcE9RUHlENFJZcXdza3JRMjg4MmxnamM4LXpDYmNjRmluMnVTWDNZTmt1a2p4TTM2RnB3NS11NlhvZTZKYTlLckR5MnNxVDBqbEt2dmU5bTNOWFVIejF2ZmY1dnk0Y2hwZ2o4MWFRVFdOd3VxdmxSZGNJcGkyckRnNEx5and1Nm9LY3laTHU?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOenJHSGhjYmFCTjhZMXpZYUFXRmVlSjFfT245WUZOR1JheWRxVjNRMW9Zd2VGTldqOVhMSGNOeGQzV2lsUDhhZTdzbGJ0cF93V2dIOHl2RmhLVTE1bXNzWUxSb2VWOWF4VUFPeHhoTG15Q3RhM1BDMElKbHVHZkhiXzBIT09WcmJvazVmS3FZZy02Sjd4dTJEcDNCNmlZUnlvSVh0b05pd0RuWWtjQTBWWlhabzdBUlnSAbwBQVVfeXFMTkVUamxZVE",
+      "publishedAt": "2026-07-20T12:27:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-21T01:13:55.572Z",
+      "isNew": true
+    },
+    {
+      "title": "Joyce Jonathan au \"paradis des villages perchés\" : la chanteuse retrouve Gabriel Attal et profite avec sa fille - Ode (Purepeople)",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNjZhcUNRSGxuczh0cnV6OEVBS203UVNReWw1RkdLRkQ0NmJfU3RJMHVOTlFSbkYzQWZXQy1CM0Zha3FhSGN0VENDdW1oT092Z3JDLUlwMVdFLTctZ2MtTGhwVm5TSkl2YjFMYnRZQlRBYnB5aWRReTlocjVsazI2WU12NzQwczBNNUxVcnZhUzZONEdxcjlTM1ZVdDJpamtQVmJfY2NyTEttNXh3YU5vVkpZakJqQ2lpSDAwZkV2THhXUG51a2NiaWlmaF82SWdJZk0yR01YcklkUW9SdnVhRFBWWU5EQVE?oc=5",
+      "source": "Ode (Purepeople)",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNjZhcUNRSGxuczh0cnV6OEVBS203UVNReWw1RkdLRkQ0NmJfU3RJMHVOTlFSbkYzQWZXQy1CM0Zha3FhSGN0VENDdW1oT092Z3JDLUlwMVdFLTctZ2MtTGhwVm5TSkl2YjFMYnRZQlRBYnB5aWRReTlocjVsazI2WU12NzQwczBNNUxVcnZhUzZONEdxcjlTM1ZVdDJpamtQVmJfY2NyTEttNXh3YU5vVkpZakJqQ2lpSDAwZkV2THhXUG51a2NiaW",
+      "publishedAt": "2026-07-20T20:16:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-21T01:13:55.572Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal : meeting à Lyon, en octobre - La Lettre de l'Expansion",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFhCbTkzbTVXWTBsWTNJdU1FYUFhN3RvVmlLTGpMYS1TUHc2dlZRZ2doanFxaFpfNEJnRmJ0QkxCaFhKN01xeXZ5SkJCUF93SWZUV1pZNHYzNjJGb24yQUtnSVN1RUcydmZGUmZYMG51YVh0UHMxMWFFbkRXTTB1YURuVm54eU5hSUdnUkJyNzBIOGtN?oc=5",
+      "source": "La Lettre de l'Expansion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFhCbTkzbTVXWTBsWTNJdU1FYUFhN3RvVmlLTGpMYS1TUHc2dlZRZ2doanFxaFpfNEJnRmJ0QkxCaFhKN01xeXZ5SkJCUF93SWZUV1pZNHYzNjJGb24yQUtnSVN1RUcydmZGUmZYMG51YVh0UHMxMWFFbkRXTTB1YURuVm54eU5hSUdnUkJyNzBIOGtN?oc=5\" target=\"_blank\">Gabriel Attal : meeting à Lyon, en octobre</a>&",
+      "publishedAt": "2026-07-20T03:55:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-21T01:13:55.572Z",
+      "isNew": true
     },
     {
       "title": "Présidentielle 2027: Jean-François Copé (LR), estime \"qu'à l'automne ceux qui seront les moins biens placés\" parmi Gabriel Attal, Édouard Philippe et Bruno Retailleau \"se retirent\" - Orange Actualités",
@@ -49,59 +109,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-20T01:16:59.489Z",
-      "isNew": true
-    },
-    {
-      "title": "Pour l'ex-Premier ministre Gabriel Attal, l'occasion manquée d'un duel avec Jordan Bardella - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUU1RZjdjelVBdEVTT1djdU1tdXB0OW51cUVJbUViT1ROMmJRd3Bsc19QT3M0WGZkSTY0U1lDMXMxM1p1ZmMzM2oySThnbzlJVmw1RWNrWFh2S1pVTUlCbHNSSXp5MkFSc2NWT2YzVGVWU1YtX0s0ZGdhb3RPaWx3eVh1cHVHQlVCVHB5MnlnVlk5TllEUUpISjM3b1JUSkdiMWhjbXM4eGhBY0tuMTg4YkJTNnFFR2NCaEZzdF9PRUIycUt0NFFOR0E5cHRvUnlLYnhDRlRqZnZlYVZ4TkdiUDRjZThqTGV0NFdvZExTbDcwNFhuWDlQb0poRnA?oc=5",
-      "source": "RFI",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUU1RZjdjelVBdEVTT1djdU1tdXB0OW51cUVJbUViT1ROMmJRd3Bsc19QT3M0WGZkSTY0U1lDMXMxM1p1ZmMzM2oySThnbzlJVmw1RWNrWFh2S1pVTUlCbHNSSXp5MkFSc2NWT2YzVGVWU1YtX0s0ZGdhb3RPaWx3eVh1cHVHQlVCVHB5MnlnVlk5TllEUUpISjM3b1JUSkdiMWhjbXM4eGhBY0tuMTg4YkJTNnFFR2NCaEZzdF9PRUIycUt0NFFOR0",
-      "publishedAt": "2026-07-18T09:53:08.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-19T01:13:29.936Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : cette partie du bloc central qui lorgne la gauche sociale-démocrate - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc0lrZHUtcG5QcTAyMkxFR2ZvU1FqbmE5SzI1NVNfbFpPU00tWFN1X3cxRU5UNGUwc2hGeVR4bGI1ZTZtSW5JcUdYS0JhaUR6RWk1NlFxcWRxblFYMFppMkRIbFlpUVAtZmhhU0VUcWlZUmlra1p5b0NGMEFHMnBXR1B2aUxDaFFTM2xwb05taHNmZ0tCMDYtSTlRLVdKNElaempvTUkyWGFFdjUtZmdUVVZQeEFuS0Z1dDhHSEEwc2ktUzMwZXE0U0lsaVh0VGFJRlcyM0ZEcVBUMlgtVXdqR2E0MVRBeXJnOU1saUkzUjE?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNc0lrZHUtcG5QcTAyMkxFR2ZvU1FqbmE5SzI1NVNfbFpPU00tWFN1X3cxRU5UNGUwc2hGeVR4bGI1ZTZtSW5JcUdYS0JhaUR6RWk1NlFxcWRxblFYMFppMkRIbFlpUVAtZmhhU0VUcWlZUmlra1p5b0NGMEFHMnBXR1B2aUxDaFFTM2xwb05taHNmZ0tCMDYtSTlRLVdKNElaempvTUkyWGFFdjUtZmdUVVZQeEFuS0Z1dDhHSEEwc2ktUzMwZXE0U0",
-      "publishedAt": "2026-07-18T06:12:54.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-20T01:16:59.489Z",
-      "isNew": true
-    },
-    {
-      "title": "Stéphane Séjourné And David Lammy Visit Israel And The OPTs Heart (ZT0FgVryUC) - Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HR1IzeDN0SGYwZ2VDdUVoNkx1c1BrT0stWDhrOHhTSXJVRDl4eXJzbmRVX0hGbk9ROG9HTDdMUk9CY1k5YnRGREtBaHc5VzNxMFVGeXlWWEJkZjA?oc=5",
-      "source": "Mshale",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HR1IzeDN0SGYwZ2VDdUVoNkx1c1BrT0stWDhrOHhTSXJVRDl4eXJzbmRVX0hGbk9ROG9HTDdMUk9CY1k5YnRGREtBaHc5VzNxMFVGeXlWWEJkZjA?oc=5\" target=\"_blank\">Stéphane Séjourné And David Lammy Visit Israel And The OPTs Heart (ZT0FgVryUC)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</",
-      "publishedAt": "2026-07-18T14:07:27.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-19T01:13:29.936Z",
       "isNew": false
     }
   ],
   "stats": {
-    "total": 6,
-    "new": 3,
-    "carried": 3,
-    "media": 6,
+    "total": 7,
+    "new": 5,
+    "carried": 2,
+    "media": 7,
     "agenda": 0,
     "official": 0,
     "coOccurrence": 0
