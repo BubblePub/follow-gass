@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T01:19:44.730Z",
+  "generatedAt": "2026-07-24T01:15:46.410Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,48 +7,63 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Présidentielle 2027 : le candidat Gabriel Attal en campagne en Finistère et en Morbihan - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcl80enpmcHg2cU5LOF9oaEdtbnZvZElCanI1b0RWOHdMbWZvaU1tUERMQktCbG4tckdCQ2JDSFRJOF9pczFNMVZEanBkcm5hVUpicFFxUXBLMW95Q1VWbDUxQ2xCZXJmVm9hRXlVM2VXYVhtbzUwLWZCYmxSRHpacHBKYUlFMkpBaGZfUzczWDhIZDNqZzVKZ0o1VGRpdVhkVUkyaGhGV212LVp5dlZDczlxNkJ4all6QnpHUlVGdGt1Rk56Ukx3WnU0Y1RGeG9Hb0FzYnRmbGlyN3ZBU0NJclVsNDV5dkVQdlpYbzQzeE93NmdxWElPZTBBelZ6aHlGQ1hRTg?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNcl80enpmcHg2cU5LOF9oaEdtbnZvZElCanI1b0RWOHdMbWZvaU1tUERMQktCbG4tckdCQ2JDSFRJOF9pczFNMVZEanBkcm5hVUpicFFxUXBLMW95Q1VWbDUxQ2xCZXJmVm9hRXlVM2VXYVhtbzUwLWZCYmxSRHpacHBKYUlFMkpBaGZfUzczWDhIZDNqZzVKZ0o1VGRpdVhkVUkyaGhGV212LVp5dlZDczlxNkJ4all6QnpHUlVGdGt1Rk56Ukx3Wn",
-      "publishedAt": "2026-07-21T14:26:27.000Z",
+      "title": "\"Je me dézinguais à m'en faire péter la couscoussière\" : l'ancien conseiller en communication de Gabriel Attal révèle son addiction passée à la cocaïne - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQd2szUG5wT1BrMjdpazdRZHVhUEFGRUNSVlpZOW82Z2lhZ3c3Z2NjUllabFNXbE44ejlNdGs1c0h3Qi16QzlOM3J2SFE1ZF91LXZWQ0YzUUVKdzJGNVNhcnhfYjhWSVpiOEU0WVJ4ZkNCdzl4aS1QY3JDYkRiQ3FJVlFmektHNXBIOE1DY2tYRll2QWdPQlVLcVBVYlJxQU9wYlFvd3U2RU1LUDh2OFNPbHBrMGJ3NWRTWWFRME5nc18tYjBKZ3ppLUxVQVc0NzFORG5meFByanRjbk40NGpxVWp3Z2pQLXplSmsxRDNQbWtPcDhGbkNHb19ZNkVoZVl6VDN4LUhFQjdnYXgxMUVpR0NYWFViRS0wYmNZZ1UtSTVaMjNUN3I2OVZDV3l6R0QyZDJyZw?oc=5",
+      "source": "franceinfo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxQd2szUG5wT1BrMjdpazdRZHVhUEFGRUNSVlpZOW82Z2lhZ3c3Z2NjUllabFNXbE44ejlNdGs1c0h3Qi16QzlOM3J2SFE1ZF91LXZWQ0YzUUVKdzJGNVNhcnhfYjhWSVpiOEU0WVJ4ZkNCdzl4aS1QY3JDYkRiQ3FJVlFmektHNXBIOE1DY2tYRll2QWdPQlVLcVBVYlJxQU9wYlFvd3U2RU1LUDh2OFNPbHBrMGJ3NWRTWWFRME5nc18tYjBKZ3ppLU",
+      "publishedAt": "2026-07-23T15:44:35.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "« L’écart entre le net et le brut est devenu un scandale français ! » : un déplacement de trois jours en Bretagne sur le thème des salaires pour Gabriel Attal - Le Télégramme",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMWsyWHZ5RDdZamNQcUEtNWdINlFsbjJ4RWJ3eUl3Q2hUckZlNzZlTjVpNXRTWVctWVVJamdTUV85ZmhNZnRYT1AxVHpybi1qNnRxX1Y3MWphZDlWMFQ1cWNwYkt6N1dtZXFMMXo2Z2Y4WHRNZXBfX0FBQlRlMVgySFZzS0M5Z2NDbTZJLTFiS0lHRzkyUkliUlkzWVZzNWc5NVVqMWpfWFBXUl9MQmtoRi12LTBONkpiaVVLMTBQMzcxVWdqMHlBczkyRWVpVE1LWm5FSS16TG9kQi14RC1hVThwNkNSbldsVW9qQXpqWFZMM2lVdFB2bHVKNHJyb3VaZzdyMXA2RVJiczNhbjE2eVIxeEdteDh1QWNLclA4RTZ1eDlG?oc=5",
-      "source": "Le Télégramme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxOMWsyWHZ5RDdZamNQcUEtNWdINlFsbjJ4RWJ3eUl3Q2hUckZlNzZlTjVpNXRTWVctWVVJamdTUV85ZmhNZnRYT1AxVHpybi1qNnRxX1Y3MWphZDlWMFQ1cWNwYkt6N1dtZXFMMXo2Z2Y4WHRNZXBfX0FBQlRlMVgySFZzS0M5Z2NDbTZJLTFiS0lHRzkyUkliUlkzWVZzNWc5NVVqMWpfWFBXUl9MQmtoRi12LTBONkpiaVVLMTBQMzcxVWdqMHlBcz",
-      "publishedAt": "2026-07-22T17:00:02.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
       "isNew": true
     },
     {
-      "title": "Gabriel Attal et Loïg Chesnais-Girard attendus pour l’ouverture des Fêtes maritimes de Douarnenez ce jeudi 23 juillet - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdkQ5ZHB2VVdaMG1URTBTY1hCdmg0czZETnlERFdvTnlkQTRhVDU3TUo2U05sU0pmT1dwZlhqZFBaRE56MFR5V1ZoNXBLQnVTZnkwR2NHZDFTaDkwaDF1eWYyMzB6UTExazAxYnEzOHU3S3BhMEYtUFl1S2ZBUXNVSFZSUk9wSXhrcGhvaUN0dHJXZ2ljUUtXMHJKbUgycXpqalNsRmdadU1WWHRiclZWeEFnTnhyN3gxTk4zMFJWRk5wZHpKVWJHVlFJWW96YkxySFFDZnZPV3BpRVZxaDJhM3Y4aWhzb0lkREFXdHJVVVA1cE1fbTJfMENXTmZubFE4RVNGYTBCdWdtZUNrSC1lRTltN0RKelhZVkV5R2paUTZKbDZXUUpZWm9oeEFXQ3lFaHBGTGlEVFlCRV9SX1FPb2w4TkY4SDdtbGNsNy1jdkZwWi1FMWowSndsaHVQcWlyUXNzMVhReDRoZw?oc=5",
+      "title": "« Je me dézinguais à m’en faire péter la couscoussière » : l’ex-conseiller de Gabriel Attal évoque son rapport à la drogue - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdUxIbVVfUXBfZC1LaE1jSW8wUDFQS0RZNHVmdEh5eHpWZ3RCeHl3Njd5ZTEzV3NPMG9LTy1jSElRa3hjQWItNlItMGZuQVd3Q1JMUVlWbHV0SlZKRktKTGRmeXVSQzYtMUFwZ0w3alh2bTk3SHZiZ0hUY2RTR2ZCVTd0QnE4bjdreTZSQkhBZ3hIREJGNXFMb09SX2d6ZWFVbFpiT0hsc0s2UGc0cGs1bWd3YkdtcFhuRGR0T3JHRlB2TzgtcTlQMTRSLXk3cU5kbHhyVElMTG1idEF0cm1LTGI3ekVsUU03aFhxZGNPeVNUcmg4MUlWNW5oQjA1ZWY1MnVvenFRZHFGMlNNLThGV1FPVm9ueXNR?oc=5",
       "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdkQ5ZHB2VVdaMG1URTBTY1hCdmg0czZETnlERFdvTnlkQTRhVDU3TUo2U05sU0pmT1dwZlhqZFBaRE56MFR5V1ZoNXBLQnVTZnkwR2NHZDFTaDkwaDF1eWYyMzB6UTExazAxYnEzOHU3S3BhMEYtUFl1S2ZBUXNVSFZSUk9wSXhrcGhvaUN0dHJXZ2ljUUtXMHJKbUgycXpqalNsRmdadU1WWHRiclZWeEFnTnhyN3gxTk4zMFJWRk5wZHpKVWJHVl",
-      "publishedAt": "2026-07-22T16:33:03.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQdUxIbVVfUXBfZC1LaE1jSW8wUDFQS0RZNHVmdEh5eHpWZ3RCeHl3Njd5ZTEzV3NPMG9LTy1jSElRa3hjQWItNlItMGZuQVd3Q1JMUVlWbHV0SlZKRktKTGRmeXVSQzYtMUFwZ0w3alh2bTk3SHZiZ0hUY2RTR2ZCVTd0QnE4bjdreTZSQkhBZ3hIREJGNXFMb09SX2d6ZWFVbFpiT0hsc0s2UGc0cGs1bWd3YkdtcFhuRGR0T3JHRlB2TzgtcTlQMT",
+      "publishedAt": "2026-07-23T12:55:01.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "L’ex-communicant d’Attal révèle ses ambitions politiques et ses anciennes addictions - Libération",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObGwzamFRaEY3bWdWUDNpOFVLOXVVWEh2U1lHVHN4QmJhUnRsVWhTZEZtY19DOHUzSDNfa096a2k2WVZSX18tWmhpU1VBX25MQzFIeV9KVm45TEtRbmZETTFWRF83U0dwLWwtWmsxamVSN2RSLWhKdmtubDMtSXRla1lEb2x3VE5EbzN3QVYwcG1raVhqUFpmdUVCYW43WWhKSWE0MU5HNTdXR015bUxBV00tWnRLdVNVbHl6SlczRUlFSHdKbG9DWEw1bG5IbWFCQkp0eTN2aU9pWndSTUt3WWlmN3FEcGg4cmRR?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxObGwzamFRaEY3bWdWUDNpOFVLOXVVWEh2U1lHVHN4QmJhUnRsVWhTZEZtY19DOHUzSDNfa096a2k2WVZSX18tWmhpU1VBX25MQzFIeV9KVm45TEtRbmZETTFWRF83U0dwLWwtWmsxamVSN2RSLWhKdmtubDMtSXRla1lEb2x3VE5EbzN3QVYwcG1raVhqUFpmdUVCYW43WWhKSWE0MU5HNTdXR015bUxBV00tWnRLdVNVbHl6SlczRUlFSHdKbG9DWE",
+      "publishedAt": "2026-07-23T09:30:01.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Entre Gabriel Attal et Sébastien Lecornu, la guerre est désormais totale (et visible) - Le HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2U4U0stODFwWVhRa0Y2Sk9hbFF3c1UwWUQzQ2VHVnFrMllIRU5QUWNSZUt6dFJfTDJ6OV91RDFJX1hMeUtIckVlYjNBQmRBTl9xeGFSSGZkT1VYek1EOEVGV3pJejNTdld3Q2VBNHdENnVYUG9UZUw3cWJTWUFDUkRqY1hOYlpXbWRadXZhc3FBa0RIUl9lR0VIbm9rZy1HOXp1UGNMcS16YWUzZnZ1amFNb2ZiOVAzR2JBeUZEXzdEU09ORi1KV0YtYTFjVVVkd1REUFF2ZXNzdw?oc=5",
+      "source": "Le HuffPost",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2U4U0stODFwWVhRa0Y2Sk9hbFF3c1UwWUQzQ2VHVnFrMllIRU5QUWNSZUt6dFJfTDJ6OV91RDFJX1hMeUtIckVlYjNBQmRBTl9xeGFSSGZkT1VYek1EOEVGV3pJejNTdld3Q2VBNHdENnVYUG9UZUw3cWJTWUFDUkRqY1hOYlpXbWRadXZhc3FBa0RIUl9lR0VIbm9rZy1HOXp1UGNMcS16YWUzZnZ1amFNb2ZiOVAzR2JBeUZEXzdEU09ORi1KV0",
+      "publishedAt": "2026-07-23T15:50:05.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
       "isNew": true
     },
     {
@@ -64,52 +79,292 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "isNew": false
+    },
+    {
+      "title": "Joyce Jonathan et Gabriel Attal se retrouvent (encore) en vacances - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1lIY1FiaE9kMzlkVl9JbEdqcWktRUdsRHh6Nlc2R3RCZVQwa1JLd3NCdDkwOC1OR05zdGRLeVQzNzJrNzBIWGV0TW1EaWNKUjlYazNNNXhIb0Z3Zllfc0RFeFRIMjFYMWpwcF9kcUlDY1loR2c1WllCSW9vU2pGdEVXcjJvUGVIa1pfUHp5dmlxSDhPbmhCRFVpbFRBQkkyVmtUaDhtLWk3OHBuWEIzdFAwQ1VCUQ?oc=5",
+      "source": "20 Minutes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1lIY1FiaE9kMzlkVl9JbEdqcWktRUdsRHh6Nlc2R3RCZVQwa1JLd3NCdDkwOC1OR05zdGRLeVQzNzJrNzBIWGV0TW1EaWNKUjlYazNNNXhIb0Z3Zllfc0RFeFRIMjFYMWpwcF9kcUlDY1loR2c1WllCSW9vU2pGdEVXcjJvUGVIa1pfUHp5dmlxSDhPbmhCRFVpbFRBQkkyVmtUaDhtLWk3OHBuWEIzdFAwQ1VCUQ?oc=5\" target=\"_blank\">J",
+      "publishedAt": "2026-07-23T11:27:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
       "isNew": true
     },
     {
-      "title": "«Retrouvailles» : les ex-amoureux Joyce Jonathan et Gabriel Attal réunis dans le Luberon - TV Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSjRRRUJ0VXBsNjVqOUUzUDFseUZiVFVqbHNkS2NrYlpIbnEwSE5jWmx4Vl9FQVFGQmdPTjUxeThmWHlDSmFJcTNJbzhlZTExV3FUUUZZaGwyQng5U1Yzd2JtcGd6dU9jVzFTRnM5ZXZkaG1WaTY0d1ctSmVVQnZyYUo0aVdGbGI2bEpUd3R5cWRtQlZGbXdRcnM4dHF0SWlIamZMMnJYQjI4aWNkUS1Rb1NUdHkwaGZHM1Rkd0M5N3pCTWZRVGhidDFWTERmWWxVOGxaTlV3?oc=5",
-      "source": "TV Magazine",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSjRRRUJ0VXBsNjVqOUUzUDFseUZiVFVqbHNkS2NrYlpIbnEwSE5jWmx4Vl9FQVFGQmdPTjUxeThmWHlDSmFJcTNJbzhlZTExV3FUUUZZaGwyQng5U1Yzd2JtcGd6dU9jVzFTRnM5ZXZkaG1WaTY0d1ctSmVVQnZyYUo0aVdGbGI2bEpUd3R5cWRtQlZGbXdRcnM4dHF0SWlIamZMMnJYQjI4aWNkUS1Rb1NUdHkwaGZHM1Rkd0M5N3pCTWZRVGhidD",
-      "publishedAt": "2026-07-21T13:59:11.000Z",
+      "title": "Joyce Jonathan et Gabriel Attal se sont retrouvés dans le Luberon pour les vacances - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWYweGI0NEM0ZlRIWkJnMUFvaldvUjVWX082U1V1cFl6Tk1zQWk5SmxHeDgwVmNUMl9jZEpDTUozalViVnVNc0xKeE5iY3diUnUwYzllVzBuZmtMWDlUQnRYaExMWUcyQVJybVJ4U3JVckxrVXhXNzZwTHV5VENOLU9rOGVRcU4zNjZ4QQ?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWYweGI0NEM0ZlRIWkJnMUFvaldvUjVWX082U1V1cFl6Tk1zQWk5SmxHeDgwVmNUMl9jZEpDTUozalViVnVNc0xKeE5iY3diUnUwYzllVzBuZmtMWDlUQnRYaExMWUcyQVJybVJ4U3JVckxrVXhXNzZwTHV5VENOLU9rOGVRcU4zNjZ4QQ?oc=5\" target=\"_blank\">Joyce Jonathan et Gabriel Attal se sont retrouvés dans le",
+      "publishedAt": "2026-07-23T11:27:37.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
     },
     {
-      "title": "Isère. Suicide de Joris : Gabriel Attal, Mathilde Panot… les réactions politiques continuent d’affluer - Le Dauphiné Libéré",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbll4cjRRcnVnNDgtNjhxWXJ0TGZOSWFMc1dkSi1ZV0NRdjJ3eFk2NjYtY29yS0MyWWtNeW9BRXRBQWxhVTJDbjdjRHNsV1VzMm80cHpVV1czcU5IWWhuakcyUWVWaWtyNU5MeVk0a0hIX1IyTHdIUVc4NklleTNKWm44N003Tk5MVXBTb1ctUUQ4WGlLX2lHU2V4bGNFNm1hUXNueF9lOXpXVk5ZUHVVb0N4YVRld3R1UkdXd2dpd21ySEktWEZUUk9XVEVyUGZhdktTNmFMUVhzclozTGFNd1dsQTk5TzlaTU1Meg?oc=5",
-      "source": "Le Dauphiné Libéré",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbll4cjRRcnVnNDgtNjhxWXJ0TGZOSWFMc1dkSi1ZV0NRdjJ3eFk2NjYtY29yS0MyWWtNeW9BRXRBQWxhVTJDbjdjRHNsV1VzMm80cHpVV1czcU5IWWhuakcyUWVWaWtyNU5MeVk0a0hIX1IyTHdIUVc4NklleTNKWm44N003Tk5MVXBTb1ctUUQ4WGlLX2lHU2V4bGNFNm1hUXNueF9lOXpXVk5ZUHVVb0N4YVRld3R1UkdXd2dpd21ySEktWEZUUk",
-      "publishedAt": "2026-07-21T19:00:24.000Z",
+      "title": "Présidentielle 2027 : en Bretagne, Gabriel Attal défend son « choc des salaires » avec Michel-Édouard Leclerc - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd2NwdFVsSGRZbDNUT0s4X0ZkMlpiNG9Ea3NDVUctQ0FCRFhFdWt0d1ZXRlVMSnZnRjVCVDI3THB0elNLTU42XzR6NS0wcl9GSmRfVlZ1X1hmcG4zZ2hOeHlLTzk3ZzFrU2xYN0FSSnlRbmpHSTVlcjBXV25kbXhQbEVmcUgwdWdRNlQtT2lIb0VCYnQ5R2JUdnU4S2dhbVFteWtvblkwUmxVVXlrREpGOXFNdEhCTzhodktmbXNQU2w1QWc1OVVGelZuUFl6OFRpVjEwZUZjZ29EZzN6cGpJYVVLS3ZOSEFPRXdVbm5fSEpmOVU?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd2NwdFVsSGRZbDNUT0s4X0ZkMlpiNG9Ea3NDVUctQ0FCRFhFdWt0d1ZXRlVMSnZnRjVCVDI3THB0elNLTU42XzR6NS0wcl9GSmRfVlZ1X1hmcG4zZ2hOeHlLTzk3ZzFrU2xYN0FSSnlRbmpHSTVlcjBXV25kbXhQbEVmcUgwdWdRNlQtT2lIb0VCYnQ5R2JUdnU4S2dhbVFteWtvblkwUmxVVXlrREpGOXFNdEhCTzhodktmbXNQU2w1QW",
+      "publishedAt": "2026-07-23T17:30:06.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
     },
     {
-      "title": "«Gabriel Attal défend une ligne du \"en même temps\"», martèle Naïma Moutchou - CNews",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVhGWDRQVVNGNjh4ZDNldV9nRFhuWkowRVM0LVBsa0hMeTlKQW5Sb0lRZE9Ja3JRMTAzbTB1bnJZcktId0RBaEZscTVQcE8weHN1Qi1raHlHcnhnejhRcjNPc1BZandDaTNqbXNnUDJ2Zm04WVo1Q3Z5czJVNTRuVjM3YXpiMmJ5M180eXlfMjhCREIydXZBd2otYU51ZzBXVWtBclRLamQ1QS1hRnlpdjVlelNPT2lY0gG-AUFVX3lxTE9Kb296WVVKZnFaSS1kelJJd2dvOHYyWGZLTHNWMTJYNFpKbHRPT0tFSms2WVRwTmp4WkJtaHV0U1hlbGZyRDR6c01XenYySWF3QnZ1Y2VuNkxHTnRSTTRqRVFrM1dZTFBvS0ZOcGJFSkdFV3U5Uk1IeDltTkswQllNS3pVYzdFUVFvWGYwOE03ODdtUEpjWDVPQ3YzTUpEaGNpNHNuandkc2haWWw3QXRRLTFnWVlDOHc5WTFPWEE?oc=5",
-      "source": "CNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVhGWDRQVVNGNjh4ZDNldV9nRFhuWkowRVM0LVBsa0hMeTlKQW5Sb0lRZE9Ja3JRMTAzbTB1bnJZcktId0RBaEZscTVQcE8weHN1Qi1raHlHcnhnejhRcjNPc1BZandDaTNqbXNnUDJ2Zm04WVo1Q3Z5czJVNTRuVjM3YXpiMmJ5M180eXlfMjhCREIydXZBd2otYU51ZzBXVWtBclRLamQ1QS1hRnlpdjVlelNPT2lY0gG-AUFVX3lxTE9Kb296WV",
-      "publishedAt": "2026-07-21T06:22:42.000Z",
+      "title": "La boulette téléphonique de la ministre Genevard avec Attal - Libération",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM0JvZmhNY0pTaEltdkFVWTB2NG56ODYtS1FmVFZrOTU5cWxIcFZQQnJ1b3d3ZXZUbTdnLW16WHlKdTZsQk5aeElhRW1LQ05JcWItTzlhTURxWVRJNV91UEhqeTBhYzY0OEVPR1FCZmJGNkV0UDVoYlUwR1NvazRFQkRhRFUzSHhicWE3a0tTTG8wZkZiQk9LUW5ILXBkSHBrZVJLUXY1YjdxS1JIS28tVWpHWTZYbUJub3RYZmd5Q3BWQ0xHZDJfdFRiNjE?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOM0JvZmhNY0pTaEltdkFVWTB2NG56ODYtS1FmVFZrOTU5cWxIcFZQQnJ1b3d3ZXZUbTdnLW16WHlKdTZsQk5aeElhRW1LQ05JcWItTzlhTURxWVRJNV91UEhqeTBhYzY0OEVPR1FCZmJGNkV0UDVoYlUwR1NvazRFQkRhRFUzSHhicWE3a0tTTG8wZkZiQk9LUW5ILXBkSHBrZVJLUXY1YjdxS1JIS28tVWpHWTZYbUJub3RYZmd5Q3BWQ0xHZDJfdF",
+      "publishedAt": "2026-07-23T09:19:44.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Face à des journalistes ébahis, Gabriel Attal fait disparaître son bilan - Arrêt sur images",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3hHa29xMTg2MWRNOEVHX21qVmcwYW43aU1oSlhMblFqM3A2cVVnb2h5cElmRHJlZHR2Q1pzZ2JzSXJSR1hLbFZLaV91M0oyYXdGalFyekJINThkX0ZnWC05bmJkNHdkWTlGQ1FocTFyc25GNTVTVGZ0MGxGbV9wRE02enlGN0I3SldYakRvTlE4RkpjTkpXQjlCVmNCcjB2b1ZZVm9ya05UTGM1cnJvLQ?oc=5",
+      "source": "Arrêt sur images",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3hHa29xMTg2MWRNOEVHX21qVmcwYW43aU1oSlhMblFqM3A2cVVnb2h5cElmRHJlZHR2Q1pzZ2JzSXJSR1hLbFZLaV91M0oyYXdGalFyekJINThkX0ZnWC05bmJkNHdkWTlGQ1FocTFyc25GNTVTVGZ0MGxGbV9wRE02enlGN0I3SldYakRvTlE4RkpjTkpXQjlCVmNCcjB2b1ZZVm9ya05UTGM1cnJvLQ?oc=5\" target=\"_blank\">Face à de",
+      "publishedAt": "2026-07-23T10:03:42.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Loïg Chesnais-Girard et Gabriel Attal en visite au Juch - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbElWMEpYTlotbURFbGZTN2l0UUcwaXBBVmxTbEtYNEVIQzZLX1g4T3VLekc0M1dYZTZUcEJlLVFNdFhpM1laQUNXUDN3dkhNU0V3RTBsc1IxLVEyUGNyWkJZNS1qM3dwc1VxQVVuZkFPcTZ1S3NVMk9UY2w1bkZ3c2FPQ1RjQ1JYMTdCUEt2SkFYNVNNOElkM3hGOThSbl93NzFCVHl4QzdlUEtxcjFpdU1ZX1g2Umg3d3FwOE9kTnllaFphTVdYMTZ3?oc=5",
+      "source": "Ouest-France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNbElWMEpYTlotbURFbGZTN2l0UUcwaXBBVmxTbEtYNEVIQzZLX1g4T3VLekc0M1dYZTZUcEJlLVFNdFhpM1laQUNXUDN3dkhNU0V3RTBsc1IxLVEyUGNyWkJZNS1qM3dwc1VxQVVuZkFPcTZ1S3NVMk9UY2w1bkZ3c2FPQ1RjQ1JYMTdCUEt2SkFYNVNNOElkM3hGOThSbl93NzFCVHl4QzdlUEtxcjFpdU1ZX1g2Umg3d3FwOE9kTnllaFphTVdYMT",
+      "publishedAt": "2026-07-23T16:03:05.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Visite de Gabriel Attal à Brest - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjRiVnhnQ2I3RUZJdGFnR2tESUpCX3RBZUM1cmdpdmljMG1WNFNKVDRRUFV1UVhjTEg3OTVKR0szNHp5NmowS1U1WTRDeDFzT0M2WkhIRURwckozbGhhSVVKRklWMHM1YlJNSWlEenh4ZUkyVWU3YUVXT3ZFUzRpV19OSkEydDJ0NXVzU3NnWDJOR2U4SmRJTQ?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjRiVnhnQ2I3RUZJdGFnR2tESUpCX3RBZUM1cmdpdmljMG1WNFNKVDRRUFV1UVhjTEg3OTVKR0szNHp5NmowS1U1WTRDeDFzT0M2WkhIRURwckozbGhhSVVKRklWMHM1YlJNSWlEenh4ZUkyVWU3YUVXT3ZFUzRpV19OSkEydDJ0NXVzU3NnWDJOR2U4SmRJTQ?oc=5\" target=\"_blank\">Visite de Gabriel Attal à Brest</a>&nbsp;",
+      "publishedAt": "2026-07-23T12:21:12.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal bientôt de retour à Villers-Cotterêts ? - L'Union",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1RybXJxM3BGNk5rS2RwRkdkR1lWX0FfOEdSOVNsQlZxTTMwQWt6aW50N3c3VWF6aE1pOGJOdExIN1BPbmVfWWZMUkMxcGtSRGJlZEd0dE5GSXkxWkZJd0x3dHpMdWZkM014VTM2YUpZVUVScmZLMGtoaU9rcHY0RW9vcTY4VzFoUExKNUVJS200YmxMdWktZmdRN0ZzRTJ1?oc=5",
+      "source": "L'Union",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1RybXJxM3BGNk5rS2RwRkdkR1lWX0FfOEdSOVNsQlZxTTMwQWt6aW50N3c3VWF6aE1pOGJOdExIN1BPbmVfWWZMUkMxcGtSRGJlZEd0dE5GSXkxWkZJd0x3dHpMdWZkM014VTM2YUpZVUVScmZLMGtoaU9rcHY0RW9vcTY4VzFoUExKNUVJS200YmxMdWktZmdRN0ZzRTJ1?oc=5\" target=\"_blank\">Gabriel Attal bientôt de retour",
+      "publishedAt": "2026-07-23T10:13:08.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "“Je me dézinguais” : un ancien proche de Gabriel Attal se confie sur ses additions passées - Gala",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFU0b3k1TVBRS18yT2xybkRCVFZrcGJ3TWFGaTl4MnNqWWtVSUNaSVFORGZaUHRhbDI0TENUdXR1YW02TXlGd3hKYV8za2Q1Q2Q0RUI4a3l2UkJTQzY3eXdsZkI3RlVaa2RKcjNDVWpiVkJINzdlX0pmZlFyaGFTb2Z6RE1fN1BsaWFES0tMUFVRU2NBaTlGU1ctZk10TVJqLTNqTkVidGVsZ3h1RE5QOUZDdE41Z3ZKMFpFa290Zkw2YXc5QlVOd0ZLdkFZamVyMGxYMFRwWEQ4dw?oc=5",
+      "source": "Gala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFU0b3k1TVBRS18yT2xybkRCVFZrcGJ3TWFGaTl4MnNqWWtVSUNaSVFORGZaUHRhbDI0TENUdXR1YW02TXlGd3hKYV8za2Q1Q2Q0RUI4a3l2UkJTQzY3eXdsZkI3RlVaa2RKcjNDVWpiVkJINzdlX0pmZlFyaGFTb2Z6RE1fN1BsaWFES0tMUFVRU2NBaTlGU1ctZk10TVJqLTNqTkVidGVsZ3h1RE5QOUZDdE41Z3ZKMFpFa290Zkw2YXc5QlVOd0",
+      "publishedAt": "2026-07-23T17:34:03.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "À la criée de Brest, Gabriel Attal prend le frais, avant le panier de crabes de la présidentielle de 2027 [Vidéo] - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObzJqSVIzdk5vLTRLWjFCeGJMMzVvT3ZJaTRoUG1SZjNldVdQUUxWWllxcWVXajZNc1ZxZklNM3NpZFRHZVcyeHFPMlNZVXBrN2JhTUN4elVaR2ctaWxXU1Z5eWJVZXhDTjhnSTRWWS1KU2hWN3Z3cUhvXzhkSFBWb1I1ZzZGOU1hUUpCc3JMNU1BMWNjWm5ycU1jaW9oRW9UQTlaWHlJWURwdUhONE5JYm9SRnQ0aHBNNk1yY1lxWnV5MjZlMEcxX1NKYTN2VEVFcVRtN21Ra1o2UlJrRnZwelI2ckhOaGRMWkFZT1VfeUFHRVlHeDIzbw?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxObzJqSVIzdk5vLTRLWjFCeGJMMzVvT3ZJaTRoUG1SZjNldVdQUUxWWllxcWVXajZNc1ZxZklNM3NpZFRHZVcyeHFPMlNZVXBrN2JhTUN4elVaR2ctaWxXU1Z5eWJVZXhDTjhnSTRWWS1KU2hWN3Z3cUhvXzhkSFBWb1I1ZzZGOU1hUUpCc3JMNU1BMWNjWm5ycU1jaW9oRW9UQTlaWHlJWURwdUhONE5JYm9SRnQ0aHBNNk1yY1lxWnV5MjZlMEcxX1",
+      "publishedAt": "2026-07-23T13:16:32.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : en visite en Bretagne, Gabriel Attal appelle à un « choc des salaires » - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGZQS2tKSmNQb2s3VWlwUFBsRWFUWWdjUXJla3BSZEh4VTBsSUU4c3QxTnd1cUQwYWpsTThaMU85akdyNEpHMGpUQjBqd1RjWTNhWjktZllyN1A4YVBLazAtek45YU1vbWRuZVdJdlBlNVc3MmRYMnFXanMxU25PV3lxTHpDN0g0bmIxTU9wWHBzRTJ4cVNWamcybkQwRkViWlkwTFd6UzVtN1drYVI3aTNrbVJGQ3EzOHFRdVpwWXpsa1IzazFCbk9nUVVDUDE5OUxSRmZWcDZ0Zjg2TEEzOQ?oc=5",
+      "source": "Sud Ouest",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGZQS2tKSmNQb2s3VWlwUFBsRWFUWWdjUXJla3BSZEh4VTBsSUU4c3QxTnd1cUQwYWpsTThaMU85akdyNEpHMGpUQjBqd1RjWTNhWjktZllyN1A4YVBLazAtek45YU1vbWRuZVdJdlBlNVc3MmRYMnFXanMxU25PV3lxTHpDN0g0bmIxTU9wWHBzRTJ4cVNWamcybkQwRkViWlkwTFd6UzVtN1drYVI3aTNrbVJGQ3EzOHFRdVpwWXpsa1IzazFCbk",
+      "publishedAt": "2026-07-23T15:50:28.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Ça fait des années que je n’ai pas touché un rail\" : une vidéo pourrait fuiter, un ancien conseiller de Gabriel Attal se livre sur sa consommation de cocaïne - L'Indépendant",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxORDllNzZZSjZXSUZSa2F6OVBFOUp6dTRuemczX2hCTjhUNUFobmJteDE5YVRqWXBKbDgtQ0lEV2hRZ0lELWVDRDNqRW5KMS1jcGJQVUxyOUlRM24tZEZHckd0VjhYTnNlZTZIWlRFRHhxMWFkaEpBZzRMQjlMZW1BSGhPMXhVNEFxa2EzRGkwdzFWMFYzUUFZbk1lenRlbzIzWTZfVEdMUGhHQWlJQ0d1UkpjM1pvc2FsUS1KeUVMeXlhd3RwRUF3cVM3dU5SdUhzVy1wOGo0UjMyNWVMNVM4THZETTMzbmZYcDJBUVJ4SzVRY2dqMkNlQzhxUHdtamFLRnFkLXc0QTFNUUNYaW5BNTQybFEwT01idVB5VFE4eUFnUQ?oc=5",
+      "source": "L'Indépendant",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxORDllNzZZSjZXSUZSa2F6OVBFOUp6dTRuemczX2hCTjhUNUFobmJteDE5YVRqWXBKbDgtQ0lEV2hRZ0lELWVDRDNqRW5KMS1jcGJQVUxyOUlRM24tZEZHckd0VjhYTnNlZTZIWlRFRHhxMWFkaEpBZzRMQjlMZW1BSGhPMXhVNEFxa2EzRGkwdzFWMFYzUUFZbk1lenRlbzIzWTZfVEdMUGhHQWlJQ0d1UkpjM1pvc2FsUS1KeUVMeXlhd3RwRUF3cV",
+      "publishedAt": "2026-07-23T09:05:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Louis Jublin, le feu aux poudres - Vanity Fair",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaSGJlX21IV1h0NC1iVzdtYnJZX1dRbC1lSDF6azZEM21CVUhIZ0IyRzNGTFE0RjA5WmE3MFJLOE43MHY4NFk0c1NLSVJrSXQzd0k0NlgzQ3pTNkxkdzdXd1cyNW1mcUI1UTVTTkZGMjNnT0k?oc=5",
+      "source": "Vanity Fair",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBaSGJlX21IV1h0NC1iVzdtYnJZX1dRbC1lSDF6azZEM21CVUhIZ0IyRzNGTFE0RjA5WmE3MFJLOE43MHY4NFk0c1NLSVJrSXQzd0k0NlgzQ3pTNkxkdzdXd1cyNW1mcUI1UTVTTkZGMjNnT0k?oc=5\" target=\"_blank\">Louis Jublin, le feu aux poudres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vanity Fair</font>",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Un ancien conseiller du candidat à la présidentielle Gabriel Attal vient d'avouer son addiction à la cocaïne. Après des scandales répétés d'élus accros ou otages de la drogue, le tabou se fissure. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2gzYUNKV0t3MVE3am85M0UySC01aVNWZ2FOTUszVjBpZGtHYnZSdkwtWWtiWXV1bFdPdFBscDZOSVV2VDJMdnl6R3ZBLXJpMWtzY1Z5ZHJ6N3JxdlZSRjNiMnM2SG9UVjRkMFN5cWhZbXU2TU44X25qUE1yc1V1SzdsT05PaGs4ZE05YUV0QjRlRE9LX2NwMmZLTXBrNjJFLVBKb3NqM3hfVWZPRUl6ZGZhdldzZm5oaUN3UF9qQXhrdlYxanNLa3NLTG1hNXpQTTJDVE5WUm81RlFpbDBIXw?oc=5",
+      "source": "facebook.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2gzYUNKV0t3MVE3am85M0UySC01aVNWZ2FOTUszVjBpZGtHYnZSdkwtWWtiWXV1bFdPdFBscDZOSVV2VDJMdnl6R3ZBLXJpMWtzY1Z5ZHJ6N3JxdlZSRjNiMnM2SG9UVjRkMFN5cWhZbXU2TU44X25qUE1yc1V1SzdsT05PaGs4ZE05YUV0QjRlRE9LX2NwMmZLTXBrNjJFLVBKb3NqM3hfVWZPRUl6ZGZhdldzZm5oaUN3UF9qQXhrdlYxanNLa3",
+      "publishedAt": "2026-07-23T15:14:32.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : face aux crises de l’été, Édouard Philippe et Gabriel Attal rattrapés par leur bilan à Matignon - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbmJCRHNLX0VuNFpYZHJJeHV2ZlpqOHZSX2dpekN5a1pfUXJNdXQ1c3NLNHRZT0ZqYXZHMXdFMUhuSWpjR1ZIYnJ5MURVUFFBTlU2R2VpZm1idVl2QXlhMnpCMlF5djFlaDZlaTFRa0FJVXlwSjg5NGJjMjdjSVJFUEJrQnZZc0dDbjFDVkIyeF9reWlpTjZUbkhMQzhoTFlfQ19ONDA2NkdrMUt6cXR0OHRGLVB5OElTRmlxMmpka1F2cFo2T1lPTWNEMmhHbm1KbzNWYUJHNnNxcUlvMU1xbC1aWnl3NEEwMU9XX3JoY2Mxc3IzNjBVdHQ3eG80YjRhcUxr?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQbmJCRHNLX0VuNFpYZHJJeHV2ZlpqOHZSX2dpekN5a1pfUXJNdXQ1c3NLNHRZT0ZqYXZHMXdFMUhuSWpjR1ZIYnJ5MURVUFFBTlU2R2VpZm1idVl2QXlhMnpCMlF5djFlaDZlaTFRa0FJVXlwSjg5NGJjMjdjSVJFUEJrQnZZc0dDbjFDVkIyeF9reWlpTjZUbkhMQzhoTFlfQ19ONDA2NkdrMUt6cXR0OHRGLVB5OElTRmlxMmpka1F2cFo2T1lPTW",
+      "publishedAt": "2026-07-23T17:15:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "« C’est quelqu’un avec qui on peut dialoguer » : dans le fief de la famille Leclerc, Gabriel Attal a été bien reçu - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQM2FzNXlwRVBic19yVFBscE1BaVppQ24xdWRhcGFoVzJadlplc3oyNmJRUlVvTFFwdkZyN0ZNYnZNejlfVGNuRWs0dG92S3o0V2psY3NMVTFBTC1kcDBZVGdCZjVaZmZRb0VEMnhyVVJTR1NBaEpBczVfdV9XQ2p5QjZJRE1WVTZjaEgtRHc5cGkyVmRJSlBkbTk2alk1YnVoYXFidDB2LWcyWDN5S0RtOEd1alcyTG1PN1d1dy0yT3RlVHgtcDMwQjFmQk01NlluRXFWQjlRM1hoR0VINXNYb0cxSmR5WjJDYmtoVERudkRvQmxwMlgxTGp5NnBLcFVtZE8zNTZqUjJ6WkdQUklyNG1Jb2t3RFVlR3g2QXdMbw?oc=5",
+      "source": "Ouest-France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxQM2FzNXlwRVBic19yVFBscE1BaVppQ24xdWRhcGFoVzJadlplc3oyNmJRUlVvTFFwdkZyN0ZNYnZNejlfVGNuRWs0dG92S3o0V2psY3NMVTFBTC1kcDBZVGdCZjVaZmZRb0VEMnhyVVJTR1NBaEpBczVfdV9XQ2p5QjZJRE1WVTZjaEgtRHc5cGkyVmRJSlBkbTk2alk1YnVoYXFidDB2LWcyWDN5S0RtOEd1alcyTG1PN1d1dy0yT3RlVHgtcDMwQj",
+      "publishedAt": "2026-07-23T16:58:30.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Salaires: \"Si on n'est pas capable de s'attaquer à ce sujet-là, il y aura un nouveau mouvement des Gilets jaunes\", assure Gabriel Attal - BFM",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOT2ZaX0FHRlZCYVpaNnNNV0t4bUtXbk12dm02N3FfZHhvdU9WazlMOG5ScTZ0cF91NHVNM0dRS3F2VEpEZk1tZVVVOVU4V1dHZ2dsSXIzWmZ0dW54Z1JqOGdabllmejlfMVpVQlZFUWxGU3FFN084RklPdTlXUXJsdjN5Qmg0NGNSWnBKaXJnMWNIMTN4d2hNM1ZGcTdNRlNGR21zWE1ydVlIQ1hadFZQTUZQdzJJOXh0UnJybGxRTlJYeU5wQk5CV3Bjd1lrMDBacnpkUVluNVdhWkV0QmpxVTRmVHBPazJlam80bFNTYzBwemtHVnVVNkRzektFWm5IeWVKZTVSSEhyR05YbHpqdmNad1FSOGctZElWbmNEOVRRUkFGeUx0SW51TlppSzZfaDkzZFBvOHotZw?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxOT2ZaX0FHRlZCYVpaNnNNV0t4bUtXbk12dm02N3FfZHhvdU9WazlMOG5ScTZ0cF91NHVNM0dRS3F2VEpEZk1tZVVVOVU4V1dHZ2dsSXIzWmZ0dW54Z1JqOGdabllmejlfMVpVQlZFUWxGU3FFN084RklPdTlXUXJsdjN5Qmg0NGNSWnBKaXJnMWNIMTN4d2hNM1ZGcTdNRlNGR21zWE1ydVlIQ1hadFZQTUZQdzJJOXh0UnJybGxRTlJYeU5wQk5CV3",
+      "publishedAt": "2026-07-23T15:15:28.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle : Attal lance sa campagne estivale \"accélérée\" en Bretagne - boursedirect.fr",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZmY0MGt1Z1lfSi04S01PbnNZQ0JQejA1WTRwRTNHZDc5VzU4ZllyaGR5cGwxV0oyRTdEZzZrQWZnMnRTa0tJYnNMWkJfOXZOVm9IbDlBWmZWTlBaZm9pMXpLcG00QWsxNUtkS2E0amg3ZVo3THJaVFRqUXB2SEhMeWwzc1oxdVllazUwbVJHVDhacEwtYm1qaWFWQ3Q4c1BTbkhXN1ZhUUd6aWdTa2kwQkJFTnZJaFdJMXZieFN3aDduQWJmNTQ0Nkx4UGh0ZjFBMXZ0aTJvbDBLaFlsSkZUSElkalFUeWttZi1ERXhJLV9JeUJaamZCaktxQjBDck0wZVI5d0lCZw?oc=5",
+      "source": "boursedirect.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOZmY0MGt1Z1lfSi04S01PbnNZQ0JQejA1WTRwRTNHZDc5VzU4ZllyaGR5cGwxV0oyRTdEZzZrQWZnMnRTa0tJYnNMWkJfOXZOVm9IbDlBWmZWTlBaZm9pMXpLcG00QWsxNUtkS2E0amg3ZVo3THJaVFRqUXB2SEhMeWwzc1oxdVllazUwbVJHVDhacEwtYm1qaWFWQ3Q4c1BTbkhXN1ZhUUd6aWdTa2kwQkJFTnZJaFdJMXZieFN3aDduQWJmNTQ0Nk",
+      "publishedAt": "2026-07-23T12:22:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Joyce Jonathan et ses « retrouvailles » avec Gabriel Attal dans le Lubéron - Yahoo Life France",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamFxeVV5dGE3UFFJZkJCWksyN2lKQ2lZeUFKcUJIV3ZtdVM0WGRzTjVaRkM2ZWJXY0N0OTdoS1A0TS1NQ1oyMllHaUVvMHNRcHM5MmVCMWJ5OE9NdEk0U1ZUMTVUbDVHc1hZQ0t5SnNUVzVvOUl2Y285WFdoMHZjdFg1eFpwVVRhLVAyXw?oc=5",
+      "source": "Yahoo Life France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOamFxeVV5dGE3UFFJZkJCWksyN2lKQ2lZeUFKcUJIV3ZtdVM0WGRzTjVaRkM2ZWJXY0N0OTdoS1A0TS1NQ1oyMllHaUVvMHNRcHM5MmVCMWJ5OE9NdEk0U1ZUMTVUbDVHc1hZQ0t5SnNUVzVvOUl2Y285WFdoMHZjdFg1eFpwVVRhLVAyXw?oc=5\" target=\"_blank\">Joyce Jonathan et ses « retrouvailles » avec Gabriel Atta",
+      "publishedAt": "2026-07-23T11:17:58.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
     },
     {
       "title": "Festival de Cornouaille, pêche de sauvetage et visite de Gabriel Attal, jeudi 23 juillet à Quimper - Actu.fr",
@@ -124,14 +379,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Retenues d'eau, démission et néonicotinoïdes — quand le macronisme perd sa boussole verte - Atlantico",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObzFRTHV5S25Ma0dKcElqSnM0MVJ3LW9IOXJQMnJGVks4dzBpaEFKLVZSRnF0Q3RWY3drTG5paERORFpNcURKZm9LUWpIcmRVRjFiRVdZa0dBNURLdktRd0Z2bUY0bVhNMDZIdW5DMnluaEVuWUg3QTEwYzM1bmQ1RnE0U0djblFiUmhiZjVEbktfazFURHpnVThRdktWdkRjNEJzc2trZkotRDFhVVNxbjItODdjaTlJcy1xRncyamNDSEd1VmEwcFRuNGtwOTFFandfaTQwYnpkUEpjbFIxSzhIbG1FUnVHN20wcExuZUZHSF85cWQwYjF3RlZQc2tXdVE?oc=5",
-      "source": "Atlantico",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxObzFRTHV5S25Ma0dKcElqSnM0MVJ3LW9IOXJQMnJGVks4dzBpaEFKLVZSRnF0Q3RWY3drTG5paERORFpNcURKZm9LUWpIcmRVRjFiRVdZa0dBNURLdktRd0Z2bUY0bVhNMDZIdW5DMnluaEVuWUg3QTEwYzM1bmQ1RnE0U0djblFiUmhiZjVEbktfazFURHpnVThRdktWdkRjNEJzc2trZkotRDFhVVNxbjItODdjaTlJcy1xRncyamNDSEd1VmEwcF",
-      "publishedAt": "2026-07-22T09:44:10.000Z",
+      "title": "Gabriel Attal et Loïg Chesnais-Girard attendus pour l’ouverture des Fêtes maritimes de Douarnenez ce jeudi 23 juillet - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdkQ5ZHB2VVdaMG1URTBTY1hCdmg0czZETnlERFdvTnlkQTRhVDU3TUo2U05sU0pmT1dwZlhqZFBaRE56MFR5V1ZoNXBLQnVTZnkwR2NHZDFTaDkwaDF1eWYyMzB6UTExazAxYnEzOHU3S3BhMEYtUFl1S2ZBUXNVSFZSUk9wSXhrcGhvaUN0dHJXZ2ljUUtXMHJKbUgycXpqalNsRmdadU1WWHRiclZWeEFnTnhyN3gxTk4zMFJWRk5wZHpKVWJHVlFJWW96YkxySFFDZnZPV3BpRVZxaDJhM3Y4aWhzb0lkREFXdHJVVVA1cE1fbTJfMENXTmZubFE4RVNGYTBCdWdtZUNrSC1lRTltN0RKelhZVkV5R2paUTZKbDZXUUpZWm9oeEFXQ3lFaHBGTGlEVFlCRV9SX1FPb2w4TkY4SDdtbGNsNy1jdkZwWi1FMWowSndsaHVQcWlyUXNzMVhReDRoZw?oc=5",
+      "source": "Ouest-France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdkQ5ZHB2VVdaMG1URTBTY1hCdmg0czZETnlERFdvTnlkQTRhVDU3TUo2U05sU0pmT1dwZlhqZFBaRE56MFR5V1ZoNXBLQnVTZnkwR2NHZDFTaDkwaDF1eWYyMzB6UTExazAxYnEzOHU3S3BhMEYtUFl1S2ZBUXNVSFZSUk9wSXhrcGhvaUN0dHJXZ2ljUUtXMHJKbUgycXpqalNsRmdadU1WWHRiclZWeEFnTnhyN3gxTk4zMFJWRk5wZHpKVWJHVl",
+      "publishedAt": "2026-07-22T16:33:03.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -139,6 +394,66 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "isNew": false
+    },
+    {
+      "title": "Retrouvailles dans le Luberon pour Joyce Jonathan et Gabriel Attal - Yahoo Life France",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEJWWjhTNzltbzlTOERxbVdxRnVoel9jeEFMTjZKOFcyQWN6clJwN1c5d2puMnl1YmwxdHp0NDY4U0Z2OXBiSTZ0am0zQVJWRS1ueEJqV1FnbEFyQWdhZTgzY2doRTZsOXFHSU1aeU9GSUlGRk9TTHQyaFktcmtSS25mRXVZeE9Id2lvWC1TVQ?oc=5",
+      "source": "Yahoo Life France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEJWWjhTNzltbzlTOERxbVdxRnVoel9jeEFMTjZKOFcyQWN6clJwN1c5d2puMnl1YmwxdHp0NDY4U0Z2OXBiSTZ0am0zQVJWRS1ueEJqV1FnbEFyQWdhZTgzY2doRTZsOXFHSU1aeU9GSUlGRk9TTHQyaFktcmtSS25mRXVZeE9Id2lvWC1TVQ?oc=5\" target=\"_blank\">Retrouvailles dans le Luberon pour Joyce Jonathan et ",
+      "publishedAt": "2026-07-23T12:15:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "À Douarnenez, Baie de Douarnenez Environnement et Cancer Colère ont attendu en vain Gabriel Attal et Liliana Tanguy près du site des Fêtes maritimes - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOaVpvQllpTHU0dVRFeUhfVmpyQlo1TWg1VVl1eWUwWEdrRWhPV2ZzUnlrNjAxUkVJanZPeDRhc3phM3ZySzlRRVhCTEJfelpPb2s5WG9oTEtUay04NGdVZnl0cEYwTmpXZHhpaERmOVRxLU1odEtGdmRINk9hbEU5WXlYZnRSaDFnTFJPWGtoSmV4enBKOWo4eDBJLW50bW1DM2NZNGo5cUJ5WGdYcXBmMWRXZE11SHA0UF9seko3SjNpdk1aTmI1OFRPU1R0S25acnh4SzhlTXZGeDBDcXFtYlluZ000T19uR0szakpWSkFGRWtTSWIyN00xRkQ4UnUyc3lDeXhJOVRiZy1ORmVBT1U0Q25PaGxZR1YwUHh1VEw5N3FLd1R4bUZqdDRhZl9XWEVwa2pXcmJOX28yR19rQmZYZHBIUndwQjZTZF9PdXVpMldubFNFOW9JT3M?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxOaVpvQllpTHU0dVRFeUhfVmpyQlo1TWg1VVl1eWUwWEdrRWhPV2ZzUnlrNjAxUkVJanZPeDRhc3phM3ZySzlRRVhCTEJfelpPb2s5WG9oTEtUay04NGdVZnl0cEYwTmpXZHhpaERmOVRxLU1odEtGdmRINk9hbEU5WXlYZnRSaDFnTFJPWGtoSmV4enBKOWo4eDBJLW50bW1DM2NZNGo5cUJ5WGdYcXBmMWRXZE11SHA0UF9seko3SjNpdk1aTmI1OF",
+      "publishedAt": "2026-07-23T17:20:06.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal mise sur un été sans pause pour s’imposer face à Édouard Philippe dans la course à la présidentielle - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbnZ1RXFSMHJ5WldXRnZsaXMxakpQQWVMaFpBWHBqNmNTeklNcFpRQWFMZXRhQVVCUkpuTUZGY2NfOUVUdU1OQXNUSzRGUVZpSzVHMklBbm9BeEF2Y3RvSXVWSncydGlQYy1yQUQ5anM4azJJWDhUS2RfLWVFLXIxWGVndlNyc1EwNS11Nk1vUFlrNWF0ZDMweEFVTWFtNVp1V0VZT0kwSXlKWnFJZ29SRk1NVV9NUEhoUEhOWTU0cHlMX1UzVWYzcEdSc080ZU03MHVRUWk5M0R5dE9NWXNha0RfNjZXRGNvY2V1OVZQRGJSRVpvSlE?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbnZ1RXFSMHJ5WldXRnZsaXMxakpQQWVMaFpBWHBqNmNTeklNcFpRQWFMZXRhQVVCUkpuTUZGY2NfOUVUdU1OQXNUSzRGUVZpSzVHMklBbm9BeEF2Y3RvSXVWSncydGlQYy1yQUQ5anM4azJJWDhUS2RfLWVFLXIxWGVndlNyc1EwNS11Nk1vUFlrNWF0ZDMweEFVTWFtNVp1V0VZT0kwSXlKWnFJZ29SRk1NVV9NUEhoUEhOWTU0cHlMX1UzVWYzcE",
+      "publishedAt": "2026-07-23T16:17:16.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Lecornu et Attal : les tensions explosent au sein du camp présidentiel - mesinfos",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmx1LUJjZGt5MXF4ZTRueG9fVnkwLVJON3loUkwtcllTcnBfNnV2dEozNmZEVG83cDRwY3psOTRWUnd3a2h2eXBMYVROd2lWUG12dlU5bkNBNzFIVTg0eHBwUU1VM1FkWU1vZkJqWkpPVGExeldPVVhicmRwRG11cnlnZXh4T0tNOU9JNTJad0lvb0RlLXNyckVncmRYMGdKR2c?oc=5",
+      "source": "mesinfos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmx1LUJjZGt5MXF4ZTRueG9fVnkwLVJON3loUkwtcllTcnBfNnV2dEozNmZEVG83cDRwY3psOTRWUnd3a2h2eXBMYVROd2lWUG12dlU5bkNBNzFIVTg0eHBwUU1VM1FkWU1vZkJqWkpPVGExeldPVVhicmRwRG11cnlnZXh4T0tNOU9JNTJad0lvb0RlLXNyckVncmRYMGdKR2c?oc=5\" target=\"_blank\">Lecornu et Attal : les tensi",
+      "publishedAt": "2026-07-23T12:03:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
       "isNew": true
     },
     {
@@ -154,14 +469,59 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "isNew": false
+    },
+    {
+      "title": "Salaires, pêche, entreprises… Gabriel Attal entame ce jeudi un déplacement de trois jours en Bretagne - CNews",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWdRRlRkWkpKbmV4R2ZTTjF1M2FsYmd6Nk5tNW80YXNOUEdZRHMzRE83cDJRRWVhRVl0Q1Y2TU5DWVdidEp1dHhtblRFXzYwRS1Mb0s2QUt1R05JWGJjelMzMUxGZlcyTVlyQlV6Q2dxbUdYeDgtR29xTnFjMEpVSThBM3A2dnFaNGNHcTFEdTNuNExMQkdGTEN1bkVrMGowcGJ1NDF0NnlydTlMVGdoXzFpRVRLeFlHR1I40gHAAUFVX3lxTFBjRFlaLUZ5MHZuSTJvcXhFM3k2dUtwbDlHRFN0em95cmRTNS1rWDlNQ004RzdPQTV3NkN6SzBTME9lbk55WGJjX3JGUnY2Vk1QZWVodGNFcnAxaG1DMWp5X0dLNUJmRnhZS1BUX0g1THFRdElrVFh5T0VweGU3SXpCMHotLUl1eXU5ZnNCS3NzOWlBYkFEZkVyXzVSMmQ2Q2tHNnJFYngxUm5teERUVUw2UXNlS0RhV0NUQWE4cmdOWg?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWdRRlRkWkpKbmV4R2ZTTjF1M2FsYmd6Nk5tNW80YXNOUEdZRHMzRE83cDJRRWVhRVl0Q1Y2TU5DWVdidEp1dHhtblRFXzYwRS1Mb0s2QUt1R05JWGJjelMzMUxGZlcyTVlyQlV6Q2dxbUdYeDgtR29xTnFjMEpVSThBM3A2dnFaNGNHcTFEdTNuNExMQkdGTEN1bkVrMGowcGJ1NDF0NnlydTlMVGdoXzFpRVRLeFlHR1I40gHAAUFVX3lxTFBjRF",
+      "publishedAt": "2026-07-23T04:15:15.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
       "isNew": true
     },
     {
-      "title": "Gabriel Attal et Loïg Chesnais-Girard attendus pour l’ouverture des Fêtes maritimes de Douarnenez ce jeudi 23 juillet - MaVille.com",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWmtiZ0RMM2hSU1BEcmlIV29XWUV4WngybFdRSjMxN01uaUZVcXhRTkpHNzVPb0N1Y3JOZmV1RmdKUEl4U3RBU3JRMHJpWUJTTjg0U2cxSDBhZF9hZ0l5ZEFqMTdzRS1SZEc5cFJNc3pIYnNpRmlSM3F1MDE0cXhNaUQ1WlcyZkJLRUhaeWFZUHhoRHgwU2xnU0l5WkR0RENoRmJuWUtTU2phODNxQllHNm9Jdmc4MUhwdU9fRFRYTmlRbHd2Y21URE4zcG9Sa1FsOWJrd0d3d3kybTdyazZXOFI3a1JGMGpLbjREQjlNXzF0TDdKSm9JRnQwYVl3VnVpZDNoWER3SWY3aHEzN2c?oc=5",
-      "source": "MaVille.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQWmtiZ0RMM2hSU1BEcmlIV29XWUV4WngybFdRSjMxN01uaUZVcXhRTkpHNzVPb0N1Y3JOZmV1RmdKUEl4U3RBU3JRMHJpWUJTTjg0U2cxSDBhZF9hZ0l5ZEFqMTdzRS1SZEc5cFJNc3pIYnNpRmlSM3F1MDE0cXhNaUQ1WlcyZkJLRUhaeWFZUHhoRHgwU2xnU0l5WkR0RENoRmJuWUtTU2phODNxQllHNm9Jdmc4MUhwdU9fRFRYTmlRbHd2Y21URE",
-      "publishedAt": "2026-07-22T16:33:00.000Z",
+      "title": "Kit de survie - Finances publiques, travail, retraites, institutions : le jeu des sept différences entre Gabriel Attal, Bruno Retailleau et Édouard Philippe - Contexte",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBnZUZELUtETThCdFNUUE9rSEo2cjJ6SVVkRVFtVjlXRkF4T3RYS2o0eURVb0NoZXFqbHBmRFZ4SndOM2w0ZjcwMjJhZnhPVDIzeVRqdkFkLXVOZWpJeU9RRWlaNkxBZ0JNeTdqWWREa0Nhc0ZYaWl2WmRRUkVmV0s3QTQ0U1F4YkhURVNCRFVYVTZUZDkybUJHUjdudTdSRC1OeGZMTmViMnoyNGkzNWVIVlRwNEo2VXpjNm84M3F6RTgwSnAzNFdBZFRSSFZTZVhjRXAzQWRDNEEyVURkclNDOXlDbXZWSnlDSlczZngtQjhUY01vbEJINGxNejJjemtObi1EVmJ5ODJXWVM2SjJlN2s?oc=5",
+      "source": "Contexte",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBnZUZELUtETThCdFNUUE9rSEo2cjJ6SVVkRVFtVjlXRkF4T3RYS2o0eURVb0NoZXFqbHBmRFZ4SndOM2w0ZjcwMjJhZnhPVDIzeVRqdkFkLXVOZWpJeU9RRWlaNkxBZ0JNeTdqWWREa0Nhc0ZYaWl2WmRRUkVmV0s3QTQ0U1F4YkhURVNCRFVYVTZUZDkybUJHUjdudTdSRC1OeGZMTmViMnoyNGkzNWVIVlRwNEo2VXpjNm84M3F6RTgwSnAzNF",
+      "publishedAt": "2026-07-23T06:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Je me faisais péter la couscoussière\", taxé \"d'homo cocaïnomane\", l'ex-conseiller de Gabriel Attal avoue tout sur sa consommation - melty.fr",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZk1ZMm9ZUDdEbTBLb1pPdEpEQmcyUEVJTDJvMUs5Mk1DME52U0hIV1NxcmIyN2xGdVZoNk5acW9UT0tBc296eDV0bExNTDBMalVqMWNQNGVhcUJ6cHkwNkpPR3lHOG0yR0lJNTgwM0txUVp2RnNTVlVnbGw5c28temk1cTNyM3BqdzVGVTdtQVNfUzRkeVprQk95SGJjRDVYbzlza3FDeFFRTFE0akN0UmpKbENoaHFoSWxTYU1Xcjk3cExGSEhqaUM5Q014WU4xM0pkNWRZS3FMa2F4Y19OLXJZZ0hPUGJMMm5pX1dZM2N5elZ3RFE?oc=5",
+      "source": "melty.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZk1ZMm9ZUDdEbTBLb1pPdEpEQmcyUEVJTDJvMUs5Mk1DME52U0hIV1NxcmIyN2xGdVZoNk5acW9UT0tBc296eDV0bExNTDBMalVqMWNQNGVhcUJ6cHkwNkpPR3lHOG0yR0lJNTgwM0txUVp2RnNTVlVnbGw5c28temk1cTNyM3BqdzVGVTdtQVNfUzRkeVprQk95SGJjRDVYbzlza3FDeFFRTFE0akN0UmpKbENoaHFoSWxTYU1Xcjk3cExGSEhqaU",
+      "publishedAt": "2026-07-23T18:00:49.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "« L’écart entre le net et le brut est devenu un scandale français ! » : un déplacement de trois jours en Bretagne sur le thème des salaires pour Gabriel Attal - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMWsyWHZ5RDdZamNQcUEtNWdINlFsbjJ4RWJ3eUl3Q2hUckZlNzZlTjVpNXRTWVctWVVJamdTUV85ZmhNZnRYT1AxVHpybi1qNnRxX1Y3MWphZDlWMFQ1cWNwYkt6N1dtZXFMMXo2Z2Y4WHRNZXBfX0FBQlRlMVgySFZzS0M5Z2NDbTZJLTFiS0lHRzkyUkliUlkzWVZzNWc5NVVqMWpfWFBXUl9MQmtoRi12LTBONkpiaVVLMTBQMzcxVWdqMHlBczkyRWVpVE1LWm5FSS16TG9kQi14RC1hVThwNkNSbldsVW9qQXpqWFZMM2lVdFB2bHVKNHJyb3VaZzdyMXA2RVJiczNhbjE2eVIxeEdteDh1QWNLclA4RTZ1eDlG?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxOMWsyWHZ5RDdZamNQcUEtNWdINlFsbjJ4RWJ3eUl3Q2hUckZlNzZlTjVpNXRTWVctWVVJamdTUV85ZmhNZnRYT1AxVHpybi1qNnRxX1Y3MWphZDlWMFQ1cWNwYkt6N1dtZXFMMXo2Z2Y4WHRNZXBfX0FBQlRlMVgySFZzS0M5Z2NDbTZJLTFiS0lHRzkyUkliUlkzWVZzNWc5NVVqMWpfWFBXUl9MQmtoRi12LTBONkpiaVVLMTBQMzcxVWdqMHlBcz",
+      "publishedAt": "2026-07-22T17:00:02.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -169,7 +529,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "[Édito] L’Armorique, la nouvelle Damas pour Édouard Philippe et Gabriel Attal - Le Télégramme",
@@ -184,21 +544,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : que vient faire Gabriel Attal en Bretagne pendant trois jours ? - Actu.fr",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjFJNGt1amh6c0dkQVJDaE1nQlQwdzJWekJxQVNfeURDRENiVklnUWRmWk1aY3BHMHBQMjhzY2ZOSFI3cm5BZGxxbUdCWWF3RENLSFZHaUpxdXM2NldRLWJqZWZVdm9zY2tJQzRaWWxXTXhZb0U2RW9WLTNaM3duMllycTR1R2pHUzB0RUIzOE12N3ZqR0tqa0JKc2NBeGt1ZG51cV9DVlJNUkxvemkxd0FpcUNJV3RNajhMczZOT0VtdVBiRGJkSzZNLXhVdEthRVJRQ2FueXpRSDNZM09jNHdaWnFEaW1GUHM0RQ?oc=5",
-      "source": "Actu.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjFJNGt1amh6c0dkQVJDaE1nQlQwdzJWekJxQVNfeURDRENiVklnUWRmWk1aY3BHMHBQMjhzY2ZOSFI3cm5BZGxxbUdCWWF3RENLSFZHaUpxdXM2NldRLWJqZWZVdm9zY2tJQzRaWWxXTXhZb0U2RW9WLTNaM3duMllycTR1R2pHUzB0RUIzOE12N3ZqR0tqa0JKc2NBeGt1ZG51cV9DVlJNUkxvemkxd0FpcUNJV3RNajhMczZOT0VtdVBiRGJkSz",
-      "publishedAt": "2026-07-21T11:34:33.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
       "isNew": false
     },
     {
@@ -214,7 +559,97 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "isNew": false
+    },
+    {
+      "title": "« C’est quelqu’un avec qui on peut dialoguer » : dans le fief de la famille Leclerc, Gabriel Attal a été bien reçu - Quimper Ma Ville",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYk1OQ3hFTmV6Wlg5MGJxcVVVcHdheGVMWnJCNVlMUVpZTDBDbWNOWDhqdUdyVWpxR0kzamNHLXRjam9kVUhjM2xEUHNBT0dGa3JJQ293dUZabk9WMDZud2Y3Mnd5QTZGbnFvODZKQlZrWm5iZEZzbFFJYWpzdW55eHAwcGJ6NWtqdUVWY3dybGxwMjlRRTExOTgzc3EtMVZGbzB5MzJZQktZTHpBbktXQkUtX3p3VGZpZ0hUeTVaQVZFSmRoTF9sMmZpVnlEUUk5aEFNODhjWkJBRnN4SUZzYngtWFY1N09jWXB3Z2ZfN21mcFJmSkpjMGY3UGJSMGplY3c?oc=5",
+      "source": "Quimper Ma Ville",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPYk1OQ3hFTmV6Wlg5MGJxcVVVcHdheGVMWnJCNVlMUVpZTDBDbWNOWDhqdUdyVWpxR0kzamNHLXRjam9kVUhjM2xEUHNBT0dGa3JJQ293dUZabk9WMDZud2Y3Mnd5QTZGbnFvODZKQlZrWm5iZEZzbFFJYWpzdW55eHAwcGJ6NWtqdUVWY3dybGxwMjlRRTExOTgzc3EtMVZGbzB5MzJZQktZTHpBbktXQkUtX3p3VGZpZ0hUeTVaQVZFSmRoTF9sMm",
+      "publishedAt": "2026-07-23T16:58:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
       "isNew": true
+    },
+    {
+      "title": "Gabriel Attal : “un homosexuel cocaïnomane et fou”, son ex-conseiller Louis Jublin sort du bois à cause d’une vidéo compromettante - Closer",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWGEyR25lblVLM3ZiemdLcm45WGRLdUFXQVltU2FTQmR1RlV2cHA0S2lheDhleUNuaUVjbjFBbk5abE0zQ1RQMEs2cUF2a3lNS3pqNFF2V3d4VkhWRkdqd0pDQzJod3lUMUlHTU9ncnhoUEk5MHFzNWJZSnNtYUY5R0x6R3N1SnpmelRHYWp0dFVfZ29ma1ROeWJSbm9GNXBoSXVVZEFCckR2TTlzeFItSHlwWUVFdVhfQWtSUFMtWFBrMkdsVzZJS3Atb2NIOGI3b3RqTWxfODdXcDBpY0ZBdGlZRmlrRzhoVFp5NkxEQTNSa1o5eElFLWgtOA?oc=5",
+      "source": "Closer",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWGEyR25lblVLM3ZiemdLcm45WGRLdUFXQVltU2FTQmR1RlV2cHA0S2lheDhleUNuaUVjbjFBbk5abE0zQ1RQMEs2cUF2a3lNS3pqNFF2V3d4VkhWRkdqd0pDQzJod3lUMUlHTU9ncnhoUEk5MHFzNWJZSnNtYUY5R0x6R3N1SnpmelRHYWp0dFVfZ29ma1ROeWJSbm9GNXBoSXVVZEFCckR2TTlzeFItSHlwWUVFdVhfQWtSUFMtWFBrMkdsVzZJS3",
+      "publishedAt": "2026-07-23T13:00:56.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027: Attal lance sa campagne estivale «accélérée» en Bretagne - Le Matin",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVVabUtLQmxYUXVVd1lwclY2eUVRd3dpTlVtbkF5Skdtd3pCTUI3MWpFcHR0MVBpdnFqbEN1eFliVThOWHFrWGJuV2N4OGxsQi1nQUZKcDZCZ3pFSFlpUzRiTFh3NnF1M3ZCVEJqX1hkaXItM0xSMGdaVW1ZRGZuSHdxRWJPMFJNWVFBV1o0ZlVOY1pjS19OU0xvelhvQW9KWTktVkdQSVIwRkFrQktJX0stOA?oc=5",
+      "source": "Le Matin",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVVabUtLQmxYUXVVd1lwclY2eUVRd3dpTlVtbkF5Skdtd3pCTUI3MWpFcHR0MVBpdnFqbEN1eFliVThOWHFrWGJuV2N4OGxsQi1nQUZKcDZCZ3pFSFlpUzRiTFh3NnF1M3ZCVEJqX1hkaXItM0xSMGdaVW1ZRGZuSHdxRWJPMFJNWVFBV1o0ZlVOY1pjS19OU0xvelhvQW9KWTktVkdQSVIwRkFrQktJX0stOA?oc=5\" target=\"_blank\">Prési",
+      "publishedAt": "2026-07-23T03:58:57.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Un ancien conseiller de Gabriel Attal avoue avoir été dépendant à la drogue - 21News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0lZTFZNY25Fa20xdkprZnZsbmRJNXd6X0VuYjF1c2ZqSUJ5U2hianpZN3RHbTViOUl2SUhUWEVfb3dJLU1hTnhOTzEyY1pfRVduQjAyMzBZWTg5bmJuOXQyOVFBWTdjSWZGM1ZOVUdKX3pvQTM0Nm1fWG9oVTdvRmRHSFBtZC1ySkdDa3Z6TlpzOUZmc0R5czlfZy1sVTA?oc=5",
+      "source": "21News",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0lZTFZNY25Fa20xdkprZnZsbmRJNXd6X0VuYjF1c2ZqSUJ5U2hianpZN3RHbTViOUl2SUhUWEVfb3dJLU1hTnhOTzEyY1pfRVduQjAyMzBZWTg5bmJuOXQyOVFBWTdjSWZGM1ZOVUdKX3pvQTM0Nm1fWG9oVTdvRmRHSFBtZC1ySkdDa3Z6TlpzOUZmc0R5czlfZy1sVTA?oc=5\" target=\"_blank\">Un ancien conseiller de Gabriel ",
+      "publishedAt": "2026-07-23T10:52:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "« Je me dézinguais à m'en faire péter la couscoussière » : la vidéo cocaïne qui secoue le clan Attal - Le Tribunal du Net",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEJtYTdKeU4wS01aRHExOUNzTmRaeS1QUDJrajJ5TTc2ZzA0ZWI2eFZWcm5NTV94YXlnNEdfV2VGSlNoSXZVV3VLV0tTWng1WWZKNW5TM1JPRGJ4TGlKNVdORXFNb3F6SV9pdENIS2xENmVxQ0JuellxdmJOcHFNTk1mM0NJMWtS?oc=5",
+      "source": "Le Tribunal du Net",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEJtYTdKeU4wS01aRHExOUNzTmRaeS1QUDJrajJ5TTc2ZzA0ZWI2eFZWcm5NTV94YXlnNEdfV2VGSlNoSXZVV3VLV0tTWng1WWZKNW5TM1JPRGJ4TGlKNVdORXFNb3F6SV9pdENIS2xENmVxQ0JuellxdmJOcHFNTk1mM0NJMWtS?oc=5\" target=\"_blank\">« Je me dézinguais à m'en faire péter la couscoussière » : la v",
+      "publishedAt": "2026-07-23T09:34:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal et Loïg Chesnais-Girard attendus pour l’ouverture des Fêtes maritimes de Douarnenez ce jeudi 23 juillet - MaVille.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWmtiZ0RMM2hSU1BEcmlIV29XWUV4WngybFdRSjMxN01uaUZVcXhRTkpHNzVPb0N1Y3JOZmV1RmdKUEl4U3RBU3JRMHJpWUJTTjg0U2cxSDBhZF9hZ0l5ZEFqMTdzRS1SZEc5cFJNc3pIYnNpRmlSM3F1MDE0cXhNaUQ1WlcyZkJLRUhaeWFZUHhoRHgwU2xnU0l5WkR0RENoRmJuWUtTU2phODNxQllHNm9Jdmc4MUhwdU9fRFRYTmlRbHd2Y21URE4zcG9Sa1FsOWJrd0d3d3kybTdyazZXOFI3a1JGMGpLbjREQjlNXzF0TDdKSm9JRnQwYVl3VnVpZDNoWER3SWY3aHEzN2c?oc=5",
+      "source": "MaVille.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQWmtiZ0RMM2hSU1BEcmlIV29XWUV4WngybFdRSjMxN01uaUZVcXhRTkpHNzVPb0N1Y3JOZmV1RmdKUEl4U3RBU3JRMHJpWUJTTjg0U2cxSDBhZF9hZ0l5ZEFqMTdzRS1SZEc5cFJNc3pIYnNpRmlSM3F1MDE0cXhNaUQ1WlcyZkJLRUhaeWFZUHhoRHgwU2xnU0l5WkR0RENoRmJuWUtTU2phODNxQllHNm9Jdmc4MUhwdU9fRFRYTmlRbHd2Y21URE",
+      "publishedAt": "2026-07-22T16:33:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "isNew": false
     },
     {
       "title": "Joyce Jonathan retrouve son ex Gabriel Attal durant ses vacances d'été - Voici",
@@ -229,29 +664,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
-      "isNew": true
-    },
-    {
-      "title": "De Brest à Lorient, en passant par Douarnenez et Le Guilvinec… Gabriel Attal se rend en Bretagne de jeudi à samedi - Le Télégramme",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOWs1VC1Iamt0TXFfRkNWQjBDeE1pSjN0cHNZbnZkaVh3REpiWFRuT18xUmlDZHZtYU9NRGdSaXhMZGxGX2UtUHBlMW5yRWN4WnB3X1BsTm5JWmt5bVk3WXhNNlgtaUs3ME1LbFRvUW50TDZ6M1Rwb2trTV9vRTdEUFJpcmNLNFpVSmJEY1NzWVZDZGVtTTJoZE1hdXU4b213UGstc2lwLTFaMm93YWhDYk5XYnF3TXM0alc2ekZxakJ5WXNVYXpqQzNtS2ZwU2R4SUpoN1cwWjBmZ2xIeGgyZzF3a20zdUpxRGFlWlM2ZDAyZmM1?oc=5",
-      "source": "Le Télégramme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOWs1VC1Iamt0TXFfRkNWQjBDeE1pSjN0cHNZbnZkaVh3REpiWFRuT18xUmlDZHZtYU9NRGdSaXhMZGxGX2UtUHBlMW5yRWN4WnB3X1BsTm5JWmt5bVk3WXhNNlgtaUs3ME1LbFRvUW50TDZ6M1Rwb2trTV9vRTdEUFJpcmNLNFpVSmJEY1NzWVZDZGVtTTJoZE1hdXU4b213UGstc2lwLTFaMm93YWhDYk5XYnF3TXM0alc2ekZxakJ5WXNVYXpqQz",
-      "publishedAt": "2026-07-21T04:05:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
       "isNew": false
     },
     {
-      "title": "Les experts choisis par Édouard Philippe et Gabriel Attal pour leur programme sur le logement - l'Informé",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTWFMazd4TVdUSEEzRkNzVU1OZm1zQ25kSGphZS1oYTV4ajd5QlplcHJWOUw3YkR2RVl0SVNMVklMR3k4MV81ZEdOWGhublpfMmFxX2Q0RDlvMy14aWNXalRJQ21ISzJGYXVQQ2ViT3BsbGloRTNEQ2hnaWhZZ0hQeERxaGVieHFJd3NWZ0VzdTJvM3VUYWdzaVl1QUlmZ3RkNmlsY0o4TFpWZ2RxY0pIcUZrQ2lkV0I0NElfQmw2QkQ2Sk9wVXBPZjNVaXdUMjZOdC1WaU5YZTFBejNRR09JTw?oc=5",
-      "source": "l'Informé",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTWFMazd4TVdUSEEzRkNzVU1OZm1zQ25kSGphZS1oYTV4ajd5QlplcHJWOUw3YkR2RVl0SVNMVklMR3k4MV81ZEdOWGhublpfMmFxX2Q0RDlvMy14aWNXalRJQ21ISzJGYXVQQ2ViT3BsbGloRTNEQ2hnaWhZZ0hQeERxaGVieHFJd3NWZ0VzdTJvM3VUYWdzaVl1QUlmZ3RkNmlsY0o4TFpWZ2RxY0pIcUZrQ2lkV0I0NElfQmw2QkQ2Sk9wVXBPZj",
-      "publishedAt": "2026-07-21T16:03:56.000Z",
+      "title": "[Les textes] Néonicotinoïdes : vives tensions entre Sébastien Lecornu et Gabriel Attal - Contexte",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG9PNnMzU2paYjdqa1VtMUUyVWxGa2c4OWtBNjAzZ2dVUlJCb0NlVkdJMWlSdU9zWmhJYkpTUE1aaWtLaFdvRk41YWRfVElCc3pRTFRWWTNCUndKMkxETy1rUjVndS1kYnFqX21UWlRzMi1VLVM2eldPeWFsRlBnM0dwTzNZcUl5WUIwdmEtT1k3WVFfMWF0clh0ekhNWi1aamdlNFFDeGV4MVFCLW1xWGVPU1psaXltSFFsUllIVldQWFU?oc=5",
+      "source": "Contexte",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG9PNnMzU2paYjdqa1VtMUUyVWxGa2c4OWtBNjAzZ2dVUlJCb0NlVkdJMWlSdU9zWmhJYkpTUE1aaWtLaFdvRk41YWRfVElCc3pRTFRWWTNCUndKMkxETy1rUjVndS1kYnFqX21UWlRzMi1VLVM2eldPeWFsRlBnM0dwTzNZcUl5WUIwdmEtT1k3WVFfMWF0clh0ekhNWi1aamdlNFFDeGV4MVFCLW1xWGVPU1psaXltSFFsUllIVldQWFU?oc=5\" ",
+      "publishedAt": "2026-07-22T01:25:35.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -259,21 +679,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
-      "isNew": true
-    },
-    {
-      "title": "Déplacement de Gabriel Attal en Bretagne : les enjeux économiques - Presse Agence",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkJ1UmRGMnA1TXpBd0RYeXoxdG5sb0h5VHdxeVktMzh0WERiUm8yZE9TOHVXWnlBaGYyeXJBd0xPT2ttR24xU1oweU5XTUFZdVRsZ1U2aFlQdTAtUllreWVBMkl2cHhqWkRTOFRHd0ZBZGliMm1oOHRaTVhaaWJRNzZ5NUlLNHBjUW5xUVpVWnp2MFJTT1JQa0tzNEJ0c0FCQzhWX1V3ZGsxUQ?oc=5",
-      "source": "Presse Agence",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkJ1UmRGMnA1TXpBd0RYeXoxdG5sb0h5VHdxeVktMzh0WERiUm8yZE9TOHVXWnlBaGYyeXJBd0xPT2ttR24xU1oweU5XTUFZdVRsZ1U2aFlQdTAtUllreWVBMkl2cHhqWkRTOFRHd0ZBZGliMm1oOHRaTVhaaWJRNzZ5NUlLNHBjUW5xUVpVWnp2MFJTT1JQa0tzNEJ0c0FCQzhWX1V3ZGsxUQ?oc=5\" target=\"_blank\">Déplacement de Ga",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
       "isNew": false
     },
     {
@@ -289,194 +694,74 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-07-23T01:19:44.730Z",
-      "isNew": true
-    },
-    {
-      "title": "[Les textes] Néonicotinoïdes : vives tensions entre Sébastien Lecornu et Gabriel Attal - Contexte",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG9PNnMzU2paYjdqa1VtMUUyVWxGa2c4OWtBNjAzZ2dVUlJCb0NlVkdJMWlSdU9zWmhJYkpTUE1aaWtLaFdvRk41YWRfVElCc3pRTFRWWTNCUndKMkxETy1rUjVndS1kYnFqX21UWlRzMi1VLVM2eldPeWFsRlBnM0dwTzNZcUl5WUIwdmEtT1k3WVFfMWF0clh0ekhNWi1aamdlNFFDeGV4MVFCLW1xWGVPU1psaXltSFFsUllIVldQWFU?oc=5",
-      "source": "Contexte",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZG9PNnMzU2paYjdqa1VtMUUyVWxGa2c4OWtBNjAzZ2dVUlJCb0NlVkdJMWlSdU9zWmhJYkpTUE1aaWtLaFdvRk41YWRfVElCc3pRTFRWWTNCUndKMkxETy1rUjVndS1kYnFqX21UWlRzMi1VLVM2eldPeWFsRlBnM0dwTzNZcUl5WUIwdmEtT1k3WVFfMWF0clh0ekhNWi1aamdlNFFDeGV4MVFCLW1xWGVPU1psaXltSFFsUllIVldQWFU?oc=5\" ",
-      "publishedAt": "2026-07-22T01:25:35.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-23T01:19:44.730Z",
-      "isNew": true
-    },
-    {
-      "title": "La loi agricole a totalement déchiré la Macronie, et ces chiffres le montrent - Le HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemtvUmR1NDZiaWF0aU85bGo0cEF6ZXZyTjh3M1BoOTVUSnoyOEVuRng1Yzc2MGk5cS1CelcwUXZxYjZGbzZZNGdkb1dTSjVHeVFJT1NKZU5wYzhScXNZU3ZVRUQ1YlpDOVdaRmRIYjI1cGFfVjFJNDRBbl9xMEVXWmhndFQzTUllUXFJbEtEb2JmVi1fRUpPZ0tfaFZaazhPN2ZCNm1pWFNYaGZEYnRGRHowWGlZdllwSFRWYlRLVWFnZFFFYmp0UTFjVW1RdkU?oc=5",
-      "source": "Le HuffPost",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQemtvUmR1NDZiaWF0aU85bGo0cEF6ZXZyTjh3M1BoOTVUSnoyOEVuRng1Yzc2MGk5cS1CelcwUXZxYjZGbzZZNGdkb1dTSjVHeVFJT1NKZU5wYzhScXNZU3ZVRUQ1YlpDOVdaRmRIYjI1cGFfVjFJNDRBbl9xMEVXWmhndFQzTUllUXFJbEtEb2JmVi1fRUpPZ0tfaFZaazhPN2ZCNm1pWFNYaGZEYnRGRHowWGlZdllwSFRWYlRLVWFnZFFFYmp0UT",
-      "publishedAt": "2026-07-21T10:13:36.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
       "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : le candidat Gabriel Attal en campagne en Finistère et en Morbihan - MaVille.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUJNRmJEMWhPRklnNmtraEtYa2RrNjBmREM0Zmw1REVjZHd5TVVTSkFWZHZ4dWtFUmo4VEp5QlFEeWxNMTlSMTlHSXBwS2xpMVVDdGhSWUpTZkZqMWlJVkxlbGloU0hKVU5iSlk0enVtOGJkUGxub29HRG9KVmJ4Z21EaVRjTlhnSm9PU0dXbmhpM2NQY0xxdnBtcElSdUF5dnJRRWdhbjZsdGRXcVlPck1QYU5OT0NZeHVoOV9aaE1iaVQ1eDVIbFJ6M2xXX3dSdFZIbmFaTjhJZGdC?oc=5",
+      "title": "Une vidéo montrant le conseiller Louis Jublin, proche de Gabriel Attal, en train de sniffer de la cocaïne... - Jean-Marc Morandini",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQVm5pRjY5SmthcVVWdG9zSmlzd2VBcTZKeW9adkVEZkN0YWgxZktxZkpnakVjRVd5QnFLMjhzZDJYajc1UnhMYVJ2N0F6U0ZhYWFyT0hUb0xrYlZZekRheWU0TDFrT0VGbTFpVUJWYVJuMWJVUHJmRktCTklIU3YwT2tIX1RXYmM0UmNjQ1NTVmdXaWNtaXk4LVgtV1gyOVhuZTZ0NzE2YUlJR1h1SjAxNFNtZ0RQZUtsS3gyOU9uM0owaUxUVE1rbl9maV9aY0pVSzVpMkFZTjNKN3pPTldCd1ZhRGZCRndSYmp5SVVLV0ltTVNWcjh3TVZOdFp2MXRtUy1XbUZNUC1VOEI0TmdfY255cjdwcXJLWEcwSUVuWDdLaXk1amthOGM5MTFkMW93ZU5tM1dRclo4Vmo5Y01zdldfVWQwcnhQY1k3Yk4xa1dkU1FyRkRFRTF0dVlUV2ptVGpibHJjTnlYZ9IB7wJBVV95cUxORFUwS21jUExUM2w2VXdiUTc5M2ZjOWhBRmVkQzhRSXF3QlNnVzRNTlJBTWNvMEFkc0xic0RLRHVUaldiWUk0czktTDFXejE2NERNcVl6cU9WR3hMN3VWTFM0dGs4T2pUTzYtQ2V6Y1Z6WElXVWJFRXptelllNEk1cThwelVCbFhuZnhYbFdwS2V6NkV3X1g5c0I3b2JTS0ZqLXRvdWFCeEhwQ3lZZUoyM3Z4TEgzbmtnamNYZkE5NmJWa3J4cHBKSnhPYVRNek9aOXcyTVVIVGpBdEtlMjN5UkNoczJ0ODlmOUJmR1ptSjJ2WEJoZ2JCcmxKQmhKT3J1ZWR2VE5XeEVvS21SSDlxNFQtb3FzY09GZEZsbHJheGg3MGZ4N2dqanlSUUdRTUVDdElsQ3F2OFNIVGZsZExPUU52M3VJYUphSXJ4X2p0QXpkNVM4V0M4VTRCejZRaWd4Z001OW5OR2pzRTlGaDFZ?oc=5",
+      "source": "Jean-Marc Morandini",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxQVm5pRjY5SmthcVVWdG9zSmlzd2VBcTZKeW9adkVEZkN0YWgxZktxZkpnakVjRVd5QnFLMjhzZDJYajc1UnhMYVJ2N0F6U0ZhYWFyT0hUb0xrYlZZekRheWU0TDFrT0VGbTFpVUJWYVJuMWJVUHJmRktCTklIU3YwT2tIX1RXYmM0UmNjQ1NTVmdXaWNtaXk4LVgtV1gyOVhuZTZ0NzE2YUlJR1h1SjAxNFNtZ0RQZUtsS3gyOU9uM0owaUxUVE1rbl",
+      "publishedAt": "2026-07-23T13:06:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Sébastien Lecornu prépare-t-il le terrain pour être candidat du bloc central ? - La Provence",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZDllLWFIaDk1ZlB4QnZjcDdCQkhmZGZfZVNobF8zS1JDaV9XMXR1SGlzLWhwcVBJMjFVVG1WR29iblk5XzI5T0dhX3NCM0lfcnZVcXJhMGJfbnNDUEZOQmxrZGk0eVg5MExudXhmcnFVeWRoOHRSNnRsczYxS1FyUTlGOGRKVC1VU3VoMXhCMmNFTWNNbmdfUG51LUJCU2lSNWo3aXluYU5GcnA0SjFDaGNUV2k2dGRGTFNfaVhxX204emlUQ0lRcl8tVVdfX2NXYVVraEpuS0toNjlIZ1VLMWt3Zm9EbTRuT3ZCSThR?oc=5",
+      "source": "La Provence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZDllLWFIaDk1ZlB4QnZjcDdCQkhmZGZfZVNobF8zS1JDaV9XMXR1SGlzLWhwcVBJMjFVVG1WR29iblk5XzI5T0dhX3NCM0lfcnZVcXJhMGJfbnNDUEZOQmxrZGk0eVg5MExudXhmcnFVeWRoOHRSNnRsczYxS1FyUTlGOGRKVC1VU3VoMXhCMmNFTWNNbmdfUG51LUJCU2lSNWo3aXluYU5GcnA0SjFDaGNUV2k2dGRGTFNfaVhxX204emlUQ0lRcl",
+      "publishedAt": "2026-07-23T09:33:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "Louis Jublin, ex-bras droit de Gabriel Attal, se confie sur son ancienne consommation de cocaïne - ENTREVUE.FR",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGNOdEdIakxPZDZDTXhoOEl5bVVCNU56eFlYb3lSSUthRkRTdVUxMERvak1zQTRiM3pHckJwV1pSUzZzNUVpSGJ5NHRlNm4yTVNraE5obklXU1UzY0xlVjJScTR2YUVpSF9oN3FIZVdPc2dPMWF1dklFYkJVTDZlQ01NdGJyNy1kN3ZPOEVhSGh3aDRCdHVvaWhKcXlHYlRONU1lUnkydGJXOTMzT1QwQ3VuTE1NUEhXNkJSSGRibEFKaU0?oc=5",
+      "source": "ENTREVUE.FR",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGNOdEdIakxPZDZDTXhoOEl5bVVCNU56eFlYb3lSSUthRkRTdVUxMERvak1zQTRiM3pHckJwV1pSUzZzNUVpSGJ5NHRlNm4yTVNraE5obklXU1UzY0xlVjJScTR2YUVpSF9oN3FIZVdPc2dPMWF1dklFYkJVTDZlQ01NdGJyNy1kN3ZPOEVhSGh3aDRCdHVvaWhKcXlHYlRONU1lUnkydGJXOTMzT1QwQ3VuTE1NUEhXNkJSSGRibEFKaU0?oc=5\" ",
+      "publishedAt": "2026-07-23T12:03:28.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
+      "isNew": true
+    },
+    {
+      "title": "« Je me dézinguais à m’en faire péter la couscoussière » : l’ex-conseiller de Gabriel - MaVille.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeFNLZ2tnSVAybFE0MkwzNGVSM3FOU3NvZmJPT1NCR3gxSGszSzczLTJPelkxZGJJMHFPeW1nWWwxdG56ZVd5ZXhxX0xjbW53N0lJaUM2S0NQZ3h2NlhJME5HU0diZHgtVkpqZTFNOUhqOVpFVmNWX21Ja3V2TUpyYTBQMXM5bTc1bmduWHNGTUszYUpVX2pLT3FPNkZaeG5MVGFjS1lEV0t4REhfLU1zaHJjS2pBcXFJQUlTZFF6S3dXUW9TSWVxd1ZXendEUTg0bmtZRmh2YXc3d2hQMF9lMXNhYUlGVENqVjRMUlJqczcyeDhiX0N6M3AyZU1XdEpiNmdCaTdnTnR4U3c?oc=5",
       "source": "MaVille.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaUJNRmJEMWhPRklnNmtraEtYa2RrNjBmREM0Zmw1REVjZHd5TVVTSkFWZHZ4dWtFUmo4VEp5QlFEeWxNMTlSMTlHSXBwS2xpMVVDdGhSWUpTZkZqMWlJVkxlbGloU0hKVU5iSlk0enVtOGJkUGxub29HRG9KVmJ4Z21EaVRjTlhnSm9PU0dXbmhpM2NQY0xxdnBtcElSdUF5dnJRRWdhbjZsdGRXcVlPck1QYU5OT0NZeHVoOV9aaE1iaVQ1eDVIbF",
-      "publishedAt": "2026-07-21T14:26:00.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeFNLZ2tnSVAybFE0MkwzNGVSM3FOU3NvZmJPT1NCR3gxSGszSzczLTJPelkxZGJJMHFPeW1nWWwxdG56ZVd5ZXhxX0xjbW53N0lJaUM2S0NQZ3h2NlhJME5HU0diZHgtVkpqZTFNOUhqOVpFVmNWX21Ja3V2TUpyYTBQMXM5bTc1bmduWHNGTUszYUpVX2pLT3FPNkZaeG5MVGFjS1lEV0t4REhfLU1zaHJjS2pBcXFJQUlTZFF6S3dXUW9TSWVxd1",
+      "publishedAt": "2026-07-23T12:55:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
       "isNew": true
     },
     {
-      "title": "« On ne va pas faire un chifoumi ou un octogone » : Attal et Philippe condamnés à s’entendre plus vite que prévu ? - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWnIyTnZIZ3BqMGNJMkVzc1cwMnlrVWFtX0hhS3JiUHljbmdYMkdVeVh2a2hRbFd1NktvRzROUmFqTUZQUVNXMVlqcHZtS0dESTJLZ1pYdU5uRkI3ZXJXM1VxMVRJUDF3NnB2emZwRzhhWWotcGZzT29rYTVnR2taZkdCWFRSdFNBZXVvUTJFTldYYnFmZjBzR3VuWmE0LW1wZzhtM2FNT3p3cGVycjFwM0RTOUJCa0docHdfbFJtNXR4elVVbEdIclEzMnBnV0dpYkRYMGJWUkF3TXhsSHZMMGVPd2VmMDdtNDY3Z0FTSG92TXN2Y1AtSlB3aGROQXZyNnNlZjZnekgwOWticGEzTE9Ka1VLd0xBaUZUaF9iSmw5ZWFL?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxOWnIyTnZIZ3BqMGNJMkVzc1cwMnlrVWFtX0hhS3JiUHljbmdYMkdVeVh2a2hRbFd1NktvRzROUmFqTUZQUVNXMVlqcHZtS0dESTJLZ1pYdU5uRkI3ZXJXM1VxMVRJUDF3NnB2emZwRzhhWWotcGZzT29rYTVnR2taZkdCWFRSdFNBZXVvUTJFTldYYnFmZjBzR3VuWmE0LW1wZzhtM2FNT3p3cGVycjFwM0RTOUJCa0docHdfbFJtNXR4elVVbEdIcl",
-      "publishedAt": "2026-07-21T05:50:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "Attal en campagne, débrayage au CHU et mers extraordinaires : Bonjour Brest ! - Le Télégramme",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTm9TaGtQN1hQeEoySWRiUFNPQVltOG43bllsRVVZamdrSXdCbXhjTzI1VkJzeHZlQTdwcWx4clZsZnhJc2NnY1RBMDdPLWVERGlzMlc2NVQ1NmZLalF6WWdRT0NSU0syQ3NjQ1RWSXZQX09DY01WenlRR1RQZ0oyMENaNkdRcjVEZHctSDA5ZDFPSlBRemZYZXpOSUNCVF9YQnNEVGRvMjhMTUtucWV5bXFYZXhFTmd4VGxrTVc2T0JJQVNRVm1rdEFTNlZncWs?oc=5",
-      "source": "Le Télégramme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTm9TaGtQN1hQeEoySWRiUFNPQVltOG43bllsRVVZamdrSXdCbXhjTzI1VkJzeHZlQTdwcWx4clZsZnhJc2NnY1RBMDdPLWVERGlzMlc2NVQ1NmZLalF6WWdRT0NSU0syQ3NjQ1RWSXZQX09DY01WenlRR1RQZ0oyMENaNkdRcjVEZHctSDA5ZDFPSlBRemZYZXpOSUNCVF9YQnNEVGRvMjhMTUtucWV5bXFYZXhFTmd4VGxrTVc2T0JJQVNRVm1rdE",
-      "publishedAt": "2026-07-21T06:02:33.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "Visas délivrés aux ressortissants algériens : la France n'a aucun \"objectif chiffré\" souligne Emmanuel Macron - RadioJ",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEN4b2NQMGoyZzVlWWFxUXBLY0M1WDlrVzhRRmcydy1ZQTljRFpROXZqeDRUSHpyYWN3T0Z2ekFIWFBNRzR1SEpfZTN1VEdTbUkwNDExTTI0eEd5dmJiRTZGNFFqUE15anRibGFyaGh3UW9iYTVST0hxNGwtWDZWTE82YXpLeW5NcTdxQ2VudEpjNDVkM2dUeHY0OWNnSlRVYnJDbEd3eTMzdnNQZEFUU2U5NTZmcnN4UjdqZlhNZHVrb3F4OWdWMnhWVlNIUlAzZ1Q4WGlhRzVSSjlDZWc?oc=5",
-      "source": "RadioJ",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTEN4b2NQMGoyZzVlWWFxUXBLY0M1WDlrVzhRRmcydy1ZQTljRFpROXZqeDRUSHpyYWN3T0Z2ekFIWFBNRzR1SEpfZTN1VEdTbUkwNDExTTI0eEd5dmJiRTZGNFFqUE15anRibGFyaGh3UW9iYTVST0hxNGwtWDZWTE82YXpLeW5NcTdxQ2VudEpjNDVkM2dUeHY0OWNnSlRVYnJDbEd3eTMzdnNQZEFUU2U5NTZmcnN4UjdqZlhNZHVrb3F4OWdWMn",
-      "publishedAt": "2026-07-22T20:07:47.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-23T01:19:44.730Z",
-      "isNew": true
-    },
-    {
-      "title": "Joyce Jonathan : escapade mère-fille et retrouvailles complices avec Gabriel Attal dans le Luberon - Ohmymag",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYTQzSVI1WXJCaHl4eVhKWkJEd1dsN2JDR0JDQ0JHVHA1NzBNNVJSZWIyemRMVFFhSDAyTk5aSXoxaVlfLVJvTnpGSFV2amVlTElKamEzbjBZQ29OdG1TQ3hxQlhhQmE1aU9WX0FtV2xoRUdZeVhGQ21VcUhWWE5RSUwxRnV0QVpGQmxoVFVGMkNYRjRoZzgyemZXSkgtQkFKV2FaWEU3SlpBZ1JpbHZJalZnanE3ME9laV9IWkJYdFhFdHZ3cmxPWUhYdDF0STdBM0NoYzNtZTNfOUdjbUFYWUNHdUQ1Zi1tcVE?oc=5",
-      "source": "Ohmymag",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYTQzSVI1WXJCaHl4eVhKWkJEd1dsN2JDR0JDQ0JHVHA1NzBNNVJSZWIyemRMVFFhSDAyTk5aSXoxaVlfLVJvTnpGSFV2amVlTElKamEzbjBZQ29OdG1TQ3hxQlhhQmE1aU9WX0FtV2xoRUdZeVhGQ21VcUhWWE5RSUwxRnV0QVpGQmxoVFVGMkNYRjRoZzgyemZXSkgtQkFKV2FaWEU3SlpBZ1JpbHZJalZnanE3ME9laV9IWkJYdFhFdHZ3cmxPWU",
-      "publishedAt": "2026-07-21T18:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "Joyce Jonathan : les retrouvailles champêtres avec son ex, Gabriel Attal - Planet.fr",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDNPbF94Nm1BWDJQcG1wbTh4THVQVlBzSUhOek03bkdjOC1WMVdZWGZwN01TaFdDVWpWdUNXSVZrOERWbS10YmNhQjQyazRqNXpISUdZUUhVUHczS2IwMGsyNklKclR3RWtaeWx0ODVLUGZMQWljdF9XMEp4VTFhd2FxS25zeWt1SnYwbXRXZ0ZnR3lfeU5zdk1jV3piVDR0amZ1djZScTU0ZnpJMXpLZXZ5dVZmNV9L?oc=5",
-      "source": "Planet.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDNPbF94Nm1BWDJQcG1wbTh4THVQVlBzSUhOek03bkdjOC1WMVdZWGZwN01TaFdDVWpWdUNXSVZrOERWbS10YmNhQjQyazRqNXpISUdZUUhVUHczS2IwMGsyNklKclR3RWtaeWx0ODVLUGZMQWljdF9XMEp4VTFhd2FxS25zeWt1SnYwbXRXZ0ZnR3lfeU5zdk1jV3piVDR0amZ1djZScTU0ZnpJMXpLZXZ5dVZmNV9L?oc=5\" target=\"_blank\"",
-      "publishedAt": "2026-07-21T22:01:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "Beaucouzé. Le van d’Attal a fait étape dans la cité - Maville Angers",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzhIdXdjN21TaUpPNnFSWG9tRXdMTDZQdXhhZkdnajI5Nl9YWkhKMGVWTGhvRU9IRkRvUVhQSWJWdFBhNnZoTS1WODNMS09DajMxaEpUc2U2MTdOT2pRNGUyTlhpNWlYWXpvTkF5LUp1cGRPbVlOQkhESFlLbzAtZ1RnTDdzVWlVSFh4c3lIT2hqYkoxa0pfSG1DZVVDSkVhbWJWWFFRalRJYVpiNzU2YQ?oc=5",
-      "source": "Maville Angers",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORzhIdXdjN21TaUpPNnFSWG9tRXdMTDZQdXhhZkdnajI5Nl9YWkhKMGVWTGhvRU9IRkRvUVhQSWJWdFBhNnZoTS1WODNMS09DajMxaEpUc2U2MTdOT2pRNGUyTlhpNWlYWXpvTkF5LUp1cGRPbVlOQkhESFlLbzAtZ1RnTDdzVWlVSFh4c3lIT2hqYkoxa0pfSG1DZVVDSkVhbWJWWFFRalRJYVpiNzU2YQ?oc=5\" target=\"_blank\">Beaucouzé",
-      "publishedAt": "2026-07-21T03:02:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : le texte adopté au Parlement, une victoire pour Macron - Libération",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTVVWcTEyZDhuckVlZ2oyQUgwYjhDcmNGOTRldnJ3a0wtSWVicDgzQ3drQVdCTkJTdkRMclcwRUpLUFYtMHgwRlNPOEZhT25aYlZ5cWF2QlhFVXMzcW9OMEhaNXFKWEpXQ0F1MzYySkQwXzF0ekVCWTNzY18zYUpuNklsTXk4S1R4N0JGU2xOeUE1LVlranFjTS1LMTRqaU5DSGRWU2JIc043WEtmcjhuQnFseEh4SmVMNTg1Y1k2UG9tQzU4RXAxVHV1N0N6VlBCQjZZMXdwNjdtUDI5V3pjeVFreWJhWjQ3RF9pSzc5UndWSHFBMmw2RXhfWVFEVl9tb3U4UXIyblJCT0U?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTVVWcTEyZDhuckVlZ2oyQUgwYjhDcmNGOTRldnJ3a0wtSWVicDgzQ3drQVdCTkJTdkRMclcwRUpLUFYtMHgwRlNPOEZhT25aYlZ5cWF2QlhFVXMzcW9OMEhaNXFKWEpXQ0F1MzYySkQwXzF0ekVCWTNzY18zYUpuNklsTXk4S1R4N0JGU2xOeUE1LVlranFjTS1LMTRqaU5DSGRWU2JIc043WEtmcjhuQnFseEh4SmVMNTg1Y1k2UG9tQzU4RXAxVH",
-      "publishedAt": "2026-07-21T17:54:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "25 JUILLET 2026 à CHENEVELLES, MARCHE DES FIERTÉS RURALES : QUE VIENNENT FAIRE ICI Bernard CAZENEUVE, Aurore BERGÉ ET Gabriel ATTAL ??? - web86.info",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTDFHcFUyRm02MXlVeVhTWEVtYjd6ZlFhS2tRaUhrMFNkMHJXLWE5eGl0QXYtWnpSVTJPZ2VLSnVEVDJkMGVLdFZUdzlqdVljUmREc0RmTlNJVmFLRVFxa2J3TFNTNjlHTGhKdzFfUEJ6S0pEUmRnc2J2Vk9rRFR4RzZ3cjZkeVNGa3g5UzE5VmFTUkVLQ2dtR05YWWN6M0R3dHRXMFJ0QV9aa0xTQWJMWXZTVmp1M0ZlbjV0VWQwdmZmS0hHQlZqSmx2dXYySDQyRkpHc2J1MFNNczlFZGpGTjJYekpRZmxnSnc?oc=5",
-      "source": "web86.info",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTDFHcFUyRm02MXlVeVhTWEVtYjd6ZlFhS2tRaUhrMFNkMHJXLWE5eGl0QXYtWnpSVTJPZ2VLSnVEVDJkMGVLdFZUdzlqdVljUmREc0RmTlNJVmFLRVFxa2J3TFNTNjlHTGhKdzFfUEJ6S0pEUmRnc2J2Vk9rRFR4RzZ3cjZkeVNGa3g5UzE5VmFTUkVLQ2dtR05YWWN6M0R3dHRXMFJ0QV9aa0xTQWJMWXZTVmp1M0ZlbjV0VWQwdmZmS0hHQlZqSm",
-      "publishedAt": "2026-07-21T17:01:57.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "Former Prime Minister Gabriel Attal launches 2027 French presidential campaign - The New Voice of Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaU5wSmpEZjgxamNjSmpPVnlJVG50UWtqLXgtc2tzY29QZEZHNF9Hak9WOUNrcWxUTzBrc1hoLWRKM3l2Y0M0b0FNTVl5TlNWUFVfUHo2eVhZemZWa3dyZTVoTGc0VENyVDJ4WlBSc05yYk1QWDhHbHU1RE80ZWRCMS1Gc2RBeWJ2ejdwN1JDdU5DbXNMeDdCRkZFNlRYS1nSAZsBQVVfeXFMTlFfQzFBLWtWV2lyLVgtOWpHSDMzR3U2bnFUSDhOUjhrTEtHeEVmMlZ6b1g3NWZsa25BS3dCWV9ERlk5VTY1VElNamdweENHMU55T0t6SUJVQVBUaFl2VmFaZ21UdTFYdHk2SlYzdEJfQXE3TmdoLVgwbW1KUk5vV3NtbDVidHZuNXZmMndvZU1vMW5ndE1sMWNpVFk?oc=5",
-      "source": "The New Voice of Ukraine",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQaU5wSmpEZjgxamNjSmpPVnlJVG50UWtqLXgtc2tzY29QZEZHNF9Hak9WOUNrcWxUTzBrc1hoLWRKM3l2Y0M0b0FNTVl5TlNWUFVfUHo2eVhZemZWa3dyZTVoTGc0VENyVDJ4WlBSc05yYk1QWDhHbHU1RE80ZWRCMS1Gc2RBeWJ2ejdwN1JDdU5DbXNMeDdCRkZFNlRYS1nSAZsBQVVfeXFMTlFfQzFBLWtWV2lyLVgtOWpHSDMzR3U2bnFUSDhOUj",
-      "publishedAt": "2026-07-21T06:20:00.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-07-22T01:12:15.778Z",
-      "isNew": false
-    },
-    {
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : une victoire décisive pour protéger notre jeunesse.",
-      "url": "https://attalpresident.fr/actualites/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-une-victoire-decisive-pour-proteger-notre-jeunesse",
+      "title": "Dans Le Télégramme : Gabriel Attal veut un choc de salaires et instaurer le droit au brut",
+      "url": "https://attalpresident.fr/actualites/dans-le-telegramme-gabriel-attal-veut-un-choc-de-salaires-et-instaurer-le-droit-au-brut",
       "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "Le Parlement vient de franchir une étape historique en adoptant définitivement l&#x27;interdiction de l&#x27;accès aux réseaux sociaux pour les moins de 15 ans. Face à ce qui constitue une véritable menace sanitaire et éducative en puissance pour les plus jeunes, la France montre la voie et bâtit un bulle de protection",
-      "publishedAt": "2026-07-21T12:00:00.000Z",
+      "snippet": "Dans un entretien exclusif accordé au Télégramme à l&#x27;occasion d&#x27;un déplacement de trois jours en Bretagne, Gabriel Attal place la revalorisation du travail et du pouvoir d&#x27;achat au cœur de son projet présidentiel. Pour le patron de Renaissance et candidat à l&#x27;élection présidentielle, la question des",
+      "publishedAt": "2026-07-22T12:00:00.000Z",
       "lang": "fr",
       "type": "official",
       "persons": [
@@ -484,15 +769,15 @@
       ],
       "coOccurrence": false,
       "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-07-23T01:19:44.730Z",
+      "firstSeenAt": "2026-07-24T01:15:46.409Z",
       "isNew": true
     }
   ],
   "stats": {
-    "total": 32,
-    "new": 16,
-    "carried": 16,
-    "media": 31,
+    "total": 51,
+    "new": 40,
+    "carried": 11,
+    "media": 50,
     "agenda": 0,
     "official": 1,
     "coOccurrence": 0
