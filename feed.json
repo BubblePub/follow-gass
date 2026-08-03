@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T01:18:48.223Z",
+  "generatedAt": "2026-08-03T01:19:42.425Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,25 +7,10 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Présidentielle 2027: Gabriel Attal promet \"la plus grande réforme institutionnelle depuis 1958\" s'il est élu - BFM",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNM09YaDhvTDZiaEZIWVNlMm5NTk9WdUdFQmJZUmdBNUpKbGtGRGhEX0t2RXdvbUtPUEFvcUE0aHdEMTh4TTBnc3J4aE1RaDdfenFXVFAyTEdtYU9sYWZLdkJ4TXRJV2YwcUROS1RoSkcwODhTQW9SQ1pkZHdZU1g0Z2lzV0dYb2lOaDVfS0JQRVJmUlFMR0NTSGhOZEdDSU90MHdpdnVQR19Bc29LaUhVbnY2alFRQktXZG8wU1ZkWVNwTWg5TEJDZ2dUVnByaHBUcXdHQkFPR1Z5TVg5TkYwMDEza2o5dlZfR05BNHItS2FWQUVTNnlnenA4Q2JOSW50MEJfdGNoRnNlZnJyOVEzTw?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNM09YaDhvTDZiaEZIWVNlMm5NTk9WdUdFQmJZUmdBNUpKbGtGRGhEX0t2RXdvbUtPUEFvcUE0aHdEMTh4TTBnc3J4aE1RaDdfenFXVFAyTEdtYU9sYWZLdkJ4TXRJV2YwcUROS1RoSkcwODhTQW9SQ1pkZHdZU1g0Z2lzV0dYb2lOaDVfS0JQRVJmUlFMR0NTSGhOZEdDSU90MHdpdnVQR19Bc29LaUhVbnY2alFRQktXZG8wU1ZkWVNwTWg5TEJDZ2",
-      "publishedAt": "2026-08-01T21:27:15.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-02T01:18:48.223Z",
-      "isNew": true
-    },
-    {
       "title": "EXCLUSIF. Gabriel Attal : «Je propose la plus grande réforme institutionnelle depuis 1958» - lejdd.fr",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlBPSWRCTXlVMnI1M1Ztdjc2Q0p2dS1DRll2Szd1TTExWDlVN1BtalF6NmpGY2VsZERzMnM4TG42TWoxVjMxbGhnMWtzRWNRVVBJQ2dYeDRyWVNSZUlwR2kxVUNrVTJFOGRERnk4THNyLXZ5MGZxVFVFZ3lpWG9NOGN0a3h4aEF6MGlOMzQ2d0d2eGxJMUhGZ1Rpck5RclE2X1QyVVZQSFNrVXpvVHZyWWZpT1FCaVNQNURnNW5OenA?oc=5",
       "source": "lejdd.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlBPSWRCTXlVMnI1M1Ztdjc2Q0p2dS1DRll2Szd1TTExWDlVN1BtalF6NmpGY2VsZERzMnM4TG42TWoxVjMxbGhnMWtzRWNRVVBJQ2dYeDRyWVNSZUlwR2kxVUNrVTJFOGRERnk4THNyLXZ5MGZxVFVFZ3lpWG9NOGN0a3h4aEF6MGlOMzQ2d0d2eGxJMUhGZ1Rpck5RclE2X1QyVVZQSFNrVXpvVHZyWWZpT1FCaVNQNURnNW5OenA?oc=5\" targ",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlBPSWRCTXlVMnI1M1Ztdjc2Q0p2dS1DRll2Szd1TTExWDlVN1BtalF6NmpGY2VsZERzMnM4TG42TWoxVjMxbGhnMWtzRWNRVVBJQ2dYeDRyWVNSZUlwR2kxVUNrVTJFOGRERnk4THNyLXZ5MGZxVFVFZ3lpWG9NOGN0a3h4aEF6MGlOMzQ2d0d2eGxJMUhGZ1Rpck5RclE2X1QyVVZQSFNrVXpvVHZyWWZpT1FCaVNQNURnNW5OenA?oc",
       "publishedAt": "2026-08-01T17:33:55.000Z",
       "lang": "fr",
       "type": "media",
@@ -34,22 +19,22 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-02T01:18:48.223Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "SONDAGE EXCLUSIF - Edouard Philippe et Gabriel Attal au coude-à-coude dans l'opinion - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTJjWnlLQVhNT1BuMWFrNmE1ZC1pWFFUVWQ4Y2g3Z0xBYWNwUFVkeTVVU1dCelFZa1IxMVRuNFduZlZTa3hxZDVLajJma0hPZE9TLUpMaVcwZWtjYnlzaTA1MTVVUmc0bmhadmxyREtVRUtqOFVvTTBlNU9DNVo2YjBkSDJsck1iZUlkVGp0dVViaV9zczN4ZFA4VUdhR04tMmFYbHYzRGtjRDMyazBXVzd4NHdBZUl5M2NYWGM2dldUdVp0dUZJT3BCdzVjb19pcHZZRQ?oc=5",
-      "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTJjWnlLQVhNT1BuMWFrNmE1ZC1pWFFUVWQ4Y2g3Z0xBYWNwUFVkeTVVU1dCelFZa1IxMVRuNFduZlZTa3hxZDVLajJma0hPZE9TLUpMaVcwZWtjYnlzaTA1MTVVUmc0bmhadmxyREtVRUtqOFVvTTBlNU9DNVo2YjBkSDJsck1iZUlkVGp0dVViaV9zczN4ZFA4VUdhR04tMmFYbHYzRGtjRDMyazBXVzd4NHdBZUl5M2NYWGM2dldUdVp0dUZJT3",
-      "publishedAt": "2026-07-31T04:05:09.000Z",
+      "title": "Présidentielle : 350 députés, retraite par capitalisation, «quotas limitatifs» pour l’immigration... les propositions au pas de charge de Gabriel Attal - Libération",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNUk9nd0VmQ3B6NjB0Tm02WnItVjlsR3BDVFphNEg2X21lRzRDS3ktd3czNzAwNGprSnZjZ2F6SDNxWEZMQTgzMnRDbmZXQ0o5N09zc0N1SG5kSVVzTlAxUTBSSEVHUkFtcTNfMWVEcmZBcFNndV9BNHhVY3ZQNVV5NUduWWJMaTJXaWdDcHZ5R012dzVUd3EyMmZMbzJOZGZTRkdsR25RQlhMWkZ0Z3Y1WHlCdllTWlVWdUs0SEhLeDRaYzVZRDZleUhwQXpuYWtqdDhiYjVTNDVORWpvbzRQWjRNbGVEeDMtSG1adFZJSnNtVC1GRXhyb3ppaGE5WXVmQzRRMURvQnE5RjhjYmh5R1oxOGZIS2hEMXB5dTV6ZmpjcFU3NUlablZMRjlyZEJ4SXpKbXhiMktrUTNueVhNSXRlcDI2Vjg?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNUk9nd0VmQ3B6NjB0Tm02WnItVjlsR3BDVFphNEg2X21lRzRDS3ktd3czNzAwNGprSnZjZ2F6SDNxWEZMQTgzMnRDbmZXQ0o5N09zc0N1SG5kSVVzTlAxUTBSSEVHUkFtcTNfMWVEcmZBcFNndV9BNHhVY3ZQNVV5NUduWWJMaTJXaWdDcHZ5R012dzVUd3EyMmZMbzJOZGZTRkdsR25RQlhMWkZ0Z3Y1WHlCdllTWlVWdUs0SEhLeDRaYzVZRDZleU",
+      "publishedAt": "2026-08-02T07:21:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-01T01:21:07.592Z",
-      "isNew": false
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
     },
     {
       "title": "Pourquoi Gabriel Attal et Édouard Philippe devraient tirer les leçons de la défaite d’Hillary Clinton - Le Point",
@@ -64,37 +49,52 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-02T01:18:48.223Z",
+      "isNew": false
+    },
+    {
+      "title": "“Une façon de parler de politique sur un ton léger” : LFI, Renaissance… Pourquoi publient-ils des cahiers de vacances ? - Le Nouvel Obs",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM0ZGcHozclpKT3pyTlhveHB2WFZrS05wTlFEV0s4V1ZHTk82RFpoOHU2bUQ5aFZXanFaTEhvZlZhT2tQVDl2WGNUV09yM1ZlZDgtUGRQSWMxZS1NQy1XaUEyLWV2ZlRvbTJZNVhfYXhYc2NtdlE2REZ0cHNLZW5fa0tsdmhjcWxsZU5KMmlWZVBGRFcwQVV2cUl1dUdocXByVDJ5ZU42el85SnhWQVpiYUh0SFdwVDJpeFIzb283elVLQjBoLUNqVWZhZzhsMk9ZeUF1QlZZTmp4WFRKN0dLOWJvWFl6UFlFVEN3cjc1OWRyZlFHR2ZFRVhsQUx4WVZo?oc=5",
+      "source": "Le Nouvel Obs",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPM0ZGcHozclpKT3pyTlhveHB2WFZrS05wTlFEV0s4V1ZHTk82RFpoOHU2bUQ5aFZXanFaTEhvZlZhT2tQVDl2WGNUV09yM1ZlZDgtUGRQSWMxZS1NQy1XaUEyLWV2ZlRvbTJZNVhfYXhYc2NtdlE2REZ0cHNLZW5fa0tsdmhjcWxsZU5KMmlWZVBGRFcwQVV2cUl1dUdocXByVDJ5ZU42el85SnhWQVpiYUh0SFdwVDJpeFIzb283elVLQjBoLUNqVW",
+      "publishedAt": "2026-08-02T09:00:14.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
       "isNew": true
     },
     {
-      "title": "Nuages à l’horizon pour Gabriel Attal - Valeurs actuelles",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXFKLXdsNWN2ZUljQXBQdk9KRjFTWERRU0ZWdDlBcU4zUExuZ2tIWnpzRGhtcVM1YUtXZHFBVktaaU5oM29IOWZFckI0OGU3d2ZTMTJiUXZVVHFOTEowV0wtWm14Zk1zWXl0em5kWTl4M2hYV3pLUTBhaFkxcXdOT3dIaWpidnlVdUt6cloybnVOd2Fqd2c?oc=5",
-      "source": "Valeurs actuelles",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNbXFKLXdsNWN2ZUljQXBQdk9KRjFTWERRU0ZWdDlBcU4zUExuZ2tIWnpzRGhtcVM1YUtXZHFBVktaaU5oM29IOWZFckI0OGU3d2ZTMTJiUXZVVHFOTEowV0wtWm14Zk1zWXl0em5kWTl4M2hYV3pLUTBhaFkxcXdOT3dIaWpidnlVdUt6cloybnVOd2Fqd2c?oc=5\" target=\"_blank\">Nuages à l’horizon pour Gabriel Attal</a>&nb",
-      "publishedAt": "2026-07-31T14:00:55.000Z",
+      "title": "Foule pour la Grande Parade du Festival interceltique de Lorient, situation stable dans le Var et en Gironde, promesse de Gabriel Attal : le point à la mi-journée - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPOXRfV1Z3bFY5cC1fX09PaTRoRWJMWmg0cFpoRjE3T3RGbm9CcHFUeC1TSU9IZkw3OU0zZElaUUxhUEZPWW9sdUhNQkdTcjlOdGJyZ1VtWVYzYVQ0VzZmQnZ6ZXV2SDRJOFRtU1FiTDlieTdtYkpyZW9PNlNRbjRrWjNwWUJLTGRTYXpxYWViSFMzMHFSMXB3X2dKY0tvbkxNSloxMG1Sem45R0dfblBTZ3hpT1pXOFIzUlJNdjJ4dGRTVkFadE1zcm5LWWlHUVhXcENGaUcxQ0VxTGNXVVl1QkhvLWhGSkhLdUh0YWh1VlRnX2c1SG1aVm9yNmVYcFVBOXF6bUtkbHJ6T201cl9KUUw2eG5qNDdocGFUdl9LZEl5NjlDWlhQUHA0RUNDTlJZ?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxPOXRfV1Z3bFY5cC1fX09PaTRoRWJMWmg0cFpoRjE3T3RGbm9CcHFUeC1TSU9IZkw3OU0zZElaUUxhUEZPWW9sdUhNQkdTcjlOdGJyZ1VtWVYzYVQ0VzZmQnZ6ZXV2SDRJOFRtU1FiTDlieTdtYkpyZW9PNlNRbjRrWjNwWUJLTGRTYXpxYWViSFMzMHFSMXB3X2dKY0tvbkxNSloxMG1Sem45R0dfblBTZ3hpT1pXOFIzUlJNdjJ4dGRTVkFadE1zcm",
+      "publishedAt": "2026-08-02T11:00:58.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-01T01:21:07.592Z",
-      "isNew": false
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
     },
     {
-      "title": "Edouard Philippe et Gabriel Attal ex aequo à 30% d'image positive dans le dernier baromètre Elabe - journaldunet.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVVJJVEYyM1V3WDhQWUtzS0JQM0UtdTNMRW5aSHBra2xJbV96OUQwTlBOUkt4Q1Z3Z3NwSE5Oc29kN09hWHNWWlpJN2p0Y2tCc3diZ1k2YUVFX0hxblduN2xrVHduWFBaOUZRakh5SWJOaW40d1AzVm11LURKRnViOHNiRm1rMFFkalM2VlZqN29iQklsSUZFcG9uYWxBUWZxTzBQcGtodkFidXhtSEx6dV9HSWJOLWVhdndITGxCc2hOSVdwVlhHZHZkTk5ETUlSZ3FiNlpBM0R1SmFodjFacmFGZlVmVzJBNHdSQldsaWM?oc=5",
-      "source": "journaldunet.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVVJJVEYyM1V3WDhQWUtzS0JQM0UtdTNMRW5aSHBra2xJbV96OUQwTlBOUkt4Q1Z3Z3NwSE5Oc29kN09hWHNWWlpJN2p0Y2tCc3diZ1k2YUVFX0hxblduN2xrVHduWFBaOUZRakh5SWJOaW40d1AzVm11LURKRnViOHNiRm1rMFFkalM2VlZqN29iQklsSUZFcG9uYWxBUWZxTzBQcGtodkFidXhtSEx6dV9HSWJOLWVhdndITGxCc2hOSVdwVlhHZH",
-      "publishedAt": "2026-07-31T11:51:03.000Z",
+      "title": "Ceuta : Retailleau, Le Pen, Attal, Mélenchon... les réactions des candidats à la présidentielle - Europe 1",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSS1VMk1aOWtuNkowUGlFWUc4WlgzZDdIcHNCM0plUXpycmJ5VlduVkkwUXd3Mzdnb1pFNDdEMF9Sa0JMbHoxNzAtOF9FcVNzRmNSYXRZQVZ6a0I0MDJFWk5rbERKaUNiRTJUcEZtRmFHY2ZCN3Y2X212UUpvdGlvZno2Snc0NWlDWDRwWU1IN2hrZGVqWDNZNldQMnRsQmtPV1VOWVM1S3Jsd3hjT0R6cGQ0UVpZWWFQTUFoMjZNOUkzSUt5ZFHSAcsBQVVfeXFMTXJmQmVFSVM4SEhPWERaQlhUU2lqaXJOWjM4cnF3Z3N0WWtiam9UVExFSXlacFNqSkE5eExWbkpoR1NwbUtMRlJaamd5blpUQlJpdHAxUkhYLWJGZ0wxUFFqYW9xa1l5QWlGMFdiRm9UVHhmTXdvdXRSamJ1ZzZMS3IwdWVnQUhrSHFBWUZHREloeXJySUllQ1lZZXdWWll0S05ETDNncjh2LVNZc01mSDRlVHB0ZVBRNkhTdVNXYVI1RGJUNHNtakJabmM?oc=5",
+      "source": "Europe 1",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSS1VMk1aOWtuNkowUGlFWUc4WlgzZDdIcHNCM0plUXpycmJ5VlduVkkwUXd3Mzdnb1pFNDdEMF9Sa0JMbHoxNzAtOF9FcVNzRmNSYXRZQVZ6a0I0MDJFWk5rbERKaUNiRTJUcEZtRmFHY2ZCN3Y2X212UUpvdGlvZno2Snc0NWlDWDRwWU1IN2hrZGVqWDNZNldQMnRsQmtPV1VOWVM1S3Jsd3hjT0R6cGQ0UVpZWWFQTUFoMjZNOUkzSUt5ZFHSAc",
+      "publishedAt": "2026-08-02T19:26:43.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-01T01:21:07.592Z",
-      "isNew": false
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
     },
     {
       "title": "Marine Le Pen et Gabriel Attal s’affrontent au tribunal : la justice a tranché - Gala",
@@ -109,6 +109,111 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-02T01:18:48.223Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal, Edouard Philippe, Bruno Retailleau : pourquoi ils ne jurent plus que par le référendum - lopinion.fr",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1JXNkFtRG9vcU9VVE4tV0pZaTlVQ3VZMHdSY3pHVl96NjF1cGQ4c0RYTkxNVGoteEdpcHRMVVloaWxfaVpUWU40VDl2ckYtd3dkUkJ5SGpxNEc1cFB4bHpVNTNMWTZIX1dmRXI0Wll0TXZMRVZOX0xTM0UtVk1rVGU0YUg5NHB5QnQ5NTRwbDQ4M2ROT2Fwd1dxQlhLbkw1dzExS2w0YUgwNGF6MDBScS13QWg1dFFUNlJzRF9OOTBoMEhCMms5Y2hRVQ?oc=5",
+      "source": "lopinion.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOS1JXNkFtRG9vcU9VVE4tV0pZaTlVQ3VZMHdSY3pHVl96NjF1cGQ4c0RYTkxNVGoteEdpcHRMVVloaWxfaVpUWU40VDl2ckYtd3dkUkJ5SGpxNEc1cFB4bHpVNTNMWTZIX1dmRXI0Wll0TXZMRVZOX0xTM0UtVk1rVGU0YUg5NHB5QnQ5NTRwbDQ4M2ROT2Fwd1dxQlhLbkw1dzExS2w0YUgwNGF6MDBScS13QWg1dFFUNlJzRF9OOTBoMEhCMms5Y2",
+      "publishedAt": "2026-08-02T16:30:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal veut sortir la Ve République de ses rails et promet \"la plus grande réforme institutionnelle depuis 1958\" s’il est élu - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbGxkTTFROXBJTy1kX1Z1Vl9MTWhFTE9zWm5lZC1IMjNrYWdnWFZKNkRMbWZ5X2VUZjRvajZKSGNpYzRFYmhwTl9fRllzNE5rTUVNbVpIZF9CQnp2dXRmcl80VHhRRjJSOGFJRkVwMkdQTmpKdWNtbFlDNHdOZTJrTWZxRjZwTE0xSGdpcmtJYWxXU0Vrd1luZW1sbk1qUExsRWdGX2NOdEVOdWloc0pwaWtDQkF3TzVzekVEd3FRdU90YnZSaU8zQmd1R3AySGZETWplUUZVbmpCWDByV2tOZkp0Sk45REYzWWJqMVNTaXN0N2lJUEl2WDNnYTFKQk9uN24wejk5ZV9jZTFITUVXMWo1eDZYMEtCai1CMDZpN2N4Qkha?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxNbGxkTTFROXBJTy1kX1Z1Vl9MTWhFTE9zWm5lZC1IMjNrYWdnWFZKNkRMbWZ5X2VUZjRvajZKSGNpYzRFYmhwTl9fRllzNE5rTUVNbVpIZF9CQnp2dXRmcl80VHhRRjJSOGFJRkVwMkdQTmpKdWNtbFlDNHdOZTJrTWZxRjZwTE0xSGdpcmtJYWxXU0Vrd1luZW1sbk1qUExsRWdGX2NOdEVOdWloc0pwaWtDQkF3TzVzekVEd3FRdU90YnZSaU8zQm",
+      "publishedAt": "2026-08-02T13:17:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
+    },
+    {
+      "title": "Entretien exclusif de Gabriel Attal : « Je veux renverser la table » - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUtISTJVOTRlVkkwclRfdjBnVkdxRWFEWkhOMmZOZmVhakh5VG02Q0Q3NmZTUk5EMHUyeC1neGNDNjJqMVNCNjZseDBNSThWLXR2Tkx4Qkdyc2RobVNrZ292OEVIUzZUeGZ3eHI4S0hEODJWdnM5UVpJVTlpanQzNVFjMHk2QV9aRmRHX0cxSkczaUVzVDdMSUJMMmk1NzFi?oc=5",
+      "source": "lejdd.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUtISTJVOTRlVkkwclRfdjBnVkdxRWFEWkhOMmZOZmVhakh5VG02Q0Q3NmZTUk5EMHUyeC1neGNDNjJqMVNCNjZseDBNSThWLXR2Tkx4Qkdyc2RobVNrZ292OEVIUzZUeGZ3eHI4S0hEODJWdnM5UVpJVTlpanQzNVFjMHk2QV9aRmRHX0cxSkczaUVzVDdMSUJMMmk1NzFi?oc=5\" target=\"_blank\">Entretien exclusif de Gabriel A",
+      "publishedAt": "2026-08-02T06:02:27.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal promet « la plus grande réforme institutionnelle depuis 1958 » s’il accède à l’Élysée en 2027 - draguignan.maville.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX0VleGotaTlVR3hmaF94WW1LV3E4V2JpOGVSeDZ5NDRXWmFPOXpvQzhPeTg1aGx3eXNPR3ZrSEgxWDQ4alJSSVdSeGZfZmtwWHJwSkF1WXdtaUF6UHFRRE5VX0dfMFc2blkzT2U3T1VDR3RrUy1rajRTcUJRZHNQTFlYN002SGVzTkYxUmVhMDdkcmpxTDhYbEdFVmthWHVOV3paMXlQcDAzWDdVNTRnX2RZT1B4YXpxTFB5b0FpYUpzdGVXWWU3d2tKdUd2MUxOYldNa0ZlU0N5U29YRFoyQ21sSUg3b1JXaVZOWF9EQjM3RTNMd0JmRmVOQnRpcUdB?oc=5",
+      "source": "draguignan.maville.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNX0VleGotaTlVR3hmaF94WW1LV3E4V2JpOGVSeDZ5NDRXWmFPOXpvQzhPeTg1aGx3eXNPR3ZrSEgxWDQ4alJSSVdSeGZfZmtwWHJwSkF1WXdtaUF6UHFRRE5VX0dfMFc2blkzT2U3T1VDR3RrUy1rajRTcUJRZHNQTFlYN002SGVzTkYxUmVhMDdkcmpxTDhYbEdFVmthWHVOV3paMXlQcDAzWDdVNTRnX2RZT1B4YXpxTFB5b0FpYUpzdGVXWWU3d2",
+      "publishedAt": "2026-08-02T07:38:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
+    },
+    {
+      "title": "[POINT DE VUE] Attal dans le JDD : à droite toute ! On aurait presque envie d’y croire… - bvoltaire.fr",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREdaWE50RXd5bmJqQjZNTDFFZlBfZlp0d0JmSk5HeTRQdnRzMnlGc1V1dHhVMXp0cGZ1Q2Zad0ZRdTJqMXN3UmdaVnc3VGhNN2hOb25pSno2RFRodXNPVHFaZ1dUNkFwY2VfU0pRU1N2YmdlWnVoSU5nUHo3LTQ2MWw4cUdNbDQzdjZXamsxcnU3NTZfN3R4QWZ4cGNMZEVqb2g0ZzJlM2o?oc=5",
+      "source": "bvoltaire.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREdaWE50RXd5bmJqQjZNTDFFZlBfZlp0d0JmSk5HeTRQdnRzMnlGc1V1dHhVMXp0cGZ1Q2Zad0ZRdTJqMXN3UmdaVnc3VGhNN2hOb25pSno2RFRodXNPVHFaZ1dUNkFwY2VfU0pRU1N2YmdlWnVoSU5nUHo3LTQ2MWw4cUdNbDQzdjZXamsxcnU3NTZfN3R4QWZ4cGNMZEVqb2g0ZzJlM2o?oc=5\" target=\"_blank\">[POINT DE VUE] Attal",
+      "publishedAt": "2026-08-02T15:31:04.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
+    },
+    {
+      "title": "De LFI à Renaissance, le surprenant retour des cahiers de vacances politiques - Le Point",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2pkMVJReVNZRTZKX1JDRzJsNDRDWFRUQU1vOGh2eWlFbGdvaVdGc2FydzBUaE42UWpnLTg4NmVLSDh0NmdjOWJPNXRndGIwLUNiMWozU2s1WEphTVdsRUl0VGdPbmhTZGNZVmlWVUtQU0w0c2JOS0tBc2RJM1ZTTi0zejgyR2VuaVpmV29HSVNqZUl4N3FCUU9NZ0dVWktyWjl4TEN2SU9JLUlVdENnaWtTOEdaVHhqV2w1X1A1WnE2eFQwYVNGd3hjNHBRT3FSZWM4?oc=5",
+      "source": "Le Point",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2pkMVJReVNZRTZKX1JDRzJsNDRDWFRUQU1vOGh2eWlFbGdvaVdGc2FydzBUaE42UWpnLTg4NmVLSDh0NmdjOWJPNXRndGIwLUNiMWozU2s1WEphTVdsRUl0VGdPbmhTZGNZVmlWVUtQU0w0c2JOS0tBc2RJM1ZTTi0zejgyR2VuaVpmV29HSVNqZUl4N3FCUU9NZ0dVWktyWjl4TEN2SU9JLUlVdENnaWtTOEdaVHhqV2w1X1A1WnE2eFQwYVNGd3",
+      "publishedAt": "2026-08-02T18:30:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
+    },
+    {
+      "title": "2027 : la promesse intenable du candidat Gabriel Attal ? - planet.fr",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3JTcXlDOWFIajQzNTQtZm9KQ2gtZm9JMy1SMTNHNzV3dVVkMVpuUERWbHFUWGxlVjluR1REdUhUV0I4UlhRaHMwWkplYzJ2LVowMWowdl8tZkZSS2EtRzA5UEpDMmNjZTZ0emxsSkZxMldsb0p1NVI1XzRRUlpTZzlfck01a25lNDBLMDdnN2tBOFg4OURFOGVFd042UDduaXhsOE1B?oc=5",
+      "source": "planet.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3JTcXlDOWFIajQzNTQtZm9KQ2gtZm9JMy1SMTNHNzV3dVVkMVpuUERWbHFUWGxlVjluR1REdUhUV0I4UlhRaHMwWkplYzJ2LVowMWowdl8tZkZSS2EtRzA5UEpDMmNjZTZ0emxsSkZxMldsb0p1NVI1XzRRUlpTZzlfck01a25lNDBLMDdnN2tBOFg4OURFOGVFd042UDduaXhsOE1B?oc=5\" target=\"_blank\">2027 : la promesse inte",
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
       "isNew": true
     },
     {
@@ -124,74 +229,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-02T01:18:48.223Z",
-      "isNew": true
-    },
-    {
-      "title": "Camping, auto-stop ou tour de France : l'été tous azimuts des candidats à la présidentielle - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPekhMcUUycTItOXc0cy1YVUcyTlpxdEJnYWdQTFA2X3FzQll6UVZ1LXp0bTZ2Y1JadUMzZTEyZ2xVSGpSS3JjTmJlUWxtaG5FR3NPeFo3WG5YLV91djRNNkpVZWdqLUZhUzdpa0R5aWpndE9tN2VjbkFOS0s2cG53OU1Ra2NLekZyanQyb3AwLVhZdmlpUk9ORGNCMjRsOGtxUU9rcDQ0UnFtTmFnVmJvbGJGRmZIQzNXWGRUeFBhQWIyWDl5ZWpFZTRYRkVobm9qY3ZZWjAtbjMydGhx?oc=5",
-      "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPekhMcUUycTItOXc0cy1YVUcyTlpxdEJnYWdQTFA2X3FzQll6UVZ1LXp0bTZ2Y1JadUMzZTEyZ2xVSGpSS3JjTmJlUWxtaG5FR3NPeFo3WG5YLV91djRNNkpVZWdqLUZhUzdpa0R5aWpndE9tN2VjbkFOS0s2cG53OU1Ra2NLekZyanQyb3AwLVhZdmlpUk9ORGNCMjRsOGtxUU9rcDQ0UnFtTmFnVmJvbGJGRmZIQzNXWGRUeFBhQWIyWDl5ZWpFZT",
-      "publishedAt": "2026-07-31T14:43:20.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-01T01:21:07.592Z",
       "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : Gabriel Attal débouté sur l’utilisation du slogan de campagne « renaissance » par Marine Le Pen... Il fait appel de la décision - Info-Chalon.com",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObWY1cmFPR0p2cC1Tb0hrcmZLVHU4cXhmbTM2M0xmTWs3M3ZLdjg4Y21sOTVieXpOOExVWW15UkpnLWhYYks4VjI2SzNWaGwxU1JUR1hkSDFORTF4VUtIMjQ2cWZmMi1GdVRab0tvMFpVTXR6WHRCaWZkWW94a2dSdXlnY0FOVzhmeXZZZmN0TjJZbDBHSmlGb3d0ODFVbmdkMGwzVTR6MU9rMHpFRXRIT2l4ZjN0dnh0bzh2ek02V1FlSmNsTV9ra0dPZmtRd01fNW9tZzhlQ1N5MC1SekRDUE8zaHVwWnJQMkswMW1MblZVN2NFU25DZnJDTndpOEpDSHFJaGV3cWVNNF8xcWlzTlQ4Tk1welkxVDZNbWFSMDFhUQ?oc=5",
-      "source": "Info-Chalon.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxObWY1cmFPR0p2cC1Tb0hrcmZLVHU4cXhmbTM2M0xmTWs3M3ZLdjg4Y21sOTVieXpOOExVWW15UkpnLWhYYks4VjI2SzNWaGwxU1JUR1hkSDFORTF4VUtIMjQ2cWZmMi1GdVRab0tvMFpVTXR6WHRCaWZkWW94a2dSdXlnY0FOVzhmeXZZZmN0TjJZbDBHSmlGb3d0ODFVbmdkMGwzVTR6MU9rMHpFRXRIT2l4ZjN0dnh0bzh2ek02V1FlSmNsTV9ra0",
-      "publishedAt": "2026-07-31T05:57:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-01T01:21:07.592Z",
-      "isNew": false
-    },
-    {
-      "title": "\"Renaissance\" : Gabriel Attal perd son procès contre le Rassemblement National - planet.fr",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3FlYWE3eWVkZmFkeks3Wl9paTVlSkFHRlh1SDM5QUdUZTRGUm5rVUMtZjRTNUg3VW5Ca0ZCN2IxNmpOcko1SFdLMWdORE43ekxid1pGc2dtZTM2SGhVLWpqYjM1TFhhdXpHZjRfR0VtQk95UHpNa3B1MDBSRTNqdWZVOC1hNklwMnlSRnB5UUh1YXhXVEZBMXVqWTdhcU9iUjlrZWU4NnM1WEszcnBmdEoxZjNudmtET2plR3FIRm1fNFE?oc=5",
-      "source": "planet.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR3FlYWE3eWVkZmFkeks3Wl9paTVlSkFHRlh1SDM5QUdUZTRGUm5rVUMtZjRTNUg3VW5Ca0ZCN2IxNmpOcko1SFdLMWdORE43ekxid1pGc2dtZTM2SGhVLWpqYjM1TFhhdXpHZjRfR0VtQk95UHpNa3B1MDBSRTNqdWZVOC1hNklwMnlSRnB5UUh1YXhXVEZBMXVqWTdhcU9iUjlrZWU4NnM1WEszcnBmdEoxZjNudmtET2plR3FIRm1fNFE?oc=5\" ",
-      "publishedAt": "2026-07-31T05:52:54.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-01T01:21:07.592Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : la justice autorise le RN et Marine Le Pen à utiliser le terme \"renaissance\", malgré la plainte du parti de Gabriel Attal - Midi Libre",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcjhFZnVxQzNRVHQtTWlCLXo0V25VZkJWdmMwSzh5WWlUaGQ0dnVrOVhrN1p2Z2VJMlNTNTBmTlVna0JmYnptVTRiWUh4SVhsaFhOVW5mckxLVVNqVnU5UTl6RnBENjBQaW4wd0tnLUtzTnVBbk01NVFvRWJXd0ktc185d0tPdDhOVWZIVGtDeFpsdm83b1N6V3FCdEplX3owMS10MUNkaHZlTk90WjJaT1MtOXJyeG1vcGVOVzhJUGxDVks0WGZYZlh1M21vWXZ4Wjh0V1Y3bmJQZzBpd01HTnFYdHZrMEttWHN6bWdITERfcngtTV8tdUR5TmtPM1BWTEtRbk5GTVpub0sxTFVEQW1Zcm82dw?oc=5",
-      "source": "Midi Libre",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOcjhFZnVxQzNRVHQtTWlCLXo0V25VZkJWdmMwSzh5WWlUaGQ0dnVrOVhrN1p2Z2VJMlNTNTBmTlVna0JmYnptVTRiWUh4SVhsaFhOVW5mckxLVVNqVnU5UTl6RnBENjBQaW4wd0tnLUtzTnVBbk01NVFvRWJXd0ktc185d0tPdDhOVWZIVGtDeFpsdm83b1N6V3FCdEplX3owMS10MUNkaHZlTk90WjJaT1MtOXJyeG1vcGVOVzhJUGxDVks0WGZYZl",
-      "publishedAt": "2026-07-31T13:14:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-01T01:21:07.592Z",
-      "isNew": false
-    },
-    {
-      "title": "En déplacement à la SPA de Plaisir, Gabriel Attal dévoile ses premières propositions pour la protection animale",
-      "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal",
+      "title": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 ».",
+      "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
       "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "En déplacement ce matin à la SPA de Plaisir, Gabriel Attal est allé à la rencontre des bénévoles, des salariés et des animaux recueillis par le refuge. Alors que l’été constitue chaque année la période la plus difficile pour les associations de protection animale, il a souhaité mettre en lumière leur engagement et prés",
-      "publishedAt": "2026-07-31T12:00:00.000Z",
+      "snippet": "Dans un entretien exclusif accordé au Journal du Dimanche, Gabriel Attal dévoile ce qu&#x27;il considère comme la clé de voûte de son projet politique : une transformation radicale de nos institutions. Pour lui, les blocages qui paralysent le pays trouvent leur origine dans un système devenu obsolète, empêchant la Fran",
+      "publishedAt": "2026-08-02T12:00:00.000Z",
       "lang": "fr",
       "type": "official",
       "persons": [
@@ -199,15 +244,15 @@
       ],
       "coOccurrence": false,
       "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-08-01T01:21:07.592Z",
-      "isNew": false
+      "firstSeenAt": "2026-08-03T01:19:42.424Z",
+      "isNew": true
     }
   ],
   "stats": {
-    "total": 13,
-    "new": 5,
-    "carried": 8,
-    "media": 12,
+    "total": 16,
+    "new": 12,
+    "carried": 4,
+    "media": 15,
     "agenda": 0,
     "official": 1,
     "coOccurrence": 0
