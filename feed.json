@@ -1,24 +1,664 @@
 {
-  "generatedAt": "2026-08-09T00:38:50.907Z",
+  "generatedAt": "2026-08-10T00:40:04.903Z",
   "persons": [
     "attal",
     "sejourne"
   ],
   "lookbackHours": 48,
-  "items": [],
+  "items": [
+    {
+      "title": "\"Récupérer 1.000 milliards de litres\": Gabriel Attal promet un plan \"massif\" sur l'eau s'il est élu président - BFM",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ0NJNFI4RjNMOTdOTW9pRU1hZWhmWEVRMnFSOElGOVBoX2Z1WUh4WFVrZE85NlZlaEo0WDRnYkFObVdEVFFPTXgyb0RuMjE0V0hta0dsbHF1TERrUTVGYlRnRklZZ0Jzd0FoTnhQcllrTW9vTFBTNW1rd3JtdENzOU5WaFpVTUxXbjdncHUxZWhGWU5hWjZ3T1QtX1FHS0dqYzBSMTdxeXJ2SWIwWUN5dlRVbGVqZk9VeVUxSkF5OGxBQnVUN3JRajFYQWVkOU1xR1pTajBFYnAyLTFsYUZYOFd5LXlLTC1vVU5NS0ZydWRXMmdiaEdmVWl2V3d6RXUzVlBOX2JCNGl4WDZlVEd3?oc=5",
+      "source": "BFM",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ0NJNFI4RjNMOTdOTW9pRU1hZWhmWEVRMnFSOElGOVBoX2Z1WUh4WFVrZE85NlZlaEo0WDRnYkFObVdEVFFPTXgyb0RuMjE0V0hta0dsbHF1TERrUTVGYlRnRklZZ0Jzd0FoTnhQcllrTW9vTFBTNW1rd3JtdENzOU5WaFpVTUxXbjdncHUxZWhGWU5hWjZ3T1QtX1FHS0dqYzBSMTdxeXJ2SWIwWUN5dlRVbGVqZk9VeVUxSkF5OGxBQn",
+      "publishedAt": "2026-08-09T16:00:23.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal porte plainte après des soupçons d’ingérence russe - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEtYbFpjUEtwWlh6b1huWUtub2t3ME40UWY3YlZBRi13a1h1c1JoLWt2QUlzdE5iQlRfT3E3QlRhWEhtT3BEdTdDNXY0RGRNd0RUZHBhU2F0NjU2VVNYdzlSVDFCTU16U095QjRNNWQ4NTExZVdjb3dJbnUwdTdPdGk1eHYxTGR2cl9ibmk4Y2s3bjJIU2x5MTNoanlFTDlqSTNDQWk0WkQ1MElxN19iZjNEQnR3blQ3RHBjLVZuOTI2ZndXYW5BZlRQTDZvTGtkdjQwS2RtOGw3M1U?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEtYbFpjUEtwWlh6b1huWUtub2t3ME40UWY3YlZBRi13a1h1c1JoLWt2QUlzdE5iQlRfT3E3QlRhWEhtT3BEdTdDNXY0RGRNd0RUZHBhU2F0NjU2VVNYdzlSVDFCTU16U095QjRNNWQ4NTExZVdjb3dJbnUwdTdPdGk1eHYxTGR2cl9ibmk4Y2s3bjJIU2x5MTNoanlFTDlqSTNDQWk0WkQ1MElxN19iZjNEQnR3blQ3RHBjLVZuOTI2Zn",
+      "publishedAt": "2026-08-08T05:17:53.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Sortie d'Attal sur les gens de voyage : comment le nomadisme s'est retrouvé dans l'angle mort de l'État - Marianne",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTNKbW41b3ZHMS1CRGNueUM2aU5qQ3FiMndxaENfcFZjM19hYm1aSXUyU25jMjk3THVyZHM3a0lPdzJzTWs1OS0wOW9ERWpFQXlYcWVBZURRZlZWT2I4WllUcWtEOVNhTV9HdldXcjQzcFhTQ3ZKZlZRYW9Ja05KbHltX0RTYWlZdUNSNzFpSlhoQzcxS3BZYURRRzUtOWxQQUJlNTh4MXBaNkNEZmM4NFpvb0xOaTlxck10Mnh4MEZ1X0tBT1RuZ2N3X2xOakU?oc=5",
+      "source": "Marianne",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTNKbW41b3ZHMS1CRGNueUM2aU5qQ3FiMndxaENfcFZjM19hYm1aSXUyU25jMjk3THVyZHM3a0lPdzJzTWs1OS0wOW9ERWpFQXlYcWVBZURRZlZWT2I4WllUcWtEOVNhTV9HdldXcjQzcFhTQ3ZKZlZRYW9Ja05KbHltX0RTYWlZdUNSNzFpSlhoQzcxS3BZYURRRzUtOWxQQUJlNTh4MXBaNkNEZmM4NFpvb0xOaTlxck10Mnh4MEZ1X0tBT1RuZ2",
+      "publishedAt": "2026-08-09T08:00:06.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gens du voyage : « Leur présence ne doit plus passer par des aires d’accueil glauques », Philippe Buisson, le maire de Libourne, répond à Gabriel Attal - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUTl1c09XeFBkOVFULUFjeHpSdmtGVmo2Y29mT1RMR19XRnNObG5fZ0ZRMGoxRDlzcEJDUms5eWJBMzZGTzNFc3lDRnRGZU9lYVBPaFdKSFZQdHM1WUtnSjNWN3pzLU5NaUF0cktnUm80anZIekg3cGxhUVRRRkJld2xMcHk4NkNfS041cXRBUVZwM1M1UEZMSko4azlIZDBwM0U1dUxaNXdVWm5ha2VoUFp4ZkVTZ25HQVJLOWhidmFjUVR2LXhsUmJUeE5CeUZ6eFNJc2ZrS2xHcHFWWDh2b1ZhMy05VF92M1NPQ01paWoyWm12QTJuME1JdGpCSnQwVGRZV1JxNVN0TUVnZy1MYXZ3MFVoZw?oc=5",
+      "source": "Sud Ouest",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNUTl1c09XeFBkOVFULUFjeHpSdmtGVmo2Y29mT1RMR19XRnNObG5fZ0ZRMGoxRDlzcEJDUms5eWJBMzZGTzNFc3lDRnRGZU9lYVBPaFdKSFZQdHM1WUtnSjNWN3pzLU5NaUF0cktnUm80anZIekg3cGxhUVRRRkJld2xMcHk4NkNfS041cXRBUVZwM1M1UEZMSko4azlIZDBwM0U1dUxaNXdVWm5ha2VoUFp4ZkVTZ25HQVJLOWhidmFjUVR2LXhsUm",
+      "publishedAt": "2026-08-09T05:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal, premier de cordée dans les Alpes : “Mes coéquipiers ont commencé à contester mon autorité” - Le Nouvel Obs",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNDZOUC1uRlA4dHhfRlVLcDR2V3VzLTY5RWt2T05BWnUzcUtYQ2ZRbGFKOVdQMzNoRTdEb1ZKMUNmNjI1RW5rS2g2RmZONDFvVUNNRFJTek9nLWhsaEp5SEUwSXY1TUV4MUMxc1lHR25lWEpqbEx5R3E4UUg0LVpBM09oUjVNcFlTdC0zYUV0RE1ubzlicTUyemYtZW9HT21LSnkyZndBMHhBOVhOUlQ3b0xYLU9NZm82VDBaS0NJdWY5Nk96MTlWYUlDLUxLdDk3b21MOHJib3BvSHl4NEx0aVFPZkFzbzItOGt3aGdSVFdhdw?oc=5",
+      "source": "Le Nouvel Obs",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNDZOUC1uRlA4dHhfRlVLcDR2V3VzLTY5RWt2T05BWnUzcUtYQ2ZRbGFKOVdQMzNoRTdEb1ZKMUNmNjI1RW5rS2g2RmZONDFvVUNNRFJTek9nLWhsaEp5SEUwSXY1TUV4MUMxc1lHR25lWEpqbEx5R3E4UUg0LVpBM09oUjVNcFlTdC0zYUV0RE1ubzlicTUyemYtZW9HT21LSnkyZndBMHhBOVhOUlQ3b0xYLU9NZm82VDBaS0NJdWY5Nk96MTlWYU",
+      "publishedAt": "2026-08-08T09:30:14.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal poursuit son tour de France dans les Pyrénées-Orientales ce lundi - CNews",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHMyVlRQR1c4aHhHRy1rQ1FoQWV0NG90anZWSFdmRFBReno0TjFDaC1QR1l3UXNSR29wVG5sX19yVkMyc0J0UTY5WWw0SzFiVjBIU0tKQlJTX1c3bXhYV0dQOVhhd3NVT2ZZVUdQWGx6bnc2MS1VUVNqY2VNZ1A5dGRORmZWOWhwV3dPbkVKaFgxZTVFOGp0SDJuN0VrU1lZWE5uSENEMEpNbUYyODFzdC1mb0ZwZzNjQkHSAb8BQVVfeXFMTkFtMHBWanI3WHVhbEgzNndhSzVSZm90cjdOUm5aY3QyYzNmX1FZYUVEQWl0cFBKVWxXdDVpbWdMR21qSTdNTXg4S3dQck9NMXlERkxBTUQxQnIzUnFoNWJqa0hQY2h2MlRtYmxlMXYtT1FlSjRuNnI4Z0c4VVo4ME1UNVI2ellEMC1sdlRhbVg5MHpvbVNzOVp0TlNMd1FHVkZhbThrSGR2QXZKRWhHNGlyVEFXY2Q2TUliQ2I0aVE?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQTHMyVlRQR1c4aHhHRy1rQ1FoQWV0NG90anZWSFdmRFBReno0TjFDaC1QR1l3UXNSR29wVG5sX19yVkMyc0J0UTY5WWw0SzFiVjBIU0tKQlJTX1c3bXhYV0dQOVhhd3NVT2ZZVUdQWGx6bnc2MS1VUVNqY2VNZ1A5dGRORmZWOWhwV3dPbkVKaFgxZTVFOGp0SDJuN0VrU1lZWE5uSENEMEpNbUYyODFzdC1mb0ZwZzNjQkHSAb8BQVVfeXFMTkFtMH",
+      "publishedAt": "2026-08-09T06:15:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "FRANCE: Gabriel Attal ye jalakilisɛbɛn don Russie bɔlɔlɔsiraw kama - RFI",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSHlfTHNNdVhMM3AyYXdUeWkwS3h2dkRXRlVDUlpjdklubTY3Q1NSVkwzWl96aDltWXB1SExkbTNkaU14dWlYTmtQMVFUVmQxTURqMTdKZ2MySU5ESVYxUEFBUFFDb25oTHBfb3pkcnA5RmVQWVlSU3ZFclRSVm5UbUJyUXhIYUxlU1k1VHl5Vmx3cmYzZ3lHdGZzUDZCQXRjejAwOFlWRnRQemJnREFGZVRLakRpNkhpdjJ3NUVoMUlUMF91eGJHR0h6QVVaZw?oc=5",
+      "source": "RFI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSHlfTHNNdVhMM3AyYXdUeWkwS3h2dkRXRlVDUlpjdklubTY3Q1NSVkwzWl96aDltWXB1SExkbTNkaU14dWlYTmtQMVFUVmQxTURqMTdKZ2MySU5ESVYxUEFBUFFDb25oTHBfb3pkcnA5RmVQWVlSU3ZFclRSVm5UbUJyUXhIYUxlU1k1VHl5Vmx3cmYzZ3lHdGZzUDZCQXRjejAwOFlWRnRQemJnREFGZVRLakRpNkhpdjJ3NUVoMUlUMF91eGJHR0",
+      "publishedAt": "2026-08-08T12:20:15.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Un cheeseburger et ça repart : le surprenant péché mignon de Gabriel Attal sur la route - Gala",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjhWN05URVlQOUotZXhjdFlqS2FjU0JJS3REM1NOZHFhNW92SExjWm9xaXhYS3EtSHZXRm1MNEd0NDhyaVlDY3l3RzlWTXZ2RnFLZlZQd3lVcVZScjNqNU1NamRRZ1c4NlpGa05fSEl3ajNYUFZkdUxJV2EtaHZhR1dneVc1d09uWTQ4VFRFSngtQzhRTmRzT0k0dlNnbnZ3elZST3JFY002WnF3d1dCV1VLQzhBYjdDaWxaUGxhMlVyZw?oc=5",
+      "source": "Gala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjhWN05URVlQOUotZXhjdFlqS2FjU0JJS3REM1NOZHFhNW92SExjWm9xaXhYS3EtSHZXRm1MNEd0NDhyaVlDY3l3RzlWTXZ2RnFLZlZQd3lVcVZScjNqNU1NamRRZ1c4NlpGa05fSEl3ajNYUFZkdUxJV2EtaHZhR1dneVc1d09uWTQ4VFRFSngtQzhRTmRzT0k0dlNnbnZ3elZST3JFY002WnF3d1dCV1VLQzhBYjdDaWxaUGxhMlVyZw?oc=5\" t",
+      "publishedAt": "2026-08-08T11:09:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : le mois d'août pour convaincre - Europe 1",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdnlUbUFvbFBoU3Y0a0pSTDBJOWQxZDV1NHhNNTlxMDZmLTZVdUJLd3VXenFfcFhEcWFPM09HUnk4bTdGUUdWSEhBZXJ2dHJUdGQxb0RybDB3R3pKbGxfZzhad2V3a29OTUg3ZXRHRVJmdUhFTnhSa0RXTWd1Ml81Q3VqbFV0ZUhLc3otVlNjSVEzRGtST0ptVW9yWdIBoAFBVV95cUxORDF0SVJyT3V6NFg5aVZZbTlCYThQeW5yb2pVWjQ1OXNtMUQwMWNTbG5ESDZkUXVUTFlmSVVWeFNUMHlsODF4ZTBZS1BjUGZkb0tpR3dhblRlRW1DeThMaS1Zbmd6OUJrcVVmUTFkalNfR2NMZHJQelptZFoyNFVqY3E3Q0Jqa1gycV8yWVlqNWJJdml4V1hfM2pMWUhwVk1E?oc=5",
+      "source": "Europe 1",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdnlUbUFvbFBoU3Y0a0pSTDBJOWQxZDV1NHhNNTlxMDZmLTZVdUJLd3VXenFfcFhEcWFPM09HUnk4bTdGUUdWSEhBZXJ2dHJUdGQxb0RybDB3R3pKbGxfZzhad2V3a29OTUg3ZXRHRVJmdUhFTnhSa0RXTWd1Ml81Q3VqbFV0ZUhLc3otVlNjSVEzRGtST0ptVW9yWdIBoAFBVV95cUxORDF0SVJyT3V6NFg5aVZZbTlCYThQeW5yb2pVWjQ1OXNtMU",
+      "publishedAt": "2026-08-09T19:20:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal porte plainte après des soupçons d’ingérence russe - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTnkwTkFZNlFLSk1nSi15ejRJeHdWRExKX3Q0cC1hQXk2YS1ISmhEdlcyUlNTZkxPYVZsdzZndVFlOXNQWC1zbktsaUswN2c4cWFyQzZMZTVIemtYaHJENDNXYlotU3lURi1ZSExSeTUwY0RyYndiSV9NdmFpbDdEcXFnT2NLMzdlQmJwZmt1X0ZLMVVSeDhzVU1qQnBQamZzYklaNFJtYWZ3UENIMFZuVDFMQkRYUmVYNTVQN2daQzg4WTlFdkFJS2c2Z2h1QQ?oc=5",
+      "source": "20 Minutes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTnkwTkFZNlFLSk1nSi15ejRJeHdWRExKX3Q0cC1hQXk2YS1ISmhEdlcyUlNTZkxPYVZsdzZndVFlOXNQWC1zbktsaUswN2c4cWFyQzZMZTVIemtYaHJENDNXYlotU3lURi1ZSExSeTUwY0RyYndiSV9NdmFpbDdEcXFnT2NLMzdlQmJwZmt1X0ZLMVVSeDhzVU1qQnBQamZzYklaNFJtYWZ3UENIMFZuVDFMQkRYUmVYNTVQN2daQzg4WTlFdkFJS2",
+      "publishedAt": "2026-08-08T07:50:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle : Gabriel Attal porte plainte après \"une nouvelle opération d'ingérence\" venant de Russie - TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMGk3enRVVlkxWkdFekVfSnRzUW11RFU1UkRKbTVzQmxvVVh5M1dGeG5zYVpFd1NlaVA0UmFwRHowRVJYWWxVaVdDNDZmMVVMTVNnVms4TWt6UndwekhyNzVoNTR3alMtSWlBSnhDNk5PUE1GZk5xeFhSLTVDZEktNDItY29XVkNCb2tJTGJvWVQtYmtsVnZnQ3l1X0cwdFc0Y3dTQW1aMXFZX1JzWmFFdGN6dGl3QmkwN2NoVkFOaTVYZnRBMGlZdkxRSzA5NWVuZWdiMEhXNUFjcXZlVlQzRXRESUgtbEFQbDVDTWxRdDdDUndlbUtTOGVPaVZ6ZHRzQm5FZmo3d3c0ZHlOVDN6RTZHb3Z4OHM0ckZXUXlhcThEdGZFeS1z?oc=5",
+      "source": "TF1 Info",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPMGk3enRVVlkxWkdFekVfSnRzUW11RFU1UkRKbTVzQmxvVVh5M1dGeG5zYVpFd1NlaVA0UmFwRHowRVJYWWxVaVdDNDZmMVVMTVNnVms4TWt6UndwekhyNzVoNTR3alMtSWlBSnhDNk5PUE1GZk5xeFhSLTVDZEktNDItY29XVkNCb2tJTGJvWVQtYmtsVnZnQ3l1X0cwdFc0Y3dTQW1aMXFZX1JzWmFFdGN6dGl3QmkwN2NoVkFOaTVYZnRBMGlZdk",
+      "publishedAt": "2026-08-08T07:34:38.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Deepfakes, faux reportages vidéo, fausses unes de journaux : Gabriel Attal porte plainte, dénonçant une ingérence russe - Libération",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNWWxxVzV2cmVOY2ZYSWl0WkRwTDNWTGk2ZG5XSGxaTFZhcjV5b1F3YTYwWFNXT19RSjlnVGoyZ0dMcHNmek9zTGowanlRbjNrcUdBUlI3RU4wT1BVR0RtaDhrQkYwRU5BUkNzM1FLY3ZFZFRXOWs1cXo1dnRwMklGQ3ljTlVncWs1TUs2OFZwN0NQX3NvTUJMcFRWWWI2T0tydEhUOF9TcTZHMGZ0ZHhGa3plZnAxcEZPczVXYk5xVEFJY1BMb25CaFRkWFlrbU53ZDJXdW4tMVF2LXpJS1d5VFZiWDdwMEFHWnZTVkhWSHoxdnFXTnl4Q0FNb0Y0RzlPY0M0YWJzSUI0WW5JMGREWGFYNXU0TEE4YW5RN2lvclBJNlU?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNWWxxVzV2cmVOY2ZYSWl0WkRwTDNWTGk2ZG5XSGxaTFZhcjV5b1F3YTYwWFNXT19RSjlnVGoyZ0dMcHNmek9zTGowanlRbjNrcUdBUlI3RU4wT1BVR0RtaDhrQkYwRU5BUkNzM1FLY3ZFZFRXOWs1cXo1dnRwMklGQ3ljTlVncWs1TUs2OFZwN0NQX3NvTUJMcFRWWWI2T0tydEhUOF9TcTZHMGZ0ZHhGa3plZnAxcEZPczVXYk5xVEFJY1BMb25CaF",
+      "publishedAt": "2026-08-08T07:52:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "« Deepfakes, faux reportages vidéo » : Gabriel Attal porte plainte et dénonce une ingérence russe en vue de la présidentielle 2027 - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOU80a3lPU2ozUFhkRjhUU3ZKNzVzMVdPb1dpSzZON3prQ1FEZDdZSHVHYWQ4eXc1TUp6S0FfdFRTemtOMTRTZ1Q5RUJ6Sy1JQjFtYjF2S2xlcWtuM1NzYWpTbTB2aG1DM2V3dGFCYm1vMlo4LTRpajJTQjREd3M2ckNaa3pScWxsZ2dCTlBOam5abzFHeVpNMWVvOHhtbnVZR1VORzZ0OHEyYlZIZ3NQWlJoMU8tTTg0Y3NneEVmNWYtNm5UWndaX2VTWlU5NkNRMkpNTTh5NGxXVDFDY2tYbEw3RnpVUE9feXhuOWdoTVI1eklGNEUwRUpZV0lENjdvTXdoMEpzX0FpOERTeThMYQ?oc=5",
+      "source": "Les Echos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPOU80a3lPU2ozUFhkRjhUU3ZKNzVzMVdPb1dpSzZON3prQ1FEZDdZSHVHYWQ4eXc1TUp6S0FfdFRTemtOMTRTZ1Q5RUJ6Sy1JQjFtYjF2S2xlcWtuM1NzYWpTbTB2aG1DM2V3dGFCYm1vMlo4LTRpajJTQjREd3M2ckNaa3pScWxsZ2dCTlBOam5abzFHeVpNMWVvOHhtbnVZR1VORzZ0OHEyYlZIZ3NQWlJoMU8tTTg0Y3NneEVmNWYtNm5UWndaX2",
+      "publishedAt": "2026-08-08T09:56:26.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle en France: Gabriel Attal porte plainte pour «ingérence étrangère» en provenance de Russie - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR0tOV2lxVk5BUk1OOXZZQmY0bGc2RUFWNXl3NzNLTDlFZ0FHWEs4T0JJUUhQZ3plbTFubzdSMHkxT3hYblZJTzU2aVlZYWhNSzh2NGt0ZVZ1cnpXajBYNHg1dGZjMFlUNXZibTNFSWd5VURqdkZkSkdlMkd2cmxhV2ZNWUxxc2ZwYmxoMUJHd3MyRm5xR24tdDRjTVF0eUZwVHd3d0FsVjlOOHBIZlNfNzBlS01GYjVTdi1kb1RzUzB4LVZUc1RKNXdmYWJjTmtTQWtRczFaYjE0SnJ4RXZlR19rV0lvYXF6OHVGMkdTeTU?oc=5",
+      "source": "RFI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR0tOV2lxVk5BUk1OOXZZQmY0bGc2RUFWNXl3NzNLTDlFZ0FHWEs4T0JJUUhQZ3plbTFubzdSMHkxT3hYblZJTzU2aVlZYWhNSzh2NGt0ZVZ1cnpXajBYNHg1dGZjMFlUNXZibTNFSWd5VURqdkZkSkdlMkd2cmxhV2ZNWUxxc2ZwYmxoMUJHd3MyRm5xR24tdDRjTVF0eUZwVHd3d0FsVjlOOHBIZlNfNzBlS01GYjVTdi1kb1RzUzB4LVZUc1RKNX",
+      "publishedAt": "2026-08-08T07:07:32.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : « Lancer la plus grande chasse au gâchis jamais menée », Gabriel Attal promet un plan massif sur l’eau en cas d’élection - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOeDJodWVjZUJXQ0tQNGw5b3RKNzh4Z2p4MExweFdDeXduQlUxN0pJTXBYQ1htTUEwbkNNbjAxUFZ3dUYwXzJJQjlmaFpFelA5cC1SVlFZSEJSZmcyZUx5ZWlzWDF1TnBCN3pobkRMTmVoQUhGbHA2T19VamxaSkpmaHlvby1ZTWRLd090R3NGYUJrUngwclk3dnVnR3FtYVhTM0lQUjhIMUpuUTdFZmJLRkdmeFEyalhvX2pDYXlKbERydGZNU281ZHRBR0h1TnBRV3BoYTZTYk1WQ1JxcFJncDVRUm1oNnJ0c2M4cWVuRm1vSVNzUDBJVlJnRERIMmhKTjZBbFJDaVdDQ2kzQ3A4NnRCV3dybmVOMkdJZ0gyU3UxUQ?oc=5",
+      "source": "Sud Ouest",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxOeDJodWVjZUJXQ0tQNGw5b3RKNzh4Z2p4MExweFdDeXduQlUxN0pJTXBYQ1htTUEwbkNNbjAxUFZ3dUYwXzJJQjlmaFpFelA5cC1SVlFZSEJSZmcyZUx5ZWlzWDF1TnBCN3pobkRMTmVoQUhGbHA2T19VamxaSkpmaHlvby1ZTWRLd090R3NGYUJrUngwclk3dnVnR3FtYVhTM0lQUjhIMUpuUTdFZmJLRkdmeFEyalhvX2pDYXlKbERydGZNU281ZH",
+      "publishedAt": "2026-08-09T14:52:23.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "«Lancer la chasse au gâchis» et «faire sauter les freins administratifs» : Gabriel Attal promet un plan «massif» sur l'eau s'il est élu - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNakprTGF4Mk1QZ2VYbjh3dDBEb0pqbm5RTDMtOGxuTnBpVWt0NnZjVjVPN0hGSHB1ODl1ajl1VTVoRi1DaWpudXJ6MGc4N3lsM1BmbjQzSmw2ZWFGSjdVVU1lUWs5eDdQVDA4d05LWmtocVY3blI0QWNhaEtpRWRhblJOVGVsTVBkclYtWG0ycVZCYUhBajBuX2djOWNyeTNBbXZDTmR4aXJKN0dmMVRGc3B1LW9CMzFhcUNfNVhuWXh1VnloNExoa3liUG9GeUw2OW9FeUV1QmRlRkhpODJTM1EyRk5wM0NGZkQzd25xUm1NbENJTHlzRW9oVlVrbzA?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNakprTGF4Mk1QZ2VYbjh3dDBEb0pqbm5RTDMtOGxuTnBpVWt0NnZjVjVPN0hGSHB1ODl1ajl1VTVoRi1DaWpudXJ6MGc4N3lsM1BmbjQzSmw2ZWFGSjdVVU1lUWs5eDdQVDA4d05LWmtocVY3blI0QWNhaEtpRWRhblJOVGVsTVBkclYtWG0ycVZCYUhBajBuX2djOWNyeTNBbXZDTmR4aXJKN0dmMVRGc3B1LW9CMzFhcUNfNVhuWXh1VnloNExoa3",
+      "publishedAt": "2026-08-09T15:44:24.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal porte plainte après des soupçons d'ingérence russe - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1Ayc2g5RGJTQ0hqbDVnVklybFBaWXFKWDJyX09rRTFrbnU4eG1QNndLSmZ2dTBQY0tTbkR2MUs5czBnS0E3aXRvU25uTkd1TEoyTTdVYkpSRUJxZkoxWWlnVExIcVRQWk9fVF9kUkEyRG01YUZLa1BqUUZOZlkyOFZKVFdBbktWUy1MZTFCX2JJRXFVcE5nOVN1R2ZKTWM2M3NkRE5pNWJxM0EyTUF1TUpVN0tNczg?oc=5",
+      "source": "franceinfo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1Ayc2g5RGJTQ0hqbDVnVklybFBaWXFKWDJyX09rRTFrbnU4eG1QNndLSmZ2dTBQY0tTbkR2MUs5czBnS0E3aXRvU25uTkd1TEoyTTdVYkpSRUJxZkoxWWlnVExIcVRQWk9fVF9kUkEyRG01YUZLa1BqUUZOZlkyOFZKVFdBbktWUy1MZTFCX2JJRXFVcE5nOVN1R2ZKTWM2M3NkRE5pNWJxM0EyTUF1TUpVN0tNczg?oc=5\" target=\"_blank\">",
+      "publishedAt": "2026-08-08T05:25:26.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal porte plainte pour « ingérence étrangère » en provenance de la Russie - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMGRaUWxFRFJKRXY5VklERlVvejhXbDVVd3lNbks4YU9WWHcyMjhmbDZZOUFUcjR3ZFZhLUpObGRxUkU4RVM1QmliWTBsRzRFbjBWWXJPaTQ5bnZKQzJTX0gxeFBNSEhwT1FkQ042ZDY0Y2NtZ3htNkx0TVA0M2JqQnp2M1lMek9mMEE4LTZKMU9VeTJwSWFqQVVrLXZBMmRlVFdFNW9KOUdtM29OS2ViSXdWcHhMckZoeVRTNUZza1E3OVNZRWkyaWNzdmZaUnpDbUlNNE8tcEVrSGtJblZfdFV5UE5oT2ZkQ0NGa0ZmYlpRa2ZRZDlKbENBN3k0dlRBWmFXQlRrQmg?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMGRaUWxFRFJKRXY5VklERlVvejhXbDVVd3lNbks4YU9WWHcyMjhmbDZZOUFUcjR3ZFZhLUpObGRxUkU4RVM1QmliWTBsRzRFbjBWWXJPaTQ5bnZKQzJTX0gxeFBNSEhwT1FkQ042ZDY0Y2NtZ3htNkx0TVA0M2JqQnp2M1lMek9mMEE4LTZKMU9VeTJwSWFqQVVrLXZBMmRlVFdFNW9KOUdtM29OS2ViSXdWcHhMckZoeVRTNUZza1E3OVNZRWkyaW",
+      "publishedAt": "2026-08-08T05:28:48.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal, Édouard Philippe, Raphaël Glucksmann... Ces ingérences qui sèment le doute à l'approche de la présidentielle - BFM",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVWFXWERRa2FQM3g3RFlLVVF2Q2lPRjhCUG5SUzZOSm1LZVh2TXRRRndtd2dtYmRmVGtRX3ZnWmRJZGI2dXpiaU03U0gtSlFsWGVTNEdmd0lkak43cHJmbTRCQThfQjM3YVplZklNanhCczJ4Sm1qbDRDdXhFMjFrWG16UjVPSUx0a0FNeTlOUDdBRFZFWEJneHgtLTJjbW1jcUxLYjlNdmhhcWtMQVRTTGJERG10R2Z1OWlHYVN4d2VJdjRjYmFvMVJSWkdydTM3MlM5MDlEY1ZFR2JWU2VwaTYweC1CRWxUT3JZWUljclFhcV9hQlFQQzJSamVGUjlrMlAtMFQ5Zi0?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVWFXWERRa2FQM3g3RFlLVVF2Q2lPRjhCUG5SUzZOSm1LZVh2TXRRRndtd2dtYmRmVGtRX3ZnWmRJZGI2dXpiaU03U0gtSlFsWGVTNEdmd0lkak43cHJmbTRCQThfQjM3YVplZklNanhCczJ4Sm1qbDRDdXhFMjFrWG16UjVPSUx0a0FNeTlOUDdBRFZFWEJneHgtLTJjbW1jcUxLYjlNdmhhcWtMQVRTTGJERG10R2Z1OWlHYVN4d2VJdjRjYmFvMV",
+      "publishedAt": "2026-08-09T04:07:14.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal attendu à Argelès-sur-Mer pour parler sécheresse - Presse Agence",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1lHNVhpdHVZcWRCSkk0VTVkS2l5X0VKc3oxWnBNOWlqX2FLdVIyU0V2djZkVldGSUY0SkZqQjVBcE5VaU9ESU9JcXlxTEpTek0xcDl6cXl5QmhNd1pQSTd3cm9pb2lUN3h5cnFuc2QyMG84UDZTLWFNZFpmdGh2OWU3aDRQaktVYlZtaFlTX09LckpBdmE2OWlzX2Y?oc=5",
+      "source": "Presse Agence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1lHNVhpdHVZcWRCSkk0VTVkS2l5X0VKc3oxWnBNOWlqX2FLdVIyU0V2djZkVldGSUY0SkZqQjVBcE5VaU9ESU9JcXlxTEpTek0xcDl6cXl5QmhNd1pQSTd3cm9pb2lUN3h5cnFuc2QyMG84UDZTLWFNZFpmdGh2OWU3aDRQaktVYlZtaFlTX09LckpBdmE2OWlzX2Y?oc=5\" target=\"_blank\">Gabriel Attal attendu à Argelès-sur-",
+      "publishedAt": "2026-08-09T21:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Chasse au gaspillage, bouclier tarifaire: Attal promet un plan \"massif\" sur l'eau s'il est élu - France 24",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU2J1Mkx5UGhpdnRwLWxtV182Z25QYlk3bUMxUWlNcEpiM1c5Z2VNd2VlVnI1U2hvLTdDTVpEMkQ2QWlWVGRfSVFrVGpGMGpVXzdfUXRuRzFJZUxEZHdHTHdMOW9QeS01ZUVoR0xReG9qdnVUS1NQcnFHY2xuUWdBUjh3bU5qdHFNNEctYkRQbnBGNjRxNkVHanZqeFVtX3BXZFZWbUdoc1VlN3lHZnhldkZBZWhReV9EaXRudnViMlBBWkxlNWhWTHRVak9yekloWFpCa29FMVJucnQ5cmxVMFNn?oc=5",
+      "source": "France 24",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU2J1Mkx5UGhpdnRwLWxtV182Z25QYlk3bUMxUWlNcEpiM1c5Z2VNd2VlVnI1U2hvLTdDTVpEMkQ2QWlWVGRfSVFrVGpGMGpVXzdfUXRuRzFJZUxEZHdHTHdMOW9QeS01ZUVoR0xReG9qdnVUS1NQcnFHY2xuUWdBUjh3bU5qdHFNNEctYkRQbnBGNjRxNkVHanZqeFVtX3BXZFZWbUdoc1VlN3lHZnhldkZBZWhReV9EaXRudnViMlBBWkxlNWhWTH",
+      "publishedAt": "2026-08-09T14:41:16.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Plan eau, factures et fuites : Gabriel Attal veut faire de la maîtrise de la ressource un test concret pour les ménages - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZmRNWWtiR2h4SkhFNUNlYU1abndFV2l3WVRRT0hfdkNjSEQyS3lvb0hQYWo1WFRPdFNQd0hyTzVGeDJOeVhSbUZPdUl0YmdRZnR0UDVHZkkyZnQzNkQza3ZPTmRVRjBUVWdqdV9Ydk9XcHBtNzNGVWs1QzcwYnFqS0E1VGVfbHFKQW5URG90Sld3a1BBd1duYllUekJFWTNrOXRZTkZBeHJZOEotZWswN2dtQlo1U25PRmR5S003UEJlSjhMaFo4b0MxaFJ4NFJUX2ZERl9NLTc0UEJRVnFrekZLYUVQRU1XUlhTbHNIY2FhZlBDR2lBdjVB?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZmRNWWtiR2h4SkhFNUNlYU1abndFV2l3WVRRT0hfdkNjSEQyS3lvb0hQYWo1WFRPdFNQd0hyTzVGeDJOeVhSbUZPdUl0YmdRZnR0UDVHZkkyZnQzNkQza3ZPTmRVRjBUVWdqdV9Ydk9XcHBtNzNGVWs1QzcwYnFqS0E1VGVfbHFKQW5URG90Sld3a1BBd1duYllUekJFWTNrOXRZTkZBeHJZOEotZWswN2dtQlo1U25PRmR5S003UEJlSjhMaFo4b0",
+      "publishedAt": "2026-08-09T16:12:11.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "“L’élection peut être faussée” : Gabriel Attal porte plainte après deux opérations d’ingérence russe en une semaine - lamontagne.fr",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMkdEb1oxckNyQ0lqNTgtVDdTR1J4eFdSRTBpeGJqdnBoN1gwcUEzQUVTMHpPbjJRdW9KZDlnOVQ4RDJ0cVRITkRGT3JCbm9qMUpOZ0tBTTJqZHBfbHU1Tks5cU83STdfOHRjdUdzRlREazBNYk9vSk1DLXlkYnNSVEtBTWN5UUNWRVhqMUUxMkNyTjJSN3N0Y0RXU040bmp5U1lQbjFWWVRfcDlVUjUtMTNMbEs2dXd1d0dReUVoSE1vVzRwUVE2dk5mbmxrOXBEWnJ3bXU0eXBxcW5yVlRGWjUxS1NvQ0JSME80bVlPbVZrZlIxc0w4b1RXRUlKQQ?oc=5",
+      "source": "lamontagne.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMkdEb1oxckNyQ0lqNTgtVDdTR1J4eFdSRTBpeGJqdnBoN1gwcUEzQUVTMHpPbjJRdW9KZDlnOVQ4RDJ0cVRITkRGT3JCbm9qMUpOZ0tBTTJqZHBfbHU1Tks5cU83STdfOHRjdUdzRlREazBNYk9vSk1DLXlkYnNSVEtBTWN5UUNWRVhqMUUxMkNyTjJSN3N0Y0RXU040bmp5U1lQbjFWWVRfcDlVUjUtMTNMbEs2dXd1d0dReUVoSE1vVzRwUVE2dk",
+      "publishedAt": "2026-08-08T06:10:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal porte plainte après avoir été visé par une campagne de désinformation pro-russe sur les réseaux sociaux - Midi Libre",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOM2haQXdFdVVBOWtFdi1FTkhuZWFVdTVBcGs3SlBzZklJU1ZlVmJVS3RUN1poUDVZVV82MklNTnRRU0pBelJBb1E1cTU0RlhYRkdKMHNoNHRHb2FKN05tamZ2ZUJ4NV93aDJrUk1IMnJKSmNVdFhsdnJBbU1JUTk4WDRfNExiZk1xallXYnJpdHFFTmNpYnRTR2UwTFhNclpJaW96dURYcW8yNEp3T2xEcTZlZTYwNEZvblE4MnNUV0Z2OU4tN1BXcDRVX0JEZGM0aEZ2U2JISEotekxsVlFSTVBQODhJbmFOcmEyNGh5TnpVSWc0WDN1UWVscE5uNlpSREkwWG1NaHd4SV9jbnN6OFJpNmQ?oc=5",
+      "source": "Midi Libre",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOM2haQXdFdVVBOWtFdi1FTkhuZWFVdTVBcGs3SlBzZklJU1ZlVmJVS3RUN1poUDVZVV82MklNTnRRU0pBelJBb1E1cTU0RlhYRkdKMHNoNHRHb2FKN05tamZ2ZUJ4NV93aDJrUk1IMnJKSmNVdFhsdnJBbU1JUTk4WDRfNExiZk1xallXYnJpdHFFTmNpYnRTR2UwTFhNclpJaW96dURYcW8yNEp3T2xEcTZlZTYwNEZvblE4MnNUV0Z2OU4tN1BXcD",
+      "publishedAt": "2026-08-08T06:22:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal porte plainte pour ingérence étrangère « en provenance de réseaux russes » - Le HuffPost",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2NVbkQtRjI1R2x1VkhZRUJjRy1ULXI0MUF4MV9xcDFvV3U0SHluZ3FhamNzcU14QjhDOE94R0N3RHhaUjVjNWRQTVJCdFl4LXFseEh4bFA5dzF2YmRnUlhta2Z1M285M0RCblktVFIyN3JBZHdheGhTd195ekVBV0lwdFVxZWdDQmNlajlTSDJSeUIzVmViZTNTSkprbUNPREFISjNMWldpVGx3SzN0QVlJbXhUMjBQLTdPSW1pZTY2R21xRGR1M2o5ZE13VFdKMF8xSXhwRFFNMWJa?oc=5",
+      "source": "Le HuffPost",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2NVbkQtRjI1R2x1VkhZRUJjRy1ULXI0MUF4MV9xcDFvV3U0SHluZ3FhamNzcU14QjhDOE94R0N3RHhaUjVjNWRQTVJCdFl4LXFseEh4bFA5dzF2YmRnUlhta2Z1M285M0RCblktVFIyN3JBZHdheGhTd195ekVBV0lwdFVxZWdDQmNlajlTSDJSeUIzVmViZTNTSkprbUNPREFISjNMWldpVGx3SzN0QVlJbXhUMjBQLTdPSW1pZTY2R21xRGR1M2",
+      "publishedAt": "2026-08-08T06:38:11.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : l’ancien Premier ministre Gabriel Attal en campagne dans les Pyrénées-Orientales ce lundi - L'Indépendant",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd1Fwd3JnWDB2T0c4X3BUUmRSeWlEN00xTXlXMHdpcmxEanJGbU5SSlBaWF9EeXVWdVlQc2huQzJNVk5EMXhHRHJ1SkkxQjdIenlCb0lRcE9CVkM4VTVBVmIxbzhSYzJmSjRDR0R1UGR6ZlBmYkppWExjSUZXcHdHdmxWeDk2OVpVWFNWRFY0a2tvMXIxVmpaX0JoU2MtSnVmLUhYTWlYXzVNRjkxbkFIMk5oWlczYlIyNEFaRkw4enl0d0ctbmRJNVN5UTQtbjI1ZmxfaHdEc3p2azhDSWc3Z2tVTDhXbUZ4VDB2Y2R1dlpMQQ?oc=5",
+      "source": "L'Indépendant",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd1Fwd3JnWDB2T0c4X3BUUmRSeWlEN00xTXlXMHdpcmxEanJGbU5SSlBaWF9EeXVWdVlQc2huQzJNVk5EMXhHRHJ1SkkxQjdIenlCb0lRcE9CVkM4VTVBVmIxbzhSYzJmSjRDR0R1UGR6ZlBmYkppWExjSUZXcHdHdmxWeDk2OVpVWFNWRFY0a2tvMXIxVmpaX0JoU2MtSnVmLUhYTWlYXzVNRjkxbkFIMk5oWlczYlIyNEFaRkw4enl0d0ctbmRJNV",
+      "publishedAt": "2026-08-08T15:56:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle: Gabriel Attal porte plainte, dénonçant une ingérence russe - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeExiTzJrWTRFWVBCdERmNmNfdFpmTVJfNnEzUkJncWZOcXhEQWpTd1BnT25EOENmZ0ZaMW1nUEExN3NqdEZtMGEzN3h1S2hRVmsxN2IwN2hFN2hmLU1pVlBqTkwybzUzd0ROOEl0NzVycTlnWno0RnZsV0ZiR01ZMzZkdkdINTN4Z25KWGpHMDUzRHZFVnctQnJhMElCa0ZVUUhOenlDNTIwT1RfWkI1Y1VqblBoZ0VQcnVKd1FrRWpqQVpuaEt2b0pXYldSd3k3bW83amxVSWxmZ2tJMjByWDRRWWt2VUQxMXFhbQ?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeExiTzJrWTRFWVBCdERmNmNfdFpmTVJfNnEzUkJncWZOcXhEQWpTd1BnT25EOENmZ0ZaMW1nUEExN3NqdEZtMGEzN3h1S2hRVmsxN2IwN2hFN2hmLU1pVlBqTkwybzUzd0ROOEl0NzVycTlnWno0RnZsV0ZiR01ZMzZkdkdINTN4Z25KWGpHMDUzRHZFVnctQnJhMElCa0ZVUUhOenlDNTIwT1RfWkI1Y1VqblBoZ0VQcnVKd1FrRWpqQVpuaEt2b0",
+      "publishedAt": "2026-08-08T06:43:19.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal porte plainte, dénonçant une ingérence russe - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGNQSC1mZ1ZZY3dsdzU4WFFEQmgyMzB2ZWNmLWMwWHBkN1JUR2U3TFFmelB6Vkc3SlNkS05OX1gxZzVxOENrVGFQaW5TWU01U1h4V3ZGclp2bGthVlpFZ3Y2bTlEYWEzOEZ6bmhGNE8wbDJ2VEdfTjVQYkFRZXlRaDZhbS1iN1EtLW5rZGRQV2ZhekZJUURzUm5kYzllcS14aVZpNzQ0QVREYm1aRVlEMEhDa0t2UmJ4N2JYWlV2aGNqSV83TVY4cGZkVmFMMVlNWThfbg?oc=5",
+      "source": "Sud Ouest",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOGNQSC1mZ1ZZY3dsdzU4WFFEQmgyMzB2ZWNmLWMwWHBkN1JUR2U3TFFmelB6Vkc3SlNkS05OX1gxZzVxOENrVGFQaW5TWU01U1h4V3ZGclp2bGthVlpFZ3Y2bTlEYWEzOEZ6bmhGNE8wbDJ2VEdfTjVQYkFRZXlRaDZhbS1iN1EtLW5rZGRQV2ZhekZJUURzUm5kYzllcS14aVZpNzQ0QVREYm1aRVlEMEhDa0t2UmJ4N2JYWlV2aGNqSV83TVY4cG",
+      "publishedAt": "2026-08-08T06:21:10.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "France : Gabriel Attal saisit la justice pour « ingérence étrangère » - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYVFySUo0ZWg5RnY3dW5qWmg2NVhtaWZPUmljZkRMWTNfNnNBcDFfU1FRalFEMzRmNmhLMFFITHFUUXFkZkVGVi1IbG84TmtWQ0RFRHE1OUhvbk0zT1JEZ1A2YTNES25lTXhjZUFxMnlIX3Y1T0tNZnR4OGNvMHY2cWYzMFBCbUtJbnYzRVN1RUNKa3VVamdwSnk5SmZVV1dKQ1pFb0xldFBpQ1pxaUpDc1AxZjgtb2I4b2ZId2ZoRQ?oc=5",
+      "source": "Anadolu Ajansı",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYVFySUo0ZWg5RnY3dW5qWmg2NVhtaWZPUmljZkRMWTNfNnNBcDFfU1FRalFEMzRmNmhLMFFITHFUUXFkZkVGVi1IbG84TmtWQ0RFRHE1OUhvbk0zT1JEZ1A2YTNES25lTXhjZUFxMnlIX3Y1T0tNZnR4OGNvMHY2cWYzMFBCbUtJbnYzRVN1RUNKa3VVamdwSnk5SmZVV1dKQ1pFb0xldFBpQ1pxaUpDc1AxZjgtb2I4b2ZId2ZoRQ?oc=5\" targe",
+      "publishedAt": "2026-08-08T09:03:46.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle : Gabriel Attal porte plainte, dénonçant une ingérence russe - lanouvellerepublique.fr",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOblVZbXZvVk1xbE5iYmhjXzE3QS1ETkJ4ck0xVUVDalFuYW92emxvbl8tdHM1cTcxR3dUMXpLTEdFQl9yUlEzOTFWNktrZmVNRGowX2FydnR0NXBlazVJUjRZMkIydXpQYmxjMnFPZ0gyS25yNkY1eGtQMHJjUzJySXdRT293TG5RSHRBeVRmLTdPM0J2Zmk1aW1CX1g2bk4yal9Da2dzV09IaEw4dUFpcWM2QTRKVTRzbXhJanBn?oc=5",
+      "source": "lanouvellerepublique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOblVZbXZvVk1xbE5iYmhjXzE3QS1ETkJ4ck0xVUVDalFuYW92emxvbl8tdHM1cTcxR3dUMXpLTEdFQl9yUlEzOTFWNktrZmVNRGowX2FydnR0NXBlazVJUjRZMkIydXpQYmxjMnFPZ0gyS25yNkY1eGtQMHJjUzJySXdRT293TG5RSHRBeVRmLTdPM0J2Zmk1aW1CX1g2bk4yal9Da2dzV09IaEw4dUFpcWM2QTRKVTRzbXhJanBn?oc=5\" target=",
+      "publishedAt": "2026-08-08T07:15:01.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal porte plainte après une campagne de désinformation attribuée à des réseaux russes - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMjFOckhOV1lyb2VtcGg0MWQ4RUg0NWhsSHNHQnB3bS03YW1FaHRha1RUcjdxSUdIOUdlZTdTUTJFYlQyMEcwYlFyYzhGQURCcDlGQ1M3M185VFNpXzNIQXN5U2hXSmQ1VXZjZ0J6TVp2T2VXc1VGdkpKMHhhN29MTk9Cck5wREZUQlhzUFZUdU5xemtLZkx0NXRRYlN2MEJsU1pTUy02clVqeHVtQXMwcFZPSTNrMDctc3VWYWJnUTF2V3ZrU0U2bnRZbUlSRm9BM3pqQUNYdlI5SWFGcElrWEtWZmlua284bHRsZUZQS3NENU45bmhYbG14S3dMTkpjMFl1Rw?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOMjFOckhOV1lyb2VtcGg0MWQ4RUg0NWhsSHNHQnB3bS03YW1FaHRha1RUcjdxSUdIOUdlZTdTUTJFYlQyMEcwYlFyYzhGQURCcDlGQ1M3M185VFNpXzNIQXN5U2hXSmQ1VXZjZ0J6TVp2T2VXc1VGdkpKMHhhN29MTk9Cck5wREZUQlhzUFZUdU5xemtLZkx0NXRRYlN2MEJsU1pTUy02clVqeHVtQXMwcFZPSTNrMDctc3VWYWJnUTF2V3ZrU0U2bn",
+      "publishedAt": "2026-08-08T07:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Ingérence étrangère russe: Maître Sacha Ghozlan, avocat de Gabriel Attal, dénonce “des ingérences pour altérer le débat public” - BFM",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQd1lQTUk1MXRnNmMySkdlWTR0aDlpMkhiMHV5Tk5LRkh0NTlCNkpLV2xuZmY5X3Bad2xCdXpYZVgyVWVvTnpBODZvTHgwckVCRFVSMWs0bkhCUGxOODcxbXlwSmxJak9zMmlsbldNb2g1YkplZ1NvOWQyQUdJZlRMWmxsS3BPeHc2UnRtQXJmTHIxeVpTTHZpWFo5bzFMSjlyeENJV3dLcldFZnFpdVZiZzh0VEFXYnpxV3ZXZEwyZVJzQ2NXOWRpZlNvbzlmeW9rNnRmNFhqMDZhbnVTTWs0WEZqMVRjZ21kSldRTUdVbV9UWkkzSFNxdFhsUkpYMGZOMVRackdsVUJDUExkeUhKSUhZSkN5NlRvbks4ZDdJcWRpQQ?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQd1lQTUk1MXRnNmMySkdlWTR0aDlpMkhiMHV5Tk5LRkh0NTlCNkpLV2xuZmY5X3Bad2xCdXpYZVgyVWVvTnpBODZvTHgwckVCRFVSMWs0bkhCUGxOODcxbXlwSmxJak9zMmlsbldNb2g1YkplZ1NvOWQyQUdJZlRMWmxsS3BPeHc2UnRtQXJmTHIxeVpTTHZpWFo5bzFMSjlyeENJV3dLcldFZnFpdVZiZzh0VEFXYnpxV3ZXZEwyZVJzQ2NXOWRpZl",
+      "publishedAt": "2026-08-08T18:21:29.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Soupçons d’ingérence russe dans l’élection présidentielle : Gabriel Attal annonce porter plainte - Ouest-France",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaXl3cWlXcmRLSGZBZzN1OWdUeXNKanpCa3BYSWo1UW9UdjRwOGxRcU9McXptYy0tZVc3SWViR0RQZXlWRnhrZHNlRDF5Y1NsRktoQjBCZGJDYXJSOEoyNTF3NW03TGxZN0NBQ0M0ZFNtQUduWlBzaGJpYlhndDdkNzhySlZjR1JGYjd2eVM3X2xOWnZlQS03R3VnRThkQm1ldEhqU3R2N0ZmTnM0UDNXQk1leVZFRENZSWFtcEx4UlhBUmRaenhqdGNjcUtYcU5vOE5ZTVJSSDI5ZGpudzBSalhOeEpKRHBuakhqb1BIZy1QSm9FYkZsdzdZNGpZTjNSVEowdTZ0QzdOQXFPckE?oc=5",
+      "source": "Ouest-France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOaXl3cWlXcmRLSGZBZzN1OWdUeXNKanpCa3BYSWo1UW9UdjRwOGxRcU9McXptYy0tZVc3SWViR0RQZXlWRnhrZHNlRDF5Y1NsRktoQjBCZGJDYXJSOEoyNTF3NW03TGxZN0NBQ0M0ZFNtQUduWlBzaGJpYlhndDdkNzhySlZjR1JGYjd2eVM3X2xOWnZlQS03R3VnRThkQm1ldEhqU3R2N0ZmTnM0UDNXQk1leVZFRENZSWFtcEx4UlhBUmRaenhqdG",
+      "publishedAt": "2026-08-08T05:56:15.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Gabriel Attal Porte Plainte Pour Une Présumée Ingérence Russe - i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnJKdW1DYU13Q1FmRHVKSEJjX2lXWGtHRUQ5R3lFM3NFUmdzVm55TTBpMkUtZXpfdHVUSy1QSVB4OGM0ejJhWG5GVjVfeURwS0V0SWFFWTlJQTR4WGZyaVVhdkVzeTU3X1RhREZtZURvNVd0bk45aXcwV0ZuYWJ2Wmk4cWtTTXY3Q2tJRHRaVUIxWk1ybmpMbENRNnY1UUpwQzJiNnVNRHFWTndFZ01uUlhDb283UG1uRVpHTnE4VDBLZw?oc=5",
+      "source": "i24NEWS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnJKdW1DYU13Q1FmRHVKSEJjX2lXWGtHRUQ5R3lFM3NFUmdzVm55TTBpMkUtZXpfdHVUSy1QSVB4OGM0ejJhWG5GVjVfeURwS0V0SWFFWTlJQTR4WGZyaVVhdkVzeTU3X1RhREZtZURvNVd0bk45aXcwV0ZuYWJ2Wmk4cWtTTXY3Q2tJRHRaVUIxWk1ybmpMbENRNnY1UUpwQzJiNnVNRHFWTndFZ01uUlhDb283UG1uRVpHTnE4VDBLZw?oc=5\" t",
+      "publishedAt": "2026-08-08T06:32:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Ingérence étrangère russe: “Nous demandons au parquet l’ouverture d’une enquête et que les auteurs soient identifiés”, explique Maître Sacha Ghozlan, avocat de Gabriel Attal - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZmpOMTlDY0JmbEZQZV9zbnBhdllINmhOaURzWnVwN0J2MThWd0xrS21ETTVMcGd6NTlLUTQ0NjM4WEpyb2Y4UUhoSDJoSllSa1NTS2dCQ1VPSU5GZ0lvd2pGTk5FdE5Mb2JXZlQ2NlNicjhncmNCMzI1SVpURjlhQU1hQmpUdVY3U1kyaFhMSU5PbTROeWY0SExMUGx6cnNRMUZtQVJDc1RrRHdyWWVnbk8zbGNvUHd0VjFRdVc0dzY2MTNmYjZ4TGdBX1JUdXRtTmFDX1hyYnpQbDMzWU9Ma2tZdzRzajdxSDl6cDVBSm9PZTFxWEtmWjZNTnQ3ZEFXUU1BTzZGc3pQbkVpMUtwWUQ3TTQ4YS1JTFd0M3poUFk5NjhqSFQ1SFIxajU2UndBX0Exbm92bnR1OHlGcFJMbmJwRWN3Z0pCWWdwb2lJb18yZw?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZmpOMTlDY0JmbEZQZV9zbnBhdllINmhOaURzWnVwN0J2MThWd0xrS21ETTVMcGd6NTlLUTQ0NjM4WEpyb2Y4UUhoSDJoSllSa1NTS2dCQ1VPSU5GZ0lvd2pGTk5FdE5Mb2JXZlQ2NlNicjhncmNCMzI1SVpURjlhQU1hQmpUdVY3U1kyaFhMSU5PbTROeWY0SExMUGx6cnNRMUZtQVJDc1RrRHdyWWVnbk8zbGNvUHd0VjFRdVc0dzY2MTNmYjZ4TG",
+      "publishedAt": "2026-08-08T18:16:07.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal Files Paris Lawsuit Over Alleged Russian Election Interference - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaa0lieTh2QlFEM2tkcG1GdFZQcDAtUWF6YjJYaWtZQ0szRFB3TlhadzlXUzExVDQ2ZkJ6M2FNczlPSkllbGZVbU5UaWM0OEZrckdkRnlzU3BFZGxZU0NpMkVDb3FfcFNF?oc=5",
+      "source": "Межа. Новини України.",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaa0lieTh2QlFEM2tkcG1GdFZQcDAtUWF6YjJYaWtZQ0szRFB3TlhadzlXUzExVDQ2ZkJ6M2FNczlPSkllbGZVbU5UaWM0OEZrckdkRnlzU3BFZGxZU0NpMkVDb3FfcFNF?oc=5\" target=\"_blank\">Gabriel Attal Files Paris Lawsuit Over Alleged Russian Election Interference</a>&nbsp;&nbsp;<font color=\"#6",
+      "publishedAt": "2026-08-09T13:25:58.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal alleges Russian interference in French presidential race - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1gwR2dDeUROaVFqUGZWaDFEeDUyR1NXUVBUNFBJY2wxUGk5Q1pfbXdJX1hRS3h1eFNxaDBURllOdUkxbmVreVFfZ3FNdXpTNk10WWpGaF9LSHNSYmZ3VTlyTHhhYThxbEtZclp5NWJGeTRnaU5SUExza0lFcEk3YTUyRnVZZ1JPWW9GUlJ3TlhRc2ctcVhGeDh4VlJGMU5IdUd3R3pESVdrdlk?oc=5",
+      "source": "politico.eu",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1gwR2dDeUROaVFqUGZWaDFEeDUyR1NXUVBUNFBJY2wxUGk5Q1pfbXdJX1hRS3h1eFNxaDBURllOdUkxbmVreVFfZ3FNdXpTNk10WWpGaF9LSHNSYmZ3VTlyTHhhYThxbEtZclp5NWJGeTRnaU5SUExza0lFcEk3YTUyRnVZZ1JPWW9GUlJ3TlhRc2ctcVhGeDh4VlJGMU5IdUd3R3pESVdrdlk?oc=5\" target=\"_blank\">Gabriel Attal al",
+      "publishedAt": "2026-08-08T10:44:00.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Most French presidential candidates are vacationing. Not Gabriel Attal - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmp2TThpUmQ2RjI5eFpCN2tTX190T1cwQlRjX0wwaW5rME5nblc3YnVnM3dPdGk0Sm5CU1pnRUtCS3c2YndIQnJZYjJNbFhyYzdLZENYZ25ONVRuekFJcXpHWDR2eG5nTXg0WHlUTjhOX2tDTDM4SF83RHNhdjVwYzVPV2xmbG1PMTNKRVdGMTRvLUkzVzktems5RE5fOTBERkhRcmlhdkFWV05teFRqT3hyY00yQlFUQS1LdEh0U0xHdG9QZ0pMQzJ3SndJampiU1VLNQ?oc=5",
+      "source": "Le Monde.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmp2TThpUmQ2RjI5eFpCN2tTX190T1cwQlRjX0wwaW5rME5nblc3YnVnM3dPdGk0Sm5CU1pnRUtCS3c2YndIQnJZYjJNbFhyYzdLZENYZ25ONVRuekFJcXpHWDR2eG5nTXg0WHlUTjhOX2tDTDM4SF83RHNhdjVwYzVPV2xmbG1PMTNKRVdGMTRvLUkzVzktems5RE5fOTBERkhRcmlhdkFWV05teFRqT3hyY00yQlFUQS1LdEh0U0xHdG9QZ0pMQz",
+      "publishedAt": "2026-08-08T14:00:08.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "French presidential candidate files lawsuit over alleged Russian interference - Ukrinform",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbTV0dnVzMFUySi0yZ1B2SXR1WFNZeXg5Wlk2TWRLUFVzcV9TSUliLVR5WVNUR0x1a2hQd293RWgzSHdHRlFYOW5aaFQ2c2FDMEZSS251aFA0dlNXQUZ5eGhvOGYtdEY5ZEFXeURmUjFxU0dlZzJmLW1tWi1FY1ZOSlN3dk41V2wtaVdFdWJLZlh5cEk4UmJHcWZfdGJ6MVpfNzBILXRKMWw2Rm5sdUFqYTVTb091VXRHUUNQTEVLOWVQSGZPWWJnNDk0SmnSAdIBQVVfeXFMTXJhSGdQdEFoc3FmOXpyVWxEcDdlQUpYMkJQUktuSi1yc1hGZjBxRlc1TGgwSGdQSE5uRlQ0SGtOVFZRUTNnYjdQZG0wR1hHaUNDTHRDdVdDdUdkM0NMNFZyZnZGRVBjRDRWdkw5a2lJOEpKOFlwdjVyTUhQS3lhTUl1LTEwUGlQS3pqYmlBR0NTR2RQNjJ6R1JWTXZpcjJJbUs5WGRKUFotRXRQYkhZNDlRUS1YN3p5RXdJZUhsOEpmYVZ3TWlMWnRMSlNIcHhpNGJ3?oc=5",
+      "source": "Ukrinform",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbTV0dnVzMFUySi0yZ1B2SXR1WFNZeXg5Wlk2TWRLUFVzcV9TSUliLVR5WVNUR0x1a2hQd293RWgzSHdHRlFYOW5aaFQ2c2FDMEZSS251aFA0dlNXQUZ5eGhvOGYtdEY5ZEFXeURmUjFxU0dlZzJmLW1tWi1FY1ZOSlN3dk41V2wtaVdFdWJLZlh5cEk4UmJHcWZfdGJ6MVpfNzBILXRKMWw2Rm5sdUFqYTVTb091VXRHUUNQTEVLOWVQSGZPWWJnND",
+      "publishedAt": "2026-08-09T14:07:00.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Former French PM Attal files legal complaint over alleged Russian interference - RFI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHhPU0o5TFNjY0FFd05YOVp0QXVXN2ZXQjNpLTA0UW4zWWd4NmpkV3NPTEphcGpGdXBCeWVRbFdXaEFEOTFYdGpBN0s5OVlXb2FHYVJ3YkRHVkxtcGE1am5lTFNCWWREcDRPYWNqQk5Kdll6OXdLeXhmNzZVaTR3bU1hdjBwXzJyd1k0bDh3LThILWVJN0ZkQ3pmb0RPRG00dXhfUzRHcjdUQ2RlNm1QZy1GX09XNHc?oc=5",
+      "source": "RFI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHhPU0o5TFNjY0FFd05YOVp0QXVXN2ZXQjNpLTA0UW4zWWd4NmpkV3NPTEphcGpGdXBCeWVRbFdXaEFEOTFYdGpBN0s5OVlXb2FHYVJ3YkRHVkxtcGE1am5lTFNCWWREcDRPYWNqQk5Kdll6OXdLeXhmNzZVaTR3bU1hdjBwXzJyd1k0bDh3LThILWVJN0ZkQ3pmb0RPRG00dXhfUzRHcjdUQ2RlNm1QZy1GX09XNHc?oc=5\" target=\"_blank\">",
+      "publishedAt": "2026-08-08T09:46:36.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Former French Prime Minister Gabriel Attal Files Complaint About Russian Interventions - وكالة صدى نيوز",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54OEhJeXdrUWN6eU1HZGtxX3dZU0E5Y3ViLVJXTTVPOEJQSk5oaThGOFJKeFZzSTFFeGNUQ3lrV3RsRzZjaFMwU2ZhQ2Jkai1PMV9qaEZB?oc=5",
+      "source": "وكالة صدى نيوز",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE54OEhJeXdrUWN6eU1HZGtxX3dZU0E5Y3ViLVJXTTVPOEJQSk5oaThGOFJKeFZzSTFFeGNUQ3lrV3RsRzZjaFMwU2ZhQ2Jkai1PMV9qaEZB?oc=5\" target=\"_blank\">Former French Prime Minister Gabriel Attal Files Complaint About Russian Interventions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة ص",
+      "publishedAt": "2026-08-08T10:14:15.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Former French Prime Minister Gabriel Attal filed a complaint for foreign interference, accusing Russian hackers of destabilization. - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0JfNmQzVXFqVUpUal9DMUJzaGJWWHlMRHl6VW9pQjk0Mm53aVpZWDVQWVMwYklHeGNCSjBxeERtcXQxb0hGM0NQRE1DMkY0OGNYRkJFa05QQVN4UVNBdS04VzYzUXFVc1Y2OGRheFFVNi15bm9mV1ZBRGVuQXVGNWpYNXJYcWg3aTZNdWJVazlWd0ljbnYwRXU4bndPak56TThUSEl5R2xNeFF0clROSE05Y0Z1dw?oc=5",
+      "source": "Informat.ro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0JfNmQzVXFqVUpUal9DMUJzaGJWWHlMRHl6VW9pQjk0Mm53aVpZWDVQWVMwYklHeGNCSjBxeERtcXQxb0hGM0NQRE1DMkY0OGNYRkJFa05QQVN4UVNBdS04VzYzUXFVc1Y2OGRheFFVNi15bm9mV1ZBRGVuQXVGNWpYNXJYcWg3aTZNdWJVazlWd0ljbnYwRXU4bndPak56TThUSEl5R2xNeFF0clROSE05Y0Z1dw?oc=5\" target=\"_blank\">F",
+      "publishedAt": "2026-08-08T14:40:22.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    },
+    {
+      "title": "Attal filed a complaint over Russian interference ahead of the French elections - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOempzWlFBbHcwQ19sOUxiXzdyNHdEaVM1d0FRMUdTaURETzJGbHNGYVViZEphaGN2TlhjWk5NTEJYZ3daeGV2ZWI0VWgwQ2s5MlR4ZndjWG4yVWE0bThSQk05cWp6N2xJeE9hdFNPYkRaR3B0emZjbDYtX1pjVG10aThsNWl4SC1weTNWbWVicUcwdDZiVlI4Y052QjdRQQ?oc=5",
+      "source": "UA.NEWS",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOempzWlFBbHcwQ19sOUxiXzdyNHdEaVM1d0FRMUdTaURETzJGbHNGYVViZEphaGN2TlhjWk5NTEJYZ3daeGV2ZWI0VWgwQ2s5MlR4ZndjWG4yVWE0bThSQk05cWp6N2xJeE9hdFNPYkRaR3B0emZjbDYtX1pjVG10aThsNWl4SC1weTNWbWVicUcwdDZiVlI4Y052QjdRQQ?oc=5\" target=\"_blank\">Attal filed a complaint over Russ",
+      "publishedAt": "2026-08-08T11:16:46.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-10T00:40:04.902Z",
+      "isNew": true
+    }
+  ],
   "stats": {
-    "total": 0,
-    "new": 0,
+    "total": 43,
+    "new": 43,
     "carried": 0,
-    "media": 0,
+    "media": 43,
     "agenda": 0,
     "official": 0,
     "coOccurrence": 0
-  },
-  "errors": [
-    "media attal/fr: 503 https://news.google.com/rss/search?q=%22Gabriel%20Attal%22&hl=fr&gl=FR&ceid=FR:fr",
-    "media attal/en: 503 https://news.google.com/rss/search?q=%22Gabriel%20Attal%22&hl=en-US&gl=US&ceid=US:en",
-    "media sejourne/fr: 503 https://news.google.com/rss/search?q=%22St%C3%A9phane%20S%C3%A9journ%C3%A9%22&hl=fr&gl=FR&ceid=FR:fr",
-    "media sejourne/en: 503 https://news.google.com/rss/search?q=%22Stephane%20Sejourne%22%20OR%20%22St%C3%A9phane%20S%C3%A9journ%C3%A9%22&hl=en-US&gl=US&ceid=US:en"
-  ]
+  }
 }
