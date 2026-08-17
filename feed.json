@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T00:26:24.316Z",
+  "generatedAt": "2026-08-17T00:24:44.069Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,25 +7,10 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Gabriel Attal appelle à un référendum sur l'interdiction des réseaux sociaux aux moins de 15 ans - BFM",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWVRHak5kZkNldHVSTFpjVTlLejRwTEZ2TVAwTkVrdmtiNUZHMHp0eXpsUjZ1aGFPLWpPTTNSV3h5aHoydGpCeTFjcGFHbml4WDRmd0pmVENKMFliSTZIb291YzM1Nmp1RGNCcWIwRE4xU2UzOThLZFh6S1ZYZGNDRmxlYjdHdkJfcHBIVkdLSENVX2ZYdjZZV19WZS1ObFlzenRvTFNhZkZDdDR4OENsVXhheWNOaWxPUVlVUlJnRW9SWXBZNHYyb29laTBhRXBweWtJTTBfR2RTQXNKNGdnWUF5NA?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWVRHak5kZkNldHVSTFpjVTlLejRwTEZ2TVAwTkVrdmtiNUZHMHp0eXpsUjZ1aGFPLWpPTTNSV3h5aHoydGpCeTFjcGFHbml4WDRmd0pmVENKMFliSTZIb291YzM1Nmp1RGNCcWIwRE4xU2UzOThLZFh6S1ZYZGNDRmxlYjdHdkJfcHBIVkdLSENVX2ZYdjZZV19WZS1ObFlzenRvTFNhZkZDdDR4OENsVXhheWNOaWxPUVlVUlJnRW9SWXBZNHYyb2",
-      "publishedAt": "2026-08-15T20:57:28.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-16T00:26:24.316Z",
-      "isNew": true
-    },
-    {
-      "title": "OPINION. « Interdire les réseaux sociaux aux moins de 15 ans : il faut un référendum », par Gabriel Attal, député Renaissance des Hauts-de-Seine et candidat à la présidentielle - La Tribune",
+      "title": "OPINION. « Interdire les réseaux sociaux aux moins de 15 ans : il faut un référendum », par Gabriel Attal, député Renaissance des Hauts-de-Seine et candidat à la présidentielle - latribune.fr",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQbVpDd2VjS2VUWTY4TERnTm42bVFKamt3ZFh5UHQ1VzZjbTVCU2JWbHc1bmwxdi1UTlQ2REEzMFQxeUZXNmQxRF9ZczRjZVVLZVh1T2JiY2xBdVNsMGZNZnB0M3g1Q0k5QUhHRmJlSmhuclVIbTBibHdEak1ITVgxbDlWSVc4eDhPTkRFQ09fQ01pQl9XTEFROV9iZzNNeFNJRl9CQTF2M2ZlbDR3VGRWYnFtaWc3N3drcTRrQ3pPRGVjamF5R0ZPT1N0YnFrUXduSFlSRDZKRm1nLWp1Nld4cUlWT0pvTWtkek9oN2dJelVvclBJVFVVcURzOFNqQzluX1JYZ0VsdWo5NWM2VFQzQXl5T0xGanRKREhrZ2JEdGlZOHFEVGRPeGV5a3VKcjcyV1VzMEkxaWhaY3F5NVlUM2hDY045eXlJSDE3WkVoRTFIYnFsaXc?oc=5",
-      "source": "La Tribune",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxQbVpDd2VjS2VUWTY4TERnTm42bVFKamt3ZFh5UHQ1VzZjbTVCU2JWbHc1bmwxdi1UTlQ2REEzMFQxeUZXNmQxRF9ZczRjZVVLZVh1T2JiY2xBdVNsMGZNZnB0M3g1Q0k5QUhHRmJlSmhuclVIbTBibHdEak1ITVgxbDlWSVc4eDhPTkRFQ09fQ01pQl9XTEFROV9iZzNNeFNJRl9CQTF2M2ZlbDR3VGRWYnFtaWc3N3drcTRrQ3pPRGVjamF5R0ZPT1",
+      "source": "latribune.fr",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxQbVpDd2VjS2VUWTY4TERnTm42bVFKamt3ZFh5UHQ1VzZjbTVCU2JWbHc1bmwxdi1UTlQ2REEzMFQxeUZXNmQxRF9ZczRjZVVLZVh1T2JiY2xBdVNsMGZNZnB0M3g1Q0k5QUhHRmJlSmhuclVIbTBibHdEak1ITVgxbDlWSVc4eDhPTkRFQ09fQ01pQl9XTEFROV9iZzNNeFNJRl9CQTF2M2ZlbDR3VGRWYnFtaWc3N3drcTRrQ3pPRGVjam",
       "publishedAt": "2026-08-15T20:00:02.000Z",
       "lang": "fr",
       "type": "media",
@@ -34,21 +19,171 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-16T00:26:24.316Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Réseaux sociaux interdits aux moins de 15 ans : Gabriel Attal réclame un référendum - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTkdBd0hZYlppYjlaMUN1WXVJem1vcFJhNmM2WS11LVhrbU5udEQ2SVV5U00tS2xMNm9vX1VxMTBXdlp1T2FLb2hkWHBGRkpDLW5LaVg0RTNGSVo2eU1PWVloMFpyX3Nua3psU0owc0thN2RuMmJ4TERYUmlha3Z6M2lGdFFIaVYzNEU5UE8tS3E5dEROOGxKMjJmT3FVR01oeDVGdC14QXZaSVl4SWMweGE5bm9QRktZemZ0NFBIWXZFUQ?oc=5",
-      "source": "Le Figaro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTkdBd0hZYlppYjlaMUN1WXVJem1vcFJhNmM2WS11LVhrbU5udEQ2SVV5U00tS2xMNm9vX1VxMTBXdlp1T2FLb2hkWHBGRkpDLW5LaVg0RTNGSVo2eU1PWVloMFpyX3Nua3psU0owc0thN2RuMmJ4TERYUmlha3Z6M2lGdFFIaVYzNEU5UE8tS3E5dEROOGxKMjJmT3FVR01oeDVGdC14QXZaSVl4SWMweGE5bm9QRktZemZ0NFBIWXZFUQ?oc=5\" t",
-      "publishedAt": "2026-08-15T20:08:19.000Z",
+      "title": "Présidentielle 2027 : la stratégie du troisième homme pour le bloc central ? - lanouvellerepublique.fr",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVM2ZHNmYkN6dVhDY2hqZGtzcHg5cnJIakkwbHhhdy1oaERWMnJMUlRzVUdWcmxJOG5TV3F5ZURnMEx0RTBQd1RDX2ROYzU0SmdaWmxjd0gwWEtVazM4NGxZLTJFMEUzZ2R1RzNrZ3dhZmpvSExRZERwaDRjV2daajZjbWlpQUU2bGtwZnVWSEpsMDlvU0lmdWd6c1VXU1Z4MFZkaTA4cU12YXBKejNWY3lsWGdYeXlFTTNtNGZQdlh0UGVzd3Zv?oc=5",
+      "source": "lanouvellerepublique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVM2ZHNmYkN6dVhDY2hqZGtzcHg5cnJIakkwbHhhdy1oaERWMnJMUlRzVUdWcmxJOG5TV3F5ZURnMEx0RTBQd1RDX2ROYzU0SmdaWmxjd0gwWEtVazM4NGxZLTJFMEUzZ2R1RzNrZ3dhZmpvSExRZERwaDRjV2daajZjbWlpQUU2bGtwZnVWSEpsMDlvU0lmdWd6c1VXU1Z4MFZkaTA4cU12YXBKejNWY3lsWGdYeXlFTTNtNGZQdlh0UGVzd3Zv?o",
+      "publishedAt": "2026-08-16T18:00:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-16T00:26:24.316Z",
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal appelle à un référendum sur l’interdiction des réseaux sociaux aux moins de 15 ans - Libération",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ1ZOTkd6cndLeVlDb3MwOGtLLThkdzZLcVRQc3NuX2NOem0wTVRiQlI4RFU0ck5lY2g0RWxrX3VkV2lldGhJN1FaaDA5OWl5cTdYbGYyZnV5RnU4ZkVKNHBFX0kzSTJiS1NTRG9lbm9iYk9oOFgydTJleG9FQVNGTkJKdXBpeXN4eHNJaVNrcEZOUmJVZWZORmc3bm53TnRudUVWcmRmNHRyb3lzSElOaVpDQjU3RTlmSlFIbzRLRFYweE9zN0ktaFBwUFdJU2tuQUFYZTdLc2ladGstWXFrakJhS0N6Vkx3NHQ3LU5HdkEyWEZqNnRtZEJOel8?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ1ZOTkd6cndLeVlDb3MwOGtLLThkdzZLcVRQc3NuX2NOem0wTVRiQlI4RFU0ck5lY2g0RWxrX3VkV2lldGhJN1FaaDA5OWl5cTdYbGYyZnV5RnU4ZkVKNHBFX0kzSTJiS1NTRG9lbm9iYk9oOFgydTJleG9FQVNGTkJKdXBpeXN4eHNJaVNrcEZOUmJVZWZORmc3bm53TnRudUVWcmRmNHRyb3lzSElOaVpDQjU3RTlmSlFIbzRLRFYweE9zN0ktaF",
+      "publishedAt": "2026-08-16T07:28:58.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "Interdiction des réseaux sociaux avant 15 ans, Attal réclame un référendum - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG01UEpXT0ZqeXB2X2lXQ0ktOHZDV0E1ME5YMGZTanp5dUFPd2U2UmRSdlF5bl9RX285amFTNmZJejRSQVlaN2xvRmVxZFQyS1F4aEFVZFJnaV9ZOUNUWjNEdGZPeWNvSGZid1VrR3ZFd0ZLWFR3clY0NngyZzIwZkllZWEwcmJkT1pieHFRUVFyaXlzZjZVcXJrRnhjd05oRkV2bGo5NGFvbzBhTHl6VWpJQ3FpRndSUEhIUEtCRndMWHdDSE1VZlJYVHA?oc=5",
+      "source": "20 Minutes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG01UEpXT0ZqeXB2X2lXQ0ktOHZDV0E1ME5YMGZTanp5dUFPd2U2UmRSdlF5bl9RX285amFTNmZJejRSQVlaN2xvRmVxZFQyS1F4aEFVZFJnaV9ZOUNUWjNEdGZPeWNvSGZid1VrR3ZFd0ZLWFR3clY0NngyZzIwZkllZWEwcmJkT1pieHFRUVFyaXlzZjZVcXJrRnhjd05oRkV2bGo5NGFvbzBhTHl6VWpJQ3FpRndSUEhIUEtCRndMWHdDSE1VZl",
+      "publishedAt": "2026-08-16T09:08:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "Réseaux sociaux : Attal alimente le débat sur le référendum - France 24",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM1diTEZULWp3aXBpT05ldzI5bWxHeC1VeGRDOG9raVREdnFCd2UxYU96ZGRmNUg1R0c1NkpkN2ZWWE9TdVJ5dmNRTHJWbjFLMTc1TWxmaDFkbUYtVmp6cUtRYzd6akw1RUxpNlZ6WVM5RDFTTEJpR0FSYThJTE50T3hmQkpkNUVBUnotcXdacmlNd2hkSlR4bmpmZ20yckZOV0dNNUVyMXF6YVhNMWRacUh2OFN2NEdHVFpUYzFUbjIzYUZOZHA0RVhR?oc=5",
+      "source": "France 24",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQM1diTEZULWp3aXBpT05ldzI5bWxHeC1VeGRDOG9raVREdnFCd2UxYU96ZGRmNUg1R0c1NkpkN2ZWWE9TdVJ5dmNRTHJWbjFLMTc1TWxmaDFkbUYtVmp6cUtRYzd6akw1RUxpNlZ6WVM5RDFTTEJpR0FSYThJTE50T3hmQkpkNUVBUnotcXdacmlNd2hkSlR4bmpmZ20yckZOV0dNNUVyMXF6YVhNMWRacUh2OFN2NEdHVFpUYzFUbjIzYUZOZHA0RV",
+      "publishedAt": "2026-08-16T13:21:11.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "France : Gabriel Attal réclame un référendum sur l’interdiction des réseaux sociaux aux moins de 15 ans - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdWZKd1RrRFhOR0ZHVU51VkcwTE1RWHVFZ1FZT2IyNGJRNkRSRnJVblNiN1MxLUJCR3RoOVQ5UUNVczRJcnRSTmdVNWxpUDFwcTdjaW5jRVhlUEtneEREOEVlWDhvVkZlV3JxNDFrUmJOOUgzWjM2Ni1wOUJXSTJTcnhtOW1pWkZkWjNOQ25RREptSElpQVdDaWFCRTZUMVB3RFdhRVdPU01nTnVrSTdiN3p6UjJweFRsYnZ1WFZXNkk1RTQ2TjNOY3MtazU1MUJFZk1ualNWd0hRZUlSWnRTY1BmVUdaTjlHZTh4NWFyRWJEWEk?oc=5",
+      "source": "Anadolu Ajansı",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdWZKd1RrRFhOR0ZHVU51VkcwTE1RWHVFZ1FZT2IyNGJRNkRSRnJVblNiN1MxLUJCR3RoOVQ5UUNVczRJcnRSTmdVNWxpUDFwcTdjaW5jRVhlUEtneEREOEVlWDhvVkZlV3JxNDFrUmJOOUgzWjM2Ni1wOUJXSTJTcnhtOW1pWkZkWjNOQ25RREptSElpQVdDaWFCRTZUMVB3RFdhRVdPU01nTnVrSTdiN3p6UjJweFRsYnZ1WFZXNkk1RTQ2TjNOY3",
+      "publishedAt": "2026-08-16T09:32:19.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "«Aujourd’hui, le racisme est bien pire» : les gens du voyage encore dans le viseur des candidats à la présidentielle - Libération",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcHV1Z0VJdGJhVndXWGsxVWdVTkc1WVQ1aENEUmgwVlY3djliY0JqbzA5aEljb3gtdTJWdXRqV1JBTUktRU9mMGdYcGF5bXJqYVhlc0ZqejRjZG5fTmZjVFRvUnd0VlJxSVJ3dTlxbHJ3ZkJ4bjBEaXpCSEkxbmh0V1JvbTZnaUlSTDVqdFNRUjZ0Zmp1Y3ZZc29PQVlsQ09JT2dRQU8tNzBvNWF2ZjEzRDd1RE5oaElaZm5ja3FBQmdvMzNKR25fZ2Q1UzFBR2FETTV1Mi1Pb0s3N2g2MnNDQ3RmWGp2TW8xd2pFQ256WEg1WFQycHQ1R29yVnhGWVNhLU42TFE2LWpOLWpRSWc?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPcHV1Z0VJdGJhVndXWGsxVWdVTkc1WVQ1aENEUmgwVlY3djliY0JqbzA5aEljb3gtdTJWdXRqV1JBTUktRU9mMGdYcGF5bXJqYVhlc0ZqejRjZG5fTmZjVFRvUnd0VlJxSVJ3dTlxbHJ3ZkJ4bjBEaXpCSEkxbmh0V1JvbTZnaUlSTDVqdFNRUjZ0Zmp1Y3ZZc29PQVlsQ09JT2dRQU8tNzBvNWF2ZjEzRDd1RE5oaElaZm5ja3FBQmdvMzNKR25fZ2",
+      "publishedAt": "2026-08-16T14:33:01.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal veut un référendum pour interdire les réseaux sociaux aux moins de 15 ans après la censure du Conseil constitutionnel - NextPlz",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWNLcjJvN2hnY1h0UmhQeXZnQWk2dC1oVW15czJqLVFpRjhpanRNdjJiaDByb3pCSTliTFRrdi1tcU1NSk1VelJyOHBfRHFLZEtEMk1pMjRIa0VhSmtnU2EwRmJDUEduNFBrN0lrQTNyVUhYc016ajFOUFl3QlFwcFROZVUxQWRxUUo1dm1oYWppc0FHeEs0UHJWNS1SdmpLOTFobmV1X0g0QzJEczdYeVdmNXJPeFZCX0hmYWhha0RLQk5hNU9odXNPc0V2TXNGWFo5RkJyb19NM1dYaXpuRWctOWtfV09hV0JEVUN2eEJpNlJiWUFheTV3ZFRaUQ?oc=5",
+      "source": "NextPlz",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWNLcjJvN2hnY1h0UmhQeXZnQWk2dC1oVW15czJqLVFpRjhpanRNdjJiaDByb3pCSTliTFRrdi1tcU1NSk1VelJyOHBfRHFLZEtEMk1pMjRIa0VhSmtnU2EwRmJDUEduNFBrN0lrQTNyVUhYc016ajFOUFl3QlFwcFROZVUxQWRxUUo1dm1oYWppc0FHeEs0UHJWNS1SdmpLOTFobmV1X0g0QzJEczdYeVdmNXJPeFZCX0hmYWhha0RLQk5hNU9odX",
+      "publishedAt": "2026-08-16T12:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle - Mécontent de voir Edouard Philippe et Gabriel Attal distants, Emmanuel Macron pousse la ... - Jean-Marc Morandini",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOeF9yTUZYblRFT1FFakNHa1lHakdGQXlTQzRYblNXVERnbzlsQWVKdmJqYUFMejZxLWEta3c5OEJ2THctTTZEVWFBeUZSTXJIQ3VoSXFZM0dncDE0VXlMaDY0a0dqYWUwRzhMdHpsVmN2X1gzN1lWWjdVTzNLTVhOUEJOUENrSXhSZnhqYl9Xa0RfcVZ5VVl0aXg2S250YTZDcEZDQmVvVWRZM1FJTlNoX0d2dDB2dE1FNUNkZTBOU2tlUXFLS0hra0tkeUVTSU83d1FicjVuVU9vTnJzMEJpdURVeFhCSlhSYVFjY3V3ZzVtTXQzUjB2VHpnVTl5MWF5Ml84ejZYQ2Y3akI3elZVZmx1NDU5QWtlQmdLeWk1NER3RHNjYzZsUGtBc213N3F4S2o3SFlnbGZwZjZCal9zQks4enBpdEF6NVlVXzdpWEhtMDFmYXJGREpWekdTY1RfSGNvYnBlUjNMd0c2RW9abzluUENKUdIB-wJBVV95cUxPd3pFZnBteVRWaExVWDFxV1BvQjBhX1U5dWJxOVdwdEJ0T2QxT1RKNlk5NFo4VHRwYzJsR08xNlBpbHNSVlRvQldlcVZtcU91dUN6cEZ4T2c4Ti1vMVg0ZTVnT2JIaDFSMlhGR1NCRnJGR1U2VlZCVy1fcklzbkVfazlYOTBuaC1qQ0ZEZDgzS0ctRFRLV2FUX25uYjAyS0cwWmM4alF0cjZwYWk4MDRIWUdVaTl3SmpwelVUTU5YR1hDYktjdHpNSU9YdmZ3dGJwTTlicEFiRkhNN2RqX3BVSVdkcHBjNGNQcjFMV1UwcTJXc0ZGb3dDdWtFXzQ2LXpOcmRUUlhhNlY5aGxaLTZUT1pZVmFsZEt2TUtqZ1gzb2RpV1IxWUw0b2lpd3dxNVRVOVlCMnU3eE9zamYyNm5CQWt1RlZLd0luVFQ0LTREVC1QQWhRUGcxZ290TVpsS3BnQVNkUlZ2WWtkTUVObmVFUWZ5dWEwZ1p4NnpF?oc=5",
+      "source": "Jean-Marc Morandini",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gJBVV95cUxOeF9yTUZYblRFT1FFakNHa1lHakdGQXlTQzRYblNXVERnbzlsQWVKdmJqYUFMejZxLWEta3c5OEJ2THctTTZEVWFBeUZSTXJIQ3VoSXFZM0dncDE0VXlMaDY0a0dqYWUwRzhMdHpsVmN2X1gzN1lWWjdVTzNLTVhOUEJOUENrSXhSZnhqYl9Xa0RfcVZ5VVl0aXg2S250YTZDcEZDQmVvVWRZM1FJTlNoX0d2dDB2dE1FNUNkZTBOU2tlUXFLS0hra0",
+      "publishedAt": "2026-08-16T09:08:43.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "EXCLU. Amélie Carrouër redoute le face-à-face avec Gabriel Attal ... - Télé Star",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaGJQRHl4aGFmY0VUU0tiX1d0TjhiUng5LXMzbk82Z19qLUFkSGJ6NUptOEFPSV90bFJ6T3hkY0JDS1VlQlNfXzhGRjh5aVZERjNwaFlkeEljWTdQRWRHRkhPUnhGODZiRmVBTHZyXzJTdWxMaVlpdVZnZ0ZwbTRGLW9wb2lwcUJabWVVM1JGQ2pSLTEtbm40QmFHSFQ0TXhWZFhfVDhLZUkyZFlMTXhZNXNPaXpJTHdPblFsb1dNVGxfYmhweEZXOWJ1eUd6NWtodENTS0R1VXBkTnl6dGpxZmV5c1NIWTRlT3pNbnRGM2JQTDhPQ2RpeHE4Wkw1Wm8?oc=5",
+      "source": "Télé Star",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaGJQRHl4aGFmY0VUU0tiX1d0TjhiUng5LXMzbk82Z19qLUFkSGJ6NUptOEFPSV90bFJ6T3hkY0JDS1VlQlNfXzhGRjh5aVZERjNwaFlkeEljWTdQRWRHRkhPUnhGODZiRmVBTHZyXzJTdWxMaVlpdVZnZ0ZwbTRGLW9wb2lwcUJabWVVM1JGQ2pSLTEtbm40QmFHSFQ0TXhWZFhfVDhLZUkyZFlMTXhZNXNPaXpJTHdPblFsb1dNVGxfYmhweEZXOW",
+      "publishedAt": "2026-08-16T05:30:28.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "DÉCRYPTAGE. Présidentielle 2027 : comment le bien-être animal s’installe dans la campagne - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOckVFZGs3SlhHeXdJWFNPbVJ5VmdfRk82eU9YejhMVUtaaGxyRDJVX00ycm1zSm9CVXFUTGVsT3JKQ2tuYW5NMU9td1ZoMHcwRHN3dndpVU13ZG9nOHVoNWQ1bVd0LVozWksxdG9uN2V6eG5JeE0wOGd6YnFUNVBlbldTSkcyOUZIbkxjNkpsT2Y3blZCSkw0enJEQWtrUmRNdE9PSThYSDJqZU10Wl80bnR1WWpyTGh0RnVCTlBNczZCRThUMmRpVVB0dnlfbTN6MmJVQW1QOEVOWmxU?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOckVFZGs3SlhHeXdJWFNPbVJ5VmdfRk82eU9YejhMVUtaaGxyRDJVX00ycm1zSm9CVXFUTGVsT3JKQ2tuYW5NMU9td1ZoMHcwRHN3dndpVU13ZG9nOHVoNWQ1bVd0LVozWksxdG9uN2V6eG5JeE0wOGd6YnFUNVBlbldTSkcyOUZIbkxjNkpsT2Y3blZCSkw0enJEQWtrUmRNdE9PSThYSDJqZU10Wl80bnR1WWpyTGh0RnVCTlBNczZCRThUMmRpVV",
+      "publishedAt": "2026-08-16T04:29:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal appelle Emmanuel Macron à soumettre l'interdiction des réseaux sociaux aux moins de 15 ans à un référendum - Atlasinfo",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2E2NHVBMHV4emZvTkpNS1AyTFpEY0IxTmNuRUxicG5uVU0wLVZsbS1ZOUtyZEdxOE9idmhmUWdIT1ZkOGRuZHMtRTVHdEZJcFBwV3Fpa28weGtFb19RbzlVdWhrc01NdVZENnBPcnJsd2FfVVhmTEZhd01rdlpXcGZyTk1aWkVya0dxUEprX3FKQmVCSDN1Tml1T1Zkc0JCYnk2NV96eDF5STFCQmZuS0gzZGd2YUJBVUJhT0x2YmE5UUdTd09MVnItbGo2Ti1oSmNnZFhxN1REeEIyRnc?oc=5",
+      "source": "Atlasinfo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ2E2NHVBMHV4emZvTkpNS1AyTFpEY0IxTmNuRUxicG5uVU0wLVZsbS1ZOUtyZEdxOE9idmhmUWdIT1ZkOGRuZHMtRTVHdEZJcFBwV3Fpa28weGtFb19RbzlVdWhrc01NdVZENnBPcnJsd2FfVVhmTEZhd01rdlpXcGZyTk1aWkVya0dxUEprX3FKQmVCSDN1Tml1T1Zkc0JCYnk2NV96eDF5STFCQmZuS0gzZGd2YUJBVUJhT0x2YmE5UUdTd09MVn",
+      "publishedAt": "2026-08-16T08:44:14.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
       "isNew": true
     },
     {
@@ -64,81 +199,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-16T00:26:24.316Z",
-      "isNew": true
-    },
-    {
-      "title": "«Foutre au feu» la dette, un projet de «banqueroute totale» du pays : Mélenchon et Attal poursuivent leur feuilleton estival - Libération",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdEUySTNUZjVTTVdidGNWd1k5WVZoSF85SWJTVGpXVTB2TEtsZTl3c2ItZUtqTkZILWtTLWRyNUpjUUt0RS04ZmJScEF3NmJOOGxWS0p0TXRiNGhHY0JCQWEweXI1cTFPbklPRHFLUExqUmNneGRtTVhrd1otSHJucmNsc1FpWFlMN3NWcmtEWTFhV0dDREVmSGVCRHhxaDFXUjlhN3lkZHBHV1lIbFhLVUNQV3gwRzJlQVp3dzZScjA0elVXNEE5V29sb3hWVVZ5Vmh2VFljUDJMWkJJajBoT2cxOGN1RGVKdktMWmR6Y0Y2OU9GN3Z3SzVhNzBlTm9Ia3ZJd0JGM2xJRTRNV200RTRfTG54WGczZVE?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQdEUySTNUZjVTTVdidGNWd1k5WVZoSF85SWJTVGpXVTB2TEtsZTl3c2ItZUtqTkZILWtTLWRyNUpjUUt0RS04ZmJScEF3NmJOOGxWS0p0TXRiNGhHY0JCQWEweXI1cTFPbklPRHFLUExqUmNneGRtTVhrd1otSHJucmNsc1FpWFlMN3NWcmtEWTFhV0dDREVmSGVCRHhxaDFXUjlhN3lkZHBHV1lIbFhLVUNQV3gwRzJlQVp3dzZScjA0elVXNEE5V2",
-      "publishedAt": "2026-08-14T15:02:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-15T00:26:19.430Z",
       "isNew": false
     },
     {
-      "title": "Cet été, Gabriel Attal dégaine la stratégie du cow-boy - Le Nouvel Obs",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVk1WeXFVVnA1N2I5VWZmbXhzUjNrQzVOSDZhY2RKdnRPRkIyUEdnd21lOEpOaXZHSW5GNGI1UWFrSzBhWEstcjgtTzBPLVdJYlhXMnN2YVNqUGlPdVJMRGxtbWpLajNNblJKd3o4cGRJczNsTXhrT1FPUEhhd2Vlakswb1pnVzIxZEZ1V2VwejI5WkJuTndlY016TnJaTmQzUjVzY3FpZVpmbkxTODVMazlUVQ?oc=5",
-      "source": "Le Nouvel Obs",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVk1WeXFVVnA1N2I5VWZmbXhzUjNrQzVOSDZhY2RKdnRPRkIyUEdnd21lOEpOaXZHSW5GNGI1UWFrSzBhWEstcjgtTzBPLVdJYlhXMnN2YVNqUGlPdVJMRGxtbWpLajNNblJKd3o4cGRJczNsTXhrT1FPUEhhd2Vlakswb1pnVzIxZEZ1V2VwejI5WkJuTndlY016TnJaTmQzUjVzY3FpZVpmbkxTODVMazlUVQ?oc=5\" target=\"_blank\">Cet é",
-      "publishedAt": "2026-08-14T09:30:08.000Z",
+      "title": "Réseaux sociaux interdits aux moins de 15 ans : Gabriel Attal demande un référendum - ENTREVUE.FR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWJjT2RMYW1sSlhydmNEZlBGMktjVjVKWWJWektvOHJJY01QTlVud1JJR2dlS2ZLdWVnaFR4UHhGemR2NVRLR1pKaElVZ1hVUmVldENhSFZqbGdhOFo0TWZBU0xXS1l4ZEFEcmlhM3ZsVzIxN21qaDdnbkk0WkpUdnBzWG1laXN5cEtUTkctRzFhb2JXVFhMUU1aQlk3UHdKY1M0clA3eGplVzNBb0R1TENB?oc=5",
+      "source": "ENTREVUE.FR",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWJjT2RMYW1sSlhydmNEZlBGMktjVjVKWWJWektvOHJJY01QTlVud1JJR2dlS2ZLdWVnaFR4UHhGemR2NVRLR1pKaElVZ1hVUmVldENhSFZqbGdhOFo0TWZBU0xXS1l4ZEFEcmlhM3ZsVzIxN21qaDdnbkk0WkpUdnBzWG1laXN5cEtUTkctRzFhb2JXVFhMUU1aQlk3UHdKY1M0clA3eGplVzNBb0R1TENB?oc=5\" target=\"_blank\">Réseaux",
+      "publishedAt": "2026-08-16T07:39:31.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-15T00:26:19.430Z",
-      "isNew": false
-    },
-    {
-      "title": "« Il n’a pas arrêté de me pourchasser tout l’été » : Attal-Mélenchon, un match estival pas dénué d’arrière-pensées - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOblhzYkZZN3lPcEloaHV0Q1k4RFJhRDQwb2w5LW9zWDBLc2NLMTVIWDN2U19MTEEwLWIwMXhFY3cxU0lTZ3poTTUxUG1XVTNzd2RzOW9qSnczdUFsZFpsQnV5VmI4eXk5Q0d1cDVDaWp2bUxDXzZ0UVh3Wm5fTlZCV2JSM0FxR28zUTl5WGF6QzBScUxuazlBLTF4aFZJXzVncS1RejFHd2pUYS0zdkc5bjl1VFI1UEM3a18zYVlsN1BFODA2NDZpUkRnLVdNRWxFcVcydEt0LV90cHNHZXRUX0U5M2Q0dHg1VXVTLVAzcjdzVF9Pcmd4WTNCT0FGdUVzWk5EVDUyYjZwMnVJTktOTEpTcHMwQ19BQzJZV3BZNlQwYjg?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxOblhzYkZZN3lPcEloaHV0Q1k4RFJhRDQwb2w5LW9zWDBLc2NLMTVIWDN2U19MTEEwLWIwMXhFY3cxU0lTZ3poTTUxUG1XVTNzd2RzOW9qSnczdUFsZFpsQnV5VmI4eXk5Q0d1cDVDaWp2bUxDXzZ0UVh3Wm5fTlZCV2JSM0FxR28zUTl5WGF6QzBScUxuazlBLTF4aFZJXzVncS1RejFHd2pUYS0zdkc5bjl1VFI1UEM3a18zYVlsN1BFODA2NDZpUk",
-      "publishedAt": "2026-08-14T14:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-15T00:26:19.430Z",
-      "isNew": false
-    },
-    {
-      "title": "Réduction du nombre de parlementaires : Gabriel Attal reprend et ajuste une promesse de campagne d’Emmanuel Macron faite en 2017 - CNews",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1FWRU4waUFuOGNYUEJNVmtyLXQ3VzVGU1pzMGxDbHpfOUdpYXNZNWRGM2UteGlSNlYxS2JKOUtMRHA1WGlPR1k4MDdzbVBDSGQwSG1hT2wtWlNscGxoYzZQNkU3SHBYUUVnWENZdFRyRTVJZXllTkNMUG53dzBLR0FEdXlQcmRsSFRBSFQyTDNwNTQtTnJqcmJQNUd0U04tSS1Za1JQc252NjJ2bFZMOFFn0gG3AUFVX3lxTFA1TVZGLXZNVzJZVjdzZ2lFU1ZOaUczeE1kck1EX3Q2REhQMnlKeXhMdGI5eXNQc0tUcTR3ODRSWldTZGpoQkc4SS1Cek5GbzBsVkwyQXl4YTNscG1Ubjd3elZmSG02N29CMUNvOFNyLVlCRzNUNmJxOGtaLUEzSktJeVZHcW5JVDBTaUd0cUx5MnJqVUctTDk5Ymp5WWV3ajBFLXV0LXZOeGNxc3FBcklidk83REctYw?oc=5",
-      "source": "CNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1FWRU4waUFuOGNYUEJNVmtyLXQ3VzVGU1pzMGxDbHpfOUdpYXNZNWRGM2UteGlSNlYxS2JKOUtMRHA1WGlPR1k4MDdzbVBDSGQwSG1hT2wtWlNscGxoYzZQNkU3SHBYUUVnWENZdFRyRTVJZXllTkNMUG53dzBLR0FEdXlQcmRsSFRBSFQyTDNwNTQtTnJqcmJQNUd0U04tSS1Za1JQc252NjJ2bFZMOFFn0gG3AUFVX3lxTFA1TVZGLXZNVzJZVj",
-      "publishedAt": "2026-08-14T04:16:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-15T00:26:19.430Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal appelle à un référendum sur l’interdiction des réseaux aux moins de 15 ans - Le Télégramme",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRzBxWjhfaUxCR0gwWGROMnMwU2pLMFJFTXhVbkhWTVFDLTBMVkJhRzdJMk9PaWV4cjN5eWtPaVFrSXhQNFV2WGJLSlRiYU10WmRkdzlrMndFTHZHZDlPdzBlMHg0VHVYMlIzTzhWWFpSOE9KY2p1X21wX3FET1hrUmdVZ1pjT25DQXhuRjFWMzZESUZQajVkWXBfdExLdGdQSkEtTmVibmlRb1NpMlJ6UDl2djBRWGtQckNaLVk5LWtlLW11aXAtLXdwMFJrMmc?oc=5",
-      "source": "Le Télégramme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRzBxWjhfaUxCR0gwWGROMnMwU2pLMFJFTXhVbkhWTVFDLTBMVkJhRzdJMk9PaWV4cjN5eWtPaVFrSXhQNFV2WGJLSlRiYU10WmRkdzlrMndFTHZHZDlPdzBlMHg0VHVYMlIzTzhWWFpSOE9KY2p1X21wX3FET1hrUmdVZ1pjT25DQXhuRjFWMzZESUZQajVkWXBfdExLdGdQSkEtTmVibmlRb1NpMlJ6UDl2djBRWGtQckNaLVk5LWtlLW11aXAtLX",
-      "publishedAt": "2026-08-15T20:34:41.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-16T00:26:24.316Z",
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
       "isNew": true
     },
     {
@@ -154,91 +229,62 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-16T00:26:24.316Z",
-      "isNew": true
-    },
-    {
-      "title": "Entre Mélenchon et Attal, une « bromance » estivale particulière qui se poursuit sur la dette - Le HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc1AtU0ZSM1lwUWdJZ09qS3NFeWJoOEpYNDBxcWgwNTFpT2MxdEZyS2w1VmNkZklmcHEtcnU4YU1HUWhfVm5mcS15NFF5MHVZN2VXOXZydEVoTWpMYkh3VWtuaTdwZlpJM1dfNUR6THlJaV9RT081SXdxbFZxR1lkemJ2dWYybmhSaHBGS0NTeG01WUFESnAwLWxZMHdjYjA4ZWN5UlBxOXJQVFhDMkRpVUNaSHY3SDZoMzJRS2YwcEh2N3ZsSDVuMmE2a1ZkOHFUcjZXUzJxVlZGUmRxay1aUEpR?oc=5",
-      "source": "Le HuffPost",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc1AtU0ZSM1lwUWdJZ09qS3NFeWJoOEpYNDBxcWgwNTFpT2MxdEZyS2w1VmNkZklmcHEtcnU4YU1HUWhfVm5mcS15NFF5MHVZN2VXOXZydEVoTWpMYkh3VWtuaTdwZlpJM1dfNUR6THlJaV9RT081SXdxbFZxR1lkemJ2dWYybmhSaHBGS0NTeG01WUFESnAwLWxZMHdjYjA4ZWN5UlBxOXJQVFhDMkRpVUNaSHY3SDZoMzJRS2YwcEh2N3ZsSDVuMm",
-      "publishedAt": "2026-08-14T11:12:04.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-15T00:26:19.430Z",
       "isNew": false
     },
     {
-      "title": "Michèle Cotta : l'été de tous les dangers pour les candidats à la présidentielle - parismatch.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVDZZM042ZmNPRFBGaEdlbUhqS1pSX3ktaDRITGVKbm8tWHU0WkNHdEdQTGU5cnBiUHprbTJTX0JXZ0pJb2FJcEVjbGM4bHZxOWtQazZ3UU02RW1fVzRVTmtuT3BSNHJiMk5jLXJGYlRubE9lTGhFeEc5WFBSSU5xM3JtZVlYUmZjUFFxVUpmcmEwb2tPSUxlaXhSZ1EtbWdBa3gzQ0J5NmV2MllFR3lZV3FyalVGM2IzeEpZTEpEQUo5LVpY?oc=5",
-      "source": "parismatch.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOVDZZM042ZmNPRFBGaEdlbUhqS1pSX3ktaDRITGVKbm8tWHU0WkNHdEdQTGU5cnBiUHprbTJTX0JXZ0pJb2FJcEVjbGM4bHZxOWtQazZ3UU02RW1fVzRVTmtuT3BSNHJiMk5jLXJGYlRubE9lTGhFeEc5WFBSSU5xM3JtZVlYUmZjUFFxVUpmcmEwb2tPSUxlaXhSZ1EtbWdBa3gzQ0J5NmV2MllFR3lZV3FyalVGM2IzeEpZTEpEQUo5LVpY?oc=5\"",
-      "publishedAt": "2026-08-15T06:28:37.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-16T00:26:24.316Z",
-      "isNew": true
-    },
-    {
-      "title": "Réseaux sociaux des moins de 15 ans : le référendum peut-il accélérer la protection des enfants ? - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNlltYjNmRlNkdkNmNmkycmNJV1ZPUDh4VjdnZW10LXJXVzlQRDVVS3hLeVJKVVFRdTdEOWhIdElUNEZlRExWSVUycklucHBnUmMzXzV4NG9JV3RITFhrTVNxS3BXa0h1U1lqRzRoOU1LSk1zUEMyUHRPbmVqQzVnUE8wUUlkeUI1U2FGekJHMnE2Z2t2S3Y4U0QtVmtXanZnVmNuV1BNSVFDOExQRVVJU0FYNzlldlRHeEo1a3BuNXZjZWpNWm00NjF5OFZ1XzVYYng5RDFMaE03OUxwWk5leGxsdDQ2cW0t?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNlltYjNmRlNkdkNmNmkycmNJV1ZPUDh4VjdnZW10LXJXVzlQRDVVS3hLeVJKVVFRdTdEOWhIdElUNEZlRExWSVUycklucHBnUmMzXzV4NG9JV3RITFhrTVNxS3BXa0h1U1lqRzRoOU1LSk1zUEMyUHRPbmVqQzVnUE8wUUlkeUI1U2FGekJHMnE2Z2t2S3Y4U0QtVmtXanZnVmNuV1BNSVFDOExQRVVJU0FYNzlldlRHeEo1a3BuNXZjZWpNWm00Nj",
-      "publishedAt": "2026-08-15T21:08:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-16T00:26:24.316Z",
-      "isNew": true
-    },
-    {
-      "title": "Explained: French laws on foreign interference in politics - The Local France",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPblhiVF83YmFyUjU2Ny1RX290MVREdmdTalVYazdmS3NycExNU0UyNVRrZXIxNThyQWNIVkhYd3ZkRDhUTElxUmFEakFVWUxfMVFmaUhhVHNObGpEN1lwWVFsclhrSHM0Q3o5WGtXcGpfR0Vua0lhUmc4eXNRRnp2T0x3R0NIaFVzSklOWFUwSEJHc3ll?oc=5",
-      "source": "The Local France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPblhiVF83YmFyUjU2Ny1RX290MVREdmdTalVYazdmS3NycExNU0UyNVRrZXIxNThyQWNIVkhYd3ZkRDhUTElxUmFEakFVWUxfMVFmaUhhVHNObGpEN1lwWVFsclhrSHM0Q3o5WGtXcGpfR0Vua0lhUmc4eXNRRnp2T0x3R0NIaFVzSklOWFUwSEJHc3ll?oc=5\" target=\"_blank\">Explained: French laws on foreign interference ",
-      "publishedAt": "2026-08-14T14:28:11.000Z",
+      "title": "Ex-PM Attal urges Macron to put under-15 social media ban to referendum - RFI",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZktEMVhFMlF0S1BOR0drMnc1dUxKNmpiZTVhZkY0RmNNUHFWSDhrWFBEeEFDUk5fc3E5SzJ5TmVQdEtSb3JQRkpIRTctcHVxeFNfMzFzb0hlYkVnZEdtekR3RTFhZVB1OC1GV1c1dVhIazYwVjdsY1VSd2ZQZzdTYzM4VldCRXZTRFVWeTUxc1dBeGliMDl5aFpCeWFreXVhM2Vhd2lnalhRUXNHOGc?oc=5",
+      "source": "RFI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPZktEMVhFMlF0S1BOR0drMnc1dUxKNmpiZTVhZkY0RmNNUHFWSDhrWFBEeEFDUk5fc3E5SzJ5TmVQdEtSb3JQRkpIRTctcHVxeFNfMzFzb0hlYkVnZEdtekR3RTFhZVB1OC1GV1c1dVhIazYwVjdsY1VSd2ZQZzdTYzM4VldCRXZTRFVWeTUxc1dBeGliMDl5aFpCeWFreXVhM2Vhd2lnalhRUXNHOGc?oc=5\" target=\"_blank\">Ex-PM Attal ",
+      "publishedAt": "2026-08-16T17:30:00.000Z",
       "lang": "en",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-15T00:26:19.430Z",
-      "isNew": false
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
     },
     {
-      "title": "French Foreign Minister Stéphane Séjourné is meeting with PM Mikati - MTV Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6dU1OUVpob1RLWkVJTVNpNkU4YzkyRGxYb245cHQxd3RDcGExbG5SbzAwTnpoUl95RENiRjNVT3dwbEtMVkJtSG5fNExZY1E?oc=5",
+      "title": "French Foreign Minister Stéphane Séjourné to MTV: We are fully committed to calming and de-escalating the situation in the region and strongly support the extension of UNIFIL forces in the south - MTV Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUEt3YzN4S1RmS09xZWhYTWxPU2VuTTJGQmRKZmNyU2JRd01ZZWdTR2dXZk94RXJvV3pJWE9ORmswY1VIS2xHb2ZFdEJRLXM1R2V4VmpqN0g?oc=5",
       "source": "MTV Lebanon",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6dU1OUVpob1RLWkVJTVNpNkU4YzkyRGxYb245cHQxd3RDcGExbG5SbzAwTnpoUl95RENiRjNVT3dwbEtMVkJtSG5fNExZY1E?oc=5\" target=\"_blank\">French Foreign Minister Stéphane Séjourné is meeting with PM Mikati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MTV Lebanon</font>",
-      "publishedAt": "2026-08-14T06:01:15.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUEt3YzN4S1RmS09xZWhYTWxPU2VuTTJGQmRKZmNyU2JRd01ZZWdTR2dXZk94RXJvV3pJWE9ORmswY1VIS2xHb2ZFdEJRLXM1R2V4VmpqN0g?oc=5\" target=\"_blank\">French Foreign Minister Stéphane Séjourné to MTV: We are fully committed to calming and de-escalating the situation in the regio",
+      "publishedAt": "2026-08-16T11:28:55.000Z",
       "lang": "en",
       "type": "media",
       "persons": [
         "sejourne"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-16T00:26:24.316Z",
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
+      "isNew": true
+    },
+    {
+      "title": "Dans La Tribune Dimanche : Gabriel Attal veut un référendum pour interdire les réseaux sociaux aux moins de 15 ans",
+      "url": "https://attalpresident.fr/actualites/dans-la-tribune-dimanche-gabriel-attal-veut-un-referendum-pour-interdire-les-reseaux-sociaux-aux-moins-de-15-ans",
+      "source": "Gabriel Attal — site officiel (actualités)",
+      "snippet": "Dans une tribune publiée dans La Tribune Dimanche, Gabriel Attal propose de soumettre directement aux Français l’interdiction des réseaux sociaux aux moins de 15 ans. Après la décision du Conseil constitutionnel du 14 août, il défend une nouvelle voie pour protéger rapidement les mineurs : le référendum. Une propositio",
+      "publishedAt": "2026-08-16T12:00:00.000Z",
+      "lang": "fr",
+      "type": "official",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "official": "Gabriel Attal — site officiel (actualités)",
+      "firstSeenAt": "2026-08-17T00:24:44.069Z",
       "isNew": true
     }
   ],
   "stats": {
-    "total": 15,
-    "new": 9,
-    "carried": 6,
-    "media": 15,
+    "total": 18,
+    "new": 15,
+    "carried": 3,
+    "media": 17,
     "agenda": 0,
-    "official": 0,
+    "official": 1,
     "coOccurrence": 0
   }
 }
