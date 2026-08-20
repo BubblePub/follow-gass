@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T00:24:51.942Z",
+  "generatedAt": "2026-08-20T00:25:38.439Z",
   "persons": [
     "attal",
     "sejourne"
@@ -19,52 +19,22 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027: \"Que ce soit Gabriel Attal, Gérald Darmanin ou Édouard Philippe, ces gens veulent perpétuer le macronisme en France\", estime Manuel Bompard - BFM",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQdGp5Q0c1YnhYekFLN01vZnNFdnBuVXNXZmdySkkwSWF1WXowbGNYUDI0VVBGZVRpaHV0dFRDZUZXbDRiZFE4dDctSlY1bTAtYnN4d1FhT0JBZEVMclZ2aWctZnZBeGl0cEZXTUpGRGNYYXJjMHVIWV82QTJNZ09pcHRMWS1ta2FpNlBIUlZMUXlfOG9veVI2R2ZNMjJFVWhsR0NJYkVnMldfeDNHaDREbTdsX0ZQalNMZEo0a3AzbHg1amg2WDNlNUpQcHRFLXk2LWszZmwzLTFySWtwSXlpNlBLQ0VTelFIQjRjaUY1VWlHZS1VNWlvS3NtSFF0LWtvd3d3NkdCTWNtOF9KQllTV3hyT3JpNXp0M3ZDZFA4T0g4SGVkX1FrdGNVdjRlMk9fdXpDT3BySVhVaWw3UnY5MEdiTGNSMHR1Wm1IWUF5NEl0Q0E?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wJBVV95cUxQdGp5Q0c1YnhYekFLN01vZnNFdnBuVXNXZmdySkkwSWF1WXowbGNYUDI0VVBGZVRpaHV0dFRDZUZXbDRiZFE4dDctSlY1bTAtYnN4d1FhT0JBZEVMclZ2aWctZnZBeGl0cEZXTUpGRGNYYXJjMHVIWV82QTJNZ09pcHRMWS1ta2FpNlBIUlZMUXlfOG9veVI2R2ZNMjJFVWhsR0NJYkVnMldfeDNHaDREbTdsX0ZQalNMZEo0a3AzbHg1amg2WDNlNU",
-      "publishedAt": "2026-08-18T07:20:36.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : avec le soutien de Darmanin, Philippe prend encore un peu plus d'avance dans son match contre Attal - TF1 Info",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNGJpdmpNWmQ3Zm9Oc2ktMHFYeG11Mll6c2FoLXZRQncxQ0IwR2ZZejRMNGtrOUhXWU9PMEktMi16TUFNQldQTFRMWlFkYWlQVlp2TTVPcmdXOTQwLXJUZzNJaXlFN2toWExmeXRvS2VzZjZvOUR0cUczSENEcnpwSkdERUJsa2RidEhnZ2cxWHdUR2djZ1JfN2dhQkhYWnloMnNRM2RjMmttMmRhTzk2Rzl5NUxKZDY2ZzRRSS1tZ2VudzdGS0l6Y1NTZ1h0VU5rbnhMb3J6d3FjYkI5emhmaVdCbzB1N0V2NkpZdWZKQWQyUkkyc0VXcDZvSlVmUTloT1NCM0F3bGthRms2ZkRpVHhDRlJHUQ?oc=5",
-      "source": "TF1 Info",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPNGJpdmpNWmQ3Zm9Oc2ktMHFYeG11Mll6c2FoLXZRQncxQ0IwR2ZZejRMNGtrOUhXWU9PMEktMi16TUFNQldQTFRMWlFkYWlQVlp2TTVPcmdXOTQwLXJUZzNJaXlFN2toWExmeXRvS2VzZjZvOUR0cUczSENEcnpwSkdERUJsa2RidEhnZ2cxWHdUR2djZ1JfN2dhQkhYWnloMnNRM2RjMmttMmRhTzk2Rzl5NUxKZDY2ZzRRSS1tZ2VudzdGS0l6Y1",
-      "publishedAt": "2026-08-18T13:19:07.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : le bloc central cherche encore comment éviter la guerre des chefs - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTHVtc0JYY3l4R2tXVGNTVjllNFNHQUd3bXRkUjFmTE5FNDNLcGVWYjM3QVdYeVBadVJWS2VObjdkLXRob21HT0x1bVZ2eW1HV29Obk5TS1plczFWR3h1R01XT24zV2N0TVZiaFFDZFB6QTZXMmNYRnFQY1NBTVpONUtrcHlCSkFGby1uZXh4bWxBbnFMeF9QUTFaRVNaMXBsTFcxUl9Ia3R0Xzhaa2pnU3dsRXl6c3FLcWZVazRHaGxxbHB3S0IzM0o2ZXd0M00?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTHVtc0JYY3l4R2tXVGNTVjllNFNHQUd3bXRkUjFmTE5FNDNLcGVWYjM3QVdYeVBadVJWS2VObjdkLXRob21HT0x1bVZ2eW1HV29Obk5TS1plczFWR3h1R01XT24zV2N0TVZiaFFDZFB6QTZXMmNYRnFQY1NBTVpONUtrcHlCSkFGby1uZXh4bWxBbnFMeF9QUTFaRVNaMXBsTFcxUl9Ia3R0Xzhaa2pnU3dsRXl6c3FLcWZVazRHaGxxbHB3S0IzM0",
-      "publishedAt": "2026-08-17T04:31:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-18T00:24:39.023Z",
       "isNew": false
+    },
+    {
+      "title": "« De l’animosité se crée, c’est très dangereux » : le duel Philippe-Attal est loin d’être fini - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOENaSHhpUUFZaEJxdHBrWHZOSnMzTVF3RDY1cE5jb0ktMWdhTnRXOTBKYUJxbzNMRjdKWjBfRWM2SUFqeFNRWmxERTBDVndPYzZnV1hBRm9Vb3JUc3NhQ3lvdGhxNVpZb1BXekNJSkJxVFVDWXpJMzVJTmZ1bGJIVUE3c3ZlOEpzN2VEM2o2THJ1U0gyODhGU1NreDBvVGtsbHhaYmE1dUlDTVh1YWZrN3hGSTQ3QXFfdnYtY2lyZ1doenVzQnl5ZU1SSEs0Q3N2VEgyeF9oeldGQXRjaEVIR2x3ZGdvQkRjWGtCZUxobzVfeDFWbG0zLU1hREVkZTJtc3lDT2RFbzk?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOENaSHhpUUFZaEJxdHBrWHZOSnMzTVF3RDY1cE5jb0ktMWdhTnRXOTBKYUJxbzNMRjdKWjBfRWM2SUFqeFNRWmxERTBDVndPYzZnV1hBRm9Vb3JUc3NhQ3lvdGhxNVpZb1BXekNJSkJxVFVDWXpJMzVJTmZ1bGJIVUE3c3ZlOEpzN2VEM2o2THJ1U0gyODhGU1NreDBvVGtsbHhaYmE1dUlDTVh1YWZrN3hGSTQ3QXFfdnYtY2lyZ1doenVzQnl5ZU",
+      "publishedAt": "2026-08-19T18:14:56.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
+      "isNew": true
     },
     {
       "title": "Emmanuel Macron et Gabriel Attal : histoire d’une double rupture - l'Opinion",
@@ -79,29 +49,44 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Gabriel Attal a-t-il versé 50 millions d’euros aux secours tunisiens au lieu d’acheter deux Canadair pour la lutte contre les incendies - Midi Libre",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPRXA3emRRbW5iTEp2ckpKWV9yRFo2OUN5ZTYyYUhoYzRxR2tIRUc1NXpjdzdzcW9odWlIOGxZUUs4dUJSZFhaZWtzQnNBLTV1QTZKamhOXzFUS3FLNjNhc3U4dVRpZk1OVGd4bjJfUnV1TjgzQkV0a0VsdXA4TExWaVo4ZnVuZFhCRno4SW41X0VRLXJsYUFqNVlKYzVsVVVpX1dEdTZqdVhxV2JSNW5maXBLank2WTJ1WFVVMnp2UDREMURfSWcwdDVhUVRBUXZfY2ZhVkxreGtfVjFXZU13SjlFWjlhVVN4Z0tlS3FDWUlsMHdjS3JwU0ctWkVMbVJOck9tSFd1TFUyekNoLUxv?oc=5",
-      "source": "Midi Libre",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPRXA3emRRbW5iTEp2ckpKWV9yRFo2OUN5ZTYyYUhoYzRxR2tIRUc1NXpjdzdzcW9odWlIOGxZUUs4dUJSZFhaZWtzQnNBLTV1QTZKamhOXzFUS3FLNjNhc3U4dVRpZk1OVGd4bjJfUnV1TjgzQkV0a0VsdXA4TExWaVo4ZnVuZFhCRno4SW41X0VRLXJsYUFqNVlKYzVsVVVpX1dEdTZqdVhxV2JSNW5maXBLank2WTJ1WFVVMnp2UDREMURfSWcwdD",
-      "publishedAt": "2026-08-17T17:41:00.000Z",
+      "title": "Emmanuel Macron remonté contre Gabriel Attal : ce surnom, loin d’être élogieux, qui lui donnerait en privé - gala.fr",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFpTN2NsQkIzM29yWEVNVkpBVHZ6Wjk2djNGdzNhUW10VUxVSDRadENCWlJwWGlhTDVZZzFRc3FvNVY1aTZWM2VacURJRzY1RjJBOVhIb2VKallTQmxFNEJadDRnSC1UWGdubHROS3JxSVBQSHd6c3A2Mi02eGxiOC02em0tMzNobFFDVll6T0ktb2lFek9pcGl1N3VzVzhxVTNaV1pvdlpIdU9qVEQ3b1Y0LVYtbzBzUWc4YWhST1pLNWRJZTZGbWU0RU5NQ0ZxdENkZG1kU2I?oc=5",
+      "source": "gala.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFpTN2NsQkIzM29yWEVNVkpBVHZ6Wjk2djNGdzNhUW10VUxVSDRadENCWlJwWGlhTDVZZzFRc3FvNVY1aTZWM2VacURJRzY1RjJBOVhIb2VKallTQmxFNEJadDRnSC1UWGdubHROS3JxSVBQSHd6c3A2Mi02eGxiOC02em0tMzNobFFDVll6T0ktb2lFek9pcGl1N3VzVzhxVTNaV1pvdlpIdU9qVEQ3b1Y0LVYtbzBzUWc4YWhST1pLNWRJZTZGbW",
+      "publishedAt": "2026-08-19T17:26:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-18T00:24:39.023Z",
-      "isNew": false
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027: \"Que ce soit Gabriel Attal, Gérald Darmanin ou Édouard Philippe, ces gens veulent perpétuer le macronisme en France\", estime Manuel Bompard - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPbnNhVFE0R0dwMVNhalMweDhzeTNGTnA4NmJGckMxRzNBcDVKTlhNZ0JIZm5iZExWMXk1LTlNbUlMTUxieUF5SXJUcjdaYlpsZy1MTXVlZ3A4cUR4bXRUczhpRlk3UVN6RVFzUzQ3eGVoQVZMS29NSDBNUE1zRlpJZ195WXVfbzZpTnlzSWVEQVFJTF92RXpHNnE1dGItTTRFaU1qQnBBb2NFQnhNZjZLQ1llUlhVV1RhbEx3dENBOGdqZ2s2SWpab0ktSnN2THNNdmZQV3VsdWN6QVVBTzZBS1ZsVXZuNUhvQWNSU1FoRi1UcFROMDY1a09zdm82WEpTWTREM3d5cldGenpRQXNWTkZkcW9CUUZZb0RQcy1ld211YU5BNDRLaWdGVmJCMi1LaW8ya1M3RWhmQQ?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxPbnNhVFE0R0dwMVNhalMweDhzeTNGTnA4NmJGckMxRzNBcDVKTlhNZ0JIZm5iZExWMXk1LTlNbUlMTUxieUF5SXJUcjdaYlpsZy1MTXVlZ3A4cUR4bXRUczhpRlk3UVN6RVFzUzQ3eGVoQVZMS29NSDBNUE1zRlpJZ195WXVfbzZpTnlzSWVEQVFJTF92RXpHNnE1dGItTTRFaU1qQnBBb2NFQnhNZjZLQ1llUlhVV1RhbEx3dENBOGdqZ2s2SWpab0",
+      "publishedAt": "2026-08-18T07:20:56.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
+      "isNew": true
     },
     {
       "title": "Soupçons d’ingérence russe ciblant Edouard Philippe et Gabriel Attal : le parquet de Paris lance une enquête - Libération",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQ2lfRDBxWmhSZHJjNVByelJTeHA5dEtPLTdyS0c0dFNjQzg3SzE3SlRhZnUtQ0FkdFVIaV9pa3ZWVENzb3k2NkEtMXJWUXZ3UERTRFdkMm9HMXpLdUU2enlrUjRzSGFZa3UwZzhkbWZnY1JLaVBlYmF2VGhZNUhoVHlPdmJWSERIYXNkZWl1dmNlNDhkMFRjT29hU0tPZzlmOG5JQmhZSUt4VmdvMnNUVTFWc0pVTVhra3l5d2dxaGJEbTAxZWpXcUUwSzh1b1gyandXRklfNEV6Ym9uODk3NWZ6OUJOVEpsbHlxR3J0TEVGQmtqT19uaWE1Vjg5bjhGZGk1RmFVT0tWcVB5bmJxMVZRRGd6dkRsa2Vr?oc=5",
       "source": "Libération",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQQ2lfRDBxWmhSZHJjNVByelJTeHA5dEtPLTdyS0c0dFNjQzg3SzE3SlRhZnUtQ0FkdFVIaV9pa3ZWVENzb3k2NkEtMXJWUXZ3UERTRFdkMm9HMXpLdUU2enlrUjRzSGFZa3UwZzhkbWZnY1JLaVBlYmF2VGhZNUhoVHlPdmJWSERIYXNkZWl1dmNlNDhkMFRjT29hU0tPZzlmOG5JQmhZSUt4VmdvMnNUVTFWc0pVTVhra3l5d2dxaGJEbTAxZWpXcU",
-      "publishedAt": "2026-08-18T10:49:00.000Z",
+      "publishedAt": "2026-08-18T10:47:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -109,7 +94,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Présidentielle: le parquet de Paris annonce enquêter sur les soupçons d'ingérence russe visant Édouard Philippe et Gabriel Attal - BFM",
@@ -124,6 +109,51 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "isNew": false
+    },
+    {
+      "title": "Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ0dYdVd4QUhRQVMzNEdkLXlCR01xYXhHaXhlQnh2YXdBLXZfVURwRTJnbE4xZEV0MGIwRW1FOXpFcDdtZTNqalpBb2I1ZW82UXA3Y2pMaEhUZnp5UTRfU21MaWxWXzF3NEhjUXFmRVRuekMybnVOdGFUNDhXbDVsUFh1RkNRSV9CN1ZuYnZGYWNhdWt1Zk5YR0FuaV9GSU83NkZLY2RWVzY0Vk9pQzdQQl9lQnBYak1zdWdlOTR6SWVXaTlNOU91bHdTdFpaVnctTWVUcXJibEFraGg4ZWVpQ2MyT1NHTHhXTlJkUjVzWUZCNDB3dGc?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ0dYdVd4QUhRQVMzNEdkLXlCR01xYXhHaXhlQnh2YXdBLXZfVURwRTJnbE4xZEV0MGIwRW1FOXpFcDdtZTNqalpBb2I1ZW82UXA3Y2pMaEhUZnp5UTRfU21MaWxWXzF3NEhjUXFmRVRuekMybnVOdGFUNDhXbDVsUFh1RkNRSV9CN1ZuYnZGYWNhdWt1Zk5YR0FuaV9GSU83NkZLY2RWVzY0Vk9pQzdQQl9lQnBYak1zdWdlOTR6SWVXaTlNOU91bH",
+      "publishedAt": "2026-08-18T09:13:48.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : ce que l'on sait des réseaux de désinformation qui visent plusieurs candidats - Touteleurope.eu",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeWtGZTZfRVRVRVVJTjdJSmpxVFVHS0JBR1VReE1JSXo5aG9RYlpzajkxNDhJSU9MeDVHbkZaOGZHUGpHSk9MSXgyTWpLcUw3d3lEOTJGQnlpZHRLNU5tS2pqWXI3S3lCdFNpUzR4SGphTlBTZGpESGNldEJXMHotOEZJaWRoQlNnOVVKZ3A4WTNLbjRZWURRa05WbkdmeVByYWM1clJlQ3ZUX0Jvb24tRGx3V2tZSnFpa1hQOS05UGVrMHNBMUJSVTR1OWNoUEt0WWVCLTF5S0dHSXNWOHBpMFFDQ3dtYUVmVDcwVWphMA?oc=5",
+      "source": "Touteleurope.eu",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeWtGZTZfRVRVRVVJTjdJSmpxVFVHS0JBR1VReE1JSXo5aG9RYlpzajkxNDhJSU9MeDVHbkZaOGZHUGpHSk9MSXgyTWpLcUw3d3lEOTJGQnlpZHRLNU5tS2pqWXI3S3lCdFNpUzR4SGphTlBTZGpESGNldEJXMHotOEZJaWRoQlNnOVVKZ3A4WTNLbjRZWURRa05WbkdmeVByYWM1clJlQ3ZUX0Jvb24tRGx3V2tZSnFpa1hQOS05UGVrMHNBMUJSVT",
+      "publishedAt": "2026-08-19T13:22:04.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal en visite à Aulnay-sous-Bois : focus protection de l'enfance - presseagence.fr",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2FjM3dObFBjX0hDaHVzWGhDUWtWOWlmczcxRjdjdXhhMk1mX195b1NlQTFocjNWTHFqRnVDeXRxcWlCcjJvbnpDMjNTWGxNekdwREc1LTZELXZYN1pSaTRVTnZJR0ttcXNUeEx4WHNlRkFjWU1zNVp1MEJnZV9DVnc2UUxnRThUVUlmTmRydjIxVF9CQjdxU1Y2R1dWNTJDNHpmTXFjVUFKUzNBVmh6RWRhcWZwdVN2OFdoZlBBRXppV0xJUXc?oc=5",
+      "source": "presseagence.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2FjM3dObFBjX0hDaHVzWGhDUWtWOWlmczcxRjdjdXhhMk1mX195b1NlQTFocjNWTHFqRnVDeXRxcWlCcjJvbnpDMjNTWGxNekdwREc1LTZELXZYN1pSaTRVTnZJR0ttcXNUeEx4WHNlRkFjWU1zNVp1MEJnZV9DVnc2UUxnRThUVUlmTmRydjIxVF9CQjdxU1Y2R1dWNTJDNHpmTXFjVUFKUzNBVmh6RWRhcWZwdVN2OFdoZlBBRXppV0xJUXc?oc",
+      "publishedAt": "2026-08-19T16:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
@@ -139,7 +169,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Édouard Philippe, Gabriel Attal et Raphaël Glucksmann dans le viseur de l’ingérence russe : la justice parisienne s’en saisit - La Montagne",
@@ -154,7 +184,22 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "title": "Une enquête lancée suite aux ingérences contre Gabriel Attal et Édouard Philippe - next.ink",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaklyWjVIeFY4SlFuWFM5bDJRNVJsYURoMklhU2tYakNYRU4tZ0dvNU9TZkhrWlRwVWF0M2VIOXJIb3lQYTM0c01qSkh2X0VCNi1WOEV1MGtya2t5TjZVbDFSOHdTWXJqS1ZkaWluNlBoRUJFQWFGMkM4eEVsbVRQbkx2V0lWT09rX2NXYldjalB0UXNYYUE1cHRKcXZiUTBkZHUzckhDRHJrVEpxejVxck5B?oc=5",
+      "source": "next.ink",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaklyWjVIeFY4SlFuWFM5bDJRNVJsYURoMklhU2tYakNYRU4tZ0dvNU9TZkhrWlRwVWF0M2VIOXJIb3lQYTM0c01qSkh2X0VCNi1WOEV1MGtya2t5TjZVbDFSOHdTWXJqS1ZkaWluNlBoRUJFQWFGMkM4eEVsbVRQbkx2V0lWT09rX2NXYldjalB0UXNYYUE1cHRKcXZiUTBkZHUzckhDRHJrVEpxejVxck5B?oc=5\" target=\"_blank\">Une enq",
+      "publishedAt": "2026-08-18T13:14:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "isNew": false
     },
     {
       "title": "Soupçons d’ingérence russe : les désinformations contre Gabriel Attal et Édouard Philippe visées par une enquête - Ouest-France",
@@ -169,27 +214,12 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : le parquet de Paris ouvre une enquête sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal - Midi Libre",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMjlSNDRGNy00b2ZOWmNCSm1aaWVscVNMMnhzakVzNXByVHFSOEZRYXI5VkxuR1A3OWd1YnBNSVpXZkhKbklKanppMU1rMjRwcWI4QXk5NUxHa3VvOFRQQzFwYmtkTTNWV0Mxb0FZVS1zSGIyenRsZlFjN3ljQjlfVUpwbUdNcTV2UkVYa3pzU09PSVBzMkhaaXlsWUMzQTNSTVlmTzU0Q3dHMkxEM2IwLTZIa1o4bjNEN3pXU2FKVFRWUWUtWllTMDBlamVDbG12R2E0bW15c1NXTVhzWVF5Um9wNi10V1p2c1E5T2Y3Vkt0Um5YS1I3VGJjM1MxczFseDVBOEVJRVFZbVEwWm9r?oc=5",
-      "source": "Midi Libre",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPMjlSNDRGNy00b2ZOWmNCSm1aaWVscVNMMnhzakVzNXByVHFSOEZRYXI5VkxuR1A3OWd1YnBNSVpXZkhKbklKanppMU1rMjRwcWI4QXk5NUxHa3VvOFRQQzFwYmtkTTNWV0Mxb0FZVS1zSGIyenRsZlFjN3ljQjlfVUpwbUdNcTV2UkVYa3pzU09PSVBzMkhaaXlsWUMzQTNSTVlmTzU0Q3dHMkxEM2IwLTZIa1o4bjNEN3pXU2FKVFRWUWUtWllTMD",
-      "publishedAt": "2026-08-18T13:30:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "De nouvelles ingérences russes ciblant Édouard Philippe et Gabriel Attal ? Une enquête est ouverte - corsematin.com",
+      "title": "De nouvelles ingérences russes ciblant Édouard Philippe et Gabriel Attal ? Une enquête est ouverte - Corse Matin",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcndjNDJyOWxkQnZPWFExemFQSHlyeS1LQWpRN3FEbGZxWlVIcmpsMGtSdVBlZElaUDFLeEVBSTNSVzhOb2NndlhpUm9wRDN4dHU0SXBweHozRlF2em84MVA5NFpZQVN3MDZNUUpuOWU3U2Q3VXFFaU90amN2VnJJdUF6a2tsekl3enp1QWlmMGxsV3V4WjFOTjRYOWJxNU9vNWRxY0c0V25SWjNmSjdlY2FlTHpBcEtZdGpDN3k0TEhCdjVmOHQyUkpnOUNzb2NXSk9hRXNFQmd5Z2ZtZUlvcWhIaGEyTk9DSGRr?oc=5",
-      "source": "corsematin.com",
+      "source": "Corse Matin",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcndjNDJyOWxkQnZPWFExemFQSHlyeS1LQWpRN3FEbGZxWlVIcmpsMGtSdVBlZElaUDFLeEVBSTNSVzhOb2NndlhpUm9wRDN4dHU0SXBweHozRlF2em84MVA5NFpZQVN3MDZNUUpuOWU3U2Q3VXFFaU90amN2VnJJdUF6a2tsekl3enp1QWlmMGxsV3V4WjFOTjRYOWJxNU9vNWRxY0c0V25SWjNmSjdlY2FlTHpBcEtZdGpDN3k0TEhCdjVmOHQyUk",
       "publishedAt": "2026-08-18T09:39:54.000Z",
       "lang": "fr",
@@ -199,6 +229,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 : le parquet de Paris se penche sur les soupçons d’ingérence russe visant Gabriel Attal et Édouard Philippe - lanouvellerepublique.fr",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMlRoUWlPUTczOFRoenFFVEhxQnRXb3g0azhkOExkUHBaSHZndE5EckRkM1lUV0JjNlU1V21CeEFJZGowdjdJaHczekdqZU1SM3ZpSDBSckVyc1RxYzhTWTBzRTNlQWtBdVNFQXYwM3FyWmRQZTJsSF9yMlY1Ql9KQ3BZQTR5XzU0OXdmOW40RF9uZnBreUxvcXFlWGVmRzhBcl9iRnBVcFNsOFZLX1FIdFJ5aDY3SWM2dzRqdFg3NHJZZFNfWE01Y0cySlpNOTc3MTNzcG5QUFhXY0trdEhvcDY5dUhTTDJycXU1SHdaZTgtQjBSYnpHOWhkUG5Zbjl0YWJEcXRlMThnZlZndkE?oc=5",
+      "source": "lanouvellerepublique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOMlRoUWlPUTczOFRoenFFVEhxQnRXb3g0azhkOExkUHBaSHZndE5EckRkM1lUV0JjNlU1V21CeEFJZGowdjdJaHczekdqZU1SM3ZpSDBSckVyc1RxYzhTWTBzRTNlQWtBdVNFQXYwM3FyWmRQZTJsSF9yMlY1Ql9KQ3BZQTR5XzU0OXdmOW40RF9uZnBreUxvcXFlWGVmRzhBcl9iRnBVcFNsOFZLX1FIdFJ5aDY3SWM2dzRqdFg3NHJZZFNfWE01Y0",
+      "publishedAt": "2026-08-18T12:14:34.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
@@ -214,7 +259,22 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "title": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête - fr.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGFDdW1WYVJKOHhDZzJuUExrMUZPdkFCX00zTXdUTlNQSkJMMlBOTlJsU0JlWnU3Y3Q3Zmd2eDVuZUx2cG9FNnlyR25zZUdQbmNjVlJnM1E1dlRKWWJQd0xSNEN1YWpReE1xRU5qTDhvTVZSRUNfTG1Kb3J0M2JXeGxrTHBJUk5OSWlHajdScFViMHdrYXpXbjBzMGF0Q19Dbk9td3hzal9wa25iMml1UHFVWU5SdldKMFEzamVlT2NFajVaTExvLVF1TUo1Tm8?oc=5",
+      "source": "fr.euronews.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGFDdW1WYVJKOHhDZzJuUExrMUZPdkFCX00zTXdUTlNQSkJMMlBOTlJsU0JlWnU3Y3Q3Zmd2eDVuZUx2cG9FNnlyR25zZUdQbmNjVlJnM1E1dlRKWWJQd0xSNEN1YWpReE1xRU5qTDhvTVZSRUNfTG1Kb3J0M2JXeGxrTHBJUk5OSWlHajdScFViMHdrYXpXbjBzMGF0Q19Dbk9td3hzal9wa25iMml1UHFVWU5SdldKMFEzamVlT2NFajVaTExvLV",
+      "publishedAt": "2026-08-18T10:29:23.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "isNew": false
     },
     {
       "title": "Le parquet de Paris annonce enquêter sur les soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal - BFM",
@@ -229,51 +289,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Soupçons d'ingérence russe visant Attal et Philippe : le parquet de Paris ouvre une enquête - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGFDdW1WYVJKOHhDZzJuUExrMUZPdkFCX00zTXdUTlNQSkJMMlBOTlJsU0JlWnU3Y3Q3Zmd2eDVuZUx2cG9FNnlyR25zZUdQbmNjVlJnM1E1dlRKWWJQd0xSNEN1YWpReE1xRU5qTDhvTVZSRUNfTG1Kb3J0M2JXeGxrTHBJUk5OSWlHajdScFViMHdrYXpXbjBzMGF0Q19Dbk9td3hzal9wa25iMml1UHFVWU5SdldKMFEzamVlT2NFajVaTExvLVF1TUo1Tm8?oc=5",
-      "source": "Euronews.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUGFDdW1WYVJKOHhDZzJuUExrMUZPdkFCX00zTXdUTlNQSkJMMlBOTlJsU0JlWnU3Y3Q3Zmd2eDVuZUx2cG9FNnlyR25zZUdQbmNjVlJnM1E1dlRKWWJQd0xSNEN1YWpReE1xRU5qTDhvTVZSRUNfTG1Kb3J0M2JXeGxrTHBJUk5OSWlHajdScFViMHdrYXpXbjBzMGF0Q19Dbk9td3hzal9wa25iMml1UHFVWU5SdldKMFEzamVlT2NFajVaTExvLV",
-      "publishedAt": "2026-08-18T10:29:23.000Z",
+      "title": "Ingérence russe : la justice ouvre une enquête sur des attaques ciblant Édouard Philippe et Gabriel Attal - la-croix.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkJHM1p2ZlVlclZtbnpZdHRiNVdQWjBqRVpYYnJyV2ZCVjZEc2VfYjF1OVl5QkVxdVVKaEVBbGxzU0RzRF9lU1Njb3BIX0gtY3BheVJxajAzajMtWDBmRnphaVFfUW9aSHhyNEZhd0tsRTdlQ2RGYjV5dWRkaDJwYlR2Zm1zU3hsRUtYWjh4d0tDTmwwZzhIeGhGcXllMmswMnNDNFlwUDhTZ242R2RfTVdYZVNOUkVvWkdpMlFxZWlXN3ll?oc=5",
+      "source": "la-croix.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkJHM1p2ZlVlclZtbnpZdHRiNVdQWjBqRVpYYnJyV2ZCVjZEc2VfYjF1OVl5QkVxdVVKaEVBbGxzU0RzRF9lU1Njb3BIX0gtY3BheVJxajAzajMtWDBmRnphaVFfUW9aSHhyNEZhd0tsRTdlQ2RGYjV5dWRkaDJwYlR2Zm1zU3hsRUtYWjh4d0tDTmwwZzhIeGhGcXllMmswMnNDNFlwUDhTZ242R2RfTVdYZVNOUkVvWkdpMlFxZWlXN3ll?oc=5\"",
+      "publishedAt": "2026-08-18T10:12:23.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle: le parquet de Paris va enquêter sur les soupçons d’ingérence russe visant Édouard Philippe et Gabriel Attal - BFM",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOR042X28zS2wzcWlQekpvWFd2aUZ2SWI2Y0c2N0U0V3VfeEpNRExUaDNuWVBsUWx3LWpwLTZlUDVDbmdoUHMwY2thYlozc1VFTG5IOFB0MUl0RUtKMWJzMllLeER0VERRbjU4WEtMd2RLVmUtTmFwQUJ3YkptRWhHeDBndGR6V2ZDLTJXUVNJa2hoNW54WnY3elFmcGhVUGpJN1lodERFQjZNWF9iQTB3UHZBT09hMnBwcTJ4SDlSU2hKSWxMbERxd01ILXpDLVM4Z2NNSlpXRjlWYzM2MEh0Sm1XMzRyRHo2MUg5VHdQTTZxbWp6MFJMME9qR0hDdDFBOTFoNXd4VmtrUmdkeDRYVENjank?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOR042X28zS2wzcWlQekpvWFd2aUZ2SWI2Y0c2N0U0V3VfeEpNRExUaDNuWVBsUWx3LWpwLTZlUDVDbmdoUHMwY2thYlozc1VFTG5IOFB0MUl0RUtKMWJzMllLeER0VERRbjU4WEtMd2RLVmUtTmFwQUJ3YkptRWhHeDBndGR6V2ZDLTJXUVNJa2hoNW54WnY3elFmcGhVUGpJN1lodERFQjZNWF9iQTB3UHZBT09hMnBwcTJ4SDlSU2hKSWxMbERxd0",
-      "publishedAt": "2026-08-18T14:35:11.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Une enquête lancée suite aux ingérences contre Gabriel Attal et Édouard Philippe - next.ink",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaklyWjVIeFY4SlFuWFM5bDJRNVJsYURoMklhU2tYakNYRU4tZ0dvNU9TZkhrWlRwVWF0M2VIOXJIb3lQYTM0c01qSkh2X0VCNi1WOEV1MGtya2t5TjZVbDFSOHdTWXJqS1ZkaWluNlBoRUJFQWFGMkM4eEVsbVRQbkx2V0lWT09rX2NXYldjalB0UXNYYUE1cHRKcXZiUTBkZHUzckhDRHJrVEpxejVxck5B?oc=5",
-      "source": "next.ink",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaklyWjVIeFY4SlFuWFM5bDJRNVJsYURoMklhU2tYakNYRU4tZ0dvNU9TZkhrWlRwVWF0M2VIOXJIb3lQYTM0c01qSkh2X0VCNi1WOEV1MGtya2t5TjZVbDFSOHdTWXJqS1ZkaWluNlBoRUJFQWFGMkM4eEVsbVRQbkx2V0lWT09rX2NXYldjalB0UXNYYUE1cHRKcXZiUTBkZHUzckhDRHJrVEpxejVxck5B?oc=5\" target=\"_blank\">Une enq",
-      "publishedAt": "2026-08-18T13:14:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
@@ -289,96 +319,81 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Gérald Darmanin se met en rang derrière Edouard Philippe - Le Canard enchaîné",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqMWxWa0h0R3E4eGJQWGVlaS16NFRlRVdybDdiREtEQmhjak02bEN3QU94dndQcmZSNnlCOE1wTHk5dkxnZmFna1AwS3hKS3VRcmNFSktGdDBURVFHN0RPSW5VWmpyVG5oRmhISXY4ajVXd3ZRUmo5THZYOVM?oc=5",
-      "source": "Le Canard enchaîné",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBqMWxWa0h0R3E4eGJQWGVlaS16NFRlRVdybDdiREtEQmhjak02bEN3QU94dndQcmZSNnlCOE1wTHk5dkxnZmFna1AwS3hKS3VRcmNFSktGdDBURVFHN0RPSW5VWmpyVG5oRmhISXY4ajVXd3ZRUmo5THZYOVM?oc=5\" target=\"_blank\">Présidentielle 2027 : Gérald Darmanin se met en rang derrière Edouard Philippe</",
-      "publishedAt": "2026-08-18T19:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "La France a-t-elle donné de l'argent à la Protection civile en Tunisie au lieu d'acheter deux Canadair - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTXVwNUZSV0E2QjU1YTNxR0xPd0kyaVBWQzlPVGVuWDdtX2ptZHplTmFMa2lRRU5ZUmQ3QUoycFpoZnlBSWw3d1VUMUFvN2F2dWR4YzJYOFJpX1NfM19JLVNGdUhLczd4Mkdrd1R5LWxaQ29uazhyaDlPRnRBVlBEVW52X3JpVXhvRnp5bDZWalNWbFBHbnBYRm8yVHJOQ1JWSkdBQ2M1bXZzRnE2dzJDRElEN2FvVEZleFJDYUhXTEg5bVNWNGwxc1p5NmNpNTJmWU9QazhMRzBlSXZLekEyR3RNYy1oUDZjNXViVTJiOUpoVm54Qk1uS1ZBcWc1ZDg?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTXVwNUZSV0E2QjU1YTNxR0xPd0kyaVBWQzlPVGVuWDdtX2ptZHplTmFMa2lRRU5ZUmQ3QUoycFpoZnlBSWw3d1VUMUFvN2F2dWR4YzJYOFJpX1NfM19JLVNGdUhLczd4Mkdrd1R5LWxaQ29uazhyaDlPRnRBVlBEVW52X3JpVXhvRnp5bDZWalNWbFBHbnBYRm8yVHJOQ1JWSkdBQ2M1bXZzRnE2dzJDRElEN2FvVEZleFJDYUhXTEg5bVNWNGwxc1",
-      "publishedAt": "2026-08-17T06:50:17.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-18T00:24:39.023Z",
       "isNew": false
     },
     {
-      "title": "Sophie Adenot dans l’espace, mort d’Yvette Roudy, ingérences contre Attal et Philippe… L’actu de ce mardi 18 août - Libération",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQUhDWkQtMUY5WERPaF9jb0xscjVtVXdfS3AwUjk4TklVWkdxdV9ueXdFaFZCYWd1R1RpTUQ4SldYZjZMa3lQODhQWmxJbG1GM2VHZ0tSRXc5ZTc0bjVzRll4UDRZU3AzVFUwTy1VN2F1S1Y0SlJKWXNCLXFLZEQxNUlFVlJsc0VzVC1IYjNkcWVyTTVlN0ZFekJicDFVdC1jYThqTlNTLWx3eEotVG9vYWE3Q1FPemdraEM1RVgwMkoyMFhVYmVlVDZnUF9ZMmVoQmtCOGZIYXZJMllWbHNCWjgzMFExRmdGSUZZZnNhdHUwUEZrLTVDaV8tZ3p5QXlQenFJaUhONFpuaWRyandtN2NrOHd0SFBHcTZZ?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQQUhDWkQtMUY5WERPaF9jb0xscjVtVXdfS3AwUjk4TklVWkdxdV9ueXdFaFZCYWd1R1RpTUQ4SldYZjZMa3lQODhQWmxJbG1GM2VHZ0tSRXc5ZTc0bjVzRll4UDRZU3AzVFUwTy1VN2F1S1Y0SlJKWXNCLXFLZEQxNUlFVlJsc0VzVC1IYjNkcWVyTTVlN0ZFekJicDFVdC1jYThqTlNTLWx3eEotVG9vYWE3Q1FPemdraEM1RVgwMkoyMFhVYmVlVD",
-      "publishedAt": "2026-08-18T16:46:34.000Z",
+      "title": "Le parquet de Paris se penche sur les soupçons d'ingérence russe visant Attal et Philippe - France 24",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeTRoTjVVbkxXZXM3OUJreUxpMEVGblE1WGpIWkdwWjZfbGFEcXFaUXNERFhKSkw2YVFJZ3ZBaGJ6NFJvMDZJcnlmclo4Q0psV2ZObV9mTXlfYVlDaHMwYkZCcTdtZ3Y5NElTLUhvTUxEblpfYnptcVZWWmx0d1d1YURiXzNHUklHdmlRQUU0RWd3Yi00Zm5TUkZ3TVJsa0ZFdGoxUjhaeWNodmRIT2lPQXNGbWxMSnduN0lXZkJDdEthU0VRTXdmRFJjZXN0MWNrQ01ydkZkWDcyTUt4U0VyZC11d2g0VFU?oc=5",
+      "source": "France 24",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeTRoTjVVbkxXZXM3OUJreUxpMEVGblE1WGpIWkdwWjZfbGFEcXFaUXNERFhKSkw2YVFJZ3ZBaGJ6NFJvMDZJcnlmclo4Q0psV2ZObV9mTXlfYVlDaHMwYkZCcTdtZ3Y5NElTLUhvTUxEblpfYnptcVZWWmx0d1d1YURiXzNHUklHdmlRQUU0RWd3Yi00Zm5TUkZ3TVJsa0ZFdGoxUjhaeWNodmRIT2lPQXNGbWxMSnduN0lXZkJDdEthU0VRTXdmRF",
+      "publishedAt": "2026-08-18T12:21:14.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
-      "title": "Présidentielle 2027: \"Que ce soit Gabriel Attal, Gérald Darmanin ou Édouard Philippe, ces gens veulent perpétuer le macronisme en France\", estime Manuel Bompard - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUFJicHhaaUpFbHV6NXo1QS1KQnZNSXBEdjZlSVZ6ZVpoLV9ITm1rZXo2S0gzX052ZjRwZkRwSkd2ZU9SQlRMN1cwTXpJWDZKMW1jc0JnNUI2S2JWMjN1ZjJNQ1B6ZjdTRnExbFQxR090aHBnLXRqR2xEVUpYSGYzQUVGWFZCemFIVEl2U3dKSERzblVhaEtZRlkwbjRzTGMzZGRqVFAzSzM4VHhRYlV5eWZxNEk0LXZKTFY1Sk5ZUGs1dkVPY1o2Zzl6NVpSRGEzWGx1Qk5aTXlxajdFOVFuLVp2cWZhYXk4T2tRRlNIMkp3eXdsdWFQTzJJOWw4SzlWQnVPZFl3RXJaSUxfN2dHRTBlR2c1SWkyNmMxSi1nM1F1eUtmTlFzVUZEdkd5MGJQOEo3YjRR?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxNUFJicHhaaUpFbHV6NXo1QS1KQnZNSXBEdjZlSVZ6ZVpoLV9ITm1rZXo2S0gzX052ZjRwZkRwSkd2ZU9SQlRMN1cwTXpJWDZKMW1jc0JnNUI2S2JWMjN1ZjJNQ1B6ZjdTRnExbFQxR090aHBnLXRqR2xEVUpYSGYzQUVGWFZCemFIVEl2U3dKSERzblVhaEtZRlkwbjRzTGMzZGRqVFAzSzM4VHhRYlV5eWZxNEk0LXZKTFY1Sk5ZUGs1dkVPY1o2Zz",
-      "publishedAt": "2026-08-18T07:20:56.000Z",
+      "title": "Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe ciblant Édouard Philippe et Gabriel Attal - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWllQ2FoNVFkUVJFYkFuT1l5SkJwUVg1c1pTRnpDRWFiOTRBd0Fmekk3M0ZpeHhzY0Nya3BmeklLR3BOTWZXS1JlR0JHbWZBQnlEbi1yUENhU1JPV2U2LVVhUi14a2xKbDQ0RXY5dllPTWhvc1dlbUhONEUxeHlpWmc5dkdHUU9RSWtDcGNxQU4xMy0wZkJNYzYtZnNnRXBuQ1ppeTVpdWh5cFQ2WG9MWTNkcERQcFAyMTZaZGt6TjBsNndJcURwMVB3c3pQVzBvSzEwN0xWb1ZHYXV3U2dueFdsSUpXNGQ1R0pZR2dQcDU?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWllQ2FoNVFkUVJFYkFuT1l5SkJwUVg1c1pTRnpDRWFiOTRBd0Fmekk3M0ZpeHhzY0Nya3BmeklLR3BOTWZXS1JlR0JHbWZBQnlEbi1yUENhU1JPV2U2LVVhUi14a2xKbDQ0RXY5dllPTWhvc1dlbUhONEUxeHlpWmc5dkdHUU9RSWtDcGNxQU4xMy0wZkJNYzYtZnNnRXBuQ1ppeTVpdWh5cFQ2WG9MWTNkcERQcFAyMTZaZGt6TjBsNndJcURwMV",
+      "publishedAt": "2026-08-18T10:10:53.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
-      "title": "France: le Parquet de Paris annonce enquêter sur les soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdE80OWQ1VGs2Tmo5VXpjNzdIYzdoR1l4MzJtTnhsSVVNbmZPdkRBeVRmTmx4dFlSaWw5SDRXdTRlemJXc2dsRXIxb1BYdThpZnZGYUQ3a1BydS1lQS1sVnp0NXhjbV9vSTNFZ1pLLXUydHIyZTZSYnptQTVKeHlPZGlPbndPQWlYQjg0VUZnNEsteHhRSEF3cXhuV2pQYngwbVBwZ2JvTmpTbWZKRmxibjNYR0JQMkp5YmY0Znh5ck93LTRfblo0Q2duZENEWmRQYi1zUnpaYnNGajhWMXJNbkFZYUl0SGluUG5wZ3Y3VnV3ZjFWUXpaX3dDWW5pNzlVVjd2U2NZZWN5NE0?oc=5",
-      "source": "RFI",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdE80OWQ1VGs2Tmo5VXpjNzdIYzdoR1l4MzJtTnhsSVVNbmZPdkRBeVRmTmx4dFlSaWw5SDRXdTRlemJXc2dsRXIxb1BYdThpZnZGYUQ3a1BydS1lQS1sVnp0NXhjbV9vSTNFZ1pLLXUydHIyZTZSYnptQTVKeHlPZGlPbndPQWlYQjg0VUZnNEsteHhRSEF3cXhuV2pQYngwbVBwZ2JvTmpTbWZKRmxibjNYR0JQMkp5YmY0Znh5ck93LTRfblo0Q2",
-      "publishedAt": "2026-08-18T10:24:54.000Z",
+      "title": "Présidentielle 2027 : pourquoi la députée LFI Mathilde Panot parle-t-elle de \"coalition du cancer\" et que désigne-t-elle - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNS1lObE55MTQ1ckRsZFh1czBHY2RmaTJnX2VHaG5tZ0l3czZ1NzFNT3AzUHAzVjNHQ2gybnVtdV9laWtIVGJrYVZVTnJRQjBnTEtTb2ptREhVNEhUWjNxLVZmbHNHdTZJTi1zbmJRUmxFOHNNdlhFeWNPaHFhbHhod0lrSEJvMGJTUkVVeEFXZVdtTzVqeGVOa1VIM0tnRjNvdFhzOWhWMFpZRkxxNUdkRDQ3Tk5MX0NEd3ZKMFA2NjVic3B1OHp6OFgxVDNvNUotSG5jNzdkVlFIOFgxb2ExX0pkdUlCWlI1V094MzNfS01qM2kyZlludA?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNS1lObE55MTQ1ckRsZFh1czBHY2RmaTJnX2VHaG5tZ0l3czZ1NzFNT3AzUHAzVjNHQ2gybnVtdV9laWtIVGJrYVZVTnJRQjBnTEtTb2ptREhVNEhUWjNxLVZmbHNHdTZJTi1zbmJRUmxFOHNNdlhFeWNPaHFhbHhod0lrSEJvMGJTUkVVeEFXZVdtTzVqeGVOa1VIM0tnRjNvdFhzOWhWMFpZRkxxNUdkRDQ3Tk5MX0NEd3ZKMFA2NjVic3B1OHp6OF",
+      "publishedAt": "2026-08-19T09:22:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
-      "title": "Présidentielle: Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe visant Edouar... - Jean-Marc Morandini",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNS1KM0hFNXlOOFdaZ0ZrdTUzX3lLSXd2aGpyLXRiRjFIM3Q4di1VNExhMVhmZWd3OXQwa1VHd1dKNnN1YXhZVE5rWlc2Y1k2bWVLdndBZXlVbVJkRnRYVGE4YURPa0UzTDF6STE0emZ6emZpUktJZlB3bEtvdDVZUmhkazV3cG42eHNTSE5qREhWeHlaUWNpXzhJRHZxd3h1QTB1aEwtc19Lel92N1lVMU5aUjBvVWJhS2RVQTNyRzUtTVdvajFqTWVVRnNLY3FCYmpyT3FpempMZkUwX2owV1dpTnJKeGU2VmNkS1RpV0oxcE5FRUdjRVVfZFF6enl0T2ZXZGJxRDkwUG92X2fSAZMCQVVfeXFMUDNfVG5zcXpiVUlYWWpUVC1idEFEZkF4SW02NDRrNGZmV1c5SElKaTRnZXc3aWU1V0JrQTJYUlRvbTJTU3RqdVc0Z1dFSWVuS25fcGpaYmdheUhBcGNnR0FuUUlTd2NqUG5acGdwYzlUTE43Z2ktWjZkZlh6Y3V2YVFzSjExaHR5OVppUXNoamtVWVIxczJ4ZG01dUdKbDJteGkzR09NSmY0R08zcmxyN01lUUw3MDJmT051enhuSE5LcmJHSFcwdl9HNHdYVWY1Q28zQVV1V295VWF3dTRRXzg1amVVVGY3bTladndOTldtbU1MeVVHekVmR2lDWXU3X2x2bmQ0MHlZNmk0ZmNrY3lVb2s?oc=5",
-      "source": "Jean-Marc Morandini",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQNS1KM0hFNXlOOFdaZ0ZrdTUzX3lLSXd2aGpyLXRiRjFIM3Q4di1VNExhMVhmZWd3OXQwa1VHd1dKNnN1YXhZVE5rWlc2Y1k2bWVLdndBZXlVbVJkRnRYVGE4YURPa0UzTDF6STE0emZ6emZpUktJZlB3bEtvdDVZUmhkazV3cG42eHNTSE5qREhWeHlaUWNpXzhJRHZxd3h1QTB1aEwtc19Lel92N1lVMU5aUjBvVWJhS2RVQTNyRzUtTVdvajFqTW",
-      "publishedAt": "2026-08-18T11:18:00.000Z",
+      "title": "Enquête ouverte sur des soupçons d’ingérence russe contre Philippe et Attal - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMUtvZWgtQ05MODMxV3V4SDVrazVlb3p5OHdLSXFrTzlUVzdlWHp2WktzdFZYemRYVFpWcjdGWFV2cHdJM2VhNWZJUDRJTjU0WEpnMC1PZ2ZSV2Iwd1RuT3BmbG5ldGlwT0VyYlZqcDRxRHVhRkR5cFhvVVFfQ1F6QWFmeEgzOUxnMDBOMmRtcS1oUHhjUzJKOE1Qa2NyLU9fdDhHSjhUZFdVMjJIS3dISlZGMVliSXl5b1RRS2IzbU1TUkJ6RnJkYWRTWWVfYWJBWG1VTGFYMA?oc=5",
+      "source": "20 Minutes",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMUtvZWgtQ05MODMxV3V4SDVrazVlb3p5OHdLSXFrTzlUVzdlWHp2WktzdFZYemRYVFpWcjdGWFV2cHdJM2VhNWZJUDRJTjU0WEpnMC1PZ2ZSV2Iwd1RuT3BmbG5ldGlwT0VyYlZqcDRxRHVhRkR5cFhvVVFfQ1F6QWFmeEgzOUxnMDBOMmRtcS1oUHhjUzJKOE1Qa2NyLU9fdDhHSjhUZFdVMjJIS3dISlZGMVliSXl5b1RRS2IzbU1TUkJ6RnJkYW",
+      "publishedAt": "2026-08-18T10:26:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
+      "isNew": true
+    },
+    {
+      "title": "« Nous ne pouvons pas laisser la Russie de Vladimir Poutine manipuler la présidentielle française de 2027 » : une enquête ouvert sur les soupçons d’ingérence sur Philippe, Attal et Glucksmann - RTL Info",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV0hKcFlsRTdGRlBsUC05eU1XNzBrMm1WaDB0SHdMSF9oeHoxS0tyb2dfNnNJZWdWTjg0ZUhYTjBfUHdqM2NtcE55TG9sd1o3Y18tdE1GSDYwc25KNU1OeXl0RkNUUndvV0tJZG9KM0dpSGNQQ002RjgzbkdLVHY3ek1RTGdzRXdKY1NLUlhSdWhhZzhDM3U5VzB3ZUVoTVUxTThqOVJsd0I3TjJRa2U4Qm0zbXFpZWYwSmVmOHlrZ1ZKQmNNRjhVa0tHWGJEZw?oc=5",
+      "source": "RTL Info",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOV0hKcFlsRTdGRlBsUC05eU1XNzBrMm1WaDB0SHdMSF9oeHoxS0tyb2dfNnNJZWdWTjg0ZUhYTjBfUHdqM2NtcE55TG9sd1o3Y18tdE1GSDYwc25KNU1OeXl0RkNUUndvV0tJZG9KM0dpSGNQQ002RjgzbkdLVHY3ek1RTGdzRXdKY1NLUlhSdWhhZzhDM3U5VzB3ZUVoTVUxTThqOVJsd0I3TjJRa2U4Qm0zbXFpZWYwSmVmOHlrZ1ZKQmNNRjhVa0",
+      "publishedAt": "2026-08-18T10:00:49.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
@@ -394,111 +409,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal réclame un référendum sur l’interdiction des réseaux sociaux aux moins de 15 ans - Gentside",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYXdVSDZidEdNU3JJelVxV3lYZXVoYmNnaUJCc0dfbk5ZNnhkc2dVVkxtakVTYW9Dcm1sdFNxMjhxdVFNWHJ5RHQ3WjNSUWlPVkQ1cWZBSDNpdXJ2UU9iLUN5UTFDZ3VnTGw4WTA1XzNOckhGVlJNaEZSTFoyZGtNS1R3TThZM0lQV3l5dEhKOV9ldGZ0Mmhjd2FGU0w0MTlIdGVRel9BXzFsbWItazZxVHpTR0ZUMU5XSm83R2hYRUo2VFh5REZGQk9vaENKUWV0M29STTZfeUJyQlJDVmRUTzN3?oc=5",
-      "source": "Gentside",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYXdVSDZidEdNU3JJelVxV3lYZXVoYmNnaUJCc0dfbk5ZNnhkc2dVVkxtakVTYW9Dcm1sdFNxMjhxdVFNWHJ5RHQ3WjNSUWlPVkQ1cWZBSDNpdXJ2UU9iLUN5UTFDZ3VnTGw4WTA1XzNOckhGVlJNaEZSTFoyZGtNS1R3TThZM0lQV3l5dEhKOV9ldGZ0Mmhjd2FGU0w0MTlIdGVRel9BXzFsbWItazZxVHpTR0ZUMU5XSm83R2hYRUo2VFh5REZGQk",
-      "publishedAt": "2026-08-17T14:30:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-18T00:24:39.023Z",
       "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : un soutien sous conditions de Gérald Darmanin à la candidature d’Édouard Philippe - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZWY2cU9ETGdpWGVKX1VTOEJBTC0xVHQzelVEcGwzTlVfLXNWV194RWE4c04tU2NtcWxySm1PVi1UMzl6T2NTTU0wWG12NXRTMlJWTTBsX1VydERxamkwX1BHZ0pUV3pYZS1TbkdfT3J2TnhxdVV1aWNKSm1kemlWQVk4OEVncDIxenZGb3JDUXN2dGphbjRpenJwdkhNTWIzLU1DSjdJZ2NVVUN2LUVVUWpOVi1STkRrWW8wbGgxaG9YbFVobUJTeEEtNVlQRUNSMkJ1YzRZc2VLRk5ibWFBOTBVTk8yeUVHd1VpZ00tU25mVVdwdnc?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZWY2cU9ETGdpWGVKX1VTOEJBTC0xVHQzelVEcGwzTlVfLXNWV194RWE4c04tU2NtcWxySm1PVi1UMzl6T2NTTU0wWG12NXRTMlJWTTBsX1VydERxamkwX1BHZ0pUV3pYZS1TbkdfT3J2TnhxdVV1aWNKSm1kemlWQVk4OEVncDIxenZGb3JDUXN2dGphbjRpenJwdkhNTWIzLU1DSjdJZ2NVVUN2LUVVUWpOVi1STkRrWW8wbGgxaG9YbFVobUJTeE",
-      "publishedAt": "2026-08-18T15:36:56.000Z",
+      "title": "Ingérences étrangères : le parquet de Paris a ouvert une enquête après des soupçons d'ingérence russe à l'encontre de Gabriel Attal et d'Édouard Philippe - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObUp4RWh0ZTdNX1AxYlV2TFVlTFRodVREaFB0Uml4akNDMVZDT2xRcm9uVHVYTlZJa09hQ2ZlRmdES0NXeHV5cEk4Y1ZOTjd1SlQ4ZlZoc01lRUtvbXNkVHFvTjg3aUNoaTRMZWtsZk0yRVN1VWJoOF95RnlKMGVyNVJkalBBMHRvYnFCQ0NHbXh5MlBsYW55bGlMN01IZ1dNc2JqZjJ5c0hOR1FfblZBRWZvUUJ5empDeEpLVGN2MjNnOHVzVk5iXzAzY3llSnh5aFdvUHJSNDJnbVFSS19hWEdhOVVTU3VWX3dIQzU0dkxnV3J0NkF2MlJTV3FKYWZyazR4Qk1STjh0LWg2dWExUVBMZTExY0pWTEZwallQdHB0a3M?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxObUp4RWh0ZTdNX1AxYlV2TFVlTFRodVREaFB0Uml4akNDMVZDT2xRcm9uVHVYTlZJa09hQ2ZlRmdES0NXeHV5cEk4Y1ZOTjd1SlQ4ZlZoc01lRUtvbXNkVHFvTjg3aUNoaTRMZWtsZk0yRVN1VWJoOF95RnlKMGVyNVJkalBBMHRvYnFCQ0NHbXh5MlBsYW55bGlMN01IZ1dNc2JqZjJ5c0hOR1FfblZBRWZvUUJ5empDeEpLVGN2MjNnOHVzVk5iXz",
+      "publishedAt": "2026-08-18T10:25:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Gérald Darmanin rallie le camp d'Édouard Philippe - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWhDT1hNczIxVjlXTkhOUmcyLVd2RlBRRHNVNDBSbHdhMEc5dGJVRUJsZXlPdDdERUFzZFJsVGxnaVNKTVdIUG1LYk1xaW9hTFM3aWdaa3NuaWdVUXBIbTJoaWdYX2VOU1F2YjRDSFdjU0dMY3JaMVZseEN6Vzl5el9tRUx1UXNFYlhlQUpwQ0JBckdZVHJNTUNLUUFEZjk4ZkxyZ2VJQnhFc19lVTRDTzh4TVFNLWpPa1FNY28ycmswZjdZZVFHYkg2SQ?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWhDT1hNczIxVjlXTkhOUmcyLVd2RlBRRHNVNDBSbHdhMEc5dGJVRUJsZXlPdDdERUFzZFJsVGxnaVNKTVdIUG1LYk1xaW9hTFM3aWdaa3NuaWdVUXBIbTJoaWdYX2VOU1F2YjRDSFdjU0dMY3JaMVZseEN6Vzl5el9tRUx1UXNFYlhlQUpwQ0JBckdZVHJNTUNLUUFEZjk4ZkxyZ2VJQnhFc19lVTRDTzh4TVFNLWpPa1FNY28ycmswZjdZZVFHYk",
-      "publishedAt": "2026-08-18T05:41:27.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "France : le parquet de Paris annonce enquêter sur des soupçons d’ingérence russe visant Attal et Philippe - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDU1UU9OOGxyY3c4RGNPdER2bm5QbGlfZ00xN1N6UG1GODFKTDItMXVwazdwOUV4STJuQXFhU3VTanRyNWJKTk1WMjNteDNQSlR3ejVRT0dLWnZZdlE5QkZ5dXJSanlUaVhKd0tZaGl5YTV4M24tZ3k4Wk1jSGRjaHBGaVZmNGZRT1lDMVhuU3JRT21ZTEVnYlg3WV9NMV9xTEJDWTh6aFVCSkNrVTRZMHh6M0RpX1dWOTFLakI4dk1kcUg3LUdhcVRXR1JyQXVpaEJhUFh0R2R3RmJMUnRNWW5aN19TRWo1VWhCYQ?oc=5",
-      "source": "Anadolu Ajansı",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDU1UU9OOGxyY3c4RGNPdER2bm5QbGlfZ00xN1N6UG1GODFKTDItMXVwazdwOUV4STJuQXFhU3VTanRyNWJKTk1WMjNteDNQSlR3ejVRT0dLWnZZdlE5QkZ5dXJSanlUaVhKd0tZaGl5YTV4M24tZ3k4Wk1jSGRjaHBGaVZmNGZRT1lDMVhuU3JRT21ZTEVnYlg3WV9NMV9xTEJDWTh6aFVCSkNrVTRZMHh6M0RpX1dWOTFLakI4dk1kcUg3LUdhcV",
-      "publishedAt": "2026-08-18T11:39:18.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "France : enquête ouverte sur des soupçons d’ingérence russe ciblant deux candidats à l’élection présidentielle 2027 - Le Soir",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDFtSE5kQmFaZE0ycWpPOUlrOXdrRTJxVGpiVFItSmVCeGJJNDVQdDc2YVgxR2UzMHdkWUNHc01HQ3ZvTXFDbENlVFJfRFVSN194aXRKeGI4Um9Hb2NPZFZtaGVUdVA5aXkzOW5HTS1xWl9oTlF0VXN1SmhZa3FJSEUyclNCMmUxWHY5S09ERVoyM3VQTzhaRDFkSlVEUU91WDJJeWRwQ0xiaDJDbmt5a2xWVGYxWmRrU2swV0xTLUlyeV8tSUE?oc=5",
-      "source": "Le Soir",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDFtSE5kQmFaZE0ycWpPOUlrOXdrRTJxVGpiVFItSmVCeGJJNDVQdDc2YVgxR2UzMHdkWUNHc01HQ3ZvTXFDbENlVFJfRFVSN194aXRKeGI4Um9Hb2NPZFZtaGVUdVA5aXkzOW5HTS1xWl9oTlF0VXN1SmhZa3FJSEUyclNCMmUxWHY5S09ERVoyM3VQTzhaRDFkSlVEUU91WDJJeWRwQ0xiaDJDbmt5a2xWVGYxWmRrU2swV0xTLUlyeV8tSUE?oc",
-      "publishedAt": "2026-08-18T09:39:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Édouard Philippe et Gabriel Attal ciblés par une ingérence russe : le parquet de Paris ouvre l'enquête - Le Tribunal du Net",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOF9vRE9KcER6S0lMMkhTNG5ldUNPUlR3Vm9KTGY2R3NGdE9lRF9GQUdqczRZclVFanpZeDFBMGhid2Judm1tSG9ZekZUS0JkMENCbTFralVMUHhEQ1c5Y0tTNW5QcHhRbXZDaDlHRmVjemthT2t3Z0FwbURsYU0wRGJ4UDFEZURUVmJPSGdLUWQxd2xIR096M1FuLS1YUUF5Z2c?oc=5",
-      "source": "Le Tribunal du Net",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOOF9vRE9KcER6S0lMMkhTNG5ldUNPUlR3Vm9KTGY2R3NGdE9lRF9GQUdqczRZclVFanpZeDFBMGhid2Judm1tSG9ZekZUS0JkMENCbTFralVMUHhEQ1c5Y0tTNW5QcHhRbXZDaDlHRmVjemthT2t3Z0FwbURsYU0wRGJ4UDFEZURUVmJPSGdLUWQxd2xIR096M1FuLS1YUUF5Z2c?oc=5\" target=\"_blank\">Édouard Philippe et Gabriel ",
-      "publishedAt": "2026-08-18T09:20:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Élection présidentielle en France : une enquête sur les soupçons d’ingérence russe ciblant Philippe et Attal - RTBF",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzhielZMOEJBTS1Sc1RaT3J3VUhuM0pTMXF6NTdoQTBvdWhILXhmbkJMczMwcXU4amd1OFpJbjRwb21sdlNxUDRZNlZmWC1vTWxTR25kU2dhQVBNbHpXd2xqbGRqczBjazNSSmJwTW12ZHNkclhwUWlFbnhESUI5VHQ4cDJQUFdMNllRc1loaXR4OHgtQTB4cExrRU94VV8ySUtEREFhT0F5QXlHSzVPOThZd0ZPa3l3SGpJVTg2SDRfTjIzb3lUS1F5RnIwWERSUUJNZS1jc3lOcFE?oc=5",
-      "source": "RTBF",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzhielZMOEJBTS1Sc1RaT3J3VUhuM0pTMXF6NTdoQTBvdWhILXhmbkJMczMwcXU4amd1OFpJbjRwb21sdlNxUDRZNlZmWC1vTWxTR25kU2dhQVBNbHpXd2xqbGRqczBjazNSSmJwTW12ZHNkclhwUWlFbnhESUI5VHQ4cDJQUFdMNllRc1loaXR4OHgtQTB4cExrRU94VV8ySUtEREFhT0F5QXlHSzVPOThZd0ZPa3l3SGpJVTg2SDRfTjIzb3lUS1",
-      "publishedAt": "2026-08-18T09:47:24.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
@@ -514,14 +439,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Soupçons d’ingérence russe : le parquet de Paris enquête sur des campagnes visant Gabriel Attal et Édouard Philippe - ENTREVUE.FR",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUklYUl81cTZIdGJxb09nWVpFVVUzVTVLc0drUlFzZk54ZnRYU0FoT3p4OVdiRVoxbVk1eHFMOEx3d2pkUHhSZ3hWQ0JUOWN2RWlCT09xOGFIWm0xUWJXR19tNWE5ekNmbEN1UHBkbDdzSzlpXzgxYy1mMzdhNXZ1c0hER3FJY3dSYmVmZU9KZmN2Yy1nNktfUEg5bWRJSVltRU92Vzl4OUxWX3RKdFQzMEstU0RWZUpoQUU0aC1MdEV4MHQ1dVpONkxTVlVscnFBQng1a1k0NklfOU0?oc=5",
-      "source": "ENTREVUE.FR",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUklYUl81cTZIdGJxb09nWVpFVVUzVTVLc0drUlFzZk54ZnRYU0FoT3p4OVdiRVoxbVk1eHFMOEx3d2pkUHhSZ3hWQ0JUOWN2RWlCT09xOGFIWm0xUWJXR19tNWE5ekNmbEN1UHBkbDdzSzlpXzgxYy1mMzdhNXZ1c0hER3FJY3dSYmVmZU9KZmN2Yy1nNktfUEg5bWRJSVltRU92Vzl4OUxWX3RKdFQzMEstU0RWZUpoQUU0aC1MdEV4MHQ1dVpONk",
-      "publishedAt": "2026-08-18T13:42:00.000Z",
+      "title": "France: le Parquet de Paris annonce enquêter sur les soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdE80OWQ1VGs2Tmo5VXpjNzdIYzdoR1l4MzJtTnhsSVVNbmZPdkRBeVRmTmx4dFlSaWw5SDRXdTRlemJXc2dsRXIxb1BYdThpZnZGYUQ3a1BydS1lQS1sVnp0NXhjbV9vSTNFZ1pLLXUydHIyZTZSYnptQTVKeHlPZGlPbndPQWlYQjg0VUZnNEsteHhRSEF3cXhuV2pQYngwbVBwZ2JvTmpTbWZKRmxibjNYR0JQMkp5YmY0Znh5ck93LTRfblo0Q2duZENEWmRQYi1zUnpaYnNGajhWMXJNbkFZYUl0SGluUG5wZ3Y3VnV3ZjFWUXpaX3dDWW5pNzlVVjd2U2NZZWN5NE0?oc=5",
+      "source": "RFI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdE80OWQ1VGs2Tmo5VXpjNzdIYzdoR1l4MzJtTnhsSVVNbmZPdkRBeVRmTmx4dFlSaWw5SDRXdTRlemJXc2dsRXIxb1BYdThpZnZGYUQ3a1BydS1lQS1sVnp0NXhjbV9vSTNFZ1pLLXUydHIyZTZSYnptQTVKeHlPZGlPbndPQWlYQjg0VUZnNEsteHhRSEF3cXhuV2pQYngwbVBwZ2JvTmpTbWZKRmxibjNYR0JQMkp5YmY0Znh5ck93LTRfblo0Q2",
+      "publishedAt": "2026-08-18T10:24:54.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -529,14 +454,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Ingérence russe : comment les fausses vidéos ciblant Attal et Philippe fragilisent la confiance des électeurs avant 2027 - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWmhQVjBUa2lNRmJPVHkzekpTVmpwdE8zTk04aHdGWTlzbzFPc0lnYVVJXzUyTzRHLWxjZzFQNURFS2E4MHdxc3d5VGF2SE5oVjlIcXBVMUswUExhNzRQbENld1F4Yml4TXFQd1M3b2dLSE1HMmcxYVBTVlI2amZ0QzVFX1lZWWh1bW9sZDBiX3NyaGZ5M045RkU2dTZzOWViUHhjME1XdnNacXVuQlFSR0hRMGlsT0pEZE51Y1hEMDBBMnA5Q0pZbkRTc2ZDRzRzOGlmcHVVNi1FUlVDY2huWEw0UVJ2MGI3dzV0bU9pMVdxaU94UHRSSkFaWEw?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWmhQVjBUa2lNRmJPVHkzekpTVmpwdE8zTk04aHdGWTlzbzFPc0lnYVVJXzUyTzRHLWxjZzFQNURFS2E4MHdxc3d5VGF2SE5oVjlIcXBVMUswUExhNzRQbENld1F4Yml4TXFQd1M3b2dLSE1HMmcxYVBTVlI2amZ0QzVFX1lZWWh1bW9sZDBiX3NyaGZ5M045RkU2dTZzOWViUHhjME1XdnNacXVuQlFSR0hRMGlsT0pEZE51Y1hEMDBBMnA5Q0pZbk",
-      "publishedAt": "2026-08-18T11:11:51.000Z",
+      "title": "Présidentielle: Le parquet de Paris annonce enquêter sur les soupçons d’ingérence russe visant Edouar... - Jean-Marc Morandini",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNS1KM0hFNXlOOFdaZ0ZrdTUzX3lLSXd2aGpyLXRiRjFIM3Q4di1VNExhMVhmZWd3OXQwa1VHd1dKNnN1YXhZVE5rWlc2Y1k2bWVLdndBZXlVbVJkRnRYVGE4YURPa0UzTDF6STE0emZ6emZpUktJZlB3bEtvdDVZUmhkazV3cG42eHNTSE5qREhWeHlaUWNpXzhJRHZxd3h1QTB1aEwtc19Lel92N1lVMU5aUjBvVWJhS2RVQTNyRzUtTVdvajFqTWVVRnNLY3FCYmpyT3FpempMZkUwX2owV1dpTnJKeGU2VmNkS1RpV0oxcE5FRUdjRVVfZFF6enl0T2ZXZGJxRDkwUG92X2fSAZMCQVVfeXFMUDNfVG5zcXpiVUlYWWpUVC1idEFEZkF4SW02NDRrNGZmV1c5SElKaTRnZXc3aWU1V0JrQTJYUlRvbTJTU3RqdVc0Z1dFSWVuS25fcGpaYmdheUhBcGNnR0FuUUlTd2NqUG5acGdwYzlUTE43Z2ktWjZkZlh6Y3V2YVFzSjExaHR5OVppUXNoamtVWVIxczJ4ZG01dUdKbDJteGkzR09NSmY0R08zcmxyN01lUUw3MDJmT051enhuSE5LcmJHSFcwdl9HNHdYVWY1Q28zQVV1V295VWF3dTRRXzg1amVVVGY3bTladndOTldtbU1MeVVHekVmR2lDWXU3X2x2bmQ0MHlZNmk0ZmNrY3lVb2s?oc=5",
+      "source": "Jean-Marc Morandini",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQNS1KM0hFNXlOOFdaZ0ZrdTUzX3lLSXd2aGpyLXRiRjFIM3Q4di1VNExhMVhmZWd3OXQwa1VHd1dKNnN1YXhZVE5rWlc2Y1k2bWVLdndBZXlVbVJkRnRYVGE4YURPa0UzTDF6STE0emZ6emZpUktJZlB3bEtvdDVZUmhkazV3cG42eHNTSE5qREhWeHlaUWNpXzhJRHZxd3h1QTB1aEwtc19Lel92N1lVMU5aUjBvVWJhS2RVQTNyRzUtTVdvajFqTW",
+      "publishedAt": "2026-08-18T11:18:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -544,22 +469,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Enquête sur l'ingérence russe visant Attal et Philippe - Yeni Şafak",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmhFRHp6U1I4MGg5d1RGUXJOQzEwVUp0Nk1aZXpJTnFOaS1wT3FpXzhhMHlqUEpKRklXZ1BVQWlCbGRKaW5HUTFLMGFEcGNPMmgzY3lrVFFYU2dnZlFFMEtHT0lQYlNpQUxvaFhHUkVvZ1NiX25xTFI5VkhmcEhlMlRDRkNaQ3B4RzBNcDlZakRFVDZEMlNOb1ZUU0NFdw?oc=5",
-      "source": "Yeni Şafak",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZmhFRHp6U1I4MGg5d1RGUXJOQzEwVUp0Nk1aZXpJTnFOaS1wT3FpXzhhMHlqUEpKRklXZ1BVQWlCbGRKaW5HUTFLMGFEcGNPMmgzY3lrVFFYU2dnZlFFMEtHT0lQYlNpQUxvaFhHUkVvZ1NiX25xTFI5VkhmcEhlMlRDRkNaQ3B4RzBNcDlZakRFVDZEMlNOb1ZUU0NFdw?oc=5\" target=\"_blank\">Enquête sur l'ingérence russe vis",
-      "publishedAt": "2026-08-18T12:56:33.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "France probes Russian disinfo campaign against centrist candidates - France 24",
@@ -574,7 +484,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "France probes disinfo campaigns targeting 2027 election candidates - politico.eu",
@@ -589,27 +499,12 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "French prosecutors probe Russian disinformation campaign against centrist candidates - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHZyclJQUTNweUoyRktuQUJ5VWJCdW5XaTVINGpQNDVFZkcyY1FvVHdUZHFkV2hsQzhxdnZoRHUwUVllRTRUampRc1lIVWpSX0V4eUxKdGE1Q1JQM0RleEFXeE53SV9sYmN0WDVSZWdBcDFxcEJ4cVJLS2VEWGQ5S3UwTzhSSmV2RTV1TFU3eHc3OUcwUTVmNWJYUDNqMGgtVWpTY2xEZmk4bHlFc1E2SkpjaXJ5X1VxMExMNUR3dWtSSERGUU9rY3NfczFXYUpDOVZqR3lBUlJTWE5lbzRlNEdHLTA?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHZyclJQUTNweUoyRktuQUJ5VWJCdW5XaTVINGpQNDVFZkcyY1FvVHdUZHFkV2hsQzhxdnZoRHUwUVllRTRUampRc1lIVWpSX0V4eUxKdGE1Q1JQM0RleEFXeE53SV9sYmN0WDVSZWdBcDFxcEJ4cVJLS2VEWGQ5S3UwTzhSSmV2RTV1TFU3eHc3OUcwUTVmNWJYUDNqMGgtVWpTY2xEZmk4bHlFc1E2SkpjaXJ5X1VxMExMNUR3dWtSSERGUU9rY3",
-      "publishedAt": "2026-08-18T12:23:37.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "France probes Russian meddling ahead of 2027 elections - english.nv.ua",
+      "title": "France probes Russian meddling ahead of 2027 elections - The New Voice of Ukraine",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHBGSzhkTHFZWlNsWU5pV1FhS3pFa001b3FDbmpxc3o0U21VQXA0cjdJRVFyaGs4cTBSVzRYcXctaXo0Ni1xamdoelh0NVRaYi1Ta0wyeWhYQ1VQM3RJdHVGZGFISHltNDY4X3RZNGRzNkotM2h3aG1XbmQxYURkc25iS3ZJUzhkLUF2NmlrcVd0aXJHNzd6blc1d2I3d9IBmgFBVV95cUxOaTFyYXBfbWJTQnBiZS02blBvakJnNWY3NGZsZ0VQYjdXbjVaTFJZbndkT3l0T1JxeWdTaG1BNVdXSlhKd0JyS1VzMjZKZ1BhbHl5V0JfU2RMdzFEQnI0RTBGaDBETUxJeDBwSTBxRHlicDhqbzRKTGZOWnJnVW84T1JWZ0hUWlZ1ZHcwUFZoS2RDbW1Tel9YOW5n?oc=5",
-      "source": "english.nv.ua",
+      "source": "The New Voice of Ukraine",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcHBGSzhkTHFZWlNsWU5pV1FhS3pFa001b3FDbmpxc3o0U21VQXA0cjdJRVFyaGs4cTBSVzRYcXctaXo0Ni1xamdoelh0NVRaYi1Ta0wyeWhYQ1VQM3RJdHVGZGFISHltNDY4X3RZNGRzNkotM2h3aG1XbmQxYURkc25iS3ZJUzhkLUF2NmlrcVd0aXJHNzd6blc1d2I3d9IBmgFBVV95cUxOaTFyYXBfbWJTQnBiZS02blBvakJnNWY3NGZsZ0VQYj",
       "publishedAt": "2026-08-18T19:42:00.000Z",
       "lang": "en",
@@ -619,22 +514,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Paris Prosecutors Investigate Suspected Russian Interference in France’s 2027 Presidential Election - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ocjF6NFcxY0lPd0phNlVBV3NQdUx6bS1QeHRYSGN0ZnRkbzBpeFZPQ3RuVVVlOEhoLVZwS2VUbGlMenRNTy1oNlc1YVZEZ2l5dWUxNXJfa25tTlpMT21tQUd4dW1IOVVZYWx2MzI4OXQ2LW15NWc?oc=5",
-      "source": "mezha.net",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1ocjF6NFcxY0lPd0phNlVBV3NQdUx6bS1QeHRYSGN0ZnRkbzBpeFZPQ3RuVVVlOEhoLVZwS2VUbGlMenRNTy1oNlc1YVZEZ2l5dWUxNXJfa25tTlpMT21tQUd4dW1IOVVZYWx2MzI4OXQ2LW15NWc?oc=5\" target=\"_blank\">Paris Prosecutors Investigate Suspected Russian Interference in France’s 2027 Presidenti",
-      "publishedAt": "2026-08-18T13:38:06.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "In France, prosecutors are investigating Russian interference in the presidential election - UA.NEWS",
@@ -649,21 +529,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
-    },
-    {
-      "title": "Attal calls for referendum after French court strikes down under-15 social media ban - Brussels Signal",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUdTZU5rM0JwRC1NQnAyMkVmbjF6QnlzUWo5dlBGVDRIc3REMjNPbHcyMkg2NGVLaWJuX01SNnh1RW54cTNoTTBCajdQdEZhc2hIVVVneEQ3MTdnWE12RGZLdTdrY0RwSmZXOGFfZHBHVWk4cDdiU1h5cUdGUUtnYVZIUzJ6eFlZNkotWlJhQ09tc2xkRHJGS2lLbUxuRlN1YkxMOW9YTHBLME1JakVyZHlNUTFzQlpoajJR?oc=5",
-      "source": "Brussels Signal",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUdTZU5rM0JwRC1NQnAyMkVmbjF6QnlzUWo5dlBGVDRIc3REMjNPbHcyMkg2NGVLaWJuX01SNnh1RW54cTNoTTBCajdQdEZhc2hIVVVneEQ3MTdnWE12RGZLdTdrY0RwSmZXOGFfZHBHVWk4cDdiU1h5cUdGUUtnYVZIUzJ6eFlZNkotWlJhQ09tc2xkRHJGS2lLbUxuRlN1YkxMOW9YTHBLME1JakVyZHlNUTFzQlpoajJR?oc=5\" target=\"_bl",
-      "publishedAt": "2026-08-17T08:34:21.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-08-18T00:24:39.023Z",
       "isNew": false
     },
     {
@@ -679,6 +544,36 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "isNew": false
+    },
+    {
+      "title": "French prosecutors probe Russian disinformation campaign against centrist candidates - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHZyclJQUTNweUoyRktuQUJ5VWJCdW5XaTVINGpQNDVFZkcyY1FvVHdUZHFkV2hsQzhxdnZoRHUwUVllRTRUampRc1lIVWpSX0V4eUxKdGE1Q1JQM0RleEFXeE53SV9sYmN0WDVSZWdBcDFxcEJ4cVJLS2VEWGQ5S3UwTzhSSmV2RTV1TFU3eHc3OUcwUTVmNWJYUDNqMGgtVWpTY2xEZmk4bHlFc1E2SkpjaXJ5X1VxMExMNUR3dWtSSERGUU9rY3NfczFXYUpDOVZqR3lBUlJTWE5lbzRlNEdHLTA?oc=5",
+      "source": "Le Monde.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeHZyclJQUTNweUoyRktuQUJ5VWJCdW5XaTVINGpQNDVFZkcyY1FvVHdUZHFkV2hsQzhxdnZoRHUwUVllRTRUampRc1lIVWpSX0V4eUxKdGE1Q1JQM0RleEFXeE53SV9sYmN0WDVSZWdBcDFxcEJ4cVJLS2VEWGQ5S3UwTzhSSmV2RTV1TFU3eHc3OUcwUTVmNWJYUDNqMGgtVWpTY2xEZmk4bHlFc1E2SkpjaXJ5X1VxMExMNUR3dWtSSERGUU9rY3",
+      "publishedAt": "2026-08-18T12:23:37.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-19T00:24:51.941Z",
+      "isNew": false
+    },
+    {
+      "title": "France investigates possible Russian interference in elections - Прямий",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGJXTkJidDNlMzNLZmNSUlBqMnUteFZEeVcyQlpnX3o2bDQ2VXZLU0RpUTctY2xGVWxnSmNGZTNVaU1HcVJpWjZuRW0wRThkVDhrRDVEeG1mTlpWUnBVaHREVjNMR0xqa09NdVJlZnpfVmV0dFlUeTl0dmw2SG5XSHVGS3RnV2EzbWJPSVlNWHFoaGQtOE9OSXhzYWVkOWdXWm1J?oc=5",
+      "source": "Прямий",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORGJXTkJidDNlMzNLZmNSUlBqMnUteFZEeVcyQlpnX3o2bDQ2VXZLU0RpUTctY2xGVWxnSmNGZTNVaU1HcVJpWjZuRW0wRThkVDhrRDVEeG1mTlpWUnBVaHREVjNMR0xqa09NdVJlZnpfVmV0dFlUeTl0dmw2SG5XSHVGS3RnV2EzbWJPSVlNWHFoaGQtOE9OSXhzYWVkOWdXWm1J?oc=5\" target=\"_blank\">France investigates possibl",
+      "publishedAt": "2026-08-19T12:09:14.000Z",
+      "lang": "en",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-08-20T00:25:38.439Z",
       "isNew": true
     },
     {
@@ -694,14 +589,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-08-19T00:24:51.941Z",
-      "isNew": true
+      "isNew": false
     }
   ],
   "stats": {
-    "total": 46,
-    "new": 41,
-    "carried": 5,
-    "media": 46,
+    "total": 39,
+    "new": 15,
+    "carried": 24,
+    "media": 39,
     "agenda": 0,
     "official": 0,
     "coOccurrence": 0
