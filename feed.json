@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-09-05T01:28:51.622Z",
+  "generatedAt": "2026-09-06T01:23:19.442Z",
   "persons": [
     "attal",
     "sejourne"
   ],
   "lookbackHours": 48,
   "items": [
+    {
+      "title": "Présidentielle: Jordan Bardella réfute sur BFMTV toute tension avec Marine Le Pen - BFM",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPWVM3MTd5SUJwWV9NdkVHOVQ0d2s5RFp3UFBTbEZ0SGxWaUtGRW5qbWRiNHBSS08yLWstTzlHQ2lSVGQwUzZwVHhfdFBYNXktSE9JNldDU3NzSTA3SG1yMEROVGxoWGI1M0ExU1JubGJQdnU4blhZN0JKTU9PUFMzOC16ZWtlamhhSGVqSjFUZVd6MVBWaFVuVmN6dG00SDc4WlNrOFBaS1JqbDR5ZnUydWdCU0VMSUd4RldIWWNwMmdiR3UzMjlGWXlHdS1za3lKWllmay1vWVZFdU94YVBySFRrUlVaRlpyNkVBdEdMMFl4aXdUbktmcVZoTFpBc3lGQVNjdzdzNTNkUnpkWGI5VXpUWVJ1bGRVbUhkNm5YeS0yY09vc2VKLS1mYXg?oc=5",
+      "source": "BFM",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPWVM3MTd5SUJwWV9NdkVHOVQ0d2s5RFp3UFBTbEZ0SGxWaUtGRW5qbWRiNHBSS08yLWstTzlHQ2lSVGQwUzZwVHhfdFBYNXktSE9JNldDU3NzSTA3SG1yMEROVGxoWGI1M0ExU1JubGJQdnU4blhZN0JKTU9PUFMzOC16ZWtlamhhSGVqSjFUZVd6MVBWaFVuVmN6dG00SDc4WlNrOFBaS1JqbDR5ZnUydWdCU0VMSUd4RldIWWNwMmdiR3",
+      "publishedAt": "2026-09-05T21:51:05.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
     {
       "title": "SONDAGE EXCLUSIF - Le match « perdant-perdant » de Gabriel Attal et Edouard Philippe dans l'opinion - Les Echos",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaUhkUDVaNzQtYzc0Zk1zcmVsQkh2Wk9XM0ZOckxtLS1aM3VBSWFlVnVrNk9ESTV2RnNPZ205aTc4MnYxV0dqMlpaRExFLTFMNjAzNnBmODlRY3UwcFlfR2NCLWpXdHN1dzBsOVA5QVdKUWJqRmkzNm9ZcXhZSkp1OHhINVNkNlNXZ2hEMVV4QUl5Q1NhSlAzVnY5Q1U0MFVtNW13XzZyMDVhNFgtUFFRdUpFNHFmRW02TXdJc2VsczZzUlY4dWZTdHlxeEg5ckpsUXQycGllNmQtSTcxTGhrb3BkUQ?oc=5",
@@ -19,22 +34,217 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-05T01:28:51.622Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : Gabriel Attal présente son équipe de campagne, avec Céline Géraud comme responsable de la communication - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPeG9tcWhNek9kdkdQb3Jod2tSMnM2RkJ4cW94UFdmckxQdmgzdGlsVU1yZGRoY3VQNHNSS0Zlb2lRd3JtclpTWFdSb29mc2d4NThwZFNHMVRfUThQblF1OFJGTHpxc05wZlpYdlBrSmhXT1VISVR3MDN5M3pNVVJKdmI3c0hEWG10WThXS19ZbGlsc0RORTR0eHI2RkFfZ3pyTnlfbGZzY0xfWHZZb1VyaHhET1NRZ193WnZZVEVEVjdRdDh6VllOMDdUXzBEMmtWRHMwMjVNUEVwQXFOQlN0X2J2eTNkdmRSWU9Oc0hBak0tWHNlMXJCSVVCWXlCcnVFbklMa2xwOVF6bmhzOHI3N1E0NDNKbjF3RmtnakR2VQ?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPeG9tcWhNek9kdkdQb3Jod2tSMnM2RkJ4cW94UFdmckxQdmgzdGlsVU1yZGRoY3VQNHNSS0Zlb2lRd3JtclpTWFdSb29mc2d4NThwZFNHMVRfUThQblF1OFJGTHpxc05wZlpYdlBrSmhXT1VISVR3MDN5M3pNVVJKdmI3c0hEWG10WThXS19ZbGlsc0RORTR0eHI2RkFfZ3pyTnlfbGZzY0xfWHZZb1VyaHhET1NRZ193WnZZVEVEVjdRdD",
-      "publishedAt": "2026-09-03T10:39:15.000Z",
+      "title": "Présidentielle 2027 : Gabriel Attal a une professeure de chant pour « gérer son stress » avant une prise de parole - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNakI3SU5sbE93RHI4NEJvd3NXaG5TYU9ZdkNVNzNsMWk3MTFBeVBhUWEzT2FmSWhjaFhKVGU4WEFvaEVoTEZIblEzR1Baa0o4Y240ek5IVU10LUFZM1hZUFdlNlJQWVdNZ3MtcFNMbjgydC1pNkVybWlUVkV0OEZBaWUyTXljZ1JaNlFCQVJGMkx2Zi1WVm9HSlNKTzA0MzRxRUNxc0RJa09lTmhWUk1rN3lQZnlUaFpVeEQ1SzNzUjdjb1VkV0tvZGFJZmRXdGx4dWNGRS1aRktpaGdta0VQUVZLaE1qdEJRNmRiRUpmREpZa1puQ19wbVAyejF6M055em9IQnBmdlA3WkZpbTdiblpEdVc?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNakI3SU5sbE93RHI4NEJvd3NXaG5TYU9ZdkNVNzNsMWk3MTFBeVBhUWEzT2FmSWhjaFhKVGU4WEFvaEVoTEZIblEzR1Baa0o4Y240ek5IVU10LUFZM1hZUFdlNlJQWVdNZ3MtcFNMbjgydC1pNkVybWlUVkV0OEZBaWUyTXljZ1JaNlFCQVJGMkx2Zi1WVm9HSlNKTzA0MzRxRUNxc0RJa09lTmhWUk1rN3lQZnlUaFpVeEQ1SzNzUjdjb1VkV0tvZG",
+      "publishedAt": "2026-09-05T17:24:37.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Que vient faire Gabriel Attal à la Fête de la Moisson de Boos ce weekend ? - Paris Normandie",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXZyNWMyNm1xMC1abVplcnlFa3dYcktEcUZzWmJZbENUWmZRM19OUFljRzh0dzk1THgxNzEtbThORFprLXdNNWdjck5qbG14eU5CMzBLNWdqYV9ISmt4U25kb3N0aU8wT3FIekNnNnhuekNYQzIxSVU0d1Y5YlRZZ0tBTE90TkxNdTFzbWhnTUstRE0wR2VzSVhNZjZHeC1ISVJaYjRVOWltMWZJTnJNNjFQd3RCczNDSHVFdklyU2RQaEZvbUlR?oc=5",
+      "source": "Paris Normandie",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXZyNWMyNm1xMC1abVplcnlFa3dYcktEcUZzWmJZbENUWmZRM19OUFljRzh0dzk1THgxNzEtbThORFprLXdNNWdjck5qbG14eU5CMzBLNWdqYV9ISmt4U25kb3N0aU8wT3FIekNnNnhuekNYQzIxSVU0d1Y5YlRZZ0tBTE90TkxNdTFzbWhnTUstRE0wR2VzSVhNZjZHeC1ISVJaYjRVOWltMWZJTnJNNjFQd3RCczNDSHVFdklyU2RQaEZvbUlR?o",
+      "publishedAt": "2026-09-05T15:13:50.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Marine Le Pen largement en tête, Édouard Philippe toujours préféré à Gabriel Attal, d’après un sondage - Sud Ouest",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZVZoZmY3WW11U3hhOTNzZ2Z6QjFrSTNKTERHQVBpUlFfX0lkclAzSUNDcXpFQXd4YlF3ZHI5LXJZcEN6Tk5uYTRzbUszSC0wZnBINzFxbWFaSnJEZFBZSjBjMkpxeU00WXllbU9oY2xOaG5lRFN0LWthTmxMZk9xRmxDNVRVcEtQNzhjakVabG5qY1hXY2ZPMXdLTWhIX2d1QjhldGlqQ1l0TjNjcEhPLUJlc2pUWmM2d2xRUnZFd2RMc1NGNk9sSDdBVDFNMU1OcTMyWUtJcmxObGJ0Um10Zmlka3VTWlZrbmtrWjFhSDNrVUluaUZhSnpDYw?oc=5",
+      "source": "Sud Ouest",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZVZoZmY3WW11U3hhOTNzZ2Z6QjFrSTNKTERHQVBpUlFfX0lkclAzSUNDcXpFQXd4YlF3ZHI5LXJZcEN6Tk5uYTRzbUszSC0wZnBINzFxbWFaSnJEZFBZSjBjMkpxeU00WXllbU9oY2xOaG5lRFN0LWthTmxMZk9xRmxDNVRVcEtQNzhjakVabG5qY1hXY2ZPMXdLTWhIX2d1QjhldGlqQ1l0TjNjcEhPLUJlc2pUWmM2d2xRUnZFd2RMc1NGNk9sSD",
+      "publishedAt": "2026-09-05T17:14:42.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "«Monsieur Attal dit n'importe quoi» : Andréa Kotarac défend l'accord Bardella-Farage - Europe 1",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT01OVVVYVnBXMUpmdUY3VktQY1hNMDFuWk5MZUlmcjZGSG5XTW5ZaW13aGN6ZUUwcHNRY2lGYmJxRWpCeXFySHdoSHYwcmNkNzRxa0I5bWZONlRiTU9MVnE3VkNrYmM2V0hWc0puenFXRDJjNVlwUExhaTZ0MlVmeWpsM1luVWUya2RZYV9iSVlmbnduRGFfVGF6aWhnbGhKVGFjMGFjcXNCNUxwZ0ZtdGprNW9UV2Y5dTZpelREbW3SAcYBQVVfeXFMTzFnMGVHN1Itenc2ci05ZUYyQ09rZ3RqQ2x1MzNubElGYXd0LTBKSWRHVUVpUU4zclRjQ0h6YXFuUUxIQU8ydWliU3lOX1V1RzFfcG9GekxrWkhOVlU0ZG5Mbl9jcENFbjBJdDY5Q2tBMXZDc21TTTA2a0hLTWRfUEN6a1MxVExDc0lxNFU4aFl4dVZxZlF5SHo4UHY0VzJVdmhPRy1lWjB4a2dFOF9uM0dSVmpuOG5VM2ppTDdBbnpSV2RsWTZB?oc=5",
+      "source": "Europe 1",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT01OVVVYVnBXMUpmdUY3VktQY1hNMDFuWk5MZUlmcjZGSG5XTW5ZaW13aGN6ZUUwcHNRY2lGYmJxRWpCeXFySHdoSHYwcmNkNzRxa0I5bWZONlRiTU9MVnE3VkNrYmM2V0hWc0puenFXRDJjNVlwUExhaTZ0MlVmeWpsM1luVWUya2RZYV9iSVlmbnduRGFfVGF6aWhnbGhKVGFjMGFjcXNCNUxwZ0ZtdGprNW9UV2Y5dTZpelREbW3SAcYBQVVfeX",
+      "publishedAt": "2026-09-05T09:53:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : «Entre le RN et moi, il y a deux visions diamétralement opposées de la France, des relations internationales et de l'Europe», lance Gabriel Attal - CNews",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWI5X0ZaMGNOd2x5Qm0xTHBjd3VBMmJCd1ZPbkJNV1l1UWduck5fRTRmWW4ySnlfamh0aC1NajZDTk93bjhyMGgyWnpPclByRElObEZ1SXRpcGFBTC13N2ZLdVYyRHBBRTNDVVc2MDVOWFdLRXFNbnlDVUNZdlZIMTJkWFNEclE2SlUzS0tjekR1U1lGR0laeU1GYng0OE42MU4yM1JTVVd6dHpfcG8wX1I5T2RWTmdKRlpr0gHAAUFVX3lxTE9fc0xSSDktbXhQLWRlXzd5ZlI2dmlLeXN1bG9JakFxUHc4aGt6TWZZZGlBZ1VybWFkYmJHa2V2V1MxbXBidFNoU0p3SDZTaDdPWTRrX3pLZDBZd3VxeExPNVJDWGdORHVVY0x1aWhqc1p5SkZKQ2tsbHFQdUktdmN0WXF6bHBnOTEzWUVhTEY3cXZJZ2pXQk5CRTd3ZkNndDRPOURpUEZoNk41VEJKMnk2U01ETHNGLUFoOUJqZmNkMw?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWI5X0ZaMGNOd2x5Qm0xTHBjd3VBMmJCd1ZPbkJNV1l1UWduck5fRTRmWW4ySnlfamh0aC1NajZDTk93bjhyMGgyWnpPclByRElObEZ1SXRpcGFBTC13N2ZLdVYyRHBBRTNDVVc2MDVOWFdLRXFNbnlDVUNZdlZIMTJkWFNEclE2SlUzS0tjekR1U1lGR0laeU1GYng0OE42MU4yM1JTVVd6dHpfcG8wX1I5T2RWTmdKRlpr0gHAAUFVX3lxTE9fc0",
+      "publishedAt": "2026-09-05T10:00:51.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Malgré les chiffres, Gabrial Attal continue à se vanter de la baisse du chômage - blogs.alternatives-economiques.fr",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX1d2SDJQSXVZTDZPeUE1dWYySjQzRDVkNmE2MEZXYnZicmNzdVZzN2RwNFlRRUtqYWd1Z3JycXhnd29hWlFaQjFmWk9LV044VkxlTm95YjFZNFRNckJ1dVdsaWJHVHh0aTdIQmVqVndfa25sMGJLOTFLcmlYMnVjbHBCbFdkRUlsbUprSmJBWU03a0MzOFpMbU9rUWx4MkFYVTVva2VTQ3FvbHZQUEc2aG5lVkEzbjE0SHdLNnRCMFg0LWl2UFBxZ0ZOTzcwSlBoTnQzclh3?oc=5",
+      "source": "blogs.alternatives-economiques.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX1d2SDJQSXVZTDZPeUE1dWYySjQzRDVkNmE2MEZXYnZicmNzdVZzN2RwNFlRRUtqYWd1Z3JycXhnd29hWlFaQjFmWk9LV044VkxlTm95YjFZNFRNckJ1dVdsaWJHVHh0aTdIQmVqVndfa25sMGJLOTFLcmlYMnVjbHBCbFdkRUlsbUprSmJBWU03a0MzOFpMbU9rUWx4MkFYVTVva2VTQ3FvbHZQUEc2aG5lVkEzbjE0SHdLNnRCMFg0LWl2UFBxZ0",
+      "publishedAt": "2026-09-05T10:14:43.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Attal expose ses idées à la braderie de ... - Sud Radio",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFlRZDJmRzB3ay00RnlJdlNCTGZEYUhwLUlYUDVTNG9WVm9oRjJFWHJha1pFT1NNYzU3bXpzcEdLU25vYmxROUlCeWs5ME55QWpMQlJTR3dNbXpsQlN5YnVZamp1VFlRUnphNFhPaXlPWF83akswMlVSUVg1RjNrYU5URkQ1UzlGdmdCQmNDbFQ5ZWtYdzd5T3JlQUZWNVhUWm5meE1MNjQ?oc=5",
+      "source": "Sud Radio",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFlRZDJmRzB3ay00RnlJdlNCTGZEYUhwLUlYUDVTNG9WVm9oRjJFWHJha1pFT1NNYzU3bXpzcEdLU25vYmxROUlCeWs5ME55QWpMQlJTR3dNbXpsQlN5YnVZamp1VFlRUnphNFhPaXlPWF83akswMlVSUVg1RjNrYU5URkQ1UzlGdmdCQmNDbFQ5ZWtYdzd5T3JlQUZWNVhUWm5meE1MNjQ?oc=5\" target=\"_blank\">Présidentielle 2027 ",
+      "publishedAt": "2026-09-05T19:24:38.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle en France: des candidats en campagne à la braderie de Lille - RFI",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQU5WQ0E0SWVqdGRocEdsMkUtSGdCeWtjWG5xU254QW9qMUVTOHh1Q2U2TVhCX2I2RVZTaVJjdkRUc1phWWVTZWhrX1d2QVE1eWJUNWtqLU1FTzQzTGRtU0liWjhYc29VeUZvaGM0cGVuQVA2UFozbWdhQ2l0QXQ2dWFETm45NHE0VndVVGtaNHFIaUloOWI1MXZ2V2pZXzFGc0ZfZUlIRkx2a1JqV2RkV2dkM0FNWXZLNGVySmFn?oc=5",
+      "source": "RFI",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQU5WQ0E0SWVqdGRocEdsMkUtSGdCeWtjWG5xU254QW9qMUVTOHh1Q2U2TVhCX2I2RVZTaVJjdkRUc1phWWVTZWhrX1d2QVE1eWJUNWtqLU1FTzQzTGRtU0liWjhYc29VeUZvaGM0cGVuQVA2UFozbWdhQ2l0QXQ2dWFETm45NHE0VndVVGtaNHFIaUloOWI1MXZ2V2pZXzFGc0ZfZUlIRkx2a1JqV2RkV2dkM0FNWXZLNGVySmFn?oc=5\" target=",
+      "publishedAt": "2026-09-05T21:38:47.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Marine Tondelier, Gabriel Attal, Jean-Luc Mélenchon... Les politiques font campagne à la Braderie de Lille - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRURseUh4Szd3SloxbFlkWnI1ZGg3V1BnSDFEUWlHazBpYkIzaTZTYXJxV2hVR2VrLV9ibzZndjdNS2M2NVNpcDlhejZqY2psMV91LTc1T2M1VUtFSmNuS1RybHE2UzEwUmZjV3Zsc3lRUDAzVVZXVXFPdUs5ZVlTQXBpSGlIM2o0enpFU2I5T3d5Unc5Sm1KVi1oV0o4MGVwU01jZW5WU2duQ1pMbG4weTd0YkxoV1lDS3BLeDBLRXZzeFV0VXFnYjM3WVludnRVamdmcXRISnQtLWQ3bjM0dktIMHo5VkI2cFRFOA?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRURseUh4Szd3SloxbFlkWnI1ZGg3V1BnSDFEUWlHazBpYkIzaTZTYXJxV2hVR2VrLV9ibzZndjdNS2M2NVNpcDlhejZqY2psMV91LTc1T2M1VUtFSmNuS1RybHE2UzEwUmZjV3Zsc3lRUDAzVVZXVXFPdUs5ZVlTQXBpSGlIM2o0enpFU2I5T3d5Unc5Sm1KVi1oV0o4MGVwU01jZW5WU2duQ1pMbG4weTd0YkxoV1lDS3BLeDBLRXZzeFV0VXFnYj",
+      "publishedAt": "2026-09-05T14:41:52.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : pour Gabriel Attal et Edouard Philippe, le poids d’un bilan écologique contrasté - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZFBWRGF0cGY2czhaNnU1SjAyWms0blFxQjBpQlZ2M3k2Uk5xM012bFhuQ0tGODJOUV9ZT0sxckRPSFVROTJSMWpOQ0dYd1hpRlh1RFNPLTd0VGdhc1dMXzg0cTJtb3BLekp0U2J2c3JsYnNpaUxHUVBXaUZXNTgzQXJ0d1RVTi1meThnRG1LX0xiLWNVb3NLcnNBNDhiZ25lYlRBY3hzWTExbjNXQnNqQ3lQWFFmMzRLSWx5dDdCeWZpUGpJVUJyR29WOVJOd0V5Z0VEbW05VDF3Q2FycmJPYU1vc1lpRHFOcVo3cUFFbm8zQUVhZTVLRHZvcXJQZ1JSbFJhZnhlWQ?oc=5",
+      "source": "Le Monde.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPZFBWRGF0cGY2czhaNnU1SjAyWms0blFxQjBpQlZ2M3k2Uk5xM012bFhuQ0tGODJOUV9ZT0sxckRPSFVROTJSMWpOQ0dYd1hpRlh1RFNPLTd0VGdhc1dMXzg0cTJtb3BLekp0U2J2c3JsYnNpaUxHUVBXaUZXNTgzQXJ0d1RVTi1meThnRG1LX0xiLWNVb3NLcnNBNDhiZ25lYlRBY3hzWTExbjNXQnNqQ3lQWFFmMzRLSWx5dDdCeWZpUGpJVUJyR2",
+      "publishedAt": "2026-09-05T00:30:37.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Moules, frites et politique : ambiance présidentielle à la braderie de Lille - France 24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTNPcjJVRFUtVUFRQ05aTm9DSVZpOVRKclBrbk5LRXl0VmR6LU82YnFTbUFUVTVJWkJWQUhkSU1kU0J6Qjh5MDRLdUhyTldqa0tDOFhRYURKRzQ0dTVpWURONm9vcUtxcmRQRlRFNENlS1BDMTlSdFlodFFmSTJCVGRlaXRSbjRvS2ZOUG9tc3ltX1NjVU9PUWRGdEUyOTV6dlZUeWg1NW9peWR2ZkotMQ?oc=5",
+      "source": "France 24",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTNPcjJVRFUtVUFRQ05aTm9DSVZpOVRKclBrbk5LRXl0VmR6LU82YnFTbUFUVTVJWkJWQUhkSU1kU0J6Qjh5MDRLdUhyTldqa0tDOFhRYURKRzQ0dTVpWURONm9vcUtxcmRQRlRFNENlS1BDMTlSdFlodFFmSTJCVGRlaXRSbjRvS2ZOUG9tc3ltX1NjVU9PUWRGdEUyOTV6dlZUeWg1NW9peWR2ZkotMQ?oc=5\" target=\"_blank\">Moules, f",
+      "publishedAt": "2026-09-05T12:40:19.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "L’actualité vue par Alex : Marine Tondelier, Jean-Luc Mélenchon et Gabriel Attal en campagne à la braderie de Lille - L'Ardennais",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaC1LNnkwOXZYZkllWC1ySkxkS2pHVXN4VXdjX25KVzhLVzdHdVlKeDhfcnJ3YVBQRU1rd2V4TkIzZHRJV0JkUTRtZzl6dTBzOVZNUzRTck14b3NpRjUwQ1VySENWSVU0UE5oVE1ZMUQtLXhGMWFfUDdqeUIwRnQ0VWNnNmRweUZsQ1JveDNHbmthb1RMcjJjblJrZS12UE5mLU9NbklHMm9OaXJhYV9rdkFoTm1TSm16a2Q1bWw4a2tQMzhpV05jaFZxYjBKQQ?oc=5",
+      "source": "L'Ardennais",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOaC1LNnkwOXZYZkllWC1ySkxkS2pHVXN4VXdjX25KVzhLVzdHdVlKeDhfcnJ3YVBQRU1rd2V4TkIzZHRJV0JkUTRtZzl6dTBzOVZNUzRTck14b3NpRjUwQ1VySENWSVU0UE5oVE1ZMUQtLXhGMWFfUDdqeUIwRnQ0VWNnNmRweUZsQ1JveDNHbmthb1RMcjJjblJrZS12UE5mLU9NbklHMm9OaXJhYV9rdkFoTm1TSm16a2Q1bWw4a2tQMzhpV05jaF",
+      "publishedAt": "2026-09-05T21:55:21.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal présente son projet économique depuis Boos - Presse Agence",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckF0RnNUYzFDV0JqbjFKNkVIMGxaTFY4ak9Vei1tYm5rN2REbS1GaEl0aUNkbmJxY2M5Yng4bVdoRGVDOFJGOEJNRHRKNE1RUV9ISjYzSUl0dUlJRTRPb1RUWmR0SlloRFV3N0hwSnNwakc5azRsWHdDajU5b0NrcFFLSFJqTEhCUV84V19iMDl3VHNlTmxzNUhfS1BrTF9wLWM2YVRsZmJHQzBQUDU1ZVF3?oc=5",
+      "source": "Presse Agence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPckF0RnNUYzFDV0JqbjFKNkVIMGxaTFY4ak9Vei1tYm5rN2REbS1GaEl0aUNkbmJxY2M5Yng4bVdoRGVDOFJGOEJNRHRKNE1RUV9ISjYzSUl0dUlJRTRPb1RUWmR0SlloRFV3N0hwSnNwakc5azRsWHdDajU5b0NrcFFLSFJqTEhCUV84V19iMDl3VHNlTmxzNUhfS1BrTF9wLWM2YVRsZmJHQzBQUDU1ZVF3?oc=5\" target=\"_blank\">Gabriel",
+      "publishedAt": "2026-09-05T17:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "« Plus il y a de candidats macronistes, mieux c’est » : comment LFI joue avec Attal et Retailleau pour affaiblir Philippe - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOdXJCWDBqYlNhQ2l2T2YzVE9qVUdaZll3TWg1NDJtNmV5WXh5dDVVVmROMVZKME1MNEdsNHNFenJ6OURJOXpSUV9WU3U0ZWRVRW5EcXh6ZWY5UTVUVWtTenkxY2xSSzVnSlpIZ3g0WjJIaGtVOTNDSHJ6Q181T2R1NDNzSDBiWEtmcUh1V1YzWWdmd05jYlplTmhXTGlkTWpQcTU5Z0tUOUUxMkhQdy1vZUU0R1FWZVk2UDc0emE1MGE3ci1STk5udFU1Q21ZRll5YUdUaVdHTU5raVMxWWc4cDJIMEk4dEo2N3oxa2JGeW9TVkRnLWNweEo4RmpjbU9iLTNPQUVNbmF5czlCWXJQYzZLVzJsWFhHV0dvVnEwZzFoSWZyUGdubjVveVB0ZHM?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOdXJCWDBqYlNhQ2l2T2YzVE9qVUdaZll3TWg1NDJtNmV5WXh5dDVVVmROMVZKME1MNEdsNHNFenJ6OURJOXpSUV9WU3U0ZWRVRW5EcXh6ZWY5UTVUVWtTenkxY2xSSzVnSlpIZ3g0WjJIaGtVOTNDSHJ6Q181T2R1NDNzSDBiWEtmcUh1V1YzWWdmd05jYlplTmhXTGlkTWpQcTU5Z0tUOUUxMkhQdy1vZUU0R1FWZVk2UDc0emE1MGE3ci1STk5udF",
+      "publishedAt": "2026-09-05T16:59:43.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
     },
     {
       "title": "« On joue le match » : comment Jean-Luc Mélenchon et Gabriel Attal tentent d’installer un duel pour affaiblir Édouard Philippe - Le Figaro",
@@ -49,142 +259,52 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-05T01:28:51.622Z",
+      "isNew": false
+    },
+    {
+      "title": "Des passes d'armes calculées : la braderie de Lille, nouveau théâtre du duel entre Jean-Luc Mélenchon et Gabriel Attal - RTL",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaklQM3YycTQyaUNnekEwaHB4bGV6b0tkb1VvdGFjZmFXb3VST0pSNE9RYS1zU19nem53NWpuSkIyZjIzSUJHTF9hSzZ0clFEc01YSzJ6Zkxhdk5EdDFIclpfOWk3bXBOQjZIZVRQbWQ5X2ctN2VPZm51c092TXBPSU9Eb3p0czlnMUdob0x2LWwzck1YaXdQczlmTVNiOEZyT3ZtNWt4azJjQmJpVGdUSG5jdXRudlA2TWtOLVdOS0FIbEt4VW4wV3M1NkdtSW1manIyVVdxbVhsM2VCM2N5R05DQnZCeVE5UW9MZWIySDNHQQ?oc=5",
+      "source": "RTL",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaklQM3YycTQyaUNnekEwaHB4bGV6b0tkb1VvdGFjZmFXb3VST0pSNE9RYS1zU19nem53NWpuSkIyZjIzSUJHTF9hSzZ0clFEc01YSzJ6Zkxhdk5EdDFIclpfOWk3bXBOQjZIZVRQbWQ5X2ctN2VPZm51c092TXBPSU9Eb3p0czlnMUdob0x2LWwzck1YaXdQczlmTVNiOEZyT3ZtNWt4azJjQmJpVGdUSG5jdXRudlA2TWtOLVdOS0FIbEt4VW4wV3",
+      "publishedAt": "2026-09-05T08:11:15.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
       "isNew": true
     },
     {
-      "title": "Présidentielle 2027 : à droite et au centre, privés de primaire, les unitaires amers - Libération",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaGQ4SU9VRTZXNWZwQ0pCT2gzVUFqOTBsS1BiSUItVlpBZTdDcDZLcGpZcmswME05SGdDcWZINGxwMDE1bFdndXlfZTExRVQ1MUxJb2xsOERuMUJsY2VtalZGNnBUY3d1dXRxZjFkNWpuMFgybklaT2NybUowLTF0V1ctSDhwb1hSTDhPLUtCbUhZUTlrdkRIVmc5N1VuYTlnMDVSY3ZKcXRyNjE1alREcFE5RXFGRFk4SmtCMF8xOVlzMmZkYk5DNGxaTTBYZTVERUZuZW51ZWNhVXBRVmVmcFdjTGNHVXdu?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaGQ4SU9VRTZXNWZwQ0pCT2gzVUFqOTBsS1BiSUItVlpBZTdDcDZLcGpZcmswME05SGdDcWZINGxwMDE1bFdndXlfZTExRVQ1MUxJb2xsOERuMUJsY2VtalZGNnBUY3d1dXRxZjFkNWpuMFgybklaT2NybUowLTF0V1ctSDhwb1hSTDhPLUtCbUhZUTlrdkRIVmc5N1VuYTlnMDVSY3ZKcXRyNjE1alREcFE5RXFGRFk4SmtCMF8xOVlzMmZkYk5DNG",
-      "publishedAt": "2026-09-03T17:51:00.000Z",
+      "title": "\"Entre le Rassemblement national et moi, il y a deux mondes\": Gabriel Attal, candidat \"Renaissance\" à l'élection présidentielle, critique le parti d'extrême droite sur l'Ukraine - BFM",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQb3dTcEVKYWJSSGlPY2pzUTZIekZFdGdXMGR6b2c0MjdKVVVjR1AwUk1sd0JOcU4xQ1RXZDkzOExvbU9XMW1uMGs2OUIyeTFySURBdGhuMk53ckZRbUtwSWE5bXBUMlRad1BUVXIxMHhEc0FTR3BHSzhzVGhfRGwtem1vTTJDYS1NWU8xUnlEZ05ieHNYcmdBSkxMck9RdjZ2bTBSV2tMelRDY09ySjVsSjdjWlZvXzZKdUNZeEd3T1lXSkI5Q29wM2oyQUlCZmNRSlNKdjlRbm5NREFZcjBIS01WdEt3RFR0QndJUmU1Z1BkQkh4ak1WWXFqWTZ1QW1obUdsWG1UOWdXNlhrNlBlbVVmMl9oQ3RrazVscjA5NGZ5eDdqQVdDSmpzX19xRndDNGJ1WURfcG1Ba0ktTHlJLUtyZDBZYjZaQ2l6R0ZOOWxNSlQ3RDlHZ0tXaDNCUVZo?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxQb3dTcEVKYWJSSGlPY2pzUTZIekZFdGdXMGR6b2c0MjdKVVVjR1AwUk1sd0JOcU4xQ1RXZDkzOExvbU9XMW1uMGs2OUIyeTFySURBdGhuMk53ckZRbUtwSWE5bXBUMlRad1BUVXIxMHhEc0FTR3BHSzhzVGhfRGwtem1vTTJDYS1NWU8xUnlEZ05ieHNYcmdBSkxMck9RdjZ2bTBSV2tMelRDY09ySjVsSjdjWlZvXzZKdUNZeEd3T1lXSkI5Q29wM2",
+      "publishedAt": "2026-09-05T07:48:57.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal, candidat à l’élection présidentielle, est attendu à la Foire du Mans - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVUYyM2lweWxkeDJjSzhFRV8zXzljVGdxdDVORVhLTDVwM2FBQTdhNF80cjl5aGxUY3hZS012N2JvY3Z2OGcwckFrcVBTczEtU1hfWnBhaEhQMV9nYkRFVWQ4eTlMd2pwUUZoTkwybEdjNVFYMFJxb3MwSnlRckZuby1fOFpvc0VUMFFxWTlzTnNMWExseEJ0Wjl0dEVrdTRmeW8tUThiUWRPYnFPczNnYnp2QzZYX0NJUmNHdDFQbHByVWItQzYtamprOWw2d0lsZTlyUENQZG9iZXYxVkI4eV9DNExFanlTOXN4N3FKZlNlRkJFS0wxT3F3X3FHdw?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVUYyM2lweWxkeDJjSzhFRV8zXzljVGdxdDVORVhLTDVwM2FBQTdhNF80cjl5aGxUY3hZS012N2JvY3Z2OGcwckFrcVBTczEtU1hfWnBhaEhQMV9nYkRFVWQ4eTlMd2pwUUZoTkwybEdjNVFYMFJxb3MwSnlRckZuby1fOFpvc0VUMFFxWTlzTnNMWExseEJ0Wjl0dEVrdTRmeW8tUThiUWRPYnFPczNnYnp2QzZYX0NJUmNHdDFQbHByVWItQzYtam",
-      "publishedAt": "2026-09-03T16:17:30.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "L’ancien Premier ministre Gabriel Attal à la Foire du Mans : quel jour sera-t-il présent ? - Actu.fr",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzVVLTdEWUhGTHFURjBMaU5Rejh5Sm9Pa0UwbHg4M3FFbWcweDFCY3ZtYmFWTzVFNno2STlaYUtUSXFmWDF6WHNXeHRocjlpbnItOTZsWW5qY21rT1pieU9qR19HZTVVWTJnSm5NUm1wTHlSMC1haHY5LXdLOHAxMUozejdiSVV2ZzJyQkNXQnd3Z0RSdy1LbGo5TTZ4UHVxREZtUzBlbXdpZlZNdWlhVWNoUzZwdzEyR3BpSks4ZnhseUxRRlNsTC1TQmREOUU2SHRWWUlCVTJ3czZ3X2FB?oc=5",
-      "source": "Actu.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzVVLTdEWUhGTHFURjBMaU5Rejh5Sm9Pa0UwbHg4M3FFbWcweDFCY3ZtYmFWTzVFNno2STlaYUtUSXFmWDF6WHNXeHRocjlpbnItOTZsWW5qY21rT1pieU9qR19HZTVVWTJnSm5NUm1wTHlSMC1haHY5LXdLOHAxMUozejdiSVV2ZzJyQkNXQnd3Z0RSdy1LbGo5TTZ4UHVxREZtUzBlbXdpZlZNdWlhVWNoUzZwdzEyR3BpSks4ZnhseUxRRlNsTC",
-      "publishedAt": "2026-09-04T10:28:30.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
       "isNew": true
     },
     {
-      "title": "L’ex-Premier ministre et candidat à la présidentielle, Gabriel Attal, attendu en visite à la Foire du Mans - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOSE5WRlVIX3VSZlVGdEUwNmdYaFYxenJiOFFsUmdKVjB4cXF3T3NiM1d1aXZicUVHX29rcGxORkxZdU83ZmNBRWFCYXpfalBSdUIzUUpnN055bkxYWFNmZGVLZEFGbW1iQmRzd0Zhd2R0a2VOSUU0UGxPLVpfd01iSmJxcm5SeWlncHNKaDlWcFZvQlVXUUdEb3RGXzFVR1pnYUhSQUJYOUhYYTVjSUk4SkNyeHh2TWluUzRTdVB3MXZ6bjZwWTJ6WGcxMWZJZHA3SGFnRG92Q2lybGdtRWxMck1CRUxWNDFHblZXMm9ZRDA3OFBLNWNxRzF5MjJSWmVYbHpaeTVjeVA1LThpd18wYWlrd1MwNG1JYmlCRQ?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOSE5WRlVIX3VSZlVGdEUwNmdYaFYxenJiOFFsUmdKVjB4cXF3T3NiM1d1aXZicUVHX29rcGxORkxZdU83ZmNBRWFCYXpfalBSdUIzUUpnN055bkxYWFNmZGVLZEFGbW1iQmRzd0Zhd2R0a2VOSUU0UGxPLVpfd01iSmJxcm5SeWlncHNKaDlWcFZvQlVXUUdEb3RGXzFVR1pnYUhSQUJYOUhYYTVjSUk4SkNyeHh2TWluUzRTdVB3MXZ6bjZwWTJ6WG",
-      "publishedAt": "2026-09-03T17:03:31.000Z",
+      "title": "Présidentielle 2027 : Le Pen largement en tête, Philippe toujours préféré à Attal - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXFxNG1PNWxhWW9xNlJLOThQaWF3X3JnTDJFVGRfSUZNWkJhT012dmJVblhLOEQteVFXeng1bC1yNjQwVmFPSFp1SW05aVVTTmF2cFJiWTJvUUJJQjFUNXZQblpwN1F6bkpYcElSdDQwZVBJVzAzQ1Fmb1BsaG1MSEJDcWFYbVJSR2J5RXlTbU1jb3lkYzFvWTBKUkstdDVSejRtN2lLdHhNUmVuTldnOVZhX096SUtqSzVYOUNScjhPVVE?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXFxNG1PNWxhWW9xNlJLOThQaWF3X3JnTDJFVGRfSUZNWkJhT012dmJVblhLOEQteVFXeng1bC1yNjQwVmFPSFp1SW05aVVTTmF2cFJiWTJvUUJJQjFUNXZQblpwN1F6bkpYcElSdDQwZVBJVzAzQ1Fmb1BsaG1MSEJDcWFYbVJSR2J5RXlTbU1jb3lkYzFvWTBKUkstdDVSejRtN2lLdHhNUmVuTldnOVZhX096SUtqSzVYOUNScjhPVVE?oc=5\" ",
+      "publishedAt": "2026-09-05T17:20:06.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Retailleau charge l’Etat de droit, Attal et Philippe temporisent - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFVsUzBYX3dyZ21TelJ2aXVyRFgtNk9EeE5ITFRwN0J5S3FPTmZKWko4X2lzdGJaWWdpMVBXOUFuWjVKSFNGNkcwbjAtbFgtSU1POGtacnlhRHYyWi1zMlI5azZmeWtZMXdIX09DLXlPcnFSUGtYa0hyT293TTdVMWFFT3VqSldqd0Q4QUhLb043eXFnU1ZFRVd3V1I?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFVsUzBYX3dyZ21TelJ2aXVyRFgtNk9EeE5ITFRwN0J5S3FPTmZKWko4X2lzdGJaWWdpMVBXOUFuWjVKSFNGNkcwbjAtbFgtSU1POGtacnlhRHYyWi1zMlI5azZmeWtZMXdIX09DLXlPcnFSUGtYa0hyT293TTdVMWFFT3VqSldqd0Q4QUhLb043eXFnU1ZFRVd3V1I?oc=5\" target=\"_blank\">Retailleau charge l’Etat de droit, A",
-      "publishedAt": "2026-09-03T15:30:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "« Ce n’est pas la saison 3 du macronisme, ni un retour à l’UMP » : Gabriel Attal joue la carte des « nouveaux visages » pour marquer sa différence avec Edouard Philippe - Public Sénat",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPczVETVRGV1JfZUVlbVY1TGRYYVVwc1ppU2NkX3NYSnVfTFVFSGRndGZJNkNUMS14YlBDMk5HUFN6dTljRWY0YTFvMDctRkh1U3JOZnBKXzdqU3pHdU9vVVpCLVo5Qm5GSm9VMzB6REtoSHJSVmNmOXpsVHlxQ1VieW5uYzBWOE9NQ2VCejgtWUxOaGtQVlRRYkNzclpXdlpxYm9najNSOFdhYm5FVTlDX1dyMnZoRkVab2xZRjNXS2I1cW9GX3d3ODZvS016YU41eV9jajRxVG9GeEFXQUY1WDZ5Y3dRVHlEVHhwNncwSkpvbFpETkNrS0pwaWl4TmRzVHhXdg?oc=5",
-      "source": "Public Sénat",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPczVETVRGV1JfZUVlbVY1TGRYYVVwc1ppU2NkX3NYSnVfTFVFSGRndGZJNkNUMS14YlBDMk5HUFN6dTljRWY0YTFvMDctRkh1U3JOZnBKXzdqU3pHdU9vVVpCLVo5Qm5GSm9VMzB6REtoSHJSVmNmOXpsVHlxQ1VieW5uYzBWOE9NQ2VCejgtWUxOaGtQVlRRYkNzclpXdlpxYm9najNSOFdhYm5FVTlDX1dyMnZoRkVab2xZRjNXS2I1cW9GX3d3OD",
-      "publishedAt": "2026-09-03T16:20:12.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Étienne Gernelle sur RTL : Attal et Philippe face à l'héritage Macron - lepoint.fr",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzJNQzlJMUNOZXNLeUdMTjliZDduRzV1aFI0dnpZU2habk1peDZDaENjaW5sdC1GU3hKcENFbHdhLS1JTTdlODFRQlg5TVY2MVhzamxtYkFfdHZTQ080VUZnNlF4MlFtN3h1MUdFbUFFYnRxc3pUcHd6VElvNm1wWVVNX05qYkpxT3RBRGIxZFgtaC1QcExGOXJ5ZTJkNUZnRnlTb2pZRF9IaWVaVmtWZTctUlZBQ2h3ODVDdnhwWDAtajl4MkxrSnFxLUszVkFtZV9PQjBjV2dOelZQZm5J?oc=5",
-      "source": "lepoint.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzJNQzlJMUNOZXNLeUdMTjliZDduRzV1aFI0dnpZU2habk1peDZDaENjaW5sdC1GU3hKcENFbHdhLS1JTTdlODFRQlg5TVY2MVhzamxtYkFfdHZTQ080VUZnNlF4MlFtN3h1MUdFbUFFYnRxc3pUcHd6VElvNm1wWVVNX05qYkpxT3RBRGIxZFgtaC1QcExGOXJ5ZTJkNUZnRnlTb2pZRF9IaWVaVmtWZTctUlZBQ2h3ODVDdnhwWDAtajl4MkxrSn",
-      "publishedAt": "2026-09-03T11:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
       "isNew": true
-    },
-    {
-      "title": "Présidentielle: Gabriel Attal présente son équipe de campagne et promet de ne pas faire une \"saison 3 du macronisme\" - LCP-Assemblée nationale",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWNVdTRzb0w3Sy1LRHlZX3pLTGZEeldER1VTQVV3UGpPNmhOZGxweFhZRktIOTBLZWNNUDhhZjkyYU1jaGM5M3J4ZjRjZktsZmV6VHNQWmFZSHFUTlVNekxnNlNISHNvQmVSU1d3U09sTWZYd2s2WUZLeVV4Y2wxQUZPQi04WFVUWXdPUUtsYmQwQ3oyTFVDTUhpTFdKQUFxTHdkWnZRb2JGTWRFQnlpRnFn?oc=5",
-      "source": "LCP-Assemblée nationale",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWNVdTRzb0w3Sy1LRHlZX3pLTGZEeldER1VTQVV3UGpPNmhOZGxweFhZRktIOTBLZWNNUDhhZjkyYU1jaGM5M3J4ZjRjZktsZmV6VHNQWmFZSHFUTlVNekxnNlNISHNvQmVSU1d3U09sTWZYd2s2WUZLeVV4Y2wxQUZPQi04WFVUWXdPUUtsYmQwQ3oyTFVDTUhpTFdKQUFxTHdkWnZRb2JGTWRFQnlpRnFn?oc=5\" target=\"_blank\">Préside",
-      "publishedAt": "2026-09-03T14:14:54.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal dévoile une équipe de campagne présidentielle sans poids lourds politiques mais avec de « nouveaux visages » - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSmlUQXFZUEZoSzhyMVJYclJLUWFGNVJXR29XT2JDM3J3MDV5RDhUT3hOdzcxRENxWWtwMVJ6OGVOUS1uMnZhZ3ZDSG5oTzFZMW5mSTNJcmJ2OTdoZUp4bzlWVlNCM2JhdUduUTBFTXFoWGxPTG9iN25uR0NlMlQ1ZldWS3AwZUN1QWhVa1l2NE9ZakNTekZBS19QbHdXNFp6RjN4WUZVcDVUTWJTYjFZSjhSVjNpZXQwSnpuSmJFOWUxQ1NRNjViajVEcUFpd200dHNabUhLcTNhcmZqaldpVG9sOEVNaVh2RTJtWVdEMW5ROWEwME93RTZrbjZGd1ZyMkNCRnU0amRvT1g5eks4dW9XY0FhbUVGWlE?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNSmlUQXFZUEZoSzhyMVJYclJLUWFGNVJXR29XT2JDM3J3MDV5RDhUT3hOdzcxRENxWWtwMVJ6OGVOUS1uMnZhZ3ZDSG5oTzFZMW5mSTNJcmJ2OTdoZUp4bzlWVlNCM2JhdUduUTBFTXFoWGxPTG9iN25uR0NlMlQ1ZldWS3AwZUN1QWhVa1l2NE9ZakNTekZBS19QbHdXNFp6RjN4WUZVcDVUTWJTYjFZSjhSVjNpZXQwSnpuSmJFOWUxQ1NRNjViaj",
-      "publishedAt": "2026-09-03T17:16:50.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
     },
     {
       "title": "Gabriel Attal arrange son bilan budgétaire de 2024 en ce début de campagne présidentielle - Le Monde.fr",
@@ -199,36 +319,126 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-05T01:28:51.622Z",
-      "isNew": true
-    },
-    {
-      "title": "“De la résonance nasale” : Gabriel Attal dévoile son exercice rituel avant chaque grand discours - Gala",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmgzb0xlQmpDc013U0VvcHFDbVNBRjY4QkVQeEdvRmR0WWh4dkFYcDZOV0g0RFdNZnEtbzdGS3FHYWxCc2tvMmJFNW1KYWtTZmpPVzg3MWljMUo3clczb2RXX2Y0ZkdkZXpiYjZwZUkwZDZ5ZldxSnRmVzNvaDdfeFZQTktaVnhOano2MjVtTFk4ODVBWHFSTEItNkRjUk8za2JiMHpkdzJObHNiVkQ2bWdnNmplY1FmQnJLYWRoVVhhRHY1SG9Ed0FFUQ?oc=5",
-      "source": "Gala",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONmgzb0xlQmpDc013U0VvcHFDbVNBRjY4QkVQeEdvRmR0WWh4dkFYcDZOV0g0RFdNZnEtbzdGS3FHYWxCc2tvMmJFNW1KYWtTZmpPVzg3MWljMUo3clczb2RXX2Y0ZkdkZXpiYjZwZUkwZDZ5ZldxSnRmVzNvaDdfeFZQTktaVnhOano2MjVtTFk4ODVBWHFSTEItNkRjUk8za2JiMHpkdzJObHNiVkQ2bWdnNmplY1FmQnJLYWRoVVhhRHY1SG9Ed0",
-      "publishedAt": "2026-09-03T16:56:07.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
       "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : Jean-Charles Orsucci porte-parole de Gabriel Attal - France 3 Régions",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEV5ZHUwU0pka25tclgxWG5FbWhyM2phanlJT181RkRSYXd6SmVHUEp3NzVLMDNOWkRHZWlCclk0UU91aWNueUpNVjR3MmdEMU9QVkpGeWlhTkxkb1lXd2hScHpocHhxc1RrajlhbmdQSmlWUnBiZnhEc1U4Y3Q4QmEzbGN4dDhwTm40SHBDcVdYdm9xY2Zma2U5WUFMVDAwX0JRNFVLbllfWUYzWGpVanVLeWdTNFI2ZWE0WEp4dHBIa3ViUFE?oc=5",
-      "source": "France 3 Régions",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEV5ZHUwU0pka25tclgxWG5FbWhyM2phanlJT181RkRSYXd6SmVHUEp3NzVLMDNOWkRHZWlCclk0UU91aWNueUpNVjR3MmdEMU9QVkpGeWlhTkxkb1lXd2hScHpocHhxc1RrajlhbmdQSmlWUnBiZnhEc1U4Y3Q4QmEzbGN4dDhwTm40SHBDcVdYdm9xY2Zma2U5WUFMVDAwX0JRNFVLbllfWUYzWGpVanVLeWdTNFI2ZWE0WEp4dHBIa3ViUFE?oc",
-      "publishedAt": "2026-09-03T13:01:33.000Z",
+      "title": "Gabriel Attal en campagne à Lille et Toulouse : les enjeux - Presse Agence",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVd6enBsNWptRXlDUnc1RGxuQ3BrYVBBblhYY2hxM29rQjZVVGQwZ1NzV3lxUkRCUWgyQ0wtY2RZZUVZU3dnY0FXY0pHaW9haExsMFhGT1F0MlRGMG01b21MUWdxUzh4OEFNMWhtZ09XczVUWDdXaTdhMi1JZmRyQU5ON2FZcy1DRUJ6RWxfXzVpbnY0aS1xbWtFS1Byam9yb2dPVjQ3RWdoQmM?oc=5",
+      "source": "Presse Agence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVd6enBsNWptRXlDUnc1RGxuQ3BrYVBBblhYY2hxM29rQjZVVGQwZ1NzV3lxUkRCUWgyQ0wtY2RZZUVZU3dnY0FXY0pHaW9haExsMFhGT1F0MlRGMG01b21MUWdxUzh4OEFNMWhtZ09XczVUWDdXaTdhMi1JZmRyQU5ON2FZcy1DRUJ6RWxfXzVpbnY0aS1xbWtFS1Byam9yb2dPVjQ3RWdoQmM?oc=5\" target=\"_blank\">Gabriel Attal en",
+      "publishedAt": "2026-09-05T08:00:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Peut-on réduire le déficit sans devenir impopulaire? Un jeu vidéo vous propose de devenir ministre du Budget - LCP-Assemblée nationale",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmtyUEdqZmRjckZlTG5iZlI2MlB6NlJOdkVqb3NhTkpTQWxwUWFnSm1TOTdzQUluekdSc2FEX3hEUlV4eUNUUUROWGdSd2I5dTljUjJwMURaRHNaNm83eUFnaVFNb3d6a1JCUG5sb0NuSWpNUVIwYlUtTHl1Wk9UZFQ5TUpDOFcyQnhaaG9MQlZtaFlvdl9URC1qVVA1bXMyRlJBbVFxZGVKOU9CbHBPbmtxWUQ?oc=5",
+      "source": "LCP-Assemblée nationale",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmtyUEdqZmRjckZlTG5iZlI2MlB6NlJOdkVqb3NhTkpTQWxwUWFnSm1TOTdzQUluekdSc2FEX3hEUlV4eUNUUUROWGdSd2I5dTljUjJwMURaRHNaNm83eUFnaVFNb3d6a1JCUG5sb0NuSWpNUVIwYlUtTHl1Wk9UZFQ5TUpDOFcyQnhaaG9MQlZtaFlvdl9URC1qVVA1bXMyRlJBbVFxZGVKOU9CbHBPbmtxWUQ?oc=5\" target=\"_blank\">Peut",
+      "publishedAt": "2026-09-05T06:05:04.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : à la braderie de Lille, Attal joue le terrain, Tondelier l’union et Mélenchon le social - Nord Littoral",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeENteE5aaGpMWm9fejlkb19jVXVBUGV2QWZ5TjRfLS1DQkpHUlRmN1llaWZmNDFNa20zQ1hrSFcwV0Myd3ZtdG4zemE5YlI0WnIyRjRoOFNVV0pXOUxYenhnbjJOa0FlTWF3bWs1MzJYV2JNWHZHWXIwVm9yVFRKTWd0N28tclk5SlIxLU1yTERDaEpla0x0NkVPb1V2UmlWOV95Unoxcl9ZZER1NzNfQVN3S0pTSWI1VTU1Wk1SU0dNZktsYkJ5aGpB?oc=5",
+      "source": "Nord Littoral",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPeENteE5aaGpMWm9fejlkb19jVXVBUGV2QWZ5TjRfLS1DQkpHUlRmN1llaWZmNDFNa20zQ1hrSFcwV0Myd3ZtdG4zemE5YlI0WnIyRjRoOFNVV0pXOUxYenhnbjJOa0FlTWF3bWs1MzJYV2JNWHZHWXIwVm9yVFRKTWd0N28tclk5SlIxLU1yTERDaEpla0x0NkVPb1V2UmlWOV95Unoxcl9ZZER1NzNfQVN3S0pTSWI1VTU1Wk1SU0dNZktsYkJ5aG",
+      "publishedAt": "2026-09-05T11:47:46.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Tacle à Edouard Philippe, appel à l’union de la gauche… les messages de Gabriel Attal et Marine Tondelier à la Braderie de Lille - La Voix du Nord",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVh6OV9UZUlwSUtQZFJwWVl2YjNNUUprRV9vWDdJM1ZmRE9IdWZENjBYX0p3Xy1kUm0ta0IzQzk1bXNFM193NmRBMWFMWWVBMWFfMGhEdXlpeTRNRWVrVGVPTlZqTVlyMEhjaGNYX2xYcnp3R1BpVWhhcDFOcG1aakE0VC0tQ0JxRHBHTTl3ZVpOQjY4cDVWWGpkcU11TTMydTM1akd2aHRTTi1aNmQ3eVJHbTBJdTlQak5laDNDemN1NEVHNlBkNTRGNkM5RWM?oc=5",
+      "source": "La Voix du Nord",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPLVh6OV9UZUlwSUtQZFJwWVl2YjNNUUprRV9vWDdJM1ZmRE9IdWZENjBYX0p3Xy1kUm0ta0IzQzk1bXNFM193NmRBMWFMWWVBMWFfMGhEdXlpeTRNRWVrVGVPTlZqTVlyMEhjaGNYX2xYcnp3R1BpVWhhcDFOcG1aakE0VC0tQ0JxRHBHTTl3ZVpOQjY4cDVWWGpkcU11TTMydTM1akd2aHRTTi1aNmQ3eVJHbTBJdTlQak5laDNDemN1NEVHNlBkNT",
+      "publishedAt": "2026-09-05T14:24:45.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPRW1nS0E4dF9ieFU3MUJHNWxKaXBxM29nRHA5M0xXQTByMDNRY3lvT0JqZlVvNFJMOXI4X3pvVnRoX3cyUjQ3UnpUNjNJa014YzZpaU44eUluLVdJUV9OY2dGUjRFcjNKT0ZsX2JjNkw3SURjVlJJRk5jOTdMd2dMXzZpeFhnYjc5M0ZsRzloeGFZWnpxd3E0Z1c5TnJaRmFYd2hyYlJGaGlHalUtdFdiUnI5T2V4NFpZZ2lFMGRwaHFPa3VhWlp2VzlpTkQ5WDNXUWVHNVlQWS0yYkMxZTdua1EwaHBTdy1OQlp3a3JucGZqNS1ZbDd3a0o2aUI4MThkWkFHS2FaUHE0SlkteE9kZ21Jbw?oc=5",
+      "source": "franceinfo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPRW1nS0E4dF9ieFU3MUJHNWxKaXBxM29nRHA5M0xXQTByMDNRY3lvT0JqZlVvNFJMOXI4X3pvVnRoX3cyUjQ3UnpUNjNJa014YzZpaU44eUluLVdJUV9OY2dGUjRFcjNKT0ZsX2JjNkw3SURjVlJJRk5jOTdMd2dMXzZpeFhnYjc5M0ZsRzloeGFZWnpxd3E0Z1c5TnJaRmFYd2hyYlJGaGlHalUtdFdiUnI5T2V4NFpZZ2lFMGRwaHFPa3VhWlp2Vz",
+      "publishedAt": "2026-09-05T06:35:40.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Moules, frites et politique : ambiance présidentielle à la braderie de Lille - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFJkS0N6SlZkSXBBaXFVeWRUNEgtSmQ4Ty0ycUJ0TlA3S2lNZGtHRUkwX1BVRDh1akpzQ0R2N25hbVNpN0ZHeng5RUltcFU1T2N1Q3hSY3BJam5YMjNtQUxZTU43ZnNRckJWNFk4NTAtMDZibGZsVV9ZMk05c2dhUHRiNjRQb004dDd2Rm9jNVBJNkk2UGxlZw?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFJkS0N6SlZkSXBBaXFVeWRUNEgtSmQ4Ty0ycUJ0TlA3S2lNZGtHRUkwX1BVRDh1akpzQ0R2N25hbVNpN0ZHeng5RUltcFU1T2N1Q3hSY3BJam5YMjNtQUxZTU43ZnNRckJWNFk4NTAtMDZibGZsVV9ZMk05c2dhUHRiNjRQb004dDd2Rm9jNVBJNkk2UGxlZw?oc=5\" target=\"_blank\">Moules, frites et politique : ambiance pr",
+      "publishedAt": "2026-09-05T12:40:19.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027. Sondage IPSOS-BVA: Attal pas au second tour, Philippe oui / Le Pen en tête / Extrêmes entre 57,5 et 58,5% - lecentrisme.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3ZtcUI0MzV3YVY2Tk9yZndVSGxUekZkSHktRzVRY3JtT1ZhOVFXMTlWTXh1cjZMS0tJbXBTQWp0dG5rVkl4TFMzR3FrY2NNM3J1dVBBWEdDd3Zsck5ORUJJOU9BbE9rOGxib1JrdVNGZVg4b3NVTHI3amxnZmtZN2FrVQ?oc=5",
+      "source": "lecentrisme.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3ZtcUI0MzV3YVY2Tk9yZndVSGxUekZkSHktRzVRY3JtT1ZhOVFXMTlWTXh1cjZMS0tJbXBTQWp0dG5rVkl4TFMzR3FrY2NNM3J1dVBBWEdDd3Zsck5ORUJJOU9BbE9rOGxib1JrdVNGZVg4b3NVTHI3amxnZmtZN2FrVQ?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage IPSOS-BVA: Attal pas au second tour, Phi",
+      "publishedAt": "2026-09-05T18:26:52.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "L’ancien Premier ministre Gabriel Attal à la Foire du Mans : quel jour sera-t-il présent ? - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzVVLTdEWUhGTHFURjBMaU5Rejh5Sm9Pa0UwbHg4M3FFbWcweDFCY3ZtYmFWTzVFNno2STlaYUtUSXFmWDF6WHNXeHRocjlpbnItOTZsWW5qY21rT1pieU9qR19HZTVVWTJnSm5NUm1wTHlSMC1haHY5LXdLOHAxMUozejdiSVV2ZzJyQkNXQnd3Z0RSdy1LbGo5TTZ4UHVxREZtUzBlbXdpZlZNdWlhVWNoUzZwdzEyR3BpSks4ZnhseUxRRlNsTC1TQmREOUU2SHRWWUlCVTJ3czZ3X2FB?oc=5",
+      "source": "Actu.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQzVVLTdEWUhGTHFURjBMaU5Rejh5Sm9Pa0UwbHg4M3FFbWcweDFCY3ZtYmFWTzVFNno2STlaYUtUSXFmWDF6WHNXeHRocjlpbnItOTZsWW5qY21rT1pieU9qR19HZTVVWTJnSm5NUm1wTHlSMC1haHY5LXdLOHAxMUozejdiSVV2ZzJyQkNXQnd3Z0RSdy1LbGo5TTZ4UHVxREZtUzBlbXdpZlZNdWlhVWNoUzZwdzEyR3BpSks4ZnhseUxRRlNsTC",
+      "publishedAt": "2026-09-04T10:28:30.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-05T01:28:51.622Z",
       "isNew": false
     },
     {
@@ -244,6 +454,96 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-05T01:28:51.622Z",
+      "isNew": false
+    },
+    {
+      "title": "SONDAGE – Présidentielle : Le Pen loin devant, Mélenchon en dynamique - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUtoRGNSbTFuLTh4RW93VklwcG9xeVEtVzdCYjMtRElDUWpXZkFacjZ0WGJoai1MLTVZNi1PcDlHa2FMNllsZTBFbVRYZmVYeWl5dF9Pd3BKc2cwcDJid0xocFZzdGZwaWV1eGdQX3RRYmJ1eTJIME9UUFlzZWxhLTNuTnMwdEdzX0VHajBsanRsZ0poTlQ2QWMxUW5LNzZaWldSOA?oc=5",
+      "source": "lejdd.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUtoRGNSbTFuLTh4RW93VklwcG9xeVEtVzdCYjMtRElDUWpXZkFacjZ0WGJoai1MLTVZNi1PcDlHa2FMNllsZTBFbVRYZmVYeWl5dF9Pd3BKc2cwcDJid0xocFZzdGZwaWV1eGdQX3RRYmJ1eTJIME9UUFlzZWxhLTNuTnMwdEdzX0VHajBsanRsZ0poTlQ2QWMxUW5LNzZaWldSOA?oc=5\" target=\"_blank\">SONDAGE – Présidentielle ",
+      "publishedAt": "2026-09-05T19:15:05.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Avant la présidentielle, défilé politique à la braderie de Lille - Radio France",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdVFEN0pLM1l5YXFwTmM2Tnp5MWk5c0hQeTAycGMyYXZtbW4zQ1VNVkN3OTZfU1pWajBSUnRKYXZfeTI3b3Q1Sy1abGZBMlRuUkV4aEJxLU0ydDBrdWpUNzRrMEJMQ3JhNTF2eVRUbFlSUzVFUUtSTTJrWTZGSHZCNnZtUTROaVlnN0RCS3NsUHpDUHctdWMtVm1iaVRIYXY3ZzQ3WDFGOFFLMlRiMDR1bFpwNEJDeGZpM05VT2dHY2lPeTNfZGJ4VE80TkpMY0tkLUE?oc=5",
+      "source": "Radio France",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdVFEN0pLM1l5YXFwTmM2Tnp5MWk5c0hQeTAycGMyYXZtbW4zQ1VNVkN3OTZfU1pWajBSUnRKYXZfeTI3b3Q1Sy1abGZBMlRuUkV4aEJxLU0ydDBrdWpUNzRrMEJMQ3JhNTF2eVRUbFlSUzVFUUtSTTJrWTZGSHZCNnZtUTROaVlnN0RCS3NsUHpDUHctdWMtVm1iaVRIYXY3ZzQ3WDFGOFFLMlRiMDR1bFpwNEJDeGZpM05VT2dHY2lPeTNfZGJ4VE",
+      "publishedAt": "2026-09-05T06:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "DÉCRYPTAGE. Présidentielle 2027 : foire de Châlons et braderie de Lille, pourquoi les candidats sont-ils fans de ces événements populaires - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSFlBZVdNQUNWdi1xSVdHNWpwUUs5VW05QjRnYWlGVHM1N1ZZZW9IN2wyWXowenRyTHNxazZYSGVfQXdubHQ4OE5RYzQwdE55M2ZIV2pfblJfYV9ZQTFZZkNKY2F6UWUwREt1Wk0tUzNqVk1oM3BIV2sxeDZDVkJmLVNWNXd4bHRVZG00aGhMaGx3TzlLOUdjMFVsbWQybEJxT1NmbWNOem5KSFVyZ0ZmdWtTb19LRFpNZGFZSW9LYnRGZWdWT2cwSnRJWWRncUJ2MWxiV200d0tLdnR5Yk1nVm1wbHlOaWxCSVZXT2FwajFnWUQyMGhrNlh3S0x3dnhzRkdLSEs2SEZpaER4SWdSVQ?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPSFlBZVdNQUNWdi1xSVdHNWpwUUs5VW05QjRnYWlGVHM1N1ZZZW9IN2wyWXowenRyTHNxazZYSGVfQXdubHQ4OE5RYzQwdE55M2ZIV2pfblJfYV9ZQTFZZkNKY2F6UWUwREt1Wk0tUzNqVk1oM3BIV2sxeDZDVkJmLVNWNXd4bHRVZG00aGhMaGx3TzlLOUdjMFVsbWQybEJxT1NmbWNOem5KSFVyZ0ZmdWtTb19LRFpNZGFZSW9LYnRGZWdWT2cwSn",
+      "publishedAt": "2026-09-05T05:06:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Ferveur absolue pour Mélenchon, Tondelier et Attal plus discrets... la présidentielle se joue aussi à la Braderie - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNFhGYk5Rd21lZ2ZBcXNJT3RMZzNSOUcxWV9XQzkxdzg3QUJxbkNQVHh4RVh1a3diTjdFa3BuU1VWUjE4ZmNETExhTThoMnpUQWdQM3FFcjhhOXdQLTRRR1hYMTVIY3V3TURnbU5EbTVSdllpOEU2VjBKTEl1Zm5oejFOMmRpVGs0Y3k5MHBrSTktWElaVkF2ZW9DOURwOE9aZ0JLODZoT3RneGNheTcxb0FTVl81SllfZm9BaU9TaTY5MFAzaE1jenMxR1B4QzRnUGxxaWw0RzdYZng5T2dZRnFhX2xWWi1rV2NmUk1fNTR0M0MyR1c0aFRUdw?oc=5",
+      "source": "Actu.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNFhGYk5Rd21lZ2ZBcXNJT3RMZzNSOUcxWV9XQzkxdzg3QUJxbkNQVHh4RVh1a3diTjdFa3BuU1VWUjE4ZmNETExhTThoMnpUQWdQM3FFcjhhOXdQLTRRR1hYMTVIY3V3TURnbU5EbTVSdllpOEU2VjBKTEl1Zm5oejFOMmRpVGs0Y3k5MHBrSTktWElaVkF2ZW9DOURwOE9aZ0JLODZoT3RneGNheTcxb0FTVl81SllfZm9BaU9TaTY5MFAzaE1jen",
+      "publishedAt": "2026-09-05T15:36:12.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "À Lille, la présidentielle 2027 révèle déjà les fractures qui peuvent diviser les électeurs du centre et de la gauche - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNVRXNE9aT0tDOV9aSEpvdDRqWmRaZVZEdExyV0dtTnZyT3NCN0VDM3BxOU5lVFpuQTVUWUJIbEJjZ2p6MHpUUkJ2dUpjUUNqN1luRlZNYksxM1RWTjdRRTljQUtDcThUTElibkJHTW1ZZzJHNUJLN3Q4ZlhaekxSejh2Z2lTM0xfeTRLM1BKMndoUTFlaEdNNzd0LXBjMkNId05RT1hPZ2IxbW5ieVc0ZWhrMnV6S2k5MXk1NFNVajlUeV9tY0hvZUVxdkpOakhuanc1U0FRZDVualRpUUNjamJHb2NjNmpyajJUWnpNV1ZLcElTRHdiTnVR?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNVRXNE9aT0tDOV9aSEpvdDRqWmRaZVZEdExyV0dtTnZyT3NCN0VDM3BxOU5lVFpuQTVUWUJIbEJjZ2p6MHpUUkJ2dUpjUUNqN1luRlZNYksxM1RWTjdRRTljQUtDcThUTElibkJHTW1ZZzJHNUJLN3Q4ZlhaekxSejh2Z2lTM0xfeTRLM1BKMndoUTFlaEdNNzd0LXBjMkNId05RT1hPZ2IxbW5ieVc0ZWhrMnV6S2k5MXk1NFNVajlUeV9tY0hvZU",
+      "publishedAt": "2026-09-05T17:50:22.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : plusieurs candidats sont attendus à la braderie de Lille samedi - lanouvellerepublique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRjdBeWNoVmhQT3ZaUVhVcENVTlE1dzZKZ3l4U0NyYk1HeEFjOTNNeXJxQ3JwLVB1Y3lwUDBiNU56eXZNa0NQVUxGZGU1VEhIRGZrWnFNTVFrTkFLYU83U3NqdXp0TWxEQncxcFBxNTh1Qi1INEYxOWp0d19sS2t1TWk2U0w2elZldGIzRWM0SkpFTGZOYnpLRFVFYUhfazNQR292NHpJU1RETnlyakV3cHZSbUpaVi0zX2NBaWo5X3EwM2JhRWhsaS1DZ21OV3NYSWMtSUdB?oc=5",
+      "source": "lanouvellerepublique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRjdBeWNoVmhQT3ZaUVhVcENVTlE1dzZKZ3l4U0NyYk1HeEFjOTNNeXJxQ3JwLVB1Y3lwUDBiNU56eXZNa0NQVUxGZGU1VEhIRGZrWnFNTVFrTkFLYU83U3NqdXp0TWxEQncxcFBxNTh1Qi1INEYxOWp0d19sS2t1TWk2U0w2elZldGIzRWM0SkpFTGZOYnpLRFVFYUhfazNQR292NHpJU1RETnlyakV3cHZSbUpaVi0zX2NBaWo5X3EwM2JhRWhsaS",
+      "publishedAt": "2026-09-05T07:18:17.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
       "isNew": true
     },
     {
@@ -259,303 +559,61 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-05T01:28:51.622Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 : « Le Monde » analyse le match entre Attal et Philippe sur leurs réseaux sociaux - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWV81aHBXc3ZqdzBURm92OUNEWUtFU1hyaWw0YUxtN2paR2IyQmRqRV9wbG1NRnNBTVRFcDdMSlZObEpNelFFYzhqaXFoLWROYk9iVzJGdlZwT24tTzYxNGdMejJMaFR6QkpVcnlSVldtTnBKUXRrVG5KOGF1RkxhMEVPYmx5NWZsVFMzTzNkMU1OM2pmLTYzWUlBWHh0bDZISS1tb2F6MVp3NmRLSzJ4cHZkbm1ySmJzZ0xnZUw0OUdOX0ZfWjd3cE9zQnI3Q2VUX0I4RkhqSFFoYm9mekYyM29VOWt6bV9rWjQ5dVlZVVRGS25QeEp1OQ?oc=5",
+      "source": "Le Monde.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWV81aHBXc3ZqdzBURm92OUNEWUtFU1hyaWw0YUxtN2paR2IyQmRqRV9wbG1NRnNBTVRFcDdMSlZObEpNelFFYzhqaXFoLWROYk9iVzJGdlZwT24tTzYxNGdMejJMaFR6QkpVcnlSVldtTnBKUXRrVG5KOGF1RkxhMEVPYmx5NWZsVFMzTzNkMU1OM2pmLTYzWUlBWHh0bDZISS1tb2F6MVp3NmRLSzJ4cHZkbm1ySmJzZ0xnZUw0OUdOX0ZfWjd3cE",
+      "publishedAt": "2026-09-05T00:36:46.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
       "isNew": true
     },
     {
-      "title": "Présidentielle 2027 : Gabriel Attal présente son équipe, la journaliste Céline Géraud devient responsable de la communication - Sud Ouest",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbGdWMkVxYjhkcnVqNmJZQ200dmd5Vm1WYkw5OHNodGJqZG15amhOd2lJa1QzbTVTNDFVemdCRnZ4ZkhDajhLMmJjWFh3Q3FaNWJqZnJaRDU2bEpQekE0WDdtOHVpcVdSTEZjU1dEMHZnV2d3c2RJektsZk9kWmw3ZDk2QmZNV01OQ3Nyay10TVNCVHFJRnJyWkk0VnNnMnY1ZmNXamp6YmRXZTFQRnFPa2tCYWx4REtVUm1xYjdPbTBPcFlJdlJ5V2FFeXVaa2dJOXFZZFJPWEE4b29PSl84ODNqa1BFMnI3eE1rVXhfMGtzZlc5TWZORENuTnFRQWsyaVJNT0JlbFBTWGVhU1JwS0dB?oc=5",
-      "source": "Sud Ouest",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPbGdWMkVxYjhkcnVqNmJZQ200dmd5Vm1WYkw5OHNodGJqZG15amhOd2lJa1QzbTVTNDFVemdCRnZ4ZkhDajhLMmJjWFh3Q3FaNWJqZnJaRDU2bEpQekE0WDdtOHVpcVdSTEZjU1dEMHZnV2d3c2RJektsZk9kWmw3ZDk2QmZNV01OQ3Nyay10TVNCVHFJRnJyWkk0VnNnMnY1ZmNXamp6YmRXZTFQRnFPa2tCYWx4REtVUm1xYjdPbTBPcFlJdlJ5V2",
-      "publishedAt": "2026-09-03T10:34:18.000Z",
+      "title": "Marine Tondelier, Jean-Luc Mélenchon et Gabriel Attal attendus ce samedi à la braderie de Lille - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYjh4X1kyMUI1OWxwbEdod0h0RGJpaW1nb2tYZHV1WXRTc3hfNDh0ZmxvVWo2UGkzVmxvTDU2RUItYU9rVG5PeUM2UEVvRzBhNUpudDdFcG40R3ZhWm52Q3J3ODk2NWZEX0IwcGVvbG1qQU5DRm8wWEo3czFveHowQ3VBazl5TTNSYVEtZVFyVVFFby1OWUJpYVRuZXBydVJQX1UyNTJaOUtaXzhwTXh5Y24wWlpEVmNfVG5NWHFDNEViRFJSUUM1MHY0OTgwTFhoSlhzYnZwbEdpMkVXaXBOeEU4NGUxUThUbWc?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYjh4X1kyMUI1OWxwbEdod0h0RGJpaW1nb2tYZHV1WXRTc3hfNDh0ZmxvVWo2UGkzVmxvTDU2RUItYU9rVG5PeUM2UEVvRzBhNUpudDdFcG40R3ZhWm52Q3J3ODk2NWZEX0IwcGVvbG1qQU5DRm8wWEo3czFveHowQ3VBazl5TTNSYVEtZVFyVVFFby1OWUJpYVRuZXBydVJQX1UyNTJaOUtaXzhwTXh5Y24wWlpEVmNfVG5NWHFDNEViRFJSUUM1MH",
+      "publishedAt": "2026-09-05T05:01:12.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal propose de réduire la durée d’indemnisation chômage à 72 heures - Le Gorafi.fr Gorafi News Network",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQdGJKeWhzdnBlUUV2NHlNS2dpTUhxSTMtclFGdlA2ZV9wc0NBcmJxMVd0MUswOGdfTmoySS0zRmZ5eUdKWEJJ0gG6AUFVX3lxTFA5ekRyTUI4a1BCT1JSeUxuVnN5M3F4bTB2dzB4aWVSOEptZXZ3WHhGWWp2TnVHMlg2di04Y1MyMl91dl9qclkwRWJlR1ZaaWVNMTN3YWpMemh2amdkS2xkQlBFN3JjUjdkaFdNV0xfbV92NkZ3VjRRN1VDVmZPMzJQVnpPamFLNFpFbll1NnJ1eDFCZnNqYThaRVNiZHYxUWpHS2lhUXBKTFh2dXJ6d2FMQ1Y2YzVGU3lBUQ?oc=5",
-      "source": "Le Gorafi.fr Gorafi News Network",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQdGJKeWhzdnBlUUV2NHlNS2dpTUhxSTMtclFGdlA2ZV9wc0NBcmJxMVd0MUswOGdfTmoySS0zRmZ5eUdKWEJJ0gG6AUFVX3lxTFA5ekRyTUI4a1BCT1JSeUxuVnN5M3F4bTB2dzB4aWVSOEptZXZ3WHhGWWp2TnVHMlg2di04Y1MyMl91dl9qclkwRWJlR1ZaaWVNMTN3YWpMemh2amdkS2xkQlBFN3JjUjdkaFdNV0xfbV92NkZ3VjRRN1VDVmZPMz",
-      "publishedAt": "2026-09-03T12:03:56.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "L’ex-judokate Céline Géraud devient responsable de la com de Gabriel Attal - 20 Minutes",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV1VWVUJXRFRFOWtmZ1AxR1hKN2Z1YUlISEgtVno1RkZlSmI0ckZMWEdUWUhab1hfU0ZsdENwTDRYNHhhSjA4OVdpMVhQNnY0bFlfd0Fkd1hiSnZtRzlyMHFkWHdnd2JpNDluSnRvdTdMbnRaR0ZSTExjZE01RURUSmJOOV9rcU91VU1wek5Ob3pZMjFDcFQyWlY0eG92Y1ROVDZicTF3aXozSHNIUWtuNnZHUnl4d0JZQ25NMlluSTJGeFpsaFNmY0pHaUFjQUI1RkV6ZTh4emZlMlB1VXFyTE9VUnBvZXlrWnZz?oc=5",
-      "source": "20 Minutes",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV1VWVUJXRFRFOWtmZ1AxR1hKN2Z1YUlISEgtVno1RkZlSmI0ckZMWEdUWUhab1hfU0ZsdENwTDRYNHhhSjA4OVdpMVhQNnY0bFlfd0Fkd1hiSnZtRzlyMHFkWHdnd2JpNDluSnRvdTdMbnRaR0ZSTExjZE01RURUSmJOOV9rcU91VU1wek5Ob3pZMjFDcFQyWlY0eG92Y1ROVDZicTF3aXozSHNIUWtuNnZHUnl4d0JZQ25NMlluSTJGeFpsaFNmY0",
-      "publishedAt": "2026-09-03T15:18:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
       "isNew": true
     },
     {
-      "title": "Le maire de Bordeaux Thomas Cazenave dans l'équipe de campagne de Gabriel Attal pour l'élection présidentielle - ici.fr",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNa2pfN0hiQ2VzS0o2amNYc3lmNjVKSWF0c3d0QV9GYnVsdjdJRHhyeWMxZXV3VnNmRFlKU2tES0tUTmJYa0t3RGZlaHZvcHdBdFRTVnVCdkxIdDBRQ19fQlhLQVV0bTM1WkhKM1dWdDJXTmxBQS1ST1RNTnFKR3BfYVlVZ1pUck1NZmtpX0VTQWRXd3ZoWVk2dGJiMW0ydHZRX2NJSlcwejZiZlZuZEtiSmpQNUpSLTFvc190SHdGdnc5WUhyUER4dm5EMlM2elpTT0dSM0Z2dmJ0V2pHZ3pmbE5fOF9ldkk3THYza1FpOVMyU2RFbWQyRDV0cTd0bHJ6UzF4cUVQaw?oc=5",
-      "source": "ici.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNa2pfN0hiQ2VzS0o2amNYc3lmNjVKSWF0c3d0QV9GYnVsdjdJRHhyeWMxZXV3VnNmRFlKU2tES0tUTmJYa0t3RGZlaHZvcHdBdFRTVnVCdkxIdDBRQ19fQlhLQVV0bTM1WkhKM1dWdDJXTmxBQS1ST1RNTnFKR3BfYVlVZ1pUck1NZmtpX0VTQWRXd3ZoWVk2dGJiMW0ydHZRX2NJSlcwejZiZlZuZEtiSmpQNUpSLTFvc190SHdGdnc5WUhyUER4dm",
-      "publishedAt": "2026-09-03T10:24:26.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : le maire de Bordeaux Thomas Cazenave dans l’équipe de campagne de Gabriel Attal - Sud Ouest",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcjdYWVVYVlZ1amFOeVE2eFlWb3pPYmxXTHR4UFdod3pUQ2lYRExCQU0ybjhfMzY4NHNDdUVCTWZPUWVtZVdwTS1GV2ZaNndDNkR1MjIxWHRkV1lZUFdzWlE0RVN1NWM5c3VSTUtyZWVLOXFGUmczOUt3a28wM19iZXJkUV8xOTJ0UERjTktIekhhM0lHTGxIR3VxSnRqT1laUm03Z2M2aE11WGx5VTlNZUVueUlCc1c4TG11VW5lRkZFbDFxZVJtVGdzU3RsWjg3eU5nMzk0VmhCdzNiX3NlbnpYWm54Xzdx?oc=5",
-      "source": "Sud Ouest",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcjdYWVVYVlZ1amFOeVE2eFlWb3pPYmxXTHR4UFdod3pUQ2lYRExCQU0ybjhfMzY4NHNDdUVCTWZPUWVtZVdwTS1GV2ZaNndDNkR1MjIxWHRkV1lZUFdzWlE0RVN1NWM5c3VSTUtyZWVLOXFGUmczOUt3a28wM19iZXJkUV8xOTJ0UERjTktIekhhM0lHTGxIR3VxSnRqT1laUm03Z2M2aE11WGx5VTlNZUVueUlCc1c4TG11VW5lRkZFbDFxZVJtVG",
-      "publishedAt": "2026-09-03T10:01:15.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielles 2027 : après un été pied au plancher, Gabriel Attal poursuit sa campagne permanente à Toulouse - L'Opinion Indépendante",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbGZtUDRXZENJbjIxbTBIa251TmdrZjQ1dnQ4d01UbXRoWFlXT0hPQTNJNDVOYkJlRTFLZzlfdDBiYlVzUU1VVUk2YXlRYnlXM1h6ejlzOUFYYVFwU3BJRUJNZzhwdnhXY2x5TlV6SUZ3T2Q2U0NkWEtnUTFYendLZU9wYTE2d1AyemozM0RkRl9lbkdqSURLSmVCNnJHRnJHMWJIMmVpODNBTFVSSDZVeGZOaW1tZ200d0N4VVE4ZGdRX1hibVVVMXF2Y1ZySkt1ZXZUY0ljdkdzejlHbnNiU0d4ZVlsZjVN0gHuAUFVX3lxTE53ZGVfSlhrekN5NF83bVV4cW9TaTV3akI2eHV3MmEwVjhBdlFjMnJ5NDBJUF85cDhEcnJkUl9zSG1SUHdRNXZkMjgycnhrN2R3SXcyU0thWGFvTTU5NFFjYTY0T2lkd0FvQ2luaml6RnE0TEJOQWNPT2lVMFFUX092Sms3YWRlOFNISFpUWHZoMFRaYU1QUGxTNU1SMXdJQXIxNjhPMk1VeDFQYk11c1hlOWxsdDUzaGJKZFhKLTdfRWE2OEswRTlDUnJpOXlmU29nNWoxMGt0dTNIdm9KR1dma3Q4WmhJMlMxSC1FMVE?oc=5",
-      "source": "L'Opinion Indépendante",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbGZtUDRXZENJbjIxbTBIa251TmdrZjQ1dnQ4d01UbXRoWFlXT0hPQTNJNDVOYkJlRTFLZzlfdDBiYlVzUU1VVUk2YXlRYnlXM1h6ejlzOUFYYVFwU3BJRUJNZzhwdnhXY2x5TlV6SUZ3T2Q2U0NkWEtnUTFYendLZU9wYTE2d1AyemozM0RkRl9lbkdqSURLSmVCNnJHRnJHMWJIMmVpODNBTFVSSDZVeGZOaW1tZ200d0N4VVE4ZGdRX1hibVVVMX",
-      "publishedAt": "2026-09-03T16:30:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "«Un renouvellement des visages» : Gabriel Attal présente son équipe de campagne pour 2027 - CNews",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObDh2d1NwTkduR0tPZTd2aE5tSkw5Zkc2SmQ2cFRJd2NTUkRrV05fTy14NVdlYWlnRklodllxbDVHRnFMTDR1OEpubHc2eFJZenJNUHYtcXFzaDh1bVJRNUN4WGJuWTBwTVBHZzA0VmxXU25LX05vME1naWEtWGl4akxQVXhyM3BmZXR4Rm1XcjZKYW05QnB0eml1a0t3N1hNMV9UcUxOdWFhTW5NbTJYV2tQQU9OR1N3aHM40gHAAUFVX3lxTE5QY0xrLTh6N0J4TFhKNkg0NVYtczZvbVY1VWREdHJLZkNaYjFVQ2ZBWVB1Tk1kTkZUZGtqQjVaV1NfWVh1dmJ6R1N5THJrNkNFUkVjUnMwY3JCWU1xa3M3Rl90Rmdid2g4Sllya2d3RGtYZWNYZ3M2cGxnOGR1ek5uNXVOZlBCZGhfeDV6S192eEVSWGwxMDE5dVJzSVA1T004bmRZaUQySlJjOGg3UVExSjgyc2NnWnAxNXA5emtxUw?oc=5",
-      "source": "CNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObDh2d1NwTkduR0tPZTd2aE5tSkw5Zkc2SmQ2cFRJd2NTUkRrV05fTy14NVdlYWlnRklodllxbDVHRnFMTDR1OEpubHc2eFJZenJNUHYtcXFzaDh1bVJRNUN4WGJuWTBwTVBHZzA0VmxXU25LX05vME1naWEtWGl4akxQVXhyM3BmZXR4Rm1XcjZKYW05QnB0eml1a0t3N1hNMV9UcUxOdWFhTW5NbTJYV2tQQU9OR1N3aHM40gHAAUFVX3lxTE5QY0",
-      "publishedAt": "2026-09-03T11:09:41.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Jean-Charles Orsucci intègre l'équipe de campagne de Gabriel Attal pour la présidentielle - alta-frequenza.corsica",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNFl5cVhULTEwbUE4dzhjb2c0Nk5hLXdIck13aDNhZC1kMVFPc3BIa212RklWOU1PeW1QSU8tblhRRjZJbmVWMlR4bXZmX3VuTXAzS1YxLUNmQ25VanBxTFhZSWJHa0lSUmlnU1AyQzZkQTJnckREZXEtbldnTE8tTFhETE9qaGJ6bjhyREhKVXZjb1BaRndNaHlHUGJZbVQ4b0NsTWNZUW1KOGY0ME5WdnI0VDN0eTdLZGFncHBqT3Q0VWxPTDFlVzhZVjRSWG1MeWc?oc=5",
-      "source": "alta-frequenza.corsica",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNFl5cVhULTEwbUE4dzhjb2c0Nk5hLXdIck13aDNhZC1kMVFPc3BIa212RklWOU1PeW1QSU8tblhRRjZJbmVWMlR4bXZmX3VuTXAzS1YxLUNmQ25VanBxTFhZSWJHa0lSUmlnU1AyQzZkQTJnckREZXEtbldnTE8tTFhETE9qaGJ6bjhyREhKVXZjb1BaRndNaHlHUGJZbVQ4b0NsTWNZUW1KOGY0ME5WdnI0VDN0eTdLZGFncHBqT3Q0VWxPTDFlVz",
-      "publishedAt": "2026-09-04T05:02:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
-      "isNew": true
-    },
-    {
-      "title": "« On coupe le robinet » : le RN à nouveau dans l’embarras sur l’aide à l’Ukraine - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2JuTTZUakpEMGdqZ0pleXk0eFU2aUdoMFY2UEh3R09KN0hqWFFoRHZtUGtuRzZtWkVkOTFfY0NCV0xKTDd4ekJFTGtzSThJeVFLY3RRZ09SWkNkOUYyaG9oTFI3VTZjTGxsd05IcXVnQ1EtcnpTVjBub2RPM21zY0lQQW11Q0J2TnNudFI2ZXk2MXpUcnJHejA2czlPMTFGN0JTaFlOZUk?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2JuTTZUakpEMGdqZ0pleXk0eFU2aUdoMFY2UEh3R09KN0hqWFFoRHZtUGtuRzZtWkVkOTFfY0NCV0xKTDd4ekJFTGtzSThJeVFLY3RRZ09SWkNkOUYyaG9oTFI3VTZjTGxsd05IcXVnQ1EtcnpTVjBub2RPM21zY0lQQW11Q0J2TnNudFI2ZXk2MXpUcnJHejA2czlPMTFGN0JTaFlOZUk?oc=5\" target=\"_blank\">« On coupe le robine",
-      "publishedAt": "2026-09-04T14:44:02.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
-      "isNew": true
-    },
-    {
-      "title": "\"Je n'ai pas le même projet que celui d'Edouard Phiippe, sinon je serais au premier plan de son meeting\" assure Gabriel Attal, candidat à la présidentielle 2027 - BFM",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNMHFaOXBYdFZxdW9VQUJ4MUpyNTZOTFlVS21DT2NQbGNEQ0NublZLN0ozcHFOcVJsVTZPajdEZmxNeTJCQ3BHZjVrdmlHTW5IaGU5MGMwZTZwNEpUZ1A1dlBKVlV1a2JoWXhsamtBZnZBQ252aTdudTRFRGE2QkVGOW5XQ0JpbU93dmZSdFdYMmZISmhINXBiMlBjSHBLMks4WEFLQThEMjJnWDV6RXJHQU5KY09kTVdESmhMb25CamY2VWQzRmdISjRpaXVEc1JqalNtTlVKZEVTUXA4UHRWMmZPYXowb0FobVFaSGszWG1BaXNrRWxkTkFSX095eWk4WmV1SXR5T2EwcTIwUno0RHBpN2dBMUZkaklVMjNxMm9oUkxxNlNZd2JsamtfVmp2RTFvRUR3eUF1SU0?oc=5",
+      "title": "C'est devenu une ressource stratégique pour l'industrie: Bruxelles veut bloquer les exportations de déchets d'aluminium hors de l'OCDE, et notamment vers l'Inde - BFM",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPclNlTnNySmdXWnBLQTdaN1pyUHhId0E2RGNLLXlEWmtDT1hpR2kxNFhsU0hFdnNUdGlSeE91MkEwZ3ZDbDhrX3BSaW5yaUdrN01BRndkeE1HcmJlbUxjX1FRdXFhM3RrcFR6WnV3b056N05yc0JHYm9wWXhXUW00bGR5MEN1c3owNFRsQXFSQzhtaENFSVMweGNuNTlOYnp6RVRuQkEzczFzakt1Q043Q1hrREo5SUJOQWY4d1p6RXo1ekFNVFlkMzJxOFpWYVBscEZrci1URWJCSHRSVFh0bi1xbXZJb0VYeEtJa3hrQVRBZEJId0F6ZEhCUkVmcjFTQXk5LW5GeHNWS2t3cERlbnU3Q1l6Z1pMbU0zd3lXcGpPeUFuUTRVUTM1NGZJbUt4czZRaGpSQmtmUjJ0V0dUdmpJc1RGN3JaQXc?oc=5",
       "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxNMHFaOXBYdFZxdW9VQUJ4MUpyNTZOTFlVS21DT2NQbGNEQ0NublZLN0ozcHFOcVJsVTZPajdEZmxNeTJCQ3BHZjVrdmlHTW5IaGU5MGMwZTZwNEpUZ1A1dlBKVlV1a2JoWXhsamtBZnZBQ252aTdudTRFRGE2QkVGOW5XQ0JpbU93dmZSdFdYMmZISmhINXBiMlBjSHBLMks4WEFLQThEMjJnWDV6RXJHQU5KY09kTVdESmhMb25CamY2VWQzRmdISj",
-      "publishedAt": "2026-09-03T09:51:09.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxPclNlTnNySmdXWnBLQTdaN1pyUHhId0E2RGNLLXlEWmtDT1hpR2kxNFhsU0hFdnNUdGlSeE91MkEwZ3ZDbDhrX3BSaW5yaUdrN01BRndkeE1HcmJlbUxjX1FRdXFhM3RrcFR6WnV3b056N05yc0JHYm9wWXhXUW00bGR5MEN1c3owNFRsQXFSQzhtaENFSVMweGNuNTlOYnp6RVRuQkEzczFzakt1Q043Q1hrREo5SUJOQWY4d1p6RXo1ekFNVFlkMz",
+      "publishedAt": "2026-09-04T18:49:17.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
-        "attal"
+        "sejourne"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Céline Géraud, responsable de la communication de Gabriel Attal : « Je suis prête à aller au combat » - TV Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc0JIdlZrSXFsUzYwdUFnOVpuTmhaSnh2cDQ1VDJvUmhxVkk3U0VkSlNvbFJ2WUlwXzdjN0Rqd0NrM05GMGlkV2JPQ1l6X2p5Z2I5TklHRHVCaE0tdHQzVllVXzlJbnhwREtBTzZpZjNjMk1Yd2lZYnU4T2kwQk53dWpvVnFXQzBwUlNSVmJ4eTJHZkE4VVNVZW5hSUp1b2E3LU1saHZQRWFaZjU2OW45U2lIcEthOUNmMjZsMmlnZHZ1TFFFQjJDQlNSNDNDT0FNUU9YaHZoQjZUb0NsbGd0WE8zc1JjTWc?oc=5",
-      "source": "TV Magazine",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc0JIdlZrSXFsUzYwdUFnOVpuTmhaSnh2cDQ1VDJvUmhxVkk3U0VkSlNvbFJ2WUlwXzdjN0Rqd0NrM05GMGlkV2JPQ1l6X2p5Z2I5TklHRHVCaE0tdHQzVllVXzlJbnhwREtBTzZpZjNjMk1Yd2lZYnU4T2kwQk53dWpvVnFXQzBwUlNSVmJ4eTJHZkE4VVNVZW5hSUp1b2E3LU1saHZQRWFaZjU2OW45U2lIcEthOUNmMjZsMmlnZHZ1TFFFQjJDQl",
-      "publishedAt": "2026-09-03T08:00:07.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Le Pen en tête, Philippe et Attal décrochent et Glucksmann progresse dans l'opinion - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2hYc0pwZFVpSTdSOHFfTDF3Rm9lc0tzMFEzVXpDM0w1azhYS0Q0Z0FlT21TRkFjM2hEWGF6SEpNMm1qYTBLaGpzd0ZKc3RHRnlZSV8xY184el9XOFMwb2JNRkZxY3JJcnI3OUJkdGpWTXUwM3ZPZ3pRcXlTNXRoLWozQk5FRlczRTJadzVPd0RiTnVJUlZtN3dYVVkxSC1qaUgzdlNDWlNKSFMzdi1iVTJEcWdFUXhaMG9HaTNTQU1YN2o0Zno1WFBIUUIxVWFlMS1YYVhlbTNrMU96ekROZWdnNlQ?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2hYc0pwZFVpSTdSOHFfTDF3Rm9lc0tzMFEzVXpDM0w1azhYS0Q0Z0FlT21TRkFjM2hEWGF6SEpNMm1qYTBLaGpzd0ZKc3RHRnlZSV8xY184el9XOFMwb2JNRkZxY3JJcnI3OUJkdGpWTXUwM3ZPZ3pRcXlTNXRoLWozQk5FRlczRTJadzVPd0RiTnVJUlZtN3dYVVkxSC1qaUgzdlNDWlNKSFMzdi1iVTJEcWdFUXhaMG9HaTNTQU1YN2o0Zno1WF",
-      "publishedAt": "2026-09-03T15:33:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "“J’ai l’impression de débuter une 3e vie” : Céline Géraud rejoint l’équipe de Gabriel Attal, l’ex-journaliste de France 2 explique les raisons de son choix - Gala",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWTRsVW00c1kwWVcxM3huNHNkMTk5WGp6T1QxOVNKMTZwZlNHWTMxc1pPelVMMjZzTjlHQXVEenFLSndJTWFvajh4MDNWOXVkM1R5dDRva3ZLcUZ3cnNkVnVRZHFNcnVYNlNGdUNiZVNidjVnM2NFOHpZYXZ6WF82dVNLVndtQ0dBV2l2SHpUZnNHZXE4c2E5eFB2ZkRWcTF3WGo1b0d1dUYybXdxTU53Qll0V0JsVDJUMjhsM3h0OFZwbkdBNUFMZGlNTjc2dnFXRUZnNy1Cb0JINmRkdVFfN2tzM1ZBOGtPYk9kTDBVeWZkQnpuNlY4QThlZFJzT3h5QVVNTE8wZS1fQm5GNUtmT29NWF84aHJi?oc=5",
-      "source": "Gala",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQWTRsVW00c1kwWVcxM3huNHNkMTk5WGp6T1QxOVNKMTZwZlNHWTMxc1pPelVMMjZzTjlHQXVEenFLSndJTWFvajh4MDNWOXVkM1R5dDRva3ZLcUZ3cnNkVnVRZHFNcnVYNlNGdUNiZVNidjVnM2NFOHpZYXZ6WF82dVNLVndtQ0dBV2l2SHpUZnNHZXE4c2E5eFB2ZkRWcTF3WGo1b0d1dUYybXdxTU53Qll0V0JsVDJUMjhsM3h0OFZwbkdBNUFMZG",
-      "publishedAt": "2026-09-03T10:13:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : Jean-Charles Orsucci intègre l'équipe de campagne de Gabriel Attal - Corse Matin",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzNTdlJoMDd0cmFIMGRqNFZJZUJTME5yYzJwMW4zYVg0U0xsTWRRR3VlNnp6aGw0VTZ1WEpJQzgweHRWUWM1VVVJZi02MFpZbnpCU3FkQUxLejBSaTRXOXpFOUhvZGdPcGVzWUs1N1dIaXpOQTBTdmpENVREemdCNGlHVWdwZmRSSElRNEF2TV92NGZqaGZTbWpocV9ZVVRWalBvdHIyOXpwT093SzBDckJQVVRDYzMybk1idzI4XzM0emJHQ2cyVnJuaXNQWXBRQ3VrSEQ4MWlRZFhjTzFWSA?oc=5",
-      "source": "Corse Matin",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzNTdlJoMDd0cmFIMGRqNFZJZUJTME5yYzJwMW4zYVg0U0xsTWRRR3VlNnp6aGw0VTZ1WEpJQzgweHRWUWM1VVVJZi02MFpZbnpCU3FkQUxLejBSaTRXOXpFOUhvZGdPcGVzWUs1N1dIaXpOQTBTdmpENVREemdCNGlHVWdwZmRSSElRNEF2TV92NGZqaGZTbWpocV9ZVVRWalBvdHIyOXpwT093SzBDckJQVVRDYzMybk1idzI4XzM0emJHQ2cyVn",
-      "publishedAt": "2026-09-03T07:51:02.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal, candidat à l’élection présidentielle, est attendu à la Foire du Mans - - Le Mans.maville.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTJ2VGJMc1RSQWhkdm4td01pT3NqU0ZYaHFtanhMVnFxbkYtZ0ZBc1Y5OG94amxOQWN6WTkzN1FpYkNpWC1tSVlQQjIxWEdhbXM2NS1JbTBqc0R1bm1iUTNMbDM1VldXSV9VTmpySV9adlloWVhJUm90RnNIM1pkSEtNRUt1Yk8xRTk3Q0tzeTlXTGJ2bzNUZ05mYW5vZDRFaUl0bmc0dXc1Nm5FWG5XRmZqUXpMZGlXRG9wOGV4VlRQaWJrNWttTHMzbmJVQWJvZ1BDczJtc3VwQkE?oc=5",
-      "source": "- Le Mans.maville.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTJ2VGJMc1RSQWhkdm4td01pT3NqU0ZYaHFtanhMVnFxbkYtZ0ZBc1Y5OG94amxOQWN6WTkzN1FpYkNpWC1tSVlQQjIxWEdhbXM2NS1JbTBqc0R1bm1iUTNMbDM1VldXSV9VTmpySV9adlloWVhJUm90RnNIM1pkSEtNRUt1Yk8xRTk3Q0tzeTlXTGJ2bzNUZ05mYW5vZDRFaUl0bmc0dXc1Nm5FWG5XRmZqUXpMZGlXRG9wOGV4VlRQaWJrNWttTH",
-      "publishedAt": "2026-09-03T16:17:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Braderie de Lille 2026 : Mélenchon, Attal, Tondelier… les politiques attendus ce week-end - Nord Littoral",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmRTeWs2WFNKcnBKT1oyaUhXMGlVM2c3Yll2Y2cweUpJUDNKa3VwY1RvV2MzRktlaEE0SGVNdjQ4VWdlLVNITUUzY0lEeFhzeE8tand0S0xIV3Vab1dpM0hHdzd1ajUzaEkyeHlmZmFtMlVZWDd6alY1S3dpY1ZKYVFwdWo4QXM3YVQxVnNYN283UnZFeVBfMHpRcXpmZjRxUDd5X1FYMWQ4WW9uRjk1bHVmTWRlYm1VZ2hnVWxmLXUyZUtuOU82aGhrQ01hVmM?oc=5",
-      "source": "Nord Littoral",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmRTeWs2WFNKcnBKT1oyaUhXMGlVM2c3Yll2Y2cweUpJUDNKa3VwY1RvV2MzRktlaEE0SGVNdjQ4VWdlLVNITUUzY0lEeFhzeE8tand0S0xIV3Vab1dpM0hHdzd1ajUzaEkyeHlmZmFtMlVZWDd6alY1S3dpY1ZKYVFwdWo4QXM3YVQxVnNYN283UnZFeVBfMHpRcXpmZjRxUDd5X1FYMWQ4WW9uRjk1bHVmTWRlYm1VZ2hnVWxmLXUyZUtuOU82aG",
-      "publishedAt": "2026-09-03T13:14:15.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal mise sur une équipe ouverte pour s’imposer dans la bataille du centre avant la présidentielle 2027 - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDJtdXlIU3JXSFBydXlwVlgtRWYzYmI5RVF5ak5fWTR4MkxFWlVkTURuLUV0T2xlMEt4b19HbjJWSWxsZnRfb3VXTU96WG9TbXUwVmtnamw4c2M0NjFLOGlrMGRnTXl1Qm16MjhtSDFZbDFqdGk4WkpYZmdFd2xJWUNGZWdzZ21RUnNpMktMejVSNk1xaGRxbFdHbFRpX2xNeWljN0NPZmI3d1hzVmQ4dmc5R1lMeWM5MHFNaGFSQlNiZFNHaHBWMWY4Q2lScTd6RktwUDM1TkM3ckp5eHZSeGxLUXF2Q3RiVVgzSXhYakRDRm8?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDJtdXlIU3JXSFBydXlwVlgtRWYzYmI5RVF5ak5fWTR4MkxFWlVkTURuLUV0T2xlMEt4b19HbjJWSWxsZnRfb3VXTU96WG9TbXUwVmtnamw4c2M0NjFLOGlrMGRnTXl1Qm16MjhtSDFZbDFqdGk4WkpYZmdFd2xJWUNGZWdzZ21RUnNpMktMejVSNk1xaGRxbFdHbFRpX2xNeWljN0NPZmI3d1hzVmQ4dmc5R1lMeWM5MHFNaGFSQlNiZFNHaHBWMW",
-      "publishedAt": "2026-09-03T10:50:35.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-04T01:27:21.443Z",
-      "isNew": false
-    },
-    {
-      "title": "Six porte-paroles pour porter les idées de Gabriel Attal",
-      "url": "https://attalpresident.fr/actualites/six-porte-paroles-pour-porter-les-idees-de-gabriel-attal",
-      "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "Gabriel Attal a dévoilé l&#x27;équipe qui l&#x27;accompagnera jusqu&#x27;à l&#x27;élection présidentielle. Parmi elle, six porte-paroles qui auront pour mission de défendre les idées et les propositions de son projet dans les médias, sur les réseaux sociaux et sur le terrain. Sport, sécurité, territoires, droit, engage",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "lang": "fr",
-      "type": "official",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal présente son équipe de campagne pour l’élection présidentielle de 2027",
-      "url": "https://attalpresident.fr/actualites/gabriel-attal-presente-son-equipe-de-campagne-pour-l-election-presidentielle-de-2027",
-      "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "À l’occasion d’une conférence de presse organisée ce jeudi 3 septembre, Gabriel Attal a présenté la première partie de l’équipe qui l’accompagne dans sa campagne pour l’élection présidentielle de 2027. Une nouvelle étape dans la structuration de sa campagne, avec la mise en place d’une équipe chargée de mener le projet",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "lang": "fr",
-      "type": "official",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-09-05T01:28:51.622Z",
+      "firstSeenAt": "2026-09-06T01:23:19.442Z",
       "isNew": true
     }
   ],
   "stats": {
-    "total": 36,
-    "new": 14,
-    "carried": 22,
-    "media": 34,
+    "total": 40,
+    "new": 34,
+    "carried": 6,
+    "media": 40,
     "agenda": 0,
-    "official": 2,
+    "official": 0,
     "coOccurrence": 0
   }
 }
