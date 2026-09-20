@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:43:34.988Z",
+  "generatedAt": "2026-09-20T01:46:09.293Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,48 +7,33 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Gabriel Attal veut construire « les Etats-Unis d’Europe », proposition choc pour « relancer l’idéal européen » - Public Sénat",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1lNV0tfZjBxSHJJdXVCVldpdnRYQWVJUUtSdi1IN1QzNmg1dm1qcm9aQ0w4T2V4dDc0Y2xYMEk1QUZpUFlrTWJxZG1Bc3J2bDBFR0RWaFk4LTQybWt0YVhxS1AxMTY0dy1mLXd3SlhZdEZfbVhvd1RqenhJV3BLUzJaMm1ZSjkzRksxWktPaDlHU05XeFkyRjNqeTVmeWk1dFhMNnp2d1Bhc3JUN1cwN3A4NnpYUkY0MVRtaVlsY1hoUXE1VmR2Z3JCMVlYOTcyMFlOZmhVSmJkSlpzSFRWdQ?oc=5",
-      "source": "Public Sénat",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1lNV0tfZjBxSHJJdXVCVldpdnRYQWVJUUtSdi1IN1QzNmg1dm1qcm9aQ0w4T2V4dDc0Y2xYMEk1QUZpUFlrTWJxZG1Bc3J2bDBFR0RWaFk4LTQybWt0YVhxS1AxMTY0dy1mLXd3SlhZdEZfbVhvd1RqenhJV3BLUzJaMm1ZSjkzRksxWktPaDlHU05XeFkyRjNqeTVmeWk1dFhMNnp2d1Bhc3JUN1cwN3A4NnpYUkY0MVRtaVlsY1hoUX",
-      "publishedAt": "2026-09-17T18:16:01.000Z",
+      "title": "Présidentielle 2027 : Gabriel Attal veut des «États-Unis d'Europe» avec la disparition «des frontières économiques» - cnews.fr",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmxNbzJzNmtKUDhabTUwMjVxZC1GY1dqLTZZUzYwWXI0eFJyajZLOXBuYktSVW5QLXg4UkEwSWNHLVA5a3ZHQUg3MkZsaTFzUVMxbDRPRlJNVHNKdTZSS094X0Y0MDRiS3lqeXc5dWJRZFE5TlJJSzdfVUF1cWdHNDRnbWx6elhzd0RPWHdnVEd2WWZYMEE4ZGlmc1o5djBNRGtPd2lHbC0teWx1djFMNzYwNlRPLTlOOTkwYdIBwgFBVV95cUxOaVRGaG9jYTJQR1pacHhFS2hRNDJ6UVlBS0lQbUpaNHJBWUhNQTVUMnhjNndCWnFyTGl1WFdqMzBZYnZ1aGRfQm01RVJtRGpCSlgtN0s4aXk3LWVLVmJJcXF6Vk5md3FXaC1RRkIyVW14eUpKYzdOQmpjQ2wyUVkxWlNHNHNweEQyNFBXWjI4VjhpOHFSX2JOeDZHN3FDcjVjSnZNOTN3eHlpWkNMSnBvLW1OcXF1YVR0dFNHR19fV2podw?oc=5",
+      "source": "cnews.fr",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONmxNbzJzNmtKUDhabTUwMjVxZC1GY1dqLTZZUzYwWXI0eFJyajZLOXBuYktSVW5QLXg4UkEwSWNHLVA5a3ZHQUg3MkZsaTFzUVMxbDRPRlJNVHNKdTZSS094X0Y0MDRiS3lqeXc5dWJRZFE5TlJJSzdfVUF1cWdHNDRnbWx6elhzd0RPWHdnVEd2WWZYMEE4ZGlmc1o5djBNRGtPd2lHbC0teWx1djFMNzYwNlRPLTlOOTkwYdIBwgFBVV",
+      "publishedAt": "2026-09-18T05:11:53.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
+      "firstSeenAt": "2026-09-20T01:46:09.293Z",
+      "isNew": true
     },
     {
-      "title": "EN DIRECT, présidentielle 2027 : Gabriel Attal propose « de créer les Etats-Unis d’Europe en faisant le premier référendum européen » - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPcjhsLVNlTjdud3dub1pBUkhYMlBjLWgtd0ZKbm1aX215OWJwRDVhbGxqZ2FxVjV5OVh2U2VnU2hLZlhyS09KVzBxZVU0U0dOV3VHZS1odjRZTFBEcUdTOXZmdE5rS3RyQWM4d1BPSmZDa1R0b285Nzc0bFhVVXBPTmdLY0FCM3c1Zk9hc0hyZ2NKbnNKUl9vS0VWbjhfRklqZGt0alRkWnhlTUZxV0pFcW9xM25JZXNVbnJaY3hacllBazd2MnREVTFYMklMVHZrSFdNcjhITU1jbXJsc3k3RjAzX1RoaUgxTVgzdGMtVmpQNTdoeXc0WlFjMUJ3TWhYT3N3aFNxVmd5YmtqaC1kTnhacXZWcGhTNF95eVFqNlo3OW5LRmRrTTdiVlQtOHVwRlhfSjNBU0ltTXl6T2NCSGNIX1BtdWMy?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxPcjhsLVNlTjdud3dub1pBUkhYMlBjLWgtd0ZKbm1aX215OWJwRDVhbGxqZ2FxVjV5OVh2U2VnU2hLZlhyS09KVzBxZVU0U0dOV3VHZS1odjRZTFBEcUdTOXZmdE5rS3RyQWM4d1BPSmZDa1R0b285Nzc0bFhVVXBPTmdLY0FCM3c1Zk9hc0hyZ2NKbnNKUl9vS0VWbjhfRklqZGt0alRkWnhlTUZxV0pFcW9xM25JZXNVbnJaY3hacllBazd2MnREVT",
-      "publishedAt": "2026-09-17T16:24:57.000Z",
+      "title": "Immigration illégale : l'appel de Charles Rodwell à Gabriel Attal et Édouard Philippe - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVQ3UDliaHdGd2VETHdIcnY2SDNfVHY3eEw4Tm5lZWhyTUdyNWcwT1FaaWxfWVh5NjRxOFBESFVUek0wVUVFaHpjSktBX3lIX2dkVllzVy1PMEU2Ty1sRHhmc0Z5UlFieXliMW9yLXU2S2kwQmlHLTZuUmpQWkR0QVRMQlN5LVhfdHppamJGNmVXbXR6ck9saVVWTkk5dEVNN0dOdWtEZTRPMzlMTDVZdlI1cTFjZlFfbVJmRQ?oc=5",
+      "source": "lejdd.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVQ3UDliaHdGd2VETHdIcnY2SDNfVHY3eEw4Tm5lZWhyTUdyNWcwT1FaaWxfWVh5NjRxOFBESFVUek0wVUVFaHpjSktBX3lIX2dkVllzVy1PMEU2Ty1sRHhmc0Z5UlFieXliMW9yLXU2S2kwQmlHLTZuUmpQWkR0QVRMQlN5LVhfdHppamJGNmVXbXR6ck9saVVWTkk5dEVNN0dOdWtEZTRPMzlMTDVZdlI1cTFjZlFfbVJmRQ?oc=5\" target=\"_",
+      "publishedAt": "2026-09-19T12:50:03.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "La nouvelle stratégie de Gabriel Attal : à la conquête de la jeunesse - Yahoo Life France",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeDFrbE9EdkhLcjE0SnFfZWhFMlh5MFlmcFNudk9TeFVYNVJiWElsb3ViUDVuSWN0RmktMkFsSHNWM015XzVfSkw4QkVNc0M0RDRHbmpUa3R3Qk5XNGtpdFRMVTZzWUxuWEI4Mzg4X1pqU0NWM2pjX2pKcTlBLVBXcmt6RWlVWVBGb18tR0l0cw?oc=5",
-      "source": "Yahoo Life France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPeDFrbE9EdkhLcjE0SnFfZWhFMlh5MFlmcFNudk9TeFVYNVJiWElsb3ViUDVuSWN0RmktMkFsSHNWM015XzVfSkw4QkVNc0M0RDRHbmpUa3R3Qk5XNGtpdFRMVTZzWUxuWEI4Mzg4X1pqU0NWM2pjX2pKcTlBLVBXcmt6RWlVWVBGb18tR0l0cw?oc=5\" target=\"_blank\">La nouvelle stratégie de Gabriel Attal : à la conquêt",
-      "publishedAt": "2026-09-18T17:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
+      "firstSeenAt": "2026-09-20T01:46:09.293Z",
       "isNew": true
     },
     {
@@ -64,7 +49,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Retailleau, Attal : le jour où il faudra choisir - Causeur",
@@ -79,36 +64,51 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle : Attal et Philippe se disputent le macronisme sans Macron - Politis.fr",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZ1QnFyclYyQXJRcFdaa3BUVHNheEcxVE80RWJVNnY0R1A2Z3NQU25BcnJpRUIwSy1hVDlmRENxQ05WZUdGQUFtdUtmT0JINEpnRnd6NzVIRU1hOFBhaXZaYlJrNmsyUTZqNmpQaXJwR0tHWlBOLTEydk1sbTUyQk51a3FiMHU5SXlwWVRsZmptUzRTUGR3M0tUV0ptLVN4RzNQYlpfa19MR2ZtRUw5Wi1nb2pBcWJuTHFv?oc=5",
-      "source": "Politis.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanZ1QnFyclYyQXJRcFdaa3BUVHNheEcxVE80RWJVNnY0R1A2Z3NQU25BcnJpRUIwSy1hVDlmRENxQ05WZUdGQUFtdUtmT0JINEpnRnd6NzVIRU1hOFBhaXZaYlJrNmsyUTZqNmpQaXJwR0tHWlBOLTEydk1sbTUyQk51a3FiMHU5SXlwWVRsZmptUzRTUGR3M0tUV0ptLVN4RzNQYlpfa19MR2ZtRUw5Wi1nb2pBcWJuTHFv?oc=5\" target=\"_bl",
-      "publishedAt": "2026-09-17T15:03:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
     },
     {
-      "title": "\"Franc-Jeu\". Avec Gabriel Attal - franceinfo.fr",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE9peUV6MzRHTmRibXY0TjFabHpNVzJxOEdBSnZLMlNONnZRRU5HWGRpMlM3a3czeGxhY1h3YWpFUTZHQWVieUdqM3JGR0hTaFNTTXJOSTJfT3ZrSy1oTElMR1l2dEJzNlJLMmRVYzlzNlBEUnZCZWQtU3dVaW1ka05NalotNDgweFVlZzlVY0hYU1VBc0JCbm5FVG9xVmN1eFJoNw?oc=5",
-      "source": "franceinfo.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE9peUV6MzRHTmRibXY0TjFabHpNVzJxOEdBSnZLMlNONnZRRU5HWGRpMlM3a3czeGxhY1h3YWpFUTZHQWVieUdqM3JGR0hTaFNTTXJOSTJfT3ZrSy1oTElMR1l2dEJzNlJLMmRVYzlzNlBEUnZCZWQtU3dVaW1ka05NalotNDgweFVlZzlVY0hYU1VBc0JCbm5FVG9xVmN1eFJoNw?oc=5\" target=\"_blank\">\"Franc-Jeu\". Avec Gabriel",
-      "publishedAt": "2026-09-18T13:50:50.000Z",
+      "title": "Défiscaliser les pensions alimentaires ? La mesure qui pourrait changer la donne pour des millions de familles - Actu.fr",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSF83cHdDRWV3SnhkQThOeXVMMnhnNjhjTXVrOERselhwa1pTOVpRMXJMbEQ4VTE0QXRKZkFQdWw5Wi0zbUR6Ni13U3U4RUswMHhUVnVrTnZtWnk3THdrQ2p6QlYzeEJ2amUxYjg0UlNzekRXWVVZMERDLS0zZnY3Zm9tMThSQ3NpcmZnNllQNHhZMGNNSlFjaGpRTnlKR3NiSnFGZlZaNFl6ejhLM25xcTJ6aGFCYjIzZFBNZk1WQl9zV0ZnQVhDQ3drbFF3ZU1Ic3BUVGRqQUxua3hnbk1TMldBX0R4V19KaUlPdQ?oc=5",
+      "source": "Actu.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSF83cHdDRWV3SnhkQThOeXVMMnhnNjhjTXVrOERselhwa1pTOVpRMXJMbEQ4VTE0QXRKZkFQdWw5Wi0zbUR6Ni13U3U4RUswMHhUVnVrTnZtWnk3THdrQ2p6QlYzeEJ2amUxYjg0UlNzekRXWVVZMERDLS0zZnY3Zm9tMThSQ3NpcmZnNllQNHhZMGNNSlFjaGpRTnlKR3NiSnFGZlZaNFl6ejhLM25xcTJ6aGFCYjIzZFBNZk1WQl9zV0ZnQVhDQ3",
+      "publishedAt": "2026-09-19T04:06:01.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
+      "firstSeenAt": "2026-09-20T01:46:09.293Z",
+      "isNew": true
+    },
+    {
+      "title": "La nouvelle stratégie de Gabriel Attal : à la conquête de la jeunesse - ELLE",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGtGc0xmLTA2SkVYd01YSDNUN3hFRDlDaGU4ckx2RmVYbDRkcnkxbEFHSlpVTUZfX01FeERSaWhoQ1ozZEN4NHVSOW5nQURad2dLTWRUdzNhWmFYek1HS0ZBNVhfdTdsRVdQcU1RUFpKZ1M1aG9uZUZIOVl4RWZRbm1OeWhLX1ZES1NqdHV1XzhmdU1yc2hiS0djaWNpdVBnbThLU1otalRFcFlidF9oNlpkZw?oc=5",
+      "source": "ELLE",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGtGc0xmLTA2SkVYd01YSDNUN3hFRDlDaGU4ckx2RmVYbDRkcnkxbEFHSlpVTUZfX01FeERSaWhoQ1ozZEN4NHVSOW5nQURad2dLTWRUdzNhWmFYek1HS0ZBNVhfdTdsRVdQcU1RUFpKZ1M1aG9uZUZIOVl4RWZRbm1OeWhLX1ZES1NqdHV1XzhmdU1yc2hiS0djaWNpdVBnbThLU1otalRFcFlidF9oNlpkZw?oc=5\" target=\"_blank\">La no",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-20T01:46:09.293Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : les électeurs face aux choix d’Attal et au duel annoncé avec Marion Maréchal - parlons-politique.fr",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcFVJQUlkbl9URTBiMEdQcWdpMUlqS01NOU9ReHplSEFiQUJ5bXcxUEM4T1F3bGhwdDRzd0ZCR2pHR3lCVGtldHc1NmkyQ3h2eTFHbERTQkRnOERJWXNpRkNJbE9zRFRsalJFSkMxUHpKMzBPYURaQy1Gbk16emlTaElFem1kUUlvVTdJOU42ZDJKS1g4ckpwVjhKV2lLbVpOTVpVYTlMdHE0WUwtTVNTa2FDNl9YYk9MVENpZjBzczhNVFdjN2FsVVFjSHJHOWRPWXNyd2Z5WVZHSVB3elE?oc=5",
+      "source": "parlons-politique.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcFVJQUlkbl9URTBiMEdQcWdpMUlqS01NOU9ReHplSEFiQUJ5bXcxUEM4T1F3bGhwdDRzd0ZCR2pHR3lCVGtldHc1NmkyQ3h2eTFHbERTQkRnOERJWXNpRkNJbE9zRFRsalJFSkMxUHpKMzBPYURaQy1Gbk16emlTaElFem1kUUlvVTdJOU42ZDJKS1g4ckpwVjhKV2lLbVpOTVpVYTlMdHE0WUwtTVNTa2FDNl9YYk9MVENpZjBzczhNVFdjN2FsVV",
+      "publishedAt": "2026-09-19T08:51:38.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-20T01:46:09.293Z",
       "isNew": true
     },
     {
@@ -124,37 +124,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "États-Unis d’Europe : Gabriel Attal enfile la soutane pour tenter de ressusciter sa campagne - Marianne",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmZJNEx1RUExc0dQbllZNTZ0MXVicGh1RDV1SzdFUEFDSFVpMU1VOWF5T3VLYWQ1S2pUdjZXcTVlSTBHV1B3b2VRQlVwT2VESXBBd3U0aW93OS1yR1lBRC02azBCZURDR3JGbUk0OGZQcEI2bEN0czRlZGNPRWpISnhfaUYyZmZkNmRKazN0eHRQY19aOHRMelZNd0E3SHFrZmRSWjlaMzBicWx5bVNNalh5ZFg0VTZacHl2SXdGV0JET3JjZUcwOEdYcTloOFdubzZxOA?oc=5",
-      "source": "Marianne",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTmZJNEx1RUExc0dQbllZNTZ0MXVicGh1RDV1SzdFUEFDSFVpMU1VOWF5T3VLYWQ1S2pUdjZXcTVlSTBHV1B3b2VRQlVwT2VESXBBd3U0aW93OS1yR1lBRC02azBCZURDR3JGbUk0OGZQcEI2bEN0czRlZGNPRWpISnhfaUYyZmZkNmRKazN0eHRQY19aOHRMelZNd0E3SHFrZmRSWjlaMzBicWx5bVNNalh5ZFg0VTZacHl2SXdGV0JET3JjZUcwOE",
-      "publishedAt": "2026-09-18T13:00:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "L’actualité vue par Alex : la campagne bistrot de Gabriel Attal - L'Ardennais",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTG8zcTZZeVIzRW1nanNZdzNRajN4SWxWWGtWZWJDb25rZ0NxdXczdnEwTTBYamZDSlhQZGRONkZLbG5rWVk1S2xObW16UXZQMWdwUHQyeVhxVXIzWHNTTnpYcm9QdmtfMXpwdUxUdVZDT1AwbmhiTzY3WDBDVkdwV2pBcUk3Yy1HRU9qa2U4TXBsZUlQTF80dFJiREU3ZUdmTHV4WWFEUjFSakZXZ2hPSjlSQUk?oc=5",
-      "source": "L'Ardennais",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTG8zcTZZeVIzRW1nanNZdzNRajN4SWxWWGtWZWJDb25rZ0NxdXczdnEwTTBYamZDSlhQZGRONkZLbG5rWVk1S2xObW16UXZQMWdwUHQyeVhxVXIzWHNTTnpYcm9QdmtfMXpwdUxUdVZDT1AwbmhiTzY3WDBDVkdwV2pBcUk3Yy1HRU9qa2U4TXBsZUlQTF80dFJiREU3ZUdmTHV4WWFEUjFSakZXZ2hPSjlSQUk?oc=5\" target=\"_blank\">L’ac",
-      "publishedAt": "2026-09-18T21:08:34.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Présidentielle 2027 : Gabriel Attal plaide pour des « États-Unis d’Europe » et juge que l’Europe des 27 a « atteint ses limites » - Sud Ouest",
@@ -172,11 +142,11 @@
       "isNew": false
     },
     {
-      "title": "\"États-Unis d’Europe\": d’où vient cette idée que Gabriel Attal remet au goût du jour? - LCP-Assemblée nationale",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTNqMVJpZk1wR0dDblhsMFpOeTRMWjJxOGh0MjFuckxld0xNRnVMdFdfZUtWcldjN0E1UkVOMjdNakk4NnVUR19ZN1hnak1iYTc0OFBRYU9oT25qUzVKSXlMOFpsUjdqeWpNQ3ZSUXhRS0t1dGRScDlfbWxUUHBrRXlMbEs3NjVHZm5qUVhBcC1LVG5IcUZYRG5JeTBwVEpMbEN2ZDJxdVhCWGtqekRJck0tYVA?oc=5",
-      "source": "LCP-Assemblée nationale",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTNqMVJpZk1wR0dDblhsMFpOeTRMWjJxOGh0MjFuckxld0xNRnVMdFdfZUtWcldjN0E1UkVOMjdNakk4NnVUR19ZN1hnak1iYTc0OFBRYU9oT25qUzVKSXlMOFpsUjdqeWpNQ3ZSUXhRS0t1dGRScDlfbWxUUHBrRXlMbEs3NjVHZm5qUVhBcC1LVG5IcUZYRG5JeTBwVEpMbEN2ZDJxdVhCWGtqekRJck0tYVA?oc=5\" target=\"_blank\">\"Éta",
-      "publishedAt": "2026-09-17T17:05:36.000Z",
+      "title": "Gabriel Attal à Reims : son plan pour les États-Unis d'Europe - Presse Agence",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlLUFZYbEZ0RDJkbzJKVzdLQWs5TjZtWmFOaVJCRHhuOUNCeERoRlhoX2lyT3ZLQTJ5QVVDOWgtSWd3OWcxNzdnLWF5cmFRU1hrMUs4ODcxaGlzZTZwRkdsTGx6WVR4Qi1mUUQtNDFHQ05MalpmOFVlT25rdE9qc3BsYVQ5dVVIZkY1TjdjYVE?oc=5",
+      "source": "Presse Agence",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlLUFZYbEZ0RDJkbzJKVzdLQWs5TjZtWmFOaVJCRHhuOUNCeERoRlhoX2lyT3ZLQTJ5QVVDOWgtSWd3OWcxNzdnLWF5cmFRU1hrMUs4ODcxaGlzZTZwRkdsTGx6WVR4Qi1mUUQtNDFHQ05MalpmOFVlT25rdE9qc3BsYVQ5dVVIZkY1TjdjYVE?oc=5\" target=\"_blank\">Gabriel Attal à Reims : son plan pour les États-Unis",
+      "publishedAt": "2026-09-19T05:00:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -184,21 +154,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "A Reims, Attal plaide pour des «Etats-Unis d’Europe», le «projet d’une génération» - Libération",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVERwY2hMMzY4ZEFBaG44bTJ6OGFoMFhxb3NvX29YNkY4ekxvTDZPcVZ5cHhhZ3dCLWNub3ZlX1BESjZNUERKbzE2cFRXTDFyVnp0all4dklLcmIxdzl5aGJwQkRmQVI3LWw3RWx5aWRxLU12cFVsdVBvSUt2YzVkMnpicFBRSlJ4ZVZVNEdIVlU5YVphaUhVWHNwX2k1c2lCMXpXN0pjQnFrNEM4cHpyTXJNM2dqRTN5R3FDRWxCMVF2VFFPUVhuVzBQYmdlZ1lBMzhTZERtbzh6Tld2d2hscQ?oc=5",
-      "source": "Libération",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVERwY2hMMzY4ZEFBaG44bTJ6OGFoMFhxb3NvX29YNkY4ekxvTDZPcVZ5cHhhZ3dCLWNub3ZlX1BESjZNUERKbzE2cFRXTDFyVnp0all4dklLcmIxdzl5aGJwQkRmQVI3LWw3RWx5aWRxLU12cFVsdVBvSUt2YzVkMnpicFBRSlJ4ZVZVNEdIVlU5YVphaUhVWHNwX2k1c2lCMXpXN0pjQnFrNEM4cHpyTXJNM2dqRTN5R3FDRWxCMVF2VFFPUVhuVz",
-      "publishedAt": "2026-09-17T17:45:14.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
     },
     {
@@ -214,119 +169,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal juge que l'Europe des 27 a \"atteint ses limites\" et plaide pour des \"Etats-Unis d'Europe\" - franceinfo.fr",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMzUxVnYtaGZ3TjM0MEdUTFZ3RHFXcFllbzZ6NC1SaUNwS2FiQ0xmcW5Eb0VCLWFfaGpBbmNYZTFHMndOamRsdVJOdV84Q3BXNjA0d21FZ0ltdmRPZll5YnNJOTdRSDBUTEN2OXA2MWY1a2ZDRk5EbmhQOXNoYUFIY2FQcW1jSGFMSl8ycFFwbExZTXVaQVgydDdXYnc3RGZYZnVrWjM3REdvcjljOFp4Z2xwNUQ1M2JMR0RJSVVUaWpId2hOYUNyd1RDT0t6eXpPTlpZd285VU9TblBiSzBnUENTdHQ0dw?oc=5",
-      "source": "franceinfo.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMzUxVnYtaGZ3TjM0MEdUTFZ3RHFXcFllbzZ6NC1SaUNwS2FiQ0xmcW5Eb0VCLWFfaGpBbmNYZTFHMndOamRsdVJOdV84Q3BXNjA0d21FZ0ltdmRPZll5YnNJOTdRSDBUTEN2OXA2MWY1a2ZDRk5EbmhQOXNoYUFIY2FQcW1jSGFMSl8ycFFwbExZTXVaQVgydDdXYnc3RGZYZnVrWjM3REdvcjljOFp4Z2xwNUQ1M2JMR0RJSVVUaWpId2hOYUNyd1",
-      "publishedAt": "2026-09-17T17:50:24.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
-    },
-    {
-      "title": "« Le principal leader européen » : Gabriel Attal encense Emmanuel Macron et promet les « Etats-Unis d’Europe » - lopinion.fr",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNURTN21CSlo5X3dzdmdHbS00SXhfODdYODVwWjVwV3B4TUxtSlRYcF9ob2JrUTUyeEtpTW5hZ21RdVFwN3l0eHlJbTFMdlpzZ2xoLUFTNGJ3cjktZkVlVkZLckdUbmZrcnlKYk4ta1FXT0RydWljM1VFY3pQdTV6SnN5a19ZcmhNdmh5Tml4T19CdjlwdWp0VXA1NWZNWHktTXBmenZsNE1vYzlya3FPbVRTRnNUc3c3UXJvcXAxSE9CQXZJd3g4T1pUS0JuZw?oc=5",
-      "source": "lopinion.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPNURTN21CSlo5X3dzdmdHbS00SXhfODdYODVwWjVwV3B4TUxtSlRYcF9ob2JrUTUyeEtpTW5hZ21RdVFwN3l0eHlJbTFMdlpzZ2xoLUFTNGJ3cjktZkVlVkZLckdUbmZrcnlKYk4ta1FXT0RydWljM1VFY3pQdTV6SnN5a19ZcmhNdmh5Tml4T19CdjlwdWp0VXA1NWZNWHktTXBmenZsNE1vYzlya3FPbVRTRnNUc3c3UXJvcXAxSE9CQXZJd3g4T1",
-      "publishedAt": "2026-09-17T16:34:18.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal à Reims : son plan pour les États-Unis d'Europe - Presse Agence",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlLUFZYbEZ0RDJkbzJKVzdLQWs5TjZtWmFOaVJCRHhuOUNCeERoRlhoX2lyT3ZLQTJ5QVVDOWgtSWd3OWcxNzdnLWF5cmFRU1hrMUs4ODcxaGlzZTZwRkdsTGx6WVR4Qi1mUUQtNDFHQ05MalpmOFVlT25rdE9qc3BsYVQ5dVVIZkY1TjdjYVE?oc=5",
-      "source": "Presse Agence",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWlLUFZYbEZ0RDJkbzJKVzdLQWs5TjZtWmFOaVJCRHhuOUNCeERoRlhoX2lyT3ZLQTJ5QVVDOWgtSWd3OWcxNzdnLWF5cmFRU1hrMUs4ODcxaGlzZTZwRkdsTGx6WVR4Qi1mUUQtNDFHQ05MalpmOFVlT25rdE9qc3BsYVQ5dVVIZkY1TjdjYVE?oc=5\" target=\"_blank\">Gabriel Attal à Reims : son plan pour les États-Unis",
-      "publishedAt": "2026-09-18T17:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle française 2027: Gabriel Attal se présente en candidat de l'Europe - RFI",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYnk5REZycUtOMlhpbXNocGdlbl9lR2YwU3l2djkxZV9uSUdwRENXVGVaMTlsa05pcGlORFBORldJT2dIQ3hlUlJDbld1OUxkWDNoeFFpQU9kN1ZuZnUtNVFiX01nTDBnUUhaRzZOSVZnX0tVb3NEbXBIQVlPWUN6YWlkQmU1TWVwUVBXNFdhYmFXSGpySkg2b1JWTVpoaGlHSF94WFM5em5xTVpxZWdraUhfM1RLX3lPZUFpMzJuWG40Y0hUZGMzc1kzRDg?oc=5",
-      "source": "RFI",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNYnk5REZycUtOMlhpbXNocGdlbl9lR2YwU3l2djkxZV9uSUdwRENXVGVaMTlsa05pcGlORFBORldJT2dIQ3hlUlJDbld1OUxkWDNoeFFpQU9kN1ZuZnUtNVFiX01nTDBnUUhaRzZOSVZnX0tVb3NEbXBIQVlPWUN6YWlkQmU1TWVwUVBXNFdhYmFXSGpySkg2b1JWTVpoaGlHSF94WFM5em5xTVpxZWdraUhfM1RLX3lPZUFpMzJuWG40Y0hUZGMzc1",
-      "publishedAt": "2026-09-17T17:01:59.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Il veut des \"États-Unis d’Europe\" pour en faire la \"1ere puissance mondiale\": Gabriel Attal propose de créer une \"économie unique\" pour lutter contre États-Unis et Chine - BFM",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOV2ZUX3p4SEozVGtCbXhxWHZsWUpPaENSSUprbFk3RktldWZSa1JtSGZSR0ZLMmVoRFlDdVhVek1LcHZ4NThWVDhCQzRXQ1RoTHpYdjF0ZTVMSDF5VzFMem9sQWJHOFhxTWJHZmJTaVN3dWQzcy1rdnJjMUwycy03aFctcnI0emt4UnRqd25Na3pZY3RFaDROZjBxNmZJZ2ZCRDFDbXdIZHVVM1hObmhDRldUUXY2TXhrV2lERkNpSTZLMW9wX0loQ0VBNXY0NC1IWVNweDd0Y0V0YlVJZDExRnFfYzZYelNLSzg5Uy1lZ1BSLXVpUzc5dzNEZ2FyWmFYRl9DOW1aSVNnZU5VT3NGdldJVWdCc05UX2FmanBuQmQtS0VoZGQ1UUhSQzJQYTZIckdySUNLampzSWwteHpFZE9XTC00WEczdkFpZDhFQQ?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxOV2ZUX3p4SEozVGtCbXhxWHZsWUpPaENSSUprbFk3RktldWZSa1JtSGZSR0ZLMmVoRFlDdVhVek1LcHZ4NThWVDhCQzRXQ1RoTHpYdjF0ZTVMSDF5VzFMem9sQWJHOFhxTWJHZmJTaVN3dWQzcy1rdnJjMUwycy03aFctcnI0emt4UnRqd25Na3pZY3RFaDROZjBxNmZJZ2ZCRDFDbXdIZHVVM1hObmhDRldUUXY2TXhrV2lERkNpSTZLMW9wX0loQ0",
-      "publishedAt": "2026-09-17T15:20:49.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal propose de créer les « États-Unis d’Europe » autour d’un « noyau dur » de pays - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZHdWUUpiVnFqU0JYS2pxUU0xVEFDRmhYekM1aVlEN2NBV1ZIT1Y3OWt0RG5rOUx2dEUxenFyN1VCVEYyTDB0dXNtM29iNWZFaG4tWjBVclBNZGRzdzVMOE1zZmQ3UGpHRk5FSVE2MXNlUkF6aWc3OEEtUjg2RzcxSWwtVndlRURjMnNLdGk2bm80U3cweHBBRTlEWEthSVdaS1pWNWZYQXFKcmJiYXRmcWxyN2tUM3M5VHpsUnlpdFY1U19YYzJoRzJvaVFldVZNb01CSG5PVmhjRjNFQzNVNUNfX2hycDJiN1UyajdhYlU3TDVaRG9aX0s5ZjNSSkRaWEJHb3FR?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNZHdWUUpiVnFqU0JYS2pxUU0xVEFDRmhYekM1aVlEN2NBV1ZIT1Y3OWt0RG5rOUx2dEUxenFyN1VCVEYyTDB0dXNtM29iNWZFaG4tWjBVclBNZGRzdzVMOE1zZmQ3UGpHRk5FSVE2MXNlUkF6aWc3OEEtUjg2RzcxSWwtVndlRURjMnNLdGk2bm80U3cweHBBRTlEWEthSVdaS1pWNWZYQXFKcmJiYXRmcWxyN2tUM3M5VHpsUnlpdFY1U19YYzJoRz",
-      "publishedAt": "2026-09-17T16:39:51.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal propose la création des \"Etats-Unis d'Europe\" via un référendum européen - journaldunet.com",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNazM0bnJUTHRNUTNnblJtRWtkaXoydzlMMmQyenBwVm0zcUxJc2JzRlEwbFprX0s4a3VxeFVqa2Y0T1VwRWxFU2lHdVhUdHNMdmJmSENaZExVdTBrV3NSa3EzVkFSSEstVE94QWU1OGRMdTYtb1hDdGpMb1l0NEUydGlVY19lc0RuenFKcWpvUlpQYTdRVkZVVEowWEg5am4xbklhSUZTeEhjY1hpaHZtbmhlb0pSQ3gzY2xwd1E5NVZuSC1JSm9BSl9idVBiMThJeWZCMFRCanBINXhZMmh5Wjh0YnhsQWJMY3lqUWFtaEo5VzlzMjk3ZVI0X3VLb0Z1cFZQRlhnNzdEcW1DYUZDTTFaaTBLMjRlT3ppRHlfMmJaLUhadlpZ?oc=5",
-      "source": "journaldunet.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxNazM0bnJUTHRNUTNnblJtRWtkaXoydzlMMmQyenBwVm0zcUxJc2JzRlEwbFprX0s4a3VxeFVqa2Y0T1VwRWxFU2lHdVhUdHNMdmJmSENaZExVdTBrV3NSa3EzVkFSSEstVE94QWU1OGRMdTYtb1hDdGpMb1l0NEUydGlVY19lc0RuenFKcWpvUlpQYTdRVkZVVEowWEg5am4xbklhSUZTeEhjY1hpaHZtbmhlb0pSQ3gzY2xwd1E5NVZuSC1JSm9BSl",
-      "publishedAt": "2026-09-18T08:29:12.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
     },
     {
       "title": "« États-Unis d’Europe » : le rêve périmé de Gabriel Attal - FrontPopulaire.fr",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGtmaFRxY3dvOWZJN3dtYmlEb2E5M0Z2TGw4dVg1WGlNRUE3cWZwdVhPOGNHRkNoTF8yOXJIOWxsRFg5RTBVRFpQZnJ5bHlPNGhyOGRzM3BuaUxIUmFPX1ZHYlkzdzdLV2wyeVlpM1hRdVp5Y2U5cXhUOTZmX3JqUkhVQlBIUjhyZ3dQNFMweEUxcW9PZW5raVFfSXdQbXpTYjd3RVNyZUZLeDZTTkN1ZjVkdw?oc=5",
       "source": "FrontPopulaire.fr",
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGtmaFRxY3dvOWZJN3dtYmlEb2E5M0Z2TGw4dVg1WGlNRUE3cWZwdVhPOGNHRkNoTF8yOXJIOWxsRFg5RTBVRFpQZnJ5bHlPNGhyOGRzM3BuaUxIUmFPX1ZHYlkzdzdLV2wyeVlpM1hRdVp5Y2U5cXhUOTZmX3JqUkhVQlBIUjhyZ3dQNFMweEUxcW9PZW5raVFfSXdQbXpTYjd3RVNyZUZLeDZTTkN1ZjVkdw?oc=5\" target=\"_blank\">« Éta",
-      "publishedAt": "2026-09-18T17:30:00.000Z",
+      "publishedAt": "2026-09-19T05:41:37.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -334,6 +184,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 : l’heure du grand schisme entre Gabriel Attal et Emmanuel Macron - 21news.be",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzFyVHZ5TWw1NXdCQ3FlT3pIMWc2eFEzQTlqYUhaeEl5c1JYNHh2Uk1LTjFtRkVJcUp5Q1pURjBBcjA1Z1FuTXkzWmlVek1RMmFZd2hTaVNkZlI2UzYxZmx0WkNIbHRsbUozbmZYTjBUejVIQW1lYmJlcWE5NzgweENWQWw5VWZKYnA1ODNyYk83UzFVMVdtb1N0ZDZVZGlrNDFPQnd3OEU?oc=5",
+      "source": "21news.be",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzFyVHZ5TWw1NXdCQ3FlT3pIMWc2eFEzQTlqYUhaeEl5c1JYNHh2Uk1LTjFtRkVJcUp5Q1pURjBBcjA1Z1FuTXkzWmlVek1RMmFZd2hTaVNkZlI2UzYxZmx0WkNIbHRsbUozbmZYTjBUejVIQW1lYmJlcWE5NzgweENWQWw5VWZKYnA1ODNyYk83UzFVMVdtb1N0ZDZVZGlrNDFPQnd3OEU?oc=5\" target=\"_blank\">Présidentielle 2027 ",
+      "publishedAt": "2026-09-19T15:33:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-09-20T01:46:09.293Z",
       "isNew": true
     },
     {
@@ -349,74 +214,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal plaide pour des \"Etats-Unis d'Europe\" - Boursorama",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNm1FRDVTWUEyS3lEeTc5RnNKV2plWDY2T25jTzkxWGM5OGEwdDZ3TGFTZkJlOHl3U0xUd3RZNFF2TVNIUmtuRThRakpyUUdUb001bFN3aHo3Uk90bU1MTkg3S2JxNFB0T0lpNW1RRWtZWWZjSTE2N3BnMUgweGVhZ0JNa1l2bUktTE1nU0F2aXhIRXVxc1lHSDFZR3BwbmlaOHU2SDVuRVdmbmlYUWxzZkhsaVF1Z3A2aktTVmN1WURRRVduR0HSAcsBQVVfeXFMTmRuZW9RTUdMTW9fcV96RGhDWXdROURTdUc5OUkxaENJRFczcHN6ZlVNd0ZoMXZzZm9fRkIwdkNuZHUtN2l3YTd3b2dLTmZIOGcxU3ZsTy1yTi10MzREdXVseHZoaUFlSi15d0pjUTdkaFhvOW93aHd2ZjFuNVUzcDA3R2MyRmo3dFgyT1AtNkJxT3BLSjZrU0Z2SlFHUHZiRG5JOVdnYjRES2NobWhRak0weUVINkpRamU0SDU1T2paSEVjNkY0b1ZBNW8?oc=5",
-      "source": "Boursorama",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNNm1FRDVTWUEyS3lEeTc5RnNKV2plWDY2T25jTzkxWGM5OGEwdDZ3TGFTZkJlOHl3U0xUd3RZNFF2TVNIUmtuRThRakpyUUdUb001bFN3aHo3Uk90bU1MTkg3S2JxNFB0T0lpNW1RRWtZWWZjSTE2N3BnMUgweGVhZ0JNa1l2bUktTE1nU0F2aXhIRXVxc1lHSDFZR3BwbmlaOHU2SDVuRVdmbmlYUWxzZkhsaVF1Z3A2aktTVmN1WURRRVduR0HSAc",
-      "publishedAt": "2026-09-17T18:19:05.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
     },
     {
-      "title": "Présidentielle 2027. « États-Unis d’Europe » : voici ce que propose Gabriel Attal pour « réveiller » l’UE - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbEstcEFYeGZMQUpZZk9memlKdnhxQmcxeVlNT1FLalh3OXM1UEpYcVRvUGdxLVI3dlhxdGlMV1g0elp2RF9Kd0NHSWczeTM4WS1PM0piQ0t3a2dIY1NwbFVtaWJKa2w0by1uY1cyV2dqYXdJNnlFRkswLWo1STRWdkZkWXJNdXhUSHZXaWMzZ0hCUWs2X1F3ODhfbkZRSG4tVnRtcG9zaXQ4dVdoSlRvS0FrZHdoQ0lKQXpvWHpsVkQ1SnRkZGtFaWRXUVd1Q2NkS0RqWlhUME45aHNuX1poeDByRW04b1pfM1Yybk1BOXhoY3N0VVktRTA3dWhucXpTMEJuaFBRWkhVbDdSOWc?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNbEstcEFYeGZMQUpZZk9memlKdnhxQmcxeVlNT1FLalh3OXM1UEpYcVRvUGdxLVI3dlhxdGlMV1g0elp2RF9Kd0NHSWczeTM4WS1PM0piQ0t3a2dIY1NwbFVtaWJKa2w0by1uY1cyV2dqYXdJNnlFRkswLWo1STRWdkZkWXJNdXhUSHZXaWMzZ0hCUWs2X1F3ODhfbkZRSG4tVnRtcG9zaXQ4dVdoSlRvS0FrZHdoQ0lKQXpvWHpsVkQ1SnRkZGtFaW",
-      "publishedAt": "2026-09-17T15:47:37.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal plaide pour des \"Etats-Unis d'Europe\", le \"projet d'une génération\" - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWVHTjlNRFNwOFVvdjd1N0drWjE5Y1hNRmx0bzJRSWVXTnBHc256Ymw1SjJ1bjNzTkQwaGRZLVZMWk1taUhRMC16R1AzcWIyaFN1Vm9yaVczbkYyd0hTZzNkTU1SNjRoNTFKa2VyY0RuLU5pMjVvRzFJNEw0cHNhaWpFTENCY2E0ZDRSN2lqY3pmTUNlUjB1ZU5tT1V2b2Y5Y0J1UnVxeHNlcUpuV3BZbnB6aWduX0xRUFBQclBpcTNGMmFERDBqbTZsbTFaUVBYNjh1SHoxN2hPc3RkTEsw?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWVHTjlNRFNwOFVvdjd1N0drWjE5Y1hNRmx0bzJRSWVXTnBHc256Ymw1SjJ1bjNzTkQwaGRZLVZMWk1taUhRMC16R1AzcWIyaFN1Vm9yaVczbkYyd0hTZzNkTU1SNjRoNTFKa2VyY0RuLU5pMjVvRzFJNEw0cHNhaWpFTENCY2E0ZDRSN2lqY3pmTUNlUjB1ZU5tT1V2b2Y5Y0J1UnVxeHNlcUpuV3BZbnB6aWduX0xRUFBQclBpcTNGMmFERDBqbT",
-      "publishedAt": "2026-09-17T18:39:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Depuis Reims, Gabriel Attal propose la création des « États-Unis d’Europe » - L'Union",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdXFURWZMUjk3STh5QU5PbUpGVkNXVndGNG1kLUt3R2x2VDY2T1BCckRYVGlDQVBkRjZzMUpPTlk1TDN0TEhTUWNXR2sxdDlvZ2JVVVlQMVpqOHRPMjBrN1NCREh3YWFIN0w5VGV4SFVZLXA4ODRHX0pnWGo1T1BrSE11c2NBdmN5OWdNam13dFk0dERUWkRSSjJCRFNnNEVmUzJ4ZDluY3lRWUtlUmJpMG5MMUZBal9XNzBB?oc=5",
-      "source": "L'Union",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdXFURWZMUjk3STh5QU5PbUpGVkNXVndGNG1kLUt3R2x2VDY2T1BCckRYVGlDQVBkRjZzMUpPTlk1TDN0TEhTUWNXR2sxdDlvZ2JVVVlQMVpqOHRPMjBrN1NCREh3YWFIN0w5VGV4SFVZLXA4ODRHX0pnWGo1T1BrSE11c2NBdmN5OWdNam13dFk0dERUWkRSSjJCRFNnNEVmUzJ4ZDluY3lRWUtlUmJpMG5MMUZBal9XNzBB?oc=5\" target=\"_bl",
-      "publishedAt": "2026-09-17T15:47:36.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Comment les Russes s'immiscent dans la présidentielle 2027 ? - Brut",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQk9wSVJUVk5RaV9MM2hxVzgxZ0RGTlFyaEFXazBnQW9nN3dfb3FiSkRQZ1JCcDc4X1NMb0UxeGpETGU5Zm5pQVZRdnpVRkpabXJHQTdZcUk5LUQ2VUNQTWFMNUJRN2RhLVhURkplQXNkVFUzd0Y4OEVzaGFnQTN1YmtoN2wwaGpnQ1pGcmx0VDlGRWdQS0lsamk1RmI0b2lkUmVqVXg5SGFxa1dH?oc=5",
-      "source": "Brut",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQk9wSVJUVk5RaV9MM2hxVzgxZ0RGTlFyaEFXazBnQW9nN3dfb3FiSkRQZ1JCcDc4X1NMb0UxeGpETGU5Zm5pQVZRdnpVRkpabXJHQTdZcUk5LUQ2VUNQTWFMNUJRN2RhLVhURkplQXNkVFUzd0Y4OEVzaGFnQTN1YmtoN2wwaGpnQ1pGcmx0VDlGRWdQS0lsamk1RmI0b2lkUmVqVXg5SGFxa1dH?oc=5\" target=\"_blank\">Comment les Rus",
-      "publishedAt": "2026-09-18T15:05:12.000Z",
+      "title": "Gabriel Attal propose la création des \"Etats-Unis d'Europe\" via un référendum européen - journaldunet.com",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNazM0bnJUTHRNUTNnblJtRWtkaXoydzlMMmQyenBwVm0zcUxJc2JzRlEwbFprX0s4a3VxeFVqa2Y0T1VwRWxFU2lHdVhUdHNMdmJmSENaZExVdTBrV3NSa3EzVkFSSEstVE94QWU1OGRMdTYtb1hDdGpMb1l0NEUydGlVY19lc0RuenFKcWpvUlpQYTdRVkZVVEowWEg5am4xbklhSUZTeEhjY1hpaHZtbmhlb0pSQ3gzY2xwd1E5NVZuSC1JSm9BSl9idVBiMThJeWZCMFRCanBINXhZMmh5Wjh0YnhsQWJMY3lqUWFtaEo5VzlzMjk3ZVI0X3VLb0Z1cFZQRlhnNzdEcW1DYUZDTTFaaTBLMjRlT3ppRHlfMmJaLUhadlpZ?oc=5",
+      "source": "journaldunet.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxNazM0bnJUTHRNUTNnblJtRWtkaXoydzlMMmQyenBwVm0zcUxJc2JzRlEwbFprX0s4a3VxeFVqa2Y0T1VwRWxFU2lHdVhUdHNMdmJmSENaZExVdTBrV3NSa3EzVkFSSEstVE94QWU1OGRMdTYtb1hDdGpMb1l0NEUydGlVY19lc0RuenFKcWpvUlpQYTdRVkZVVEowWEg5am4xbklhSUZTeEhjY1hpaHZtbmhlb0pSQ3gzY2xwd1E5NVZuSC1JSm9BSl",
+      "publishedAt": "2026-09-18T08:29:12.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -424,21 +229,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle française 2027: Gabriel Attal se présente en candidat de l'Europe - Yahoo Actualités",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2UwdG02TFByYklXRVFFMktQVEJuZm12cjhoU2VhdU5vZFJ1WTJnNU9wc0xQNFFZTERLYTBMQV95cnQ4QVFUVUZBNnJLaGU3MFN6MXRMWURuRHlWdmpjWnlMa2ZwT29OUzNlbmNyQ3hmbzR6emJOeXlwSGFKU2RuSmJjaWptQU5ZOHpmR0dOUGtheTBpOGFvU3V3?oc=5",
-      "source": "Yahoo Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2UwdG02TFByYklXRVFFMktQVEJuZm12cjhoU2VhdU5vZFJ1WTJnNU9wc0xQNFFZTERLYTBMQV95cnQ4QVFUVUZBNnJLaGU3MFN6MXRMWURuRHlWdmpjWnlMa2ZwT29OUzNlbmNyQ3hmbzR6emJOeXlwSGFKU2RuSmJjaWptQU5ZOHpmR0dOUGtheTBpOGFvU3V3?oc=5\" target=\"_blank\">Présidentielle française 2027: Gabriel ",
-      "publishedAt": "2026-09-17T17:01:59.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
     },
     {
@@ -454,51 +244,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal propose de créer les \"États-Unis d'Europe\" pour \"accomplir le rêve européen\" - BFM",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU3FoVnF5a0oxcVJILXMtSkthb1NHbjNWQUpIR2hOMjI5aEh2dlNGXzVLeGtXZUZjZ1RBbVBmLTJ4U0Y4U3dWTjBzdDhEU0g4bGhoNy1Pc1VMa2ctTE8xLXFNRkdxSTd5dk5tdThkMFVYTTRuS2ZCdVlEVmR2VFI3My1sQUNUSlJVME4zNzZhUU9JdG9YN0FNVEM4eXNrWkJsRjN5Vk1HQ0FIcFp4OFlyMFJWYXRBS3FaS2NzdnZNTzk0VTc2SEhYT0E3dlZfcUY2LXRQbllzdDhrT2E0Y3JnYWhJYkl6Mkx4amh5eGJvWkx1elVibmR3cFpTWndqcWc?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU3FoVnF5a0oxcVJILXMtSkthb1NHbjNWQUpIR2hOMjI5aEh2dlNGXzVLeGtXZUZjZ1RBbVBmLTJ4U0Y4U3dWTjBzdDhEU0g4bGhoNy1Pc1VMa2ctTE8xLXFNRkdxSTd5dk5tdThkMFVYTTRuS2ZCdVlEVmR2VFI3My1sQUNUSlJVME4zNzZhUU9JdG9YN0FNVEM4eXNrWkJsRjN5Vk1HQ0FIcFp4OFlyMFJWYXRBS3FaS2NzdnZNTzk0VTc2SEhYT0",
-      "publishedAt": "2026-09-17T15:23:43.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Pourquoi et comment Gabriel Attal prône des « États-Unis d’Europe » - L'Union",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcE96cEI0d1kwRkRxU3JZbDNHc1NON3g3TjR1YXE0bUg1MnpreGh6XzVOTEp4RUZTbkpjbTVIUWExSlRnY01aa0VpVXpvNzFlQWtHamczWk9iYm9RSmdpc2dXdmFwRENzajcxazJxOUFNd0dualpnaFJhN2V5OEZMTDBGX3RHdVZBckdBdC1Uc3poSkQ3VG93SG80ZWN1ZHBuUjdhOEVTdUE0c2tBLVdoS0dn?oc=5",
-      "source": "L'Union",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcE96cEI0d1kwRkRxU3JZbDNHc1NON3g3TjR1YXE0bUg1MnpreGh6XzVOTEp4RUZTbkpjbTVIUWExSlRnY01aa0VpVXpvNzFlQWtHamczWk9iYm9RSmdpc2dXdmFwRENzajcxazJxOUFNd0dualpnaFJhN2V5OEZMTDBGX3RHdVZBckdBdC1Uc3poSkQ3VG93SG80ZWN1ZHBuUjdhOEVTdUE0c2tBLVdoS0dn?oc=5\" target=\"_blank\">Pourquo",
-      "publishedAt": "2026-09-17T18:24:12.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Les soutiens de Gabriel Attal font la tournée des bistrots - lejournaldici.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbnN0N2lDbkloOUt5OV9yX2cxZTMyRl9Ka19MN1RTbzE5Z3Y3azFHczhSNTkxMFY4b0hobzRGaHlUWVJzaHQ4NmZrWHFxcll1NUtDQVEtR3BtT2NrcGxMOVU4TmM1U3lLQzZzcWJCd0duZ3Q1YzY0NVBOeFBOZ1l0M2IwVV9kQUxXN015TkJjVXY0Q010WmVoQVJkMnJYT3hTWHcxSXJGTQ?oc=5",
-      "source": "lejournaldici.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbnN0N2lDbkloOUt5OV9yX2cxZTMyRl9Ka19MN1RTbzE5Z3Y3azFHczhSNTkxMFY4b0hobzRGaHlUWVJzaHQ4NmZrWHFxcll1NUtDQVEtR3BtT2NrcGxMOVU4TmM1U3lLQzZzcWJCd0duZ3Q1YzY0NVBOeFBOZ1l0M2IwVV9kQUxXN015TkJjVXY0Q010WmVoQVJkMnJYT3hTWHcxSXJGTQ?oc=5\" target=\"_blank\">Les soutiens de Gabri",
-      "publishedAt": "2026-09-17T08:53:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
     },
     {
@@ -514,156 +259,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : François Bayrou évoque à nouveau une primaire, en présence de Bernard Cazeneuve, lors de la rentrée du MoDem - Sud Ouest",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazdZVzZ4N1FKNF9FZVN4MFZDSmpySG5lRDZ3MG40cUEzUlVVZGMxVFZFaGZkWXNjNzdQVWdoaWN3MG9reFlnSWJwdWpVZEZKcWVMT3A1VlFhLUFmeEJ1VjlmbmVJOVA0UjVGMkVGOEM2azF1NkIzRklzVTgtejc1MnBkVHE5Q01MSllQOC1kRXYtaXh3clZiUWxJMEZTUEZoLXItdENndWVnN3pCSS1TN3RmUGVoaU5iWDIweGxWcjNVYmlqM3pYYXRINXFOZVVnNFdWa01fOVhxQQ?oc=5",
-      "source": "Sud Ouest",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazdZVzZ4N1FKNF9FZVN4MFZDSmpySG5lRDZ3MG40cUEzUlVVZGMxVFZFaGZkWXNjNzdQVWdoaWN3MG9reFlnSWJwdWpVZEZKcWVMT3A1VlFhLUFmeEJ1VjlmbmVJOVA0UjVGMkVGOEM2azF1NkIzRklzVTgtejc1MnBkVHE5Q01MSllQOC1kRXYtaXh3clZiUWxJMEZTUEZoLXItdENndWVnN3pCSS1TN3RmUGVoaU5iWDIweGxWcjNVYmlqM3pYYX",
-      "publishedAt": "2026-09-18T18:44:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "États-Unis d’Europe : ce que le projet de Gabriel Attal pourrait changer pour les citoyens français - parlons-politique.fr",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHpnd0ptakZRMjhIZnJfR2NGYi13WFl0MnZsOEFiS1ZEam56cm1wMFdsTHpnYUJ6RlJGZzVweUlRcV91SHhPVkl0RDRSeU9TalJrbzZjTHZSa3g0STlfdHAwVS16QUdObl95RGR3d1ozN2hDWXprSXdBOGZ6Y0dhMEhOOC02UVB5cklTWG14a3pJUFplcVdBVllDcDVGRE83Ni1HNl9pemFZWkxHRG15eUpYOGFob01tMVJmcDJhYm5OTTh6V1ZrclROUXdjdDhEMUFzSWRnVjI3YzIwc3dV?oc=5",
-      "source": "parlons-politique.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHpnd0ptakZRMjhIZnJfR2NGYi13WFl0MnZsOEFiS1ZEam56cm1wMFdsTHpnYUJ6RlJGZzVweUlRcV91SHhPVkl0RDRSeU9TalJrbzZjTHZSa3g0STlfdHAwVS16QUdObl95RGR3d1ozN2hDWXprSXdBOGZ6Y0dhMEhOOC02UVB5cklTWG14a3pJUFplcVdBVllDcDVGRE83Ni1HNl9pemFZWkxHRG15eUpYOGFob01tMVJmcDJhYm5OTTh6V1Zrcl",
-      "publishedAt": "2026-09-18T05:51:34.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : après Emmanuel Macron, le centre craint son effacement - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2xJcGM5a0NLREppc1ZGQVg2X19vdkRqaGdnT0xYVnNfT3doMG5rTkdDRXRfYlZLd0hqM3ZEWE5LUUxGX0ppaXlPbndrNlJZMHg3S180Z19UN1IxZDFZbGZmY0RYNElmbU42TmRHeklELUItdFB2T3JwTUpyVk81T3FKY0FacEJibmk1aFh4WkM1ZUhiTVk0Sk0tTnQzMExWQkZwUVB5emRFaUpKLWVTeWV0VVlRQkJPMHp3Yk1rSXE?oc=5",
-      "source": "Le Figaro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2xJcGM5a0NLREppc1ZGQVg2X19vdkRqaGdnT0xYVnNfT3doMG5rTkdDRXRfYlZLd0hqM3ZEWE5LUUxGX0ppaXlPbndrNlJZMHg3S180Z19UN1IxZDFZbGZmY0RYNElmbU42TmRHeklELUItdFB2T3JwTUpyVk81T3FKY0FacEJibmk1aFh4WkM1ZUhiTVk0Sk0tTnQzMExWQkZwUVB5emRFaUpKLWVTeWV0VVlRQkJPMHp3Yk1rSXE?oc=5\" targ",
-      "publishedAt": "2026-09-18T17:48:02.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "\"L'Europe actuelle à 27 a atteint ses limites\", estime Gabriel Attal - BFM",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdHB6YnJKVWJhQmdzQlZFSnVhdV81N0xudF80c3BENXc4dWhOZnRCYW05blI4b08zakYxQUJPTndsOTJNNU9naUhMeE1yNEVwYk1lV2hfZjJlQWRYbDFvdldES3hWTjlqSEFiYWVOc3VPc3JWbENiZjg2cmZNZHNsT3lrQV9vZjJCNnptXzB3bWtFaXF4UzZOTVNNeXVSYVlDdXhWenpZS2ZlSTBvd1A5VDFoV0p5bjlHQ1VQUUpmNEl4ak1IZTFubHd5WDQtb0VzNW1Ccy1HZTdmUlo4dWNfeWZ2aw?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdHB6YnJKVWJhQmdzQlZFSnVhdV81N0xudF80c3BENXc4dWhOZnRCYW05blI4b08zakYxQUJPTndsOTJNNU9naUhMeE1yNEVwYk1lV2hfZjJlQWRYbDFvdldES3hWTjlqSEFiYWVOc3VPc3JWbENiZjg2cmZNZHNsT3lrQV9vZjJCNnptXzB3bWtFaXF4UzZOTVNNeXVSYVlDdXhWenpZS2ZlSTBvd1A5VDFoV0p5bjlHQ1VQUUpmNEl4ak1IZTFubH",
-      "publishedAt": "2026-09-17T15:21:04.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Lors de la rentrée du MoDem, François Bayrou a plaidé à nouveau pour une primaire allant de la droite à la gauche modérée - franceinfo.fr",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRW81VzZMOTZybFloandFZjA5ZXhSUVhvUlRDWUZxUU5wT1pnaGlJNlFGWmxQSUNTUmFrTWNqSlR0bVRsYnZDRGJzOUZHNTdCMk44Y1QtRzBWTFl4MkFOS0x2TFFnTVE5Wm5RZFFVR3VBY05WeHM4VmtZNlRkbV9Cc3RSUXlUWlRKc1h3eDM2UEtOTy0xVkJUbGJwRDN5YjlaRnp2UDk3SjZfcE9fNGhZaDhjWmZJanNiOHU2ZThHSlMzc2I2OWxjMWhKZmVYdmVPdVlhbDdSSGdIR0Z0QktzXzROb0ZuRFNHZkFhRFZURC1PeU9aRUxlaTV6a1dpSTNTTk1vQ0E2ZEtUcGFLX1VEbUlB?oc=5",
-      "source": "franceinfo.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNRW81VzZMOTZybFloandFZjA5ZXhSUVhvUlRDWUZxUU5wT1pnaGlJNlFGWmxQSUNTUmFrTWNqSlR0bVRsYnZDRGJzOUZHNTdCMk44Y1QtRzBWTFl4MkFOS0x2TFFnTVE5Wm5RZFFVR3VBY05WeHM4VmtZNlRkbV9Cc3RSUXlUWlRKc1h3eDM2UEtOTy0xVkJUbGJwRDN5YjlaRnp2UDk3SjZfcE9fNGhZaDhjWmZJanNiOHU2ZThHSlMzc2I2OWxjMW",
-      "publishedAt": "2026-09-18T19:39:23.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal plaide pour des \"Etats-Unis d'Europe\" - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE82eGtPUGNpZnNMWnVEdEZoV3lwZDUta25kcEdIMmV1RWNBTzdRc0hhNDdlQWpodWxPQ05ZUXBZY1VRQWs1RVAwUEM5UnpEVkF6QXNDbU9XVkxaTTdfdjdhcjF1QWNVdXZoa2xiTkh2TXNsRm11QUlFZHhReFFET2V6cjNVdVZuS3pOX2MtT1hBRzc2T29KdkdrWG53MXViR3lrR1E3R28?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE82eGtPUGNpZnNMWnVEdEZoV3lwZDUta25kcEdIMmV1RWNBTzdRc0hhNDdlQWpodWxPQ05ZUXBZY1VRQWs1RVAwUEM5UnpEVkF6QXNDbU9XVkxaTTdfdjdhcjF1QWNVdXZoa2xiTkh2TXNsRm11QUlFZHhReFFET2V6cjNVdVZuS3pOX2MtT1hBRzc2T29KdkdrWG53MXViR3lrR1E3R28?oc=5\" target=\"_blank\">Gabriel Attal plaide",
-      "publishedAt": "2026-09-17T16:12:20.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "\"Éco-région\": Gabriel Attal dénonce une \"vision étriquée\" de Jean-Luc Mélenchon et plaide pour des \"éco-continents\" - BFM",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQNzdaeWE2b1hJUDU5cHBxTXA0TDlXck9XRy1BbGU0SHIxX240ajlJaUlqT3lBR1h5LTZHcnJ1ZVlZaTRuSGFFeklEaUk2Yk5GdzMtRDFVNm9TOTUyZU4zNnJHYlFhWVNDc3pBR2h2bTFYM3lZOVVUb1BtaGJQcGw4QzFDVlRaMWY3NnkzNWk2T0VvczNwYm1KTUQwQkx4TU1VZU5lNDM3d1M0N2V5X1Z4RzQzSlNtWUVmdGJaaWVZYTZVMHlLcmRBQ1hqMFRUTVJ4bTBMajlPcjluX1U0ZEZPOFc3ajRMaGJReGEtV1g1czU5a1ZlVzBmeVRZS3NDaFdSTy1qUkp6MnE5elFlUFIwejZBWkF0ZGRzRkFlZA?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQNzdaeWE2b1hJUDU5cHBxTXA0TDlXck9XRy1BbGU0SHIxX240ajlJaUlqT3lBR1h5LTZHcnJ1ZVlZaTRuSGFFeklEaUk2Yk5GdzMtRDFVNm9TOTUyZU4zNnJHYlFhWVNDc3pBR2h2bTFYM3lZOVVUb1BtaGJQcGw4QzFDVlRaMWY3NnkzNWk2T0VvczNwYm1KTUQwQkx4TU1VZU5lNDM3d1M0N2V5X1Z4RzQzSlNtWUVmdGJaaWVZYTZVMHlLcmRBQ1",
-      "publishedAt": "2026-09-17T15:36:31.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "«Le projet d'une génération» : Gabriel Attal appelle à créer les «États-Unis d'Europe» - Europe 1",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXFWRGtFYUlyaEFuOG1jdURMMlhkUTFHdXdfc1owTVJtRkxYX1FoeE9NTmZhVnpxRm1OVWdXMHBSZmJ5OE1Pd3piTUtMZmRfNjQ5Vy1IMXdCeHEwSW1PNmdGSE1sWjFjcU1IeVMwZGo3YlFnWElUSGthOXYwREVDT2xUY0lVUHl1N2NUVHJmRkgxWjZCZ3NhNC15Qm41c05VbkZUNFJtVkdsODdhYWk4M0JZRldiT2t1Q0lv?oc=5",
-      "source": "Europe 1",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXFWRGtFYUlyaEFuOG1jdURMMlhkUTFHdXdfc1owTVJtRkxYX1FoeE9NTmZhVnpxRm1OVWdXMHBSZmJ5OE1Pd3piTUtMZmRfNjQ5Vy1IMXdCeHEwSW1PNmdGSE1sWjFjcU1IeVMwZGo3YlFnWElUSGthOXYwREVDT2xUY0lVUHl1N2NUVHJmRkgxWjZCZ3NhNC15Qm41c05VbkZUNFJtVkdsODdhYWk4M0JZRldiT2t1Q0lv?oc=5\" target=\"_bl",
-      "publishedAt": "2026-09-17T19:54:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Ouest-France est partenaire de l’émission « A l’Ehpad » avec les candidats déclarés - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOellqYk1NRUZ5elViUE5vR0pDV2k5SGhQNmVROUlMWklaOUduQ1NoYzhHN1dmYWdXNWszQVBucFJkTWVMMWVwbTRVcUk4endKaWZLcmtEc3RxM2h4VW1ybGhvZk9TTFYtckRTM1MwMVRENHhVNmdYbnQtNmNldTQweUVLOHEzb3VmRGg1VmNsaG41YTlVem5iWHNpVG1XRDNQbG5wcDBEdDdpTUVVSVNEdFV3SFl2V21TaGJfWHI3a3cxYkNuRG4wTEc3Q0pIWnBrbV93bEQzbWVZd1FpZXFZbGhJaGJLVWRFcUdzWUhtMTgwYzlfdlYwd0hlc1EzbXVLdmJVVmI3YThrckpjU0F2WGg5SDl4Zw?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOellqYk1NRUZ5elViUE5vR0pDV2k5SGhQNmVROUlMWklaOUduQ1NoYzhHN1dmYWdXNWszQVBucFJkTWVMMWVwbTRVcUk4endKaWZLcmtEc3RxM2h4VW1ybGhvZk9TTFYtckRTM1MwMVRENHhVNmdYbnQtNmNldTQweUVLOHEzb3VmRGg1VmNsaG41YTlVem5iWHNpVG1XRDNQbG5wcDBEdDdpTUVVSVNEdFV3SFl2V21TaGJfWHI3a3cxYkNuRG4wTE",
-      "publishedAt": "2026-09-17T13:23:53.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027. « États-Unis d’Europe » : voici ce que propose Gabriel Attal pour « réveiller » l’UE - MaVille.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNjY4Vkdialg3RVVNVHpBdS1URGZhUnR4UVY1SVVOeWpjcDltWDQzdy1wTkNlWHhMYmRDOXplSDJGSk8wTTRkazN4VXdweUxzb05WakgwM1o4VGJ2QWJHc2VWdEFyVHVHQzk2X3JjcV9lUGhCb0taV051ek5rNU5UYUllM2pBc2RpWVVmSmFGZ2RZMkRvMlQ2MzlQN3JlT1BwSjJibU9ucFcxcVg3bXhyMlBGaFJ6R3I4cFB0cFE1cm5iOHBIR3lUSDUzeFB3SVhydEJqTTdqYlRldnpmdWJ6Q09oUFpHT05zRjlEbTFuS1E?oc=5",
-      "source": "MaVille.com",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNjY4Vkdialg3RVVNVHpBdS1URGZhUnR4UVY1SVVOeWpjcDltWDQzdy1wTkNlWHhMYmRDOXplSDJGSk8wTTRkazN4VXdweUxzb05WakgwM1o4VGJ2QWJHc2VWdEFyVHVHQzk2X3JjcV9lUGhCb0taV051ek5rNU5UYUllM2pBc2RpWVVmSmFGZ2RZMkRvMlQ2MzlQN3JlT1BwSjJibU9ucFcxcVg3bXhyMlBGaFJ6R3I4cFB0cFE1cm5iOHBIR3lUSD",
-      "publishedAt": "2026-09-17T15:47:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
     },
     {
@@ -679,37 +274,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "French presidential hopeful Attal vows to build ‘United States of Europe’ - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEtwbVp5RldyV0hIakZpSWlDWlJBMmV4M0Vwd0EzbWVSQjRZUlRlT1BVYkxSMVVqaTJGMEJJM2ZmQkdnbFlLRUJONGFENUM0eUhNa3VTOURmZGJYMnhzSkZiMXU5UjAwMTBWYUhIZDFXeEw3RmJYeFNMYTVEeWFhVC0yUlIxcXl3TVd4WnVVX3NhZnM1dldweEN4VHc1U2w4M3BNUGJBZURBQ3BGd1U2WnVHOE9UeEN4TXc?oc=5",
-      "source": "politico.eu",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEtwbVp5RldyV0hIakZpSWlDWlJBMmV4M0Vwd0EzbWVSQjRZUlRlT1BVYkxSMVVqaTJGMEJJM2ZmQkdnbFlLRUJONGFENUM0eUhNa3VTOURmZGJYMnhzSkZiMXU5UjAwMTBWYUhIZDFXeEw3RmJYeFNMYTVEeWFhVC0yUlIxcXl3TVd4WnVVX3NhZnM1dldweEN4VHc1U2w4M3BNUGJBZURBQ3BGd1U2WnVHOE9UeEN4TXc?oc=5\" target=\"_bla",
-      "publishedAt": "2026-09-17T17:40:00.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
-    },
-    {
-      "title": "Macron heir invites Britain to join ‘United States of Europe’ - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzgyNjFFR0VQTkNvdVVTeVkySWJGWHBOaXVCVHNjX0dDRXNKUVMxUFd4cWQtLXU3RkZDYjBSTDRXMWtnaDItYnMtTmpHR1RIZHpkRzdkZUZkYVlTWjJBYjBFanFRTjlabk9wd251Z283dkQ2UEdkY2FXYXRwLWJBeC1pbVlUdHhyQ3liY2pOQW5FQkZmNGdlTFF1V0tIZTc5UWpWZ3ZEdU5kdGlGLWt3?oc=5",
-      "source": "The Telegraph",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzgyNjFFR0VQTkNvdVVTeVkySWJGWHBOaXVCVHNjX0dDRXNKUVMxUFd4cWQtLXU3RkZDYjBSTDRXMWtnaDItYnMtTmpHR1RIZHpkRzdkZUZkYVlTWjJBYjBFanFRTjlabk9wd251Z283dkQ2UEdkY2FXYXRwLWJBeC1pbVlUdHhyQ3liY2pOQW5FQkZmNGdlTFF1V0tIZTc5UWpWZ3ZEdU5kdGlGLWt3?oc=5\" target=\"_blank\">Macron heir",
-      "publishedAt": "2026-09-18T16:09:00.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
     },
     {
       "title": "Gabriel Attal Calls for a “United States of Europe” Instead of EU - logos-pres.md",
@@ -724,7 +289,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "France Politics - Goshen News",
@@ -739,29 +304,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-09-19T01:43:34.988Z",
-      "isNew": true
-    },
-    {
-      "title": "In France, Attal Calls for a United States of Europe — Politico Europe - ua.news",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaS1hMHY5UnBGU1BvSjB0a05xdkJXYU9fQ2ZmRkZDQ0pRMGxILWw1TGJkWkpOM1BZa2Znd3FXWWV1VTlnZW93XzUtenJQbjhCbWVxTkpUT19pTTdseVdtYlptbzFzMUZwZnE4a2lKSWFoaDVBZTZ0RUhxTlByRmZKU2hJLUdyNEhxSkktVzJhbVBjNHRBT1BUN1VmZDVWX0dfTmdJ?oc=5",
-      "source": "ua.news",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOaS1hMHY5UnBGU1BvSjB0a05xdkJXYU9fQ2ZmRkZDQ0pRMGxILWw1TGJkWkpOM1BZa2Znd3FXWWV1VTlnZW93XzUtenJQbjhCbWVxTkpUT19pTTdseVdtYlptbzFzMUZwZnE4a2lKSWFoaDVBZTZ0RUhxTlByRmZKU2hJLUdyNEhxSkktVzJhbVBjNHRBT1BUN1VmZDVWX0dfTmdJ?oc=5\" target=\"_blank\">In France, Attal Calls for ",
-      "publishedAt": "2026-09-17T17:02:02.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-09-18T01:38:50.037Z",
       "isNew": false
     }
   ],
   "stats": {
-    "total": 50,
-    "new": 25,
-    "carried": 25,
-    "media": 50,
+    "total": 20,
+    "new": 6,
+    "carried": 14,
+    "media": 20,
     "agenda": 0,
     "official": 0,
     "coOccurrence": 0
