@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T01:59:57.477Z",
+  "generatedAt": "2026-10-23T02:03:33.168Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,18 +7,18 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Présidentielle 2027 : Edouard Philippe et Gabriel Attal à la peine après les violences du 17 octobre - Les Echos",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOemJqQ1FWN2t4eDkxblBWcENNUnNncUJ1eThQeEJQRUh4elktdXRLSkRWemhVQUEyZVRuTzlacFhxZlhvUkQxb0tJNHBqcFNsNUFfeUhtTTAwMlM4RXBpaF94bUJELTBoT0Y0Mm4xMkZxX09TZDVKNEN0ZDNPVGhMMGl2cmxXRE4yUXh6V2NYa3UzSWhEdkU5ckFFM0xPMGFoalcwSG9BUmZoZlF3WkY2U0tFTzNteVp2UDR0eUZFak5sY3hsY1FGN1VxWU90UWxYS3VXUUFhUWJoQkRqcnkwSlU2YTd2bzViQ19n?oc=5",
-      "source": "Les Echos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOemJqQ1FWN2t4eDkxblBWcENNUnNncUJ1eThQeEJQRUh4elktdXRLSkRWemhVQUEyZVRuTzlacFhxZlhvUkQxb0tJNHBqcFNsNUFfeUhtTTAwMlM4RXBpaF94bUJELTBoT0Y0Mm4xMkZxX09TZDVKNEN0ZDNPVGhMMGl2cmxXRE4yUXh6V2NYa3UzSWhEdkU5ckFFM0xPMGFoalcwSG9BUmZoZlF3WkY2U0tFTzNteVp2UDR0eUZFak5sY3hsY1FGN1",
-      "publishedAt": "2026-10-21T17:51:14.000Z",
+      "title": "SONDAGE - Présidentielle 2027 : après le 17 octobre, Marine Le Pen consolide son avance au premier tour, David Lisnard devance Gabriel Attal - Europe 1",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRTJSNWlnd1VGemNpNzAzMU1FWEJ1ejU2ZzI2RXZaTUs3blQ4cU5lUnNfdzBKazd3WlBBbTUyUWJ2YzZCMDZZbjg4VlR0SzBDMi05dVg5cUZZTlIyTm5JREl1YUNWYXZqV3FScjlyUzlQdDhkN19iRHc5cmdEdWdGUFJqR1BueTZ2YTE2NER0OHJ5SEF5NmJwNU95ckxNazRoRmh4eWRFTGtvLTBramc0SUJOaXVuclJuYWE3MEcyaGZocTJlemdQRk9XVklBUEJsajI2aHQzcWRrSmxydXM3eEFJVEpfcWVINnJyN0l1T1BzOGJPUGJ3ZTQ0aUVsV21kRTExSFNB0gGLAkFVX3lxTE1wQlRwdnJBbDB2TWR0NWhKOTNUdC1CUVB6ZnNPaXlZU3ctd3pKNlZtX193bWVLakF2SHRtc0ZwOTh1Z1JhTzJqdDF6b2JhcEpVeW92RzRucmtsS3lFYk5PeEFXbnk5cThPUGNBMThRbEJ1bHJMOXhzY2ZHenlta2hEWTZ0Vl9pTW1HOWNpNXhxekVxaHZPYi1aTjJUa3BleWlnVDZsRVRlOFZqSE5ZVEVrcHNJeUdvRXFOX1dWc0F0UVBPd2NVU0ZGdXlPNWVmdHpXQnBmbFIzTlltZ0ExcjJGX0JZQlZyUU9JcmczOXFqVXM3M0xCX1V5Qy1XdF9nZGlGeHJzTkhFQ0RRMA?oc=5",
+      "source": "Europe 1",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQRTJSNWlnd1VGemNpNzAzMU1FWEJ1ejU2ZzI2RXZaTUs3blQ4cU5lUnNfdzBKazd3WlBBbTUyUWJ2YzZCMDZZbjg4VlR0SzBDMi05dVg5cUZZTlIyTm5JREl1YUNWYXZqV3FScjlyUzlQdDhkN19iRHc5cmdEdWdGUFJqR1BueTZ2YTE2NER0OHJ5SEF5NmJwNU95ckxNazRoRmh4eWRFTGtvLTBramc0SUJOaXVuclJuYWE3MEcyaGZocTJlemdQRk",
+      "publishedAt": "2026-10-22T17:01:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
       "isNew": true
     },
     {
@@ -34,6 +34,96 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
+      "isNew": false
+    },
+    {
+      "title": "Peut-on suspendre les réseaux sociaux en cas de débordements ? - 20 Minutes",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORU9fb2g4LTZqb1ZtMEZZYmFrcnoydGl2aE5NX0t0Y19MajhTMVhHdmJoeXZiNkJjY2Q3TXRGbEJVVG1tVktPWXIwVHhtam1kbWFEb1dsdXlGWm50WFZGNy03LTFZY2dkNFBmdVpTUkhFd0tQSDIzQ0NoekFQdGNqS0x5d1VkamhpM2ZSUXdBeGpzQUJYVzhFZ2NvSjhTWDRTRkVUaXFwT0ZlNkdpTkVhV0xzYTJlUFdzM3Q3WGVkb28xbk1Obk41QmhOYzVDTXRYNHNRU0RZdE81VHotbXd3Nll0REFTMFVYREwwNVBJMmJoSzZF?oc=5",
+      "source": "20 Minutes",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxORU9fb2g4LTZqb1ZtMEZZYmFrcnoydGl2aE5NX0t0Y19MajhTMVhHdmJoeXZiNkJjY2Q3TXRGbEJVVG1tVktPWXIwVHhtam1kbWFEb1dsdXlGWm50WFZGNy03LTFZY2dkNFBmdVpTUkhFd0tQSDIzQ0NoekFQdGNqS0x5d1VkamhpM2ZSUXdBeGpzQUJYVzhFZ2NvSjhTWDRTRkVUaXFwT0ZlNkdpTkVhV0xzYTJlUFdzM3Q3WGVkb28xbk",
+      "publishedAt": "2026-10-22T02:32:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Edouard Philippe et Gabriel Attal à la peine après les violences du 17 octobre - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOemJqQ1FWN2t4eDkxblBWcENNUnNncUJ1eThQeEJQRUh4elktdXRLSkRWemhVQUEyZVRuTzlacFhxZlhvUkQxb0tJNHBqcFNsNUFfeUhtTTAwMlM4RXBpaF94bUJELTBoT0Y0Mm4xMkZxX09TZDVKNEN0ZDNPVGhMMGl2cmxXRE4yUXh6V2NYa3UzSWhEdkU5ckFFM0xPMGFoalcwSG9BUmZoZlF3WkY2U0tFTzNteVp2UDR0eUZFak5sY3hsY1FGN1VxWU90UWxYS3VXUUFhUWJoQkRqcnkwSlU2YTd2bzViQ19n?oc=5",
+      "source": "Les Echos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOemJqQ1FWN2t4eDkxblBWcENNUnNncUJ1eThQeEJQRUh4elktdXRLSkRWemhVQUEyZVRuTzlacFhxZlhvUkQxb0tJNHBqcFNsNUFfeUhtTTAwMlM4RXBpaF94bUJELTBoT0Y0Mm4xMkZxX09TZDVKNEN0ZDNPVGhMMGl2cmxXRE4yUXh6V2NYa3UzSWhEdkU5ckFFM0xPMGFoalcwSG9BUmZoZlF3WkY2U0tFTzNteVp2UDR0eUZFak5sY3hsY1FGN1",
+      "publishedAt": "2026-10-21T17:51:14.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-22T01:59:57.476Z",
+      "isNew": false
+    },
+    {
+      "title": "«Gabriel Attal n’est plus un sujet» : les indiscrétions du Figaro Magazine - Le Figaro",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0xwcUpib0JTYXQ1OWFfZzBaSEZaSHVoOWo1c2tNT1RLVFhfT1pmMXpEWWRhMG9KeENZaXlhcHBfaHY2TlNzdm5Sb3NlMHlnRzFwMExlTlRLUDhMSThxVUY2SDZfRmNUUUVLZDNyUHBiSXFGWFBCVUJTQVN0Q1BKYVQ1QWVEVVZ3UWh2OW1EUndYZTdmZHpoR29MTVZYb0FIdU50V1ZfOGFNbjFTWFY4U1lyX0lmLWJVMlNkZFNXRHpOZkppclA5SQ?oc=5",
+      "source": "Le Figaro",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV0xwcUpib0JTYXQ1OWFfZzBaSEZaSHVoOWo1c2tNT1RLVFhfT1pmMXpEWWRhMG9KeENZaXlhcHBfaHY2TlNzdm5Sb3NlMHlnRzFwMExlTlRLUDhMSThxVUY2SDZfRmNUUUVLZDNyUHBiSXFGWFBCVUJTQVN0Q1BKYVQ1QWVEVVZ3UWh2OW1EUndYZTdmZHpoR29MTVZYb0FIdU50V1ZfOGFNbjFTWFY4U1lyX0lmLWJVMlNkZFNXRHpOZkppclA5SQ",
+      "publishedAt": "2026-10-22T04:00:08.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
+      "isNew": true
+    },
+    {
+      "title": "Gabriel Attal à la conquête des jeunes pour 2027 : peluche de son chien Volta, tee-shirts à slogans, briquet “anti-insoumis”… Les étonnants goodies de sa campagne dévoilés - Gala",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNenlyVXBuSUdndHgxUi0yQWR6bWpMVVhwUk0ycGNUZUh6d0FMQ21vU213RHJDMG5HRWNNV3lrVnJVaTE5N1JUNktzcnlIUGpZcDJhZkkxMDdwUjQxbHNYVnItNllmc2c1N0hRdUx5YTdQNExKaGVMbzBXZVI0MkJXTVVZVzZ5bzRWdDNISzJ5LU8xYzhvWHJ3TjlaVWwyLXhZWTIxY0t3cnNUbkl5a2V4UlM0czA5alRKZDJoeE5ncjR2MzVEa2NIcUl6U3hjam9CeUEzRC1yN2piZWhoT3R5NjBMUEg0X0tfSU9hNC1aMkljLTNwTWpsS0JYYXBuVFNkdExNVjhEUkxVUVZtWXcxQUNJejZIZW5CUk53anM3MGpEV2V4ZzAyRm5ZQQ?oc=5",
+      "source": "Gala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxNenlyVXBuSUdndHgxUi0yQWR6bWpMVVhwUk0ycGNUZUh6d0FMQ21vU213RHJDMG5HRWNNV3lrVnJVaTE5N1JUNktzcnlIUGpZcDJhZkkxMDdwUjQxbHNYVnItNllmc2c1N0hRdUx5YTdQNExKaGVMbzBXZVI0MkJXTVVZVzZ5bzRWdDNISzJ5LU8xYzhvWHJ3TjlaVWwyLXhZWTIxY0t3cnNUbkl5a2V4UlM0czA5alRKZDJoeE5ncjR2MzVEa2NIcU",
+      "publishedAt": "2026-10-22T17:55:51.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
+      "isNew": true
+    },
+    {
+      "title": "\"Ce week-end, on a perdu la présidentielle\" : après le 17 octobre, les candidats du bloc central dans la nasse - L'Express",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcFd5S0dYSnJ0bW9oV2dyZzAxNk1kTkpHbWZBckh5X0N0eEVwRm96cEVrbW1MbHZLQlBkMzYxcU8zSTNyQURiMWZfMFIyUDdPTUxOTHRKRDZuc3BOc0lqcV9STlNXZFpmQklfRlRSYjlTd2t3SkVBdkFBaXItR0U0V0NZWGpwY1FjaUMtTnVGMDJiUHlralcxTjlKVjVEMW0yT2tnQktMSXFFN2o2cjNzeXBXclRrbXV5ZEFXTVlucFotMFd4Rjd4Q3U1RFJaUHVwSXcyaUxtcVdreXFHanVVQTQxNUZLbzdVdDZJODBJbXprQQ?oc=5",
+      "source": "L'Express",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcFd5S0dYSnJ0bW9oV2dyZzAxNk1kTkpHbWZBckh5X0N0eEVwRm96cEVrbW1MbHZLQlBkMzYxcU8zSTNyQURiMWZfMFIyUDdPTUxOTHRKRDZuc3BOc0lqcV9STlNXZFpmQklfRlRSYjlTd2t3SkVBdkFBaXItR0U0V0NZWGpwY1FjaUMtTnVGMDJiUHlralcxTjlKVjVEMW0yT2tnQktMSXFFN2o2cjNzeXBXclRrbXV5ZEFXTVlucFotMFd4Rjd4Q3",
+      "publishedAt": "2026-10-21T06:36:19.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-22T01:59:57.476Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 - sondage : le bloc central décroche dans les intentions de vote, pourquoi Édouard Philippe et Gabriel Attal peinent-ils à convaincre ? - ladepeche.fr - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTGl0VVd1eGJMT0x6YXJEcEY4YWZWR0FmT0ZDSkptYnhmemtrZWpiZVpMVEYzdDM4YXd4TU1jeUkxT1NlemJ0V1BuWW1WUVFxaDdYLWpLVFhSM2FzQ0c3d1VjSy12OXJrc0FNZ1BUSHNxaklmNzRDcTY1TlYyTjhEanpOWWJ3Vm1saUFhODFNQTBpSVhiOFdqazBOa3BFbXJoVktvbEdHdlNaQ0U4ZFZxd2szV2JFQmJITXRzN2g0bmZqTjJTNlZmWVhzYXJDSkpOejQ3bDBFSmN5UjVFVUtrN3h3cUdYeUxITlVvcGlVRXNQSlp1STJVZkliLTdVU2c0R01iUjNfSzAxWGJMUi1fY0tFMjdlV19DXzhmYm1LcXhjWmM?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPTGl0VVd1eGJMT0x6YXJEcEY4YWZWR0FmT0ZDSkptYnhmemtrZWpiZVpMVEYzdDM4YXd4TU1jeUkxT1NlemJ0V1BuWW1WUVFxaDdYLWpLVFhSM2FzQ0c3d1VjSy12OXJrc0FNZ1BUSHNxaklmNzRDcTY1TlYyTjhEanpOWWJ3Vm1saUFhODFNQTBpSVhiOFdqazBOa3BFbXJoVktvbEdHdlNaQ0U4ZFZxd2szV2JFQmJITXRzN2g0bmZqTjJTNlZmWV",
+      "publishedAt": "2026-10-22T04:16:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
       "isNew": true
     },
     {
@@ -49,36 +139,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "Les coulisses de la BD à la gloire de Gabriel Attal - Off Investigation",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzRsbVd6WW5rQThYR2U5eWJrVXBQYmV1TUVmV3hGdV9uUDkzTm5ONlZFbVh2NnFCc25WRl9JUDR4Rzl0d2Nnbk9JQWo0X1V0X2VWVGV4MFd1ZGlMekJENkFiTFFRaHJHcFgzTFlBbWFDUlRhMzEwd2ltR1ZjTnVuVUs1VVFtWHBYb3RiN013?oc=5",
-      "source": "Off Investigation",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzRsbVd6WW5rQThYR2U5eWJrVXBQYmV1TUVmV3hGdV9uUDkzTm5ONlZFbVh2NnFCc25WRl9JUDR4Rzl0d2Nnbk9JQWo0X1V0X2VWVGV4MFd1ZGlMekJENkFiTFFRaHJHcFgzTFlBbWFDUlRhMzEwd2ltR1ZjTnVuVUs1VVFtWHBYb3RiN013?oc=5\" target=\"_blank\">Les coulisses de la BD à la gloire de Gabriel Attal</a>",
-      "publishedAt": "2026-10-20T17:11:14.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
       "isNew": false
     },
     {
-      "title": "Violences du 17 octobre : faut-il bloquer les réseaux sociaux ? La proposition de Gabriel Attal fait débat - Sud Radio",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HOTNrTjNpWTU2Z1lMZ1lVTlZpSGdKSXoxb3UxWi1TRVpFYkc1Ti1NekVMcksxdFJ1STRYWlI5SWlITHd3NWxkQmlfWWw2WXNvbEJZWGx1UEtYNTZQdXEyVXAtQQ?oc=5",
-      "source": "Sud Radio",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HOTNrTjNpWTU2Z1lMZ1lVTlZpSGdKSXoxb3UxWi1TRVpFYkc1Ti1NekVMcksxdFJ1STRYWlI5SWlITHd3NWxkQmlfWWw2WXNvbEJZWGx1UEtYNTZQdXEyVXAtQQ?oc=5\" target=\"_blank\">Violences du 17 octobre : faut-il bloquer les réseaux sociaux ? La proposition de Gabriel Attal fait débat</a>&nb",
-      "publishedAt": "2026-10-21T05:42:19.000Z",
+      "title": "Après le 17 octobre, Philippe et Attal jouent plus que jamais la rupture avec Macron - TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYVR1MTBXVVFfRE9aZlUySjF6TndSdGdRcUM3N2pnVE9jcFVxSHRJU1hCcGY2WVVyU0xjX21YTmdZRUpWaWFOblBxYTdxdUNhQU5qMmlYdGlFcWdEOThEVXVwX28wdkZPRmNOMTlOYnZzMWQxWjRtUHRpS18wVGNIUHhUUktGelc5cllPZGlpNEFqcG1YbG9hZjhqd3lCZ25ta1ZTM1hkNmMyOE1keXNFYzVocnZiNWlIb0JFMmlQc183dlRvc3AyaGp5V0pxNlpmd2ZzcWZiMXFzV25hOE5RUk12VThqbUFvRnRWNnVaanNRX05RTU9IaVFNZ2otZGZpalR0dHN2aHd0MGs?oc=5",
+      "source": "TF1 Info",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYVR1MTBXVVFfRE9aZlUySjF6TndSdGdRcUM3N2pnVE9jcFVxSHRJU1hCcGY2WVVyU0xjX21YTmdZRUpWaWFOblBxYTdxdUNhQU5qMmlYdGlFcWdEOThEVXVwX28wdkZPRmNOMTlOYnZzMWQxWjRtUHRpS18wVGNIUHhUUktGelc5cllPZGlpNEFqcG1YbG9hZjhqd3lCZ25ta1ZTM1hkNmMyOE1keXNFYzVocnZiNWlIb0JFMmlQc183dlRvc3AyaG",
+      "publishedAt": "2026-10-22T11:25:10.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
       "isNew": true
     },
     {
@@ -94,74 +169,44 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "L'Etat peut-il restreindre ou bloquer l'accès aux réseaux sociaux, comme le réclament certains responsables politiques après les pillages du 17 octobre - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQdUJ6T25NaUJTb2FLQ2dHMlZ4R21yM3h1N3gtY0pSek9aUlBMcjZwaFhYSmtqaXdVSEplcHQ4SFdTNk1JbDJaTjJiQnBnSVVxTWxGZjdERHBtZC05blRZN0tpYUV2ajdZVE5JZGJrd3NxbmUxTnF5OVB3Z3ZnZnVKMWFNOU1uWGtvd1F5bGo0d2t0UjhBV1hpcV9YcnhxQ0xreUc1d3NuYjd4di1VUkozRVBlb29zQnlfQnFrOWU2bVJ5M2ExejljMjhVS3RmbXdWTTh1NC05Q1JvcG9EZ0J6RzZXcllnbWc3RUJNTWhkelRXdXF4WVVQNlFfajJCMFN1emZfTlFBTGZHRVY0OEg0ZVFzYW5JWlducjY1dWVkOWQyNzVPVVFGbzZDTHF5LWc?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxQdUJ6T25NaUJTb2FLQ2dHMlZ4R21yM3h1N3gtY0pSek9aUlBMcjZwaFhYSmtqaXdVSEplcHQ4SFdTNk1JbDJaTjJiQnBnSVVxTWxGZjdERHBtZC05blRZN0tpYUV2ajdZVE5JZGJrd3NxbmUxTnF5OVB3Z3ZnZnVKMWFNOU1uWGtvd1F5bGo0d2t0UjhBV1hpcV9YcnhxQ0xreUc1d3NuYjd4di1VUkozRVBlb29zQnlfQnFrOWU2bVJ5M2ExejljMj",
-      "publishedAt": "2026-10-21T10:46:14.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "A droite, la gageure du rassemblement - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuWDUySEVWeURpTzRSLXRxREtiWU5aVHFxRG5tY01lUVBSdHRIRG1pNTJKV3R2QW5uSGhRbmhVY0p0SFpjVnM0UTAzS1lZZWFnR2xxMkFaZExHb21iY2hVX1dOQkNMSXY2TmpmVEdqUGNOSnl3NHN3NThR?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBuWDUySEVWeURpTzRSLXRxREtiWU5aVHFxRG5tY01lUVBSdHRIRG1pNTJKV3R2QW5uSGhRbmhVY0p0SFpjVnM0UTAzS1lZZWFnR2xxMkFaZExHb21iY2hVX1dOQkNMSXY2TmpmVEdqUGNOSnl3NHN3NThR?oc=5\" target=\"_blank\">A droite, la gageure du rassemblement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">l'Opinio",
-      "publishedAt": "2026-10-21T17:30:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal relance le débat sur le blocage des réseaux sociaux - BFM",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdWR6bzhHWlcyTU1Tdy1LV3Jxa1JsS1N5VXV4bzRmcHpvRU8zcTdieHI3dkFKYjBJTWdWZHVBVHBmeHdDMW5aV1ZVNS1lSVBhSnNLXzhoX0JkekJuOWdZN2k1bExMOTVUYnUwaC03RTVDT3NnSl9sX0k3bzJLMVU3Mnp3b1FhUV9ZdzkwZkZLT0pCNEdpbUx6a1V2Z013eXpNNHNSQVZhYUE3LU0tWU9PYnByY3Ria0JrT1VGZE83bl9Mc0xYX0NGcFNEeGFISVUzTEJLSXlQZno2SmFaWTRj?oc=5",
-      "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdWR6bzhHWlcyTU1Tdy1LV3Jxa1JsS1N5VXV4bzRmcHpvRU8zcTdieHI3dkFKYjBJTWdWZHVBVHBmeHdDMW5aV1ZVNS1lSVBhSnNLXzhoX0JkekJuOWdZN2k1bExMOTVUYnUwaC03RTVDT3NnSl9sX0k3bzJLMVU3Mnp3b1FhUV9ZdzkwZkZLT0pCNEdpbUx6a1V2Z013eXpNNHNSQVZhYUE3LU0tWU9PYnByY3Ria0JrT1VGZE83bl9Mc0xYX0NGcF",
-      "publishedAt": "2026-10-20T15:04:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
       "isNew": false
     },
     {
-      "title": "\"Ce week-end, on a perdu la présidentielle\" : après le 17 octobre, les candidats du bloc central dans la nasse - L'Express",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcFd5S0dYSnJ0bW9oV2dyZzAxNk1kTkpHbWZBckh5X0N0eEVwRm96cEVrbW1MbHZLQlBkMzYxcU8zSTNyQURiMWZfMFIyUDdPTUxOTHRKRDZuc3BOc0lqcV9STlNXZFpmQklfRlRSYjlTd2t3SkVBdkFBaXItR0U0V0NZWGpwY1FjaUMtTnVGMDJiUHlralcxTjlKVjVEMW0yT2tnQktMSXFFN2o2cjNzeXBXclRrbXV5ZEFXTVlucFotMFd4Rjd4Q3U1RFJaUHVwSXcyaUxtcVdreXFHanVVQTQxNUZLbzdVdDZJODBJbXprQQ?oc=5",
-      "source": "L'Express",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcFd5S0dYSnJ0bW9oV2dyZzAxNk1kTkpHbWZBckh5X0N0eEVwRm96cEVrbW1MbHZLQlBkMzYxcU8zSTNyQURiMWZfMFIyUDdPTUxOTHRKRDZuc3BOc0lqcV9STlNXZFpmQklfRlRSYjlTd2t3SkVBdkFBaXItR0U0V0NZWGpwY1FjaUMtTnVGMDJiUHlralcxTjlKVjVEMW0yT2tnQktMSXFFN2o2cjNzeXBXclRrbXV5ZEFXTVlucFotMFd4Rjd4Q3",
-      "publishedAt": "2026-10-21T06:36:19.000Z",
+      "title": "L'étiquette MACRON : Edouard Philippe et Gabriel Attal tentent de faire oublier qu'ils ont été ses premiers ministres. - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRnctb0lVcEpqbldsOWRJbjV1WTJYenZnb0haZGZKeUpBX180TWhwVXk1dUY4UGlHU0ZReDJJclRxT0U3TWVoSHFTUWdlQ215dW9BTkhwckRxdnB2SXRWYnRNZ2s1V182QXduTk5WemdQMURKNWNoY0V4NjZ6OThCV0tDeHJidWQzR2FRR1lkZ2wyUlJubWgxRzRMaHBSbmhUdG5YTjYtenBLMzhnQTFrWVAtXzZkM3NKX1ZWRzhORHpZTWJjdlVSX0ZOR1JrMGtubkpDS1hGZzlrQUkzdTBsbkZCWFlpLUtpckdQNGxlTE1zcHktbFExYXhraE5xM29ZU1I3R3NR?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNRnctb0lVcEpqbldsOWRJbjV1WTJYenZnb0haZGZKeUpBX180TWhwVXk1dUY4UGlHU0ZReDJJclRxT0U3TWVoSHFTUWdlQ215dW9BTkhwckRxdnB2SXRWYnRNZ2s1V182QXduTk5WemdQMURKNWNoY0V4NjZ6OThCV0tDeHJidWQzR2FRR1lkZ2wyUlJubWgxRzRMaHBSbmhUdG5YTjYtenBLMzhnQTFrWVAtXzZkM3NKX1ZWRzhORHpZTWJjdlVSX0",
+      "publishedAt": "2026-10-22T20:00:56.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
       "isNew": true
     },
     {
-      "title": "Violences du 17 octobre : peut-on bloquer \"temporairement\" les réseaux sociaux ? Pourquoi la proposition de Gabriel Attal est juridiquement impossible - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPbENtbXNFMUc5Q0Y2M1hUS0dZemlmRHJvVm5xN0NNX0VacW9pYXA4bTVnSVVoYTJJNnNzZEJvTlJsVlFCTFJrczQ4bkxueU0yUWhfZ2lZSEJKMVlncDFxREpJYWFSZkhKTTZBOGJ6S21rX2s3RkxDRFlkMjItUWZaVDZTT3prQ2dlT2l3Z3Z0WTJ2SEE4RW43WWpFMEVPUzZPaVp1ZzdqSnFJdzJNbm1xRHpwVzU3Mko2SWlPOXdhYTIxelpfSDVwc0k5OENxTEpRS2xNd3lFTm5rLUdKU3AxcVIzV2NVQ19GRDRrRVB6UDR5dVhHOExqXzlXLTc5eVBPSzlvVWU4LXhKRHRVSG4wRUc1SDk4bjNuLVRjZ0RR?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxPbENtbXNFMUc5Q0Y2M1hUS0dZemlmRHJvVm5xN0NNX0VacW9pYXA4bTVnSVVoYTJJNnNzZEJvTlJsVlFCTFJrczQ4bkxueU0yUWhfZ2lZSEJKMVlncDFxREpJYWFSZkhKTTZBOGJ6S21rX2s3RkxDRFlkMjItUWZaVDZTT3prQ2dlT2l3Z3Z0WTJ2SEE4RW43WWpFMEVPUzZPaVp1ZzdqSnFJdzJNbm1xRHpwVzU3Mko2SWlPOXdhYTIxelpfSDVwc0",
-      "publishedAt": "2026-10-20T15:55:00.000Z",
+      "title": "Blocage des réseaux sociaux face aux émeutes : la proposition de Gabriel Attal est-elle applicable en France ? - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0F2QlJEQ19sNlpzM1VVNm96aFY4R2hvUG1tXzd1VmFKVENZSkYxWTZCemFVQnhJbUFqeGRIdkxOMWlma0ZCeEJFU3k4YVdkYlZVY193TGVmLXFXZnpWNUNZRjhYa0VLNWFLaDF1NDdHbUw1bWRETzFYWFdkNHprbUlOSHExNHJRQkIwM0FOX3hKTVpxU0M1aWkyWjFuX1pCZ2hyUmVrMmFfUk9hTEtSLXFmQ2lUV242N3pGR0l2dmI1VE5JVjh2dGJwcmROcXRNbzRDTjBTNVdvdw?oc=5",
+      "source": "lejdd.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0F2QlJEQ19sNlpzM1VVNm96aFY4R2hvUG1tXzd1VmFKVENZSkYxWTZCemFVQnhJbUFqeGRIdkxOMWlma0ZCeEJFU3k4YVdkYlZVY193TGVmLXFXZnpWNUNZRjhYa0VLNWFLaDF1NDdHbUw1bWRETzFYWFdkNHprbUlOSHExNHJRQkIwM0FOX3hKTVpxU0M1aWkyWjFuX1pCZ2hyUmVrMmFfUk9hTEtSLXFmQ2lUV242N3pGR0l2dmI1VE5JVjh2dG",
+      "publishedAt": "2026-10-21T11:51:39.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
+      "isNew": true
+    },
+    {
+      "title": "Un « vœu pieux » : pourquoi l’union de la droite s’annonce impossible - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuWDUySEVWeURpTzRSLXRxREtiWU5aVHFxRG5tY01lUVBSdHRIRG1pNTJKV3R2QW5uSGhRbmhVY0p0SFpjVnM0UTAzS1lZZWFnR2xxMkFaZExHb21iY2hVX1dOQkNMSXY2TmpmVEdqUGNOSnl3NHN3NThR?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBuWDUySEVWeURpTzRSLXRxREtiWU5aVHFxRG5tY01lUVBSdHRIRG1pNTJKV3R2QW5uSGhRbmhVY0p0SFpjVnM0UTAzS1lZZWFnR2xxMkFaZExHb21iY2hVX1dOQkNMSXY2TmpmVEdqUGNOSnl3NHN3NThR?oc=5\" target=\"_blank\">Un « vœu pieux » : pourquoi l’union de la droite s’annonce impossible</a>&nbsp;&nbs",
+      "publishedAt": "2026-10-22T07:17:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -169,6 +214,51 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
+      "isNew": false
+    },
+    {
+      "title": "Mobilisation du 17 octobre : peut-on suspendre les réseaux sociaux en cas de débordements, comme le suggère Gabriel Attal - Yahoo Actualités",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1FxLTRpek5JdEFlVVFsalBmeEZyTkM0YnhBTzlYSTQ4YVExeEhESV9ZOVRvaXRuX2dYMWc0ZUN3UUx2UzNRYW0wdUp6RzFvNWRZR3BmdUtaY3hDaEt5SHpKekliLVdteUNHQTVnaHJLV1FCMDY4V1dHQ2xCQ19sandNQnM4Zw?oc=5",
+      "source": "Yahoo Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1FxLTRpek5JdEFlVVFsalBmeEZyTkM0YnhBTzlYSTQ4YVExeEhESV9ZOVRvaXRuX2dYMWc0ZUN3UUx2UzNRYW0wdUp6RzFvNWRZR3BmdUtaY3hDaEt5SHpKekliLVdteUNHQTVnaHJLV1FCMDY4V1dHQ2xCQ19sandNQnM4Zw?oc=5\" target=\"_blank\">Mobilisation du 17 octobre : peut-on suspendre les réseaux sociau",
+      "publishedAt": "2026-10-22T02:32:37.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
+      "isNew": true
+    },
+    {
+      "title": "Budget 2027 : Jean-Luc Fugit se pose en défenseur de la filière biogaz à l'Assemblée - La Lettre",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNVE1SUg3eW11alVqSVdyTUIxamdMQXRRc1BCVUoxaDR2QUNjSzBfVnpNMHVSODY0OS02U1AxM18yRUp0Zmg1V2R5WU1QQndJMlQ5SG9YNEJEczl6TS0ydUhZdEo0b1dXSFlrbFFqWWpEdWFoMnZyOUE1NmVLT2VyVjQ0Y1c0cEJ2dmdudVZtVFloN1QxdnB1UURyNEpCekFjQlpiTG1WMFJEYml0NGtFRWpabkhJaFY5Y2VFVFpEYVRPa1QtdFRCQktrSWJIOG93YWduQXhvcUNCUVNXZDktRnFWaDd0c2xHYkE4?oc=5",
+      "source": "La Lettre",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNVE1SUg3eW11alVqSVdyTUIxamdMQXRRc1BCVUoxaDR2QUNjSzBfVnpNMHVSODY0OS02U1AxM18yRUp0Zmg1V2R5WU1QQndJMlQ5SG9YNEJEczl6TS0ydUhZdEo0b1dXSFlrbFFqWWpEdWFoMnZyOUE1NmVLT2VyVjQ0Y1c0cEJ2dmdudVZtVFloN1QxdnB1UURyNEpCekFjQlpiTG1WMFJEYml0NGtFRWpabkhJaFY5Y2VFVFpEYVRPa1QtdFRCQk",
+      "publishedAt": "2026-10-22T04:20:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
+      "isNew": true
+    },
+    {
+      "title": "« Il nous tire vers le bas » : Philippe et Attal, leur difficile rupture avec Macron - parismatch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODBSMl9XVE4wRDFfUUgtUG9NM3RPUV9ydXMyQ3FyQTlralZPX2hXUjAxaWNsQWxZekZ0c0VodVVsMndKTUdxU1kzeVd5TTB3WFR4RkxVRl9mcXBxUDI4N0pwNzF4QmdKZ1lDekRFSDl3bFgzeU42d082UDVTUkpTMVJ6eGlUNlpvQi1qYzJwcmt6MVoyd1BuUUFNQ0hIbnptRlQ5VnpnZGZ3UU5zYThqSVBsaXZwQUpFazZ5aG1zVHgwZTRX?oc=5",
+      "source": "parismatch.com",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOODBSMl9XVE4wRDFfUUgtUG9NM3RPUV9ydXMyQ3FyQTlralZPX2hXUjAxaWNsQWxZekZ0c0VodVVsMndKTUdxU1kzeVd5TTB3WFR4RkxVRl9mcXBxUDI4N0pwNzF4QmdKZ1lDekRFSDl3bFgzeU42d082UDVTUkpTMVJ6eGlUNlpvQi1qYzJwcmt6MVoyd1BuUUFNQ0hIbnptRlQ5VnpnZGZ3UU5zYThqSVBsaXZwQUpFazZ5aG1zVHgwZTRX?oc=5\"",
+      "publishedAt": "2026-10-22T12:31:16.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
       "isNew": true
     },
     {
@@ -184,119 +274,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "Couper les réseaux sociaux pour empêcher les violences : jusqu'où la France peut-elle aller ? - RTL",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTm5rSFV2NHpfamZ2YWFYUFdKclNDeHR0TTRGTXRnSnQweFpUdW9YS3p6TEhpYS1FcXRVeE5tT1ZJNVBXSXc5WEFNSy14empRQ1o3WGVIanQteU55d2dGa2Z3bjZ5dEhHc3pIS0ZKNjNBRmxjdjAxWXRYLWFSMHNuRG0yOUxiQ0V3WHlHajZqUEFaN0o3TldaQ1FBVVFmVVpjbmlqMS04WEJOT1lDb2lCTUtMVkZCQXdhdTdIeEl2SVpWQlRZQmM1Y2c5NDBwQUR6Nll0NA?oc=5",
-      "source": "RTL",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTm5rSFV2NHpfamZ2YWFYUFdKclNDeHR0TTRGTXRnSnQweFpUdW9YS3p6TEhpYS1FcXRVeE5tT1ZJNVBXSXc5WEFNSy14empRQ1o3WGVIanQteU55d2dGa2Z3bjZ5dEhHc3pIS0ZKNjNBRmxjdjAxWXRYLWFSMHNuRG0yOUxiQ0V3WHlHajZqUEFaN0o3TldaQ1FBVVFmVVpjbmlqMS04WEJOT1lDb2lCTUtMVkZCQXdhdTdIeEl2SVpWQlRZQmM1Y2",
-      "publishedAt": "2026-10-20T03:56:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
       "isNew": false
     },
     {
-      "title": "Après les violences urbaines du 17 octobre, le gouvernement et Renaissance s’en prennent aux réseaux sociaux - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM3BQX3RmTUxVczBQWEQzaGdyWVRMdFNmSkpiTlpvVVQ3Q3l3elFsNHdONXdVUVFYaVF0cVpsMkktNzNVeFMweURiTlFJNW9hZHBzUnBoRmhzMkdNaEJuTm10Z0h1aTE1dm5PSFhFRU0xRV8yYkI5TTZDa3I4LWlwZ2RPQm9nQUFiSUMzcGx1czk1eG9KU2dhWlIyYUJoVHNmWkNzV0ZISHpyZHlvVTFFUTVnWnpESERJVk8xODF4TzdVazZtcGRmUVM4Y1FLSXh2b3dSak1hY2dLMEtFMWNHek1MaUpKVEZ0VER3Z082UHRoR2JnaEF2ME1HRW0ydDFEcko5TEJVSWR0Tk0?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM3BQX3RmTUxVczBQWEQzaGdyWVRMdFNmSkpiTlpvVVQ3Q3l3elFsNHdONXdVUVFYaVF0cVpsMkktNzNVeFMweURiTlFJNW9hZHBzUnBoRmhzMkdNaEJuTm10Z0h1aTE1dm5PSFhFRU0xRV8yYkI5TTZDa3I4LWlwZ2RPQm9nQUFiSUMzcGx1czk1eG9KU2dhWlIyYUJoVHNmWkNzV0ZISHpyZHlvVTFFUTVnWnpESERJVk8xODF4TzdVazZtcGRmUV",
-      "publishedAt": "2026-10-20T21:06:20.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Objets volés sur Vinted et Leboncoin : Gabriel Attal et Jordan Bardella lancent la traque aux pilleurs - Closer",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVUV5VEk3Z3dNcmI5UllZUFRnN1NXVlNKS19qeDFJNGJYYTZ4c3VVSzZMcWZiMjlyclUzbExRR1dDNGFldWtVQUlTZWdxLUxFYzduSzVBYkxobE5BT3V2V2JZTWJ6Z3lGM3Y5Q3NMXzFoRWFMeWtkeHNWdVFUUTN2aklpeGhER1NLay1rUHdGSzNZLS1VRGs3eFRXU1pocG4yNjF1cGJzVGswX3dCbnhpR1hFbnFzQXgtZkpKbW53OERIXzlhMEZQenFSRTROYzhtaTVLZUdVczQyZzk4bVBV?oc=5",
-      "source": "Closer",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVUV5VEk3Z3dNcmI5UllZUFRnN1NXVlNKS19qeDFJNGJYYTZ4c3VVSzZMcWZiMjlyclUzbExRR1dDNGFldWtVQUlTZWdxLUxFYzduSzVBYkxobE5BT3V2V2JZTWJ6Z3lGM3Y5Q3NMXzFoRWFMeWtkeHNWdVFUUTN2aklpeGhER1NLay1rUHdGSzNZLS1VRGs3eFRXU1pocG4yNjF1cGJzVGswX3dCbnhpR1hFbnFzQXgtZkpKbW53OERIXzlhMEZQen",
-      "publishedAt": "2026-10-20T09:10:54.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Violences du 17 octobre : faut-il bloquer les réseaux sociaux ? Marine Tondelier fustige la proposition de Gabriel Attal - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNbU50bnhyUDdWcmpVVTBlb0ZGTkwzOXpnZ1FUa0NpN28wc1V6ZU1ZV1NnQzRUSW5RYk90TDVsTU9DZjBwMUtjLVRVeXQwbENoX0FFQm95MExVdEg1Q2RnM2k5U3dsakxsNGlKOWt3cEJKQlRyc0J0ek1na3VqeVVzM2NqU01MU1d1Q3NMa2FLMklkOHlQY3ZTUjA2cjJOczdaY05xdFFNT3JFeEFiMHRWM1NabXpNTHdiWEk0ZUZCYV93QzlGMldEOXlTU29uSGt3emdPNjktOEdzT3pZME1LU3lqdjdJbUdqOFJMQzU1YTBObldhaHNzZHEwVTVieWlvQWRxQ3FCU0pTS0xBUjh2aGRTendnT2xhTk5TaDVkSHVjRjdwcHZiZEx0aUdKMDNaa2dF?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNbU50bnhyUDdWcmpVVTBlb0ZGTkwzOXpnZ1FUa0NpN28wc1V6ZU1ZV1NnQzRUSW5RYk90TDVsTU9DZjBwMUtjLVRVeXQwbENoX0FFQm95MExVdEg1Q2RnM2k5U3dsakxsNGlKOWt3cEJKQlRyc0J0ek1na3VqeVVzM2NqU01MU1d1Q3NMa2FLMklkOHlQY3ZTUjA2cjJOczdaY05xdFFNT3JFeEFiMHRWM1NabXpNTHdiWEk0ZUZCYV93QzlGMldEOX",
-      "publishedAt": "2026-10-20T12:29:11.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal, veut couper TikTok et Snapchat pendant les émeutes, est-ce que c’est légal ? - Journal du Geek",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObTFuNGlhNWFaaU1zMms3RlE5THBCeGdRRUhlRWNxRGt3eGRaQ0tad2NhWGVSVE5vTlJTUndTR2tJUWxtbkRIbEpSNjV1eW1xZlB5dlV6Rk1JcUNlajFWZW9qYjlhbEExdHhxbm15VHl0NDFBWmdOSjMwOUlOOEI2Ri04eEpMMXF2LVBaaWZBU1J6dE1kcURRY3dGVUh0WjdkRjFUWDZBY0RPbTVKSE5RZG9OUWNjTFJMSU1mV1ZlVXBUTEdrOWJJ?oc=5",
-      "source": "Journal du Geek",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxObTFuNGlhNWFaaU1zMms3RlE5THBCeGdRRUhlRWNxRGt3eGRaQ0tad2NhWGVSVE5vTlJTUndTR2tJUWxtbkRIbEpSNjV1eW1xZlB5dlV6Rk1JcUNlajFWZW9qYjlhbEExdHhxbm15VHl0NDFBWmdOSjMwOUlOOEI2Ri04eEpMMXF2LVBaaWZBU1J6dE1kcURRY3dGVUh0WjdkRjFUWDZBY0RPbTVKSE5RZG9OUWNjTFJMSU1mV1ZlVXBUTEdrOWJJ?o",
-      "publishedAt": "2026-10-20T10:00:44.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Bloquer les réseaux sociaux pour enrayer les émeutes, Gabriel Attal n'en démord pas - Clubic",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVRwZ2ZlVW05VlNLTkt6X0VDTEJ5ZXp5bTdNem9ZZDBJc3dXTVVGNnRBTXlvendtUDIxZVVib3NObGtoWG5kSWk5TDY0XzdPZ1c0cWg5MDlXODNScDQ3ZXk5cnBxUFJqX0RkOFNoMkdpNGRZUGY4R2xFVUR6OWNTazNrT3I3b090RTZQb0J0T2RSRU83MkROQW92XzZ6UEV4NUFvUEppZzJDNUZpUFNDLXplMEhfbkhlaDc5QTVsZmx3ckNTMDlYTi1B?oc=5",
-      "source": "Clubic",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVRwZ2ZlVW05VlNLTkt6X0VDTEJ5ZXp5bTdNem9ZZDBJc3dXTVVGNnRBTXlvendtUDIxZVVib3NObGtoWG5kSWk5TDY0XzdPZ1c0cWg5MDlXODNScDQ3ZXk5cnBxUFJqX0RkOFNoMkdpNGRZUGY4R2xFVUR6OWNTazNrT3I3b090RTZQb0J0T2RSRU83MkROQW92XzZ6UEV4NUFvUEppZzJDNUZpUFNDLXplMEhfbkhlaDc5QTVsZmx3ckNTMDlYTi",
-      "publishedAt": "2026-10-20T06:19:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Les propositions des candidats de droite à la présidentielle : état d'urgence, recours à l’armée, nouvelles lois anti-casseurs... La course à la fermeté après les émeutes - Europe 1",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVTN6eFZwcEVpdkpWZEtEQV9RLTVVbXdlckpEcHMyTS1WSEo5MkZKNDdqcDJZWGVJcUV3blVUd3cxSi1Jb25GUWowT0xHSjVCZ0tkeWE2Q0djVjJ1aVZUU3FFaHpqUzFPbUhkZ2NXbXZWN2p1eldNUVl1eXluWXlDLWozbVprcWIwamxNejFheElhMHlDVWNnZ0dBSlMyUjc2NjBDM1VPVTVZQmV0eHFZR3pRMVVJOXJjZ2dqRnBtLUZzYXU5eUYxN01JaDlKQXJzcEdXb0x2VjJCTUw1QlZOZVVoTlJ6XzB3N1lja0pKQjFRREZld3BEN3duWHM4ZnB3VU00T0I2M19YQWlfbEZFYktGUy1Vb2lJblRMbmotMS1nM3h5eDdZbVZB0gGvAkFVX3lxTE1oVUQ1Zm1uNGJ4X25qY25IR01ZNUtZY0xWMjRrQTB2c1NqNXZBcUZJeS0wbTZGX0pHcS1UWjhZeFpqX1NhOWsxNWtHVWVCcmw3a1lSWUZuOFNjbmdMaDd3VGRVT3AtOVZUWUV3YnJRRTBWSEtPY0xVRjUyVHRlR0xKd2hIV2NuY3Bla3l6SHI0d0lCeGFQQVhRUnNqUklFZXhtdElrdUtJa3pfLUh6djNjWVhaU0ZSRGdaMXlJb0oxNlA3OFlsOHltTkUwRl9CcWN0YzFvYlpkaXk4Nmd1TlpBQVBfZFN6Rm5vbEE1NG9JUUZFT2tLUU5HODI5N2dpYmdBM01zWGdjR0hwX3RRUU53cUYzOVgzbndaeGVIS09xZUhEUU8xVVpselBjdW5hSQ?oc=5",
-      "source": "Europe 1",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVTN6eFZwcEVpdkpWZEtEQV9RLTVVbXdlckpEcHMyTS1WSEo5MkZKNDdqcDJZWGVJcUV3blVUd3cxSi1Jb25GUWowT0xHSjVCZ0tkeWE2Q0djVjJ1aVZUU3FFaHpqUzFPbUhkZ2NXbXZWN2p1eldNUVl1eXluWXlDLWozbVprcWIwamxNejFheElhMHlDVWNnZ0dBSlMyUjc2NjBDM1VPVTVZQmV0eHFZR3pRMVVJOXJjZ2dqRnBtLUZzYXU5eUYxN0",
-      "publishedAt": "2026-10-20T04:32:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Emmanuel Macron en Arabie saoudite pour \"marquer sa solidarité face aux attaques des Houthis\" - RadioJ",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVg2OGtFVnhVVjhNcWJ5ZDllYkE0RlBrczkxWkwxdjRfQThrZGNqeEZSdUhSR04wWHdORWxpRmxKdVlVUV8wUjdQTDhPMDF4QmdwQjFSR3JQVEFuM3loRmE2cUlpNzZBLW1aV3NXcXpCM1poZzJubHpWdW03Q1BqT05OY3V2a2pYXzNLbEd2b09feE53aDgwbkRNTVU1cVlsUHR6ZkJ2SVdOS3doMkt5cDduWDFlTFJ1SEpXZENicC1IUnQtUHQ1Y3I3cUw?oc=5",
-      "source": "RadioJ",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVg2OGtFVnhVVjhNcWJ5ZDllYkE0RlBrczkxWkwxdjRfQThrZGNqeEZSdUhSR04wWHdORWxpRmxKdVlVUV8wUjdQTDhPMDF4QmdwQjFSR3JQVEFuM3loRmE2cUlpNzZBLW1aV3NXcXpCM1poZzJubHpWdW03Q1BqT05OY3V2a2pYXzNLbEd2b09feE53aDgwbkRNTVU1cVlsUHR6ZkJ2SVdOS3doMkt5cDduWDFlTFJ1SEpXZENicC1IUnQtUHQ1Y3",
-      "publishedAt": "2026-10-21T21:32:52.000Z",
+      "title": "L'Etat peut-il restreindre ou bloquer l'accès aux réseaux sociaux, comme le réclament certains responsables politiques après les pillages du 17 octobre - franceinfo",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQdUJ6T25NaUJTb2FLQ2dHMlZ4R21yM3h1N3gtY0pSek9aUlBMcjZwaFhYSmtqaXdVSEplcHQ4SFdTNk1JbDJaTjJiQnBnSVVxTWxGZjdERHBtZC05blRZN0tpYUV2ajdZVE5JZGJrd3NxbmUxTnF5OVB3Z3ZnZnVKMWFNOU1uWGtvd1F5bGo0d2t0UjhBV1hpcV9YcnhxQ0xreUc1d3NuYjd4di1VUkozRVBlb29zQnlfQnFrOWU2bVJ5M2ExejljMjhVS3RmbXdWTTh1NC05Q1JvcG9EZ0J6RzZXcllnbWc3RUJNTWhkelRXdXF4WVVQNlFfajJCMFN1emZfTlFBTGZHRVY0OEg0ZVFzYW5JWlducjY1dWVkOWQyNzVPVVFGbzZDTHF5LWc?oc=5",
+      "source": "franceinfo",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxQdUJ6T25NaUJTb2FLQ2dHMlZ4R21yM3h1N3gtY0pSek9aUlBMcjZwaFhYSmtqaXdVSEplcHQ4SFdTNk1JbDJaTjJiQnBnSVVxTWxGZjdERHBtZC05blRZN0tpYUV2ajdZVE5JZGJrd3NxbmUxTnF5OVB3Z3ZnZnVKMWFNOU1uWGtvd1F5bGo0d2t0UjhBV1hpcV9YcnhxQ0xreUc1d3NuYjd4di1VUkozRVBlb29zQnlfQnFrOWU2bVJ5M2ExejljMj",
+      "publishedAt": "2026-10-21T10:46:14.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -304,14 +289,14 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Après les violences du 17 octobre, les candidats à la présidentielle doivent répondre de leur bilan sécuritaire - https://www.parlons-politique.fr/",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNanFXZzNqODgzLXVGTnZyUEhMdHBBbjhPYzMxa05UejM5cFVreU1NNWVScm5NSndma25DSUdHeUN0ampGNHVVYlNRLWVyUXdZT2ZLcmJtbjZUd1lVNnpGeF8tdkxYelhUNU1lcjBjZ05EUWdIeWozX3VtY3YwejRndUZ5VnZDemdzYi1HdXhSckpQVktFR2t0dW5JZ1hfdENNc2pheWE5WEpvVGNMeTFzdXdKcXZNM0QtM21tX2ZFbVpmZ0s5eklHMG85clh4V3dNc09vQkJIdUhpekFJcER4c1JPakFjZG5ORVl6SGJqaFlzQQ?oc=5",
-      "source": "https://www.parlons-politique.fr/",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNanFXZzNqODgzLXVGTnZyUEhMdHBBbjhPYzMxa05UejM5cFVreU1NNWVScm5NSndma25DSUdHeUN0ampGNHVVYlNRLWVyUXdZT2ZLcmJtbjZUd1lVNnpGeF8tdkxYelhUNU1lcjBjZ05EUWdIeWozX3VtY3YwejRndUZ5VnZDemdzYi1HdXhSckpQVktFR2t0dW5JZ1hfdENNc2pheWE5WEpvVGNMeTFzdXdKcXZNM0QtM21tX2ZFbVpmZ0s5eklHMG",
-      "publishedAt": "2026-10-21T07:06:47.000Z",
+      "title": "Violences du 17 octobre : faut-il bloquer les réseaux sociaux ? La proposition de Gabriel Attal fait débat - Sud Radio",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HOTNrTjNpWTU2Z1lMZ1lVTlZpSGdKSXoxb3UxWi1TRVpFYkc1Ti1NekVMcksxdFJ1STRYWlI5SWlITHd3NWxkQmlfWWw2WXNvbEJZWGx1UEtYNTZQdXEyVXAtQQ?oc=5",
+      "source": "Sud Radio",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HOTNrTjNpWTU2Z1lMZ1lVTlZpSGdKSXoxb3UxWi1TRVpFYkc1Ti1NekVMcksxdFJ1STRYWlI5SWlITHd3NWxkQmlfWWw2WXNvbEJZWGx1UEtYNTZQdXEyVXAtQQ?oc=5\" target=\"_blank\">Violences du 17 octobre : faut-il bloquer les réseaux sociaux ? La proposition de Gabriel Attal fait débat</a>&nb",
+      "publishedAt": "2026-10-21T05:42:19.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -319,142 +304,22 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
+      "isNew": false
+    },
+    {
+      "title": "Raphaël Glucksmann sur le point de faire alliance avec un ancien Premier ministre ? Ce “petit déjeuner secret” à Paris qui intrigue - Gala",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkktQXl5YllrUW5WRWN0R2ZGSjV2VkJLeUM3dXA2N21kUXFCQXBUNWtCdWUyZjNicmE4enoyWlJJelZ6Zi1kOFdKSU5TVVU2T1FCQTBXZllYUFMwZFgzUTZVZ2ZDVmF4YUV4QVJ0ZExUSDRvRjF3ZXVSazlDMkFMZmo0eXlxWW55bWtEQUVKQ2FPY3dTdG15OXZKRzRGZmlIVUpzYVFsbmFnM0lHUnFVUE9pN01lZnozY3d0TjROOHhWVHc2Y05zdXR2bXF5TGNsVWR3Yi1Td29LY0tZOF9UekdxVEVtRkJmLWJsbEdpVmd3V2cxYVRUa3JR?oc=5",
+      "source": "Gala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUkktQXl5YllrUW5WRWN0R2ZGSjV2VkJLeUM3dXA2N21kUXFCQXBUNWtCdWUyZjNicmE4enoyWlJJelZ6Zi1kOFdKSU5TVVU2T1FCQTBXZllYUFMwZFgzUTZVZ2ZDVmF4YUV4QVJ0ZExUSDRvRjF3ZXVSazlDMkFMZmo0eXlxWW55bWtEQUVKQ2FPY3dTdG15OXZKRzRGZmlIVUpzYVFsbmFnM0lHUnFVUE9pN01lZnozY3d0TjROOHhWVHc2Y05zdX",
+      "publishedAt": "2026-10-21T13:30:29.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-23T02:03:33.168Z",
       "isNew": true
-    },
-    {
-      "title": "Lycéens mobilisés : « Les réseaux, c’est notre contre-pouvoir » - Mediapart",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDhuR0w4UW9HZ2NiNXRfa3V2bWpLazZwVzlUWm84YnZWbXhOZC0zcHJpVDdGYVJhQ0p5VEZwOWhRRW9uZmMwNjlUTkJNb1FyS3Q4clh1MnlYX3kyRE80ZVVrbG9YZ090WkgxU2x3Z3YzYzJlN0lkRW1YSEFEOTlvR3Fyb01SREtFVGtJYjNnVnZtaTdPemdWUVNaeEhJR2ttUVB1LWZR?oc=5",
-      "source": "Mediapart",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDhuR0w4UW9HZ2NiNXRfa3V2bWpLazZwVzlUWm84YnZWbXhOZC0zcHJpVDdGYVJhQ0p5VEZwOWhRRW9uZmMwNjlUTkJNb1FyS3Q4clh1MnlYX3kyRE80ZVVrbG9YZ090WkgxU2x3Z3YzYzJlN0lkRW1YSEFEOTlvR3Fyb01SREtFVGtJYjNnVnZtaTdPemdWUVNaeEhJR2ttUVB1LWZR?oc=5\" target=\"_blank\">Lycéens mobilisés : « L",
-      "publishedAt": "2026-10-20T07:44:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Edouard Philippe nomme sept porte-paroles pour ferrailler contre LFI et le RN - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnM5MnBFZjZHbkhIMHYtQVBPUGlhMlZyUi1nY0dOOGI5enVxWl9oa2ZDMUlNT3pIdENkSzkxZ28tYThJdjFEU3Awbkxkb05pQWxEcFhwOXZ0V1Rac3dEb3lETVhOdkc4cDNJMWJWRkxPOVRyd2dub0ZKaTR6WlRUMWtkbW4xMHFLQzdFOHd2SEJEVzVZZmNra3JYMHEtQ3ZUQ05fSUZUV3UwajBoc2FjRg?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnM5MnBFZjZHbkhIMHYtQVBPUGlhMlZyUi1nY0dOOGI5enVxWl9oa2ZDMUlNT3pIdENkSzkxZ28tYThJdjFEU3Awbkxkb05pQWxEcFhwOXZ0V1Rac3dEb3lETVhOdkc4cDNJMWJWRkxPOVRyd2dub0ZKaTR6WlRUMWtkbW4xMHFLQzdFOHd2SEJEVzVZZmNra3JYMHEtQ3ZUQ05fSUZUV3UwajBoc2FjRg?oc=5\" target=\"_blank\">Edouard P",
-      "publishedAt": "2026-10-20T17:12:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Débat sur LCI mi-novembre avec Le Pen, Glucksmann, Mélenchon, Attal, Retailleau. - LeBlogTVNews",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFFaNnhOSnE4R1dkQlVSdFRXQVkwbU5wR2lWT0JaNXBMVl9pcm1LcWFhTzF3NHhYZDhoZEh0Y0ZremFDNzlLWjFMbnEwRV9CVXlHUWVBanlmRFpCblZVMndrNnh1aENRc0w1RzJSOE40V203NDkwd3pDb3hxNzVLX050WjRTRVZYREJGUkw2SVoyRDJ2VWhzOEE5X1NfcW41dmdydWJRZC1NWVRxY0NhUjA5WExGdkpw?oc=5",
-      "source": "LeBlogTVNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFFaNnhOSnE4R1dkQlVSdFRXQVkwbU5wR2lWT0JaNXBMVl9pcm1LcWFhTzF3NHhYZDhoZEh0Y0ZremFDNzlLWjFMbnEwRV9CVXlHUWVBanlmRFpCblZVMndrNnh1aENRc0w1RzJSOE40V203NDkwd3pDb3hxNzVLX050WjRTRVZYREJGUkw2SVoyRDJ2VWhzOEE5X1NfcW41dmdydWJRZC1NWVRxY0NhUjA5WExGdkpw?oc=5\" target=\"_blank\"",
-      "publishedAt": "2026-10-21T09:00:56.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "Manifestations en France: Qui est Louise Montangon, nouvelle coqueluche de la droite? - 24 heures",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ21KM2JwcTZNLVNtWmZXaFhjSG9jMFBDNWlKU2FjSGtQMDdWUFQtY3V3YTdfQ1pYczhVMjl6ZFRWTGEyM1I5S3h0aDMyU3E3NG9ubEFtZlgwaXdUbUVha2ZVSVBPYmM3elgwZHVRSGQwZHQ3b2tDSjlxZEpmVFZJMEFya1N4VHpzZmlLbkstckRPb1E4QXpXdlNoSkRvMV9sdFd4OEJxUEVnSnJRTHB3SmlvcmRfNXlG?oc=5",
-      "source": "24 heures",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ21KM2JwcTZNLVNtWmZXaFhjSG9jMFBDNWlKU2FjSGtQMDdWUFQtY3V3YTdfQ1pYczhVMjl6ZFRWTGEyM1I5S3h0aDMyU3E3NG9ubEFtZlgwaXdUbUVha2ZVSVBPYmM3elgwZHVRSGQwZHQ3b2tDSjlxZEpmVFZJMEFya1N4VHpzZmlLbkstckRPb1E4QXpXdlNoSkRvMV9sdFd4OEJxUEVnSnJRTHB3SmlvcmRfNXlG?oc=5\" target=\"_blank\"",
-      "publishedAt": "2026-10-20T18:35:49.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027. Sondage IFOP: Attal et Philippe pas au second tour / Duel Mélenchon-Le Pen / Le Pen en tête - Le Centrisme",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGFsR2pJZzdaeFk1Z1ptNW81aFV0SzFrdUNJYjk2Y3pHb1k0MlMtbHhQY2JMQXJXeUFocnkwSXIzbEJzc2tuZExINDR6SElNQnR5T0VnTVpRS0diSnlHWExUcnR5S3hhVU51WTlYQURCTzllMXVQSnJjeE9UNFRHYXotRU5RRnZHc1A1MHpVdTdITUdD?oc=5",
-      "source": "Le Centrisme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxONGFsR2pJZzdaeFk1Z1ptNW81aFV0SzFrdUNJYjk2Y3pHb1k0MlMtbHhQY2JMQXJXeUFocnkwSXIzbEJzc2tuZExINDR6SElNQnR5T0VnTVpRS0diSnlHWExUcnR5S3hhVU51WTlYQURCTzllMXVQSnJjeE9UNFRHYXotRU5RRnZHc1A1MHpVdTdITUdD?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage IFOP: Attal et Phi",
-      "publishedAt": "2026-10-20T22:36:29.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Madame Knafo, Messieurs Attal, Lisnard, Philippe et Retailleau : en janvier il sera trop tard et seul un conclave imminent peut éviter le duel Mélenchon – Le Pen ! L’édito de Michel Taube - Tribune Juive",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQYnhxdUVNVThIN3ZLTEZtQVREZFYwS1V1c1p2ekZ0Vno1YjlxZVdsLUtSRm9EdFlJY3h2aE1tbkpSSzdBWjB4N1BXdzhDM1dsWmxWTHRiTkdwbFo4N25JdGxMbV9wM0dwMmtnMEZYcDA5ejUwNFNsUmVMSVF6NDBZa3l1M1p6dlJOdUo0VnpPMEVqakdxa29aOF81RjM4WV9WQXg2eTlrOEo5eDBORnltd3UyMjl4R1hxQ1FNYXU4RTRzWjhGM2pXNTF6djdHbjFsdEgyVkFEVF9CTnA2OGFQdjh6aHpSenRlMTFiT3RncWtiTWxZUDB5eGc2N1BEZ1BpSU1PY2Q5aDFJTTg5ZGFiR0JtbU83LXBjNkpaMU5PdG5lU3pQazVJSlVUMlZFV2RhXzRWRDVR?oc=5",
-      "source": "Tribune Juive",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxQYnhxdUVNVThIN3ZLTEZtQVREZFYwS1V1c1p2ekZ0Vno1YjlxZVdsLUtSRm9EdFlJY3h2aE1tbkpSSzdBWjB4N1BXdzhDM1dsWmxWTHRiTkdwbFo4N25JdGxMbV9wM0dwMmtnMEZYcDA5ejUwNFNsUmVMSVF6NDBZa3l1M1p6dlJOdUo0VnpPMEVqakdxa29aOF81RjM4WV9WQXg2eTlrOEo5eDBORnltd3UyMjl4R1hxQ1FNYXU4RTRzWjhGM2pXNT",
-      "publishedAt": "2026-10-21T13:05:20.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : en reflux dans les sondages, Édouard Philippe confronté au risque du dégagisme - Le Figaro",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN1l4NjJGTUZISU9Rb1ZzVDhONWNZR3pQWlhtMEljRTRJb0xxX05ITzJLdVV4M1p6SDMxdzlRNG5MUGtYaFJGSmtoSFFjMkxJX2JMUXlxTFpuLXdBc0h3NUpSWFA2SEdMYkNQZGxXdEkxa1N6Qzg4SFNvdFdJN1I3WXpJMVdaNk9Ob2dnRUlGR1VsVnhYLXNTM3ZYVDdBYTZuRTNrVzA0Y2dVQWd2YmZIX1BqVmZQcDN2d0NuZG02N0tJcGsyMDQtUUhUM1NjOGpLUlgxekQybkh2SlVNMDRGcmFxWThqcU54S2t2RA?oc=5",
-      "source": "Le Figaro",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN1l4NjJGTUZISU9Rb1ZzVDhONWNZR3pQWlhtMEljRTRJb0xxX05ITzJLdVV4M1p6SDMxdzlRNG5MUGtYaFJGSmtoSFFjMkxJX2JMUXlxTFpuLXdBc0h3NUpSWFA2SEdMYkNQZGxXdEkxa1N6Qzg4SFNvdFdJN1I3WXpJMVdaNk9Ob2dnRUlGR1VsVnhYLXNTM3ZYVDdBYTZuRTNrVzA0Y2dVQWd2YmZIX1BqVmZQcDN2d0NuZG02N0tJcGsyMDQtUU",
-      "publishedAt": "2026-10-20T18:00:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : après le 17 octobre, Marine Le Pen grande gagnante - Valeurs actuelles",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdm1BWTFsOGFLVlFGeUloRnhiTzA3aWZCSlZJVzdpWlgzb1dqdzlCRzI5UzBqX2FZWW1YTkNVUnU2akRwdk12a3lYMHR3WmRWaVpWX3VWaG9YZzhITDZkNnotcGFIWGZtdGhzd1NxUmlNemFQOE81YnJCSXNFYmxhemZIZU1uckRSaG5qRlVFWWxNV1NrcjR0TWZqOFFRdFlLLWlVdGlsd0hXbFowZkhuT0pYLXQwdlZFeURxUnhadkt5RnBBdERZYnVpS1lOcDZFZ2dpRXNTdVM?oc=5",
-      "source": "Valeurs actuelles",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdm1BWTFsOGFLVlFGeUloRnhiTzA3aWZCSlZJVzdpWlgzb1dqdzlCRzI5UzBqX2FZWW1YTkNVUnU2akRwdk12a3lYMHR3WmRWaVpWX3VWaG9YZzhITDZkNnotcGFIWGZtdGhzd1NxUmlNemFQOE81YnJCSXNFYmxhemZIZU1uckRSaG5qRlVFWWxNV1NrcjR0TWZqOFFRdFlLLWlVdGlsd0hXbFowZkhuT0pYLXQwdlZFeURxUnhadkt5RnBBdERZYn",
-      "publishedAt": "2026-10-20T16:33:08.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "TikTok, Snapchat, Telegram : la France peut-elle vraiment couper l'accès aux réseaux sociaux - Frandroid",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGhub053YUxmWk12Y3g3Zzg2WUdrM043bV9Lc0FvdkhoUWdXVURQNHpOQ2xCLU5HTm1nOHBxTXk4MURxMEEwRTd3bVJuaGNwR0tsY0VISnZuek9ySVMyVnE1S0RDQUo0RERsRGRWbG5OeDFqTzZvaDF1Z1FINnAzODlka2VhN3BWOVl4bWhyandtd3JJZlJtS01FdHZEaW9iWEgtUGVyaUMyT19fWTN2YlJZXy1wY2NVWXlUc3RUYmpRSGc4aEdrTWhGSXp3S1FhVVY3OQ?oc=5",
-      "source": "Frandroid",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGhub053YUxmWk12Y3g3Zzg2WUdrM043bV9Lc0FvdkhoUWdXVURQNHpOQ2xCLU5HTm1nOHBxTXk4MURxMEEwRTd3bVJuaGNwR0tsY0VISnZuek9ySVMyVnE1S0RDQUo0RERsRGRWbG5OeDFqTzZvaDF1Z1FINnAzODlka2VhN3BWOVl4bWhyandtd3JJZlJtS01FdHZEaW9iWEgtUGVyaUMyT19fWTN2YlJZXy1wY2NVWXlUc3RUYmpRSGc4aEdrTW",
-      "publishedAt": "2026-10-20T17:28:39.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
     },
     {
       "title": "After French protests, Philippe and Attal distance themselves from Macron - Le Monde.fr",
@@ -469,21 +334,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "France social media ban plan sparks rights concerns - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdjh4Q1M4ZlhMYlFLei1nNjdUNzdlSnRUYVpIVmdDUDRDNGduZnhIeTZwVHB4VDV6UVVSdGtHdzlvOEc2TXlMZ01QakxfZGRITDRFRTZkQTQ4eG5HODJOTnBVekdpaGVYR3BuZWJvRFZ3RlFpYWNfdU5WbEtfUkxNWGJydw?oc=5",
-      "source": "Cybernews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQdjh4Q1M4ZlhMYlFLei1nNjdUNzdlSnRUYVpIVmdDUDRDNGduZnhIeTZwVHB4VDV6UVVSdGtHdzlvOEc2TXlMZ01QakxfZGRITDRFRTZkQTQ4eG5HODJOTnBVekdpaGVYR3BuZWJvRFZ3RlFpYWNfdU5WbEtfUkxNWGJydw?oc=5\" target=\"_blank\">France social media ban plan sparks rights concerns</a>&nbsp;&nbsp;<f",
-      "publishedAt": "2026-10-20T13:09:20.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
       "isNew": false
     },
     {
@@ -499,122 +349,16 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal Calls for Temporary Social Media Blackouts During France Riots - The420.in",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZR0RlQWFFUzRvajJTc0FIMTJzR05vVFFhVTh4YjFFdEdvb0ZBOHBuS0F4RVRTdF9zUG9WR2VjMGwwUUlhRGVxUGtlaU1fYWVGZVRyeWFWSDJHR0tBRFJDUmZhRXA3RW15dXhycTFrODhhZ20x?oc=5",
-      "source": "The420.in",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBZR0RlQWFFUzRvajJTc0FIMTJzR05vVFFhVTh4YjFFdEdvb0ZBOHBuS0F4RVRTdF9zUG9WR2VjMGwwUUlhRGVxUGtlaU1fYWVGZVRyeWFWSDJHR0tBRFJDUmZhRXA3RW15dXhycTFrODhhZ20x?oc=5\" target=\"_blank\">Gabriel Attal Calls for Temporary Social Media Blackouts During France Riots</a>&nbsp;&nbsp",
-      "publishedAt": "2026-10-20T13:52:07.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "En Nouvelle-Calédonie, pourquoi l’accord sur le nickel signé ce mardi avec l’Europe suscite des « réticences » - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPUkpNSFhhNGliUFA5NDQ5V2VKMXhzeDhucXE2aUxwVzY1RGpOdWE0M0VwN010QnlfbUhsTHdMdUtvUWJGNXpTUmYtX2tNWWNpcHVfb2JYczdzWDZHTjduZV9keVU5UzlkbE9EOXRTT0liSXRMWjc1b2Uyc0hrcU1DdjA2X0U0aVRiZkFnRTBnN1NGWnVLR3FnS3ZueUdzVGY4MnpFUWRDVDNBcGlJc2lucEpmNTBPR3ZOT245bEpiWF9HVnNRRjhjTS1vaWpGbW5ELXNQeWNLajVQdnNudlFBM1gzbDFOU3ZXNHRjT1h3WnIycWVWelljRUZfeTVRTXZrbDZPZ004NWdDRENZRTU2bUNaa1J0QQ?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPUkpNSFhhNGliUFA5NDQ5V2VKMXhzeDhucXE2aUxwVzY1RGpOdWE0M0VwN010QnlfbUhsTHdMdUtvUWJGNXpTUmYtX2tNWWNpcHVfb2JYczdzWDZHTjduZV9keVU5UzlkbE9EOXRTT0liSXRMWjc1b2Uyc0hrcU1DdjA2X0U0aVRiZkFnRTBnN1NGWnVLR3FnS3ZueUdzVGY4MnpFUWRDVDNBcGlJc2lucEpmNTBPR3ZOT245bEpiWF9HVnNRRjhjTS",
-      "publishedAt": "2026-10-20T14:22:57.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "L’Europe attribue 596 millions de francs pour la formation et la solidarité - Les Nouvelles Calédoniennes",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU1mOGtUR281cFdVZElPTzBidlRTYVJxdC1NQjlBY0VSOUw2ZlBhN0xMcG1XNVYwMmt5LWsySjJ1ZE83eDZWMzRtSW1rQ1BzbzAxSzdndnBpSk5ISUZ1aXEzR0dUTUVDY3FWU2g3c1Bkblh4REN3NWNkNkxiZklHUnFMZXVpd2cwVUFCZU54TldUVEJBMl9hS1BNbG91Xzl6bDBhbw?oc=5",
-      "source": "Les Nouvelles Calédoniennes",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU1mOGtUR281cFdVZElPTzBidlRTYVJxdC1NQjlBY0VSOUw2ZlBhN0xMcG1XNVYwMmt5LWsySjJ1ZE83eDZWMzRtSW1rQ1BzbzAxSzdndnBpSk5ISUZ1aXEzR0dUTUVDY3FWU2g3c1Bkblh4REN3NWNkNkxiZklHUnFMZXVpd2cwVUFCZU54TldUVEJBMl9hS1BNbG91Xzl6bDBhbw?oc=5\" target=\"_blank\">L’Europe attribue 596 mil",
-      "publishedAt": "2026-10-20T08:08:28.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "\"Le début d’un processus\" : le protocole entre l’UE et la Nouvelle-Calédonie est signé - Les Nouvelles Calédoniennes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb21HMUhVR1RNTUl3aWJXWUdGVmVSOEZnNWx1WHdzbjdBYTFBbDllOVBWSjRrcms4WWlRXzVYVWVxMmYwU3Y2VXAxTnY2YWJudXE1M2hGTUtLUEtha1h0bFFFS000NkczNkM4TXgxa2x2S0NWZjJLMnZ3WmwwV0VwM1NmTGxLdnVobzY3VHVza2hBOHZyb3VINnp5bFIzWmRGZGxHOU9jcVpGcnZ3NHc?oc=5",
-      "source": "Les Nouvelles Calédoniennes",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNb21HMUhVR1RNTUl3aWJXWUdGVmVSOEZnNWx1WHdzbjdBYTFBbDllOVBWSjRrcms4WWlRXzVYVWVxMmYwU3Y2VXAxTnY2YWJudXE1M2hGTUtLUEtha1h0bFFFS000NkczNkM4TXgxa2x2S0NWZjJLMnZ3WmwwV0VwM1NmTGxLdnVobzY3VHVza2hBOHZyb3VINnp5bFIzWmRGZGxHOU9jcVpGcnZ3NHc?oc=5\" target=\"_blank\">\"Le début d’",
-      "publishedAt": "2026-10-20T06:13:17.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "L'Eurodéputé du Rassemblement national André Rougé réclame un forum européen des PTOM à Bruxelles, en marge de la visite de Stéphane Séjourné à Nouméa - Outremers 360",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPMWlGamhOem9NWEdMaUVoc2daY3NzcERUNVJCdnhNX210LWxEZGJZVUZPekEzNWJxUHZIZTlOeGJrUmh6LU9rQmpVS3NJd0x3RkcxS3BEQzZOQ21BVXhHZEFXU1lDSzFKbmxkT2tjODJLd0hoVWdaUkZ2RERIc095UTg1eFJtek56eDh2eTNYUTNzQmJGOUthR1FfaWVGNU9WczJrNFpSb0pteFlqYWN3QjZxVjBCRXk4V1Z5eHg5UDVzbkVWV21sb2RqTVlPbllDcmJhSjhnc1NEcVhqY0FmSFNUODJ3WVZCTkcxaFpQbEF4eU5Mam9qaENBaUp4RnljYXVsTmhGQ2xYTlAxUWs3OGpZZEI4SXhiQVdzeTF4SENrYmNBTkhLMw?oc=5",
-      "source": "Outremers 360",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxPMWlGamhOem9NWEdMaUVoc2daY3NzcERUNVJCdnhNX210LWxEZGJZVUZPekEzNWJxUHZIZTlOeGJrUmh6LU9rQmpVS3NJd0x3RkcxS3BEQzZOQ21BVXhHZEFXU1lDSzFKbmxkT2tjODJLd0hoVWdaUkZ2RERIc095UTg1eFJtek56eDh2eTNYUTNzQmJGOUthR1FfaWVGNU9WczJrNFpSb0pteFlqYWN3QjZxVjBCRXk4V1Z5eHg5UDVzbkVWV21sb2",
-      "publishedAt": "2026-10-20T08:23:46.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
-      "isNew": false
-    },
-    {
-      "title": "New Caledonia looks to EU for new markets for troubled nickel sector - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOExRbEl1NWlmamlVb1pWTXp5MVlDWWhtTXlJb0RxMGlRU1BDeUlwT1JvWF9ST3lNWUVXSGFOTk9ObTROSHRIZ3l6c0tSMVBRNFU1dkZLU3VzZFhFWGpZZjAxeVBvRUdudm8yWE5wVGFEc1NxVWI0MWU3RmRjVFZqal9KelFhN0NYVGlIX1pCbVJPRjhYSFJLRU90U2xnbGkyQUdYbXpXclNsdw?oc=5",
-      "source": "RFI",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOExRbEl1NWlmamlVb1pWTXp5MVlDWWhtTXlJb0RxMGlRU1BDeUlwT1JvWF9ST3lNWUVXSGFOTk9ObTROSHRIZ3l6c0tSMVBRNFU1dkZLU3VzZFhFWGpZZjAxeVBvRUdudm8yWE5wVGFEc1NxVWI0MWU3RmRjVFZqal9KelFhN0NYVGlIX1pCbVJPRjhYSFJLRU90U2xnbGkyQUdYbXpXclNsdw?oc=5\" target=\"_blank\">New Caledonia loo",
-      "publishedAt": "2026-10-20T16:17:58.000Z",
-      "lang": "en",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-22T01:59:57.476Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal appelle à rétablir l’ordre et à mettre fin à l’impunité",
-      "url": "https://attalpresident.fr/actualites/gabriel-attal-retablir-ordre-mettre-fin-impunite",
-      "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "Invité de BFM TV ce lundi 19 octobre, Gabriel Attal a appelé à une réponse ferme et immédiate face aux violences et aux pillages qui secouent le pays depuis samedi. Sa priorité : rétablir l’ordre et mettre fin à l’impunité.",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "lang": "fr",
-      "type": "official",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-10-21T02:05:44.188Z",
       "isNew": false
     }
   ],
   "stats": {
-    "total": 40,
-    "new": 20,
-    "carried": 20,
-    "media": 39,
+    "total": 23,
+    "new": 12,
+    "carried": 11,
+    "media": 23,
     "agenda": 0,
-    "official": 1,
+    "official": 0,
     "coOccurrence": 0
   }
 }
