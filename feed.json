@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:49:33.539Z",
+  "generatedAt": "2026-10-26T01:51:31.570Z",
   "persons": [
     "attal",
     "sejourne"
@@ -19,7 +19,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Présidentielle 2027 : Le Pen et Mélenchon au second tour dans tous les cas de figure, Philippe et Attal en difficulté, selon un sondage - RTL",
@@ -34,22 +34,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 - sondage : Edouard Philippe et Gabriel Attal décrochent, Marine Le Pen toujours devant mais pas d'effet 17 octobre - ladepeche.fr - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHl5NzBrTFJMRURpUkpHemtqZ1dOaEpPWjhhc3pXdGxHVXZ3UlJ2WkJtb3U3SE02dXJWei1KUGUya0tBd3Y2bkY1bGhPYmc3a0NfWjNNeEFIeTdwZUFOU2xUcEMtTC1KcU5BTnQwRk9vUEdSTDZsMmNrb0ZnTmpxTTVWRFQ5LXFPN3Z5c0sycDRpcDU2WXc5YnRyMWYzd1dWMTlCbWFzZlNTZmdSeUpZSGhjTXpaajBfaEVRMy1TMlUwdEJrYjZPeGpWN2d1aV9nSThVd3pfNFVESlhwM1BzNEpFeFBCbDBidWwtQWR0T2txdFdB?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHl5NzBrTFJMRURpUkpHemtqZ1dOaEpPWjhhc3pXdGxHVXZ3UlJ2WkJtb3U3SE02dXJWei1KUGUya0tBd3Y2bkY1bGhPYmc3a0NfWjNNeEFIeTdwZUFOU2xUcEMtTC1KcU5BTnQwRk9vUEdSTDZsMmNrb0ZnTmpxTTVWRFQ5LXFPN3Z5c0sycDRpcDU2WXc5YnRyMWYzd1dWMTlCbWFzZlNTZmdSeUpZSGhjTXpaajBfaEVRMy1TMlUwdEJrYjZPeG",
-      "publishedAt": "2026-10-24T17:28:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "Présidentielle : un nouveau sondage place Mélenchon au 2e tour dans toutes les configurations - Le Télégramme",
@@ -64,21 +49,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Présidentielle 2027 : Jean-Luc Mélenchon et Marine Le Pen au second tour, Edouard Philippe et Gabriel Attal à la peine selon un dernier sondage - L'Indépendant",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOdzVyVWVzQXdYV1NoLU1vRm9TeWFtZFg1Z2xCRUI3VmZxS0FFNEhhMHpKTS1rTXJaSTdydTFKOU9qM2JXaWVPVWRfdXE4bmZfYzVMRm91MGFfaDJ4T3o2bWlsMjV2dGlQYlp0bjVoU2dyY0hFSDZDTkw4R2FfNTJoRi1pVXViTXh3UjM4WW9UZXRDc0I5LUtSSmYyMEZNdmI0VFpGdG5fa3JSbXZaQnVXeFJwd1BkZ01kSm1pbHNiTjZ3SVpQd0dpdTFzU25mZF9BSjVPRHNSY0p1aDBiMHJVZHlPY0gxZl9FMF9WMEV4QUpUUFpYWWY0THdCSWEwTEFzVk5VNjV5ZkZseEwtdlotSGNrcjdiS25mbnBKdg?oc=5",
-      "source": "L'Indépendant",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOdzVyVWVzQXdYV1NoLU1vRm9TeWFtZFg1Z2xCRUI3VmZxS0FFNEhhMHpKTS1rTXJaSTdydTFKOU9qM2JXaWVPVWRfdXE4bmZfYzVMRm91MGFfaDJ4T3o2bWlsMjV2dGlQYlp0bjVoU2dyY0hFSDZDTkw4R2FfNTJoRi1pVXViTXh3UjM4WW9UZXRDc0I5LUtSSmYyMEZNdmI0VFpGdG5fa3JSbXZaQnVXeFJwd1BkZ01kSm1pbHNiTjZ3SVpQd0dpdT",
-      "publishedAt": "2026-10-24T19:39:00.000Z",
+      "title": "Recadrage de Chenu, goodies d’Attal et « motorgate »… Nos indiscrétions de la semaine - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUltOTBDNktRRWlLUTAzNG44TTlBU2swUXVacEFmMy1EOU1GSUxCS3ZVU3NIRVhEWmNJdnN5RDQwaGFqS1pPWlJBWjVndmFabXJLS3pMY1VJNDRUSzdUdWNYUnhGbldtYXpPUEJmRENGV0lna0VpS1JUUURJQmM3ajdCYjB0VTFwM2VzRnZzMGFhcVBSNi1ieEVDSUdoSE95S1pRT1RsX1EtdzlkTXRPVVZrMnhTZ2RqV1BkQldQZ3pjODlENW5Ibk0zbUpmd2MzT3pNM0hxNElodUE3OEZFTTFvZGZ2UkxDaTdWeA?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUltOTBDNktRRWlLUTAzNG44TTlBU2swUXVacEFmMy1EOU1GSUxCS3ZVU3NIRVhEWmNJdnN5RDQwaGFqS1pPWlJBWjVndmFabXJLS3pMY1VJNDRUSzdUdWNYUnhGbldtYXpPUEJmRENGV0lna0VpS1JUUURJQmM3ajdCYjB0VTFwM2VzRnZzMGFhcVBSNi1ieEVDSUdoSE95S1pRT1RsX1EtdzlkTXRPVVZrMnhTZ2RqV1BkQldQZ3pjODlENW5Ibk",
+      "publishedAt": "2026-10-25T06:20:00.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-10-25T01:49:33.539Z",
+      "firstSeenAt": "2026-10-26T01:51:31.569Z",
       "isNew": true
     },
     {
@@ -90,71 +75,10 @@
       "lang": "fr",
       "type": "media",
       "persons": [
-        "attal",
-        "sejourne"
-      ],
-      "coOccurrence": true,
-      "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Mélenchon progresse, Le Pen reste en tête - Ipsos",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTRMQTZoX2s2MEZ4WWtwckhVYUdYMnRUeEEtcjd6OHk4WDUzSzVqNnNpM2xmQk5CZHVXbFFrTC1uNnlPZzg2Y0FobE9MNVRYZlhjc2laLVFQdEFnRmU0czZyUVM3WGx3YTBJaXBLMkliY0QyNFptS2pkU1pfbXF5S1JKMjBYY2ZhTVREazl2cUZudw?oc=5",
-      "source": "Ipsos",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTRMQTZoX2s2MEZ4WWtwckhVYUdYMnRUeEEtcjd6OHk4WDUzSzVqNnNpM2xmQk5CZHVXbFFrTC1uNnlPZzg2Y0FobE9MNVRYZlhjc2laLVFQdEFnRmU0czZyUVM3WGx3YTBJaXBLMkliY0QyNFptS2pkU1pfbXF5S1JKMjBYY2ZhTVREazl2cUZudw?oc=5\" target=\"_blank\">Présidentielle 2027 : Mélenchon progresse, Le Pen",
-      "publishedAt": "2026-10-24T14:10:27.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
         "attal"
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
-    },
-    {
-      "title": "Mobilisation du 24 octobre : \"Si la situation n'est pas rétablie, évidemment qu'il faudra déclarer [l'état d'urgence]\", estime Gabriel Attal - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRW1MZU9iNWFNRjI1NWRxQV9DeTBFNE0xZ05ubzZLWVBTQUZnbG80YmpqUTlkemFRanY4MVhRY3RYN1c4OURoMjRkandrdGgxSjdHbGJ3cTBHbTVHWjVIdDdJdHdaY2JjcVVRSkFEWXB6cTdNU3hDa3BqOFNDeGY2ckhxTlVWMU5tM0x2a0NFVjFSajI0dm9EQ0pPcmUzQ2EzUnU2Z3Q0Z0c3MG5nODRQZjBzdjB0NThRclZPaF81Z0JTVHBKUWNic2E1a0hFb01EaE9wR0FPSXhqSEhGc2dpT1dLaUpZX3dCckR0cDV1MzFJN2xRekY2MFBoNDJBbmd2OVhRalZ4bmlUU0NoSS1KektSMC1VQWZaMFBPZEU5NHU?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNRW1MZU9iNWFNRjI1NWRxQV9DeTBFNE0xZ05ubzZLWVBTQUZnbG80YmpqUTlkemFRanY4MVhRY3RYN1c4OURoMjRkandrdGgxSjdHbGJ3cTBHbTVHWjVIdDdJdHdaY2JjcVVRSkFEWXB6cTdNU3hDa3BqOFNDeGY2ckhxTlVWMU5tM0x2a0NFVjFSajI0dm9EQ0pPcmUzQ2EzUnU2Z3Q0Z0c3MG5nODRQZjBzdjB0NThRclZPaF81Z0JTVHBKUWNic2",
-      "publishedAt": "2026-10-23T07:11:08.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-24T02:02:52.131Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : le candidat Gabriel Attal veut poursuivre l'élargissement des compétences des pharmaciens - Le Moniteur des pharmacies",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJxUGtoTXVLa3RZM0s1M2M0bjZPeUI4UjJvX0wxQkV1ZzNHam82WTBUUTBjRUpMVk11OWdyMm9YcmNGRFlkQk5zVFdvLV9QcDdxcFhVajNVaFNaZFQ0SkJHcEhtNi1wRXlfQVM4cGhNNWVrbFlLa0R4NTUxRUFCSlhxS1RTWXNNQWFiMWUwQk54YmtpVzEySVRuY0E2UzFiaFZIel9fdnF6bUIxRU1nNjFJZDJzZVRpMU42NmI0eDF1TllLWGdhazUtdmxtNldXNzllYmRvUG5nVkdHd2Rkc1B3MWtfcnNWWmJ0VzRiSVlXSlRJYk9xRHNwSldPTHl2WUEtaDg1LThXQQ?oc=5",
-      "source": "Le Moniteur des pharmacies",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNaXJxUGtoTXVLa3RZM0s1M2M0bjZPeUI4UjJvX0wxQkV1ZzNHam82WTBUUTBjRUpMVk11OWdyMm9YcmNGRFlkQk5zVFdvLV9QcDdxcFhVajNVaFNaZFQ0SkJHcEhtNi1wRXlfQVM4cGhNNWVrbFlLa0R4NTUxRUFCSlhxS1RTWXNNQWFiMWUwQk54YmtpVzEySVRuY0E2UzFiaFZIel9fdnF6bUIxRU1nNjFJZDJzZVRpMU42NmI0eDF1TllLWGdhaz",
-      "publishedAt": "2026-10-23T08:34:46.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-24T02:02:52.131Z",
-      "isNew": false
-    },
-    {
-      "title": "Les 4 vérités - Gabriel Attal - France TV",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM21vVnBhcFNVVkdqOFJMZEFlNEQ4LVZBRkQwRy1MSlY0TC1sMlJERjFwWFh6eG45TEVXYUo4dDBOY0Z0bmdWMXdBZmJtb09Lc0p6OFM3bTNmLTVKR3hnOUxKQ09QTkJiZ0tnZ0tEX1Zlb2hFdHpHQzFBUXBzWFdZOHl5UExBVHJE?oc=5",
-      "source": "France TV",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM21vVnBhcFNVVkdqOFJMZEFlNEQ4LVZBRkQwRy1MSlY0TC1sMlJERjFwWFh6eG45TEVXYUo4dDBOY0Z0bmdWMXdBZmJtb09Lc0p6OFM3bTNmLTVKR3hnOUxKQ09QTkJiZ0tnZ0tEX1Zlb2hFdHpHQzFBUXBzWFdZOHl5UExBVHJE?oc=5\" target=\"_blank\">Les 4 vérités - Gabriel Attal</a>&nbsp;&nbsp;<font color=\"#6f6f",
-      "publishedAt": "2026-10-23T08:12:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-24T02:02:52.131Z",
       "isNew": false
     },
     {
@@ -170,6 +94,141 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-25T01:49:33.539Z",
+      "isNew": false
+    },
+    {
+      "title": "Gabriel Attal : le récit poignant d’un coming out à la veille d’un adieu - Ohmymag",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOERoYmE0dWVrTUQwZmZ6S3ZzSmxlbzNmWDljNlo3UlVNbWhvbHZQZXEtZ295SFlOS3Ftb2VORy1OOEhxTWcwLU1BWkFIYUw3QUctYUJCMk1FTEp3NFZadEo0blBLaVkzUk5kaXlmNzFIcjhQcWl3dUlleGp2VmJKbmtPSlNBT1M3VzdYVzRLWExmRDdja1FocVQzbEZoaVhnbVJsdzFENFhYWTN2S1Vj?oc=5",
+      "source": "Ohmymag",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPOERoYmE0dWVrTUQwZmZ6S3ZzSmxlbzNmWDljNlo3UlVNbWhvbHZQZXEtZ295SFlOS3Ftb2VORy1OOEhxTWcwLU1BWkFIYUw3QUctYUJCMk1FTEp3NFZadEo0blBLaVkzUk5kaXlmNzFIcjhQcWl3dUlleGp2VmJKbmtPSlNBT1M3VzdYVzRLWExmRDdja1FocVQzbEZoaVhnbVJsdzFENFhYWTN2S1Vj?oc=5\" target=\"_blank\">Gabriel Att",
+      "publishedAt": "2026-10-25T15:00:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-26T01:51:31.569Z",
+      "isNew": true
+    },
+    {
+      "title": "Un hacker affirme avoir mis la main sur 4,1 millions de données chez Renaissance, le parti de Gabriel Attal dément la fuite de données - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOa3M1RHdyMlFEYTlPTEtLQldSb3JycTBOTXY1emVvWWNzVFhWbVloMVdCSEpMekRCOXd1NVJabzlGaEtJTzFSeXA1NG9Hb2lNdWJpVHNudlJsZ1VLTjAzRWxIb1Bfd1lQOFVkYUdCMWhycU1CamNCTnVyUGVTa2lwN0l3UFNDTy1hbW1ROUR4ZDlTV1Z3STh5UlFEcEd1bTBBQ0JjLUxEcFpUd3FYMjhiOVFYMXI3YklLVVRXVzBOSENTbDVRekdPYlRkcFZJM0dXUUwtSGpHYlNmcldPZW9pQjJKTC13MXFpQXF6U1lOOW5GMjZCOTI4WjV3UURlTVlHa012ckc2cEs5TGlfaVE?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOa3M1RHdyMlFEYTlPTEtLQldSb3JycTBOTXY1emVvWWNzVFhWbVloMVdCSEpMekRCOXd1NVJabzlGaEtJTzFSeXA1NG9Hb2lNdWJpVHNudlJsZ1VLTjAzRWxIb1Bfd1lQOFVkYUdCMWhycU1CamNCTnVyUGVTa2lwN0l3UFNDTy1hbW1ROUR4ZDlTV1Z3STh5UlFEcEd1bTBBQ0JjLUxEcFpUd3FYMjhiOVFYMXI3YklLVVRXVzBOSENTbDVRekdPYl",
+      "publishedAt": "2026-10-25T15:33:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-26T01:51:31.569Z",
+      "isNew": true
+    },
+    {
+      "title": "“Je vais attendre le Black Friday” : sa chienne Volta transformée en peluche, mug et tee-shirt… les goodies de campagne de Gabriel Attal font jaser - Gala",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOYmhjNGRmN3p1Tm9xZ25qbHhDOUlrQjFjNGpGT3hvcmd2dk80LTlqcXFPRS1qZ2hIeVhVTnpQMUh3TUEwTjBiS1RzTlFfdmhNc09rOXdKRElLT25oN1I5YW00M3hLdktSSko3X3ZHcS1aS09QdXEyTEpCcFJDQkpYN2ZRWnBvbG11ZVFEZGl0M0Qwckh3UUxzMV9UUVdINm1CUkcyaE1KdlhXTGRYTVRVLWVVRGNCLTgzV1VkVG50LTFKZXNKLWhxaTN5eVE5VDk2cXFtNjFsazhkb2ozWlIyTVVmLWtHRFRJYVlOTjRSU05WenluYUJSaEFXalpwMjlwRm5TNmp5MEZCWWFL?oc=5",
+      "source": "Gala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOYmhjNGRmN3p1Tm9xZ25qbHhDOUlrQjFjNGpGT3hvcmd2dk80LTlqcXFPRS1qZ2hIeVhVTnpQMUh3TUEwTjBiS1RzTlFfdmhNc09rOXdKRElLT25oN1I5YW00M3hLdktSSko3X3ZHcS1aS09QdXEyTEpCcFJDQkpYN2ZRWnBvbG11ZVFEZGl0M0Qwckh3UUxzMV9UUVdINm1CUkcyaE1KdlhXTGRYTVRVLWVVRGNCLTgzV1VkVG50LTFKZXNKLWhxaT",
+      "publishedAt": "2026-10-25T09:26:17.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-26T01:51:31.569Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Mélenchon progresse, Le Pen reste en tête - Ipsos",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTRMQTZoX2s2MEZ4WWtwckhVYUdYMnRUeEEtcjd6OHk4WDUzSzVqNnNpM2xmQk5CZHVXbFFrTC1uNnlPZzg2Y0FobE9MNVRYZlhjc2laLVFQdEFnRmU0czZyUVM3WGx3YTBJaXBLMkliY0QyNFptS2pkU1pfbXF5S1JKMjBYY2ZhTVREazl2cUZudw?oc=5",
+      "source": "Ipsos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTRMQTZoX2s2MEZ4WWtwckhVYUdYMnRUeEEtcjd6OHk4WDUzSzVqNnNpM2xmQk5CZHVXbFFrTC1uNnlPZzg2Y0FobE9MNVRYZlhjc2laLVFQdEFnRmU0czZyUVM3WGx3YTBJaXBLMkliY0QyNFptS2pkU1pfbXF5S1JKMjBYY2ZhTVREazl2cUZudw?oc=5\" target=\"_blank\">Présidentielle 2027 : Mélenchon progresse, Le Pen",
+      "publishedAt": "2026-10-24T14:10:27.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-25T01:49:33.539Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 - sondage : Edouard Philippe et Gabriel Attal décrochent, Marine Le Pen toujours devant mais pas d'effet 17 octobre - ladepeche.fr - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHl5NzBrTFJMRURpUkpHemtqZ1dOaEpPWjhhc3pXdGxHVXZ3UlJ2WkJtb3U3SE02dXJWei1KUGUya0tBd3Y2bkY1bGhPYmc3a0NfWjNNeEFIeTdwZUFOU2xUcEMtTC1KcU5BTnQwRk9vUEdSTDZsMmNrb0ZnTmpxTTVWRFQ5LXFPN3Z5c0sycDRpcDU2WXc5YnRyMWYzd1dWMTlCbWFzZlNTZmdSeUpZSGhjTXpaajBfaEVRMy1TMlUwdEJrYjZPeGpWN2d1aV9nSThVd3pfNFVESlhwM1BzNEpFeFBCbDBidWwtQWR0T2txdFdB?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHl5NzBrTFJMRURpUkpHemtqZ1dOaEpPWjhhc3pXdGxHVXZ3UlJ2WkJtb3U3SE02dXJWei1KUGUya0tBd3Y2bkY1bGhPYmc3a0NfWjNNeEFIeTdwZUFOU2xUcEMtTC1KcU5BTnQwRk9vUEdSTDZsMmNrb0ZnTmpxTTVWRFQ5LXFPN3Z5c0sycDRpcDU2WXc5YnRyMWYzd1dWMTlCbWFzZlNTZmdSeUpZSGhjTXpaajBfaEVRMy1TMlUwdEJrYjZPeG",
+      "publishedAt": "2026-10-24T17:28:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-25T01:49:33.539Z",
+      "isNew": false
+    },
+    {
+      "title": "Premier meeting de campagne : Le Pen prône une \"renaissance\" de la France - Orange Actualités",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONVZSbVJ0aEI3TE9pN3k4bEwydTIwTDVSeFZUTjBOX3NvdEkwREg5N3lkRi1jbC1IRDQwTzdKOGtUUlVySTRmNjdHa1liWmt2NkpoVUlMVTJFbkpVYlFOTk9rdER3MUVwZEFZR2pGVlNkUUQxbUJNdVZBU25lN080QmZDYmR2WHhfSmJOYnhzdHU0R3llVXV2UzAyM19IcFp6QUdDcGNjaHFKV0hrYXdjMnczMU5fdW42WGpnaWpsSWN6YTdf?oc=5",
+      "source": "Orange Actualités",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxONVZSbVJ0aEI3TE9pN3k4bEwydTIwTDVSeFZUTjBOX3NvdEkwREg5N3lkRi1jbC1IRDQwTzdKOGtUUlVySTRmNjdHa1liWmt2NkpoVUlMVTJFbkpVYlFOTk9rdER3MUVwZEFZR2pGVlNkUUQxbUJNdVZBU25lN080QmZDYmR2WHhfSmJOYnhzdHU0R3llVXV2UzAyM19IcFp6QUdDcGNjaHFKV0hrYXdjMnczMU5fdW42WGpnaWpsSWN6YTdf?oc=5\"",
+      "publishedAt": "2026-10-25T18:01:45.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-26T01:51:31.569Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon et Marine Le Pen au second tour, Edouard Philippe et Gabriel Attal à la peine selon un dernier sondage - L'Indépendant",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOdzVyVWVzQXdYV1NoLU1vRm9TeWFtZFg1Z2xCRUI3VmZxS0FFNEhhMHpKTS1rTXJaSTdydTFKOU9qM2JXaWVPVWRfdXE4bmZfYzVMRm91MGFfaDJ4T3o2bWlsMjV2dGlQYlp0bjVoU2dyY0hFSDZDTkw4R2FfNTJoRi1pVXViTXh3UjM4WW9UZXRDc0I5LUtSSmYyMEZNdmI0VFpGdG5fa3JSbXZaQnVXeFJwd1BkZ01kSm1pbHNiTjZ3SVpQd0dpdTFzU25mZF9BSjVPRHNSY0p1aDBiMHJVZHlPY0gxZl9FMF9WMEV4QUpUUFpYWWY0THdCSWEwTEFzVk5VNjV5ZkZseEwtdlotSGNrcjdiS25mbnBKdg?oc=5",
+      "source": "L'Indépendant",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOdzVyVWVzQXdYV1NoLU1vRm9TeWFtZFg1Z2xCRUI3VmZxS0FFNEhhMHpKTS1rTXJaSTdydTFKOU9qM2JXaWVPVWRfdXE4bmZfYzVMRm91MGFfaDJ4T3o2bWlsMjV2dGlQYlp0bjVoU2dyY0hFSDZDTkw4R2FfNTJoRi1pVXViTXh3UjM4WW9UZXRDc0I5LUtSSmYyMEZNdmI0VFpGdG5fa3JSbXZaQnVXeFJwd1BkZ01kSm1pbHNiTjZ3SVpQd0dpdT",
+      "publishedAt": "2026-10-24T19:39:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-25T01:49:33.539Z",
+      "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027. Sondage Toluna: Ni Attal, ni Philippe qualifiés pour le second tour / Duel Le Pen-Mélenchon au second tour / Le Pen élue / Les extrêmes à 62-64% - Le Centrisme",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUnJyWFJmOFZKYzA0YmUyYWJrNUVIM0ZIQlBWZjIyNzROcUN2MzFUdUZZWDh5U25HSTB5TFBKQ3MyWnZvNjFZWC02dHViTThPYlBWcUwyQmwtRTlhRGxKTFloaGZKTEJtTlVwVk4yNTRBVmRkRU93U1lNSG9ncG5Rb1NwSQ?oc=5",
+      "source": "Le Centrisme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPUnJyWFJmOFZKYzA0YmUyYWJrNUVIM0ZIQlBWZjIyNzROcUN2MzFUdUZZWDh5U25HSTB5TFBKQ3MyWnZvNjFZWC02dHViTThPYlBWcUwyQmwtRTlhRGxKTFloaGZKTEJtTlVwVk4yNTRBVmRkRU93U1lNSG9ncG5Rb1NwSQ?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage Toluna: Ni Attal, ni Philippe qualifiés ",
+      "publishedAt": "2026-10-25T09:19:04.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-26T01:51:31.569Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027. Sondage Opinion-Way-CNews: Attal et Philippe pas au second tour / Le Pen en tête au premier tour et élue au second / Les extrêmes à 58% - Le Centrisme",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjFkT1ZNT0FiUEJBWi1XZDgzQm5ZeU5WOVE1THk4X094N1d5eXYtLVN2Z1pkb3UyR2NacWNTeFhGdnpJRUludzYxbDU0ZFc1S3dpWkxENllmcktTR25uQ1BLSXRhekl0aUh5VlVLaTRHNzlPOVpDaW01aUliQmtIUFRqMURQNUFSM2tfZ3l5N2xzandtOVE?oc=5",
+      "source": "Le Centrisme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjFkT1ZNT0FiUEJBWi1XZDgzQm5ZeU5WOVE1THk4X094N1d5eXYtLVN2Z1pkb3UyR2NacWNTeFhGdnpJRUludzYxbDU0ZFc1S3dpWkxENllmcktTR25uQ1BLSXRhekl0aUh5VlVLaTRHNzlPOVpDaW01aUliQmtIUFRqMURQNUFSM2tfZ3l5N2xzandtOVE?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage Opinion-Way-CNe",
+      "publishedAt": "2026-10-25T09:19:04.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-10-26T01:51:31.569Z",
       "isNew": true
     },
     {
@@ -185,92 +244,16 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
-    },
-    {
-      "title": "De Philippe à Attal, en passant par Lisnard, les éminences grises du big bang de la retraite par capitalisation - La Lettre",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQa2RxVktPRV9Ea2RWTUJSaHZhV1VWY1dMLVIzaFVBdzhfaFRURVhPeDFvX25OcFNEZXpwNG1ZV2k0R2kwUV9oRTR1VEhiZEl6Q0tOa3MzT0c5T3NGVURSMFByWDVpMUxGdDl1UUlucW81N0N2Y2dXemVjX2Y1WHpqVExIUlBOM3dSQlJUNHE3Vkt3TnN4d1dfaGxWSGljQlRwOEVMemg3aHBEbWxKUWVNYlVPdWgyNVNFS1BTb0JZVlBOSUE0djVYN1p6OWd1REFKbjNmY1FlVV9kNEd0LTBhTHctMkZSajZ0T3VhNDNfTnE3Qkg5REpWZHN2MUhQTUJKeDBlM09UdGJRaDBzMnIwQkVqRm15THJ2QlBr?oc=5",
-      "source": "La Lettre",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQa2RxVktPRV9Ea2RWTUJSaHZhV1VWY1dMLVIzaFVBdzhfaFRURVhPeDFvX25OcFNEZXpwNG1ZV2k0R2kwUV9oRTR1VEhiZEl6Q0tOa3MzT0c5T3NGVURSMFByWDVpMUxGdDl1UUlucW81N0N2Y2dXemVjX2Y1WHpqVExIUlBOM3dSQlJUNHE3Vkt3TnN4d1dfaGxWSGljQlRwOEVMemg3aHBEbWxKUWVNYlVPdWgyNVNFS1BTb0JZVlBOSUE0djVYN1",
-      "publishedAt": "2026-10-23T04:20:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-24T02:02:52.131Z",
       "isNew": false
-    },
-    {
-      "title": "Le parti d'Emmanuel Macron visé par une fuite présumée de 4,1 millions de données - FrenchBreaches",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQelBULXdvTEQzWGkweDBzWlhfdV90M1dKX25aRFRrU2RVT1dQVUx1elJKUWlUYUUyMFdNcFVjZ2xFOEdEVkFZUE5xZUVzNHlxU2gtOGtOVFhlQUMySjI5N3REdDBjX0ZVSWFGZ0tiU3BfSG1VLWt3ZzBzcktScnp6ZGpXRFU4NFlwbmlHQmJhQmh4Y1VkYVNuWXFhY1RBeVEzdzhveHhyTURTcTR2TjhtOQ?oc=5",
-      "source": "FrenchBreaches",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQelBULXdvTEQzWGkweDBzWlhfdV90M1dKX25aRFRrU2RVT1dQVUx1elJKUWlUYUUyMFdNcFVjZ2xFOEdEVkFZUE5xZUVzNHlxU2gtOGtOVFhlQUMySjI5N3REdDBjX0ZVSWFGZ0tiU3BfSG1VLWt3ZzBzcktScnp6ZGpXRFU4NFlwbmlHQmJhQmh4Y1VkYVNuWXFhY1RBeVEzdzhveHhyTURTcTR2TjhtOQ?oc=5\" target=\"_blank\">Le parti ",
-      "publishedAt": "2026-10-24T19:57:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
-    },
-    {
-      "title": "Nouvelle-Calédonie : la Cour de jsutice de la République classe une plainte contre Sébastien Lecornu, Gabriel Attal et Gérald Darmanin - Outremers360",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMUJTMnlBR0V1OUFzd08zREJqNXpiTU9KN1RORHN5T0JySjhoTGloVlpFdXFGZnVPd21lN1UzTlo0MUJmMEpDREVMZHR1U0ZlVzhYTXFwYUQ0X19sVnVZNzdjSXp4MUZFeVZSU3RyY0tVdkhYUGVZVXhJQ0tuQmxRVl9LNTBReU0zWlFMUkd2LWdjVDJDcVNUbGxNZXQxaUZTbV92OWU5ZUMyaEdGLUJFcUpucjJmYm5PNUxmSlFPZ2xscVpPdGlkV1BhaFBrb2hMNkJUS25na2Y2TVNPWjdhS3puMzlLZw?oc=5",
-      "source": "Outremers360",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMUJTMnlBR0V1OUFzd08zREJqNXpiTU9KN1RORHN5T0JySjhoTGloVlpFdXFGZnVPd21lN1UzTlo0MUJmMEpDREVMZHR1U0ZlVzhYTXFwYUQ0X19sVnVZNzdjSXp4MUZFeVZSU3RyY0tVdkhYUGVZVXhJQ0tuQmxRVl9LNTBReU0zWlFMUkd2LWdjVDJDcVNUbGxNZXQxaUZTbV92OWU5ZUMyaEdGLUJFcUpucjJmYm5PNUxmSlFPZ2xscVpPdGlkV1",
-      "publishedAt": "2026-10-23T14:22:38.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-24T02:02:52.131Z",
-      "isNew": false
-    },
-    {
-      "title": "Stéphane Séjourné offre quelques messages d’espoir à la filière automobile - WanSquare",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVm1MRDJhVk1pQ0N3WVFESDdyT3lORFBYOElPWm9UMm1BWU1GYURkRkRlMVNMTkNRajRmNVh5aGVodDZHX2NiaFlsMnVJWWVIcmMxWDBhUGFyU2wta3I5VUNnV1I2NS1wRXBjZ2RpUjFXbzUweXk0V1dXVzFjdmhrNE5DTG9LSkg0V05hUU9FU2RuaUNJbTRKbjNIeG9fRm9kM3NTWHI2OUF1SzBKaGtRb0dOXzQ?oc=5",
-      "source": "WanSquare",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVm1MRDJhVk1pQ0N3WVFESDdyT3lORFBYOElPWm9UMm1BWU1GYURkRkRlMVNMTkNRajRmNVh5aGVodDZHX2NiaFlsMnVJWWVIcmMxWDBhUGFyU2wta3I5VUNnV1I2NS1wRXBjZ2RpUjFXbzUweXk0V1dXVzFjdmhrNE5DTG9LSkg0V05hUU9FU2RuaUNJbTRKbjNIeG9fRm9kM3NTWHI2OUF1SzBKaGtRb0dOXzQ?oc=5\" target=\"_blank\">Stép",
-      "publishedAt": "2026-10-23T15:56:44.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "sejourne"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
-    },
-    {
-      "title": "Gabriel Attal appelle à rétablir l&#x27;ordre et à construire un pacte d&#x27;avenir pour la jeunesse",
-      "url": "https://attalpresident.fr/actualites/gabriel-attal-retablir-ordre-pacte-avenir-jeunesse",
-      "source": "Gabriel Attal — site officiel (actualités)",
-      "snippet": "Invité des 4V sur France 2 ce vendredi 23 octobre, Gabriel Attal est revenu sur les récentes violences en marge des manifestations, la nécessité de restaurer l&#x27;autorité et son ambition pour la jeunesse. Il a également plaidé pour un large rassemblement politique en vue de l&#x27;élection présidentielle.",
-      "publishedAt": "2026-10-23T12:00:00.000Z",
-      "lang": "fr",
-      "type": "official",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "official": "Gabriel Attal — site officiel (actualités)",
-      "firstSeenAt": "2026-10-25T01:49:33.539Z",
-      "isNew": true
     }
   ],
   "stats": {
-    "total": 17,
-    "new": 12,
-    "carried": 5,
+    "total": 16,
+    "new": 7,
+    "carried": 9,
     "media": 16,
     "agenda": 0,
-    "official": 1,
-    "coOccurrence": 1
+    "official": 0,
+    "coOccurrence": 0
   }
 }
