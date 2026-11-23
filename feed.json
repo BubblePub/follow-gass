@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T03:34:51.179Z",
+  "generatedAt": "2026-11-23T04:07:20.617Z",
   "persons": [
     "attal",
     "sejourne"
@@ -7,11 +7,11 @@
   "lookbackHours": 48,
   "items": [
     {
-      "title": "Nouvelle réunion jeudi prochain entre les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard pour une primaire de la droite et du centre - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNLXI1NmwzSHAtSFZCWUpGOGREdVNuMDFTYmtOVmphVDFwNkw2X3phWlZHT3ZLc3FqbUdaemxxUjdGcUI3Wmoza0xld18weGVzU3dUVWFRS3dQOUtBLXo2Qm5mcVd5VXNVbDR2QnVLQ0RKV213NHk5YllOLXN3c1RrbDZROUlURmhOSS1Ja0lLcDBzWTZSXzY3MWRSSHNjMzIzdHhxaVBNYkhkWUxCRW5zSGFiTGUydDNJNVg2ZFdpeEp6VGFXWE1vd3ZIY3lhTDVWUW1NdGtzWUprV19QYlZaU3BDSGFXRDhnSjZnSlJfS2JldVhoeHNjdjdRSk1GNXNwUVVILXpSSXlSdHhqY3pDSHVmTXllWEtDZjd4MFBKSTRUeGd0djFPRVJfZGtJcVlqY3c?oc=5",
-      "source": "franceinfo",
-      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxNLXI1NmwzSHAtSFZCWUpGOGREdVNuMDFTYmtOVmphVDFwNkw2X3phWlZHT3ZLc3FqbUdaemxxUjdGcUI3Wmoza0xld18weGVzU3dUVWFRS3dQOUtBLXo2Qm5mcVd5VXNVbDR2QnVLQ0RKV213NHk5YllOLXN3c1RrbDZROUlURmhOSS1Ja0lLcDBzWTZSXzY3MWRSSHNjMzIzdHhxaVBNYkhkWUxCRW5zSGFiTGUydDNJNVg2ZFdpeEp6VG",
-      "publishedAt": "2026-11-21T18:03:26.000Z",
+      "title": "« Lisnard, c’est Pac-Man, il a mangé Retailleau » : Philippe et Attal bousculés par le phénomène Lisnard - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQd3h2VXQyMkdNUHJSdGdxbUthMzdGS0lEemdXcC1HWll2Si1EY0FsVVpZQzNUM2M5MUZKZGpWX1lBTEg1NDZQMFVkSEtQeDRYTW95R1VzaHZFZk92VVNLc09BOHhHMF9JX1EtUHpyZjBmMnBNbEVydVFYN1drWXRIRjY3X1NXWGpHR1BpdVlBeWM5MFV3X1RqaE12bGpRY1ppUHZLOHNibnhzQ1NfTlpQOS1LY2tqZzFaS2NpOWhlR1J6Rm5SZDN2OXdYU1Q0a0VfVC16U25ncW9GclhFV0swVURQM1RhZFkzNWhZSWxNTllsM190cWdtbURoM3BHRHhTb1kxR19JVnAtd2RHU1R6bDNhcC1Vczg?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQd3h2VXQyMkdNUHJSdGdxbUthMzdGS0lEemdXcC1HWll2Si1EY0FsVVpZQzNUM2M5MUZKZGpWX1lBTEg1NDZQMFVkSEtQeDRYTW95R1VzaHZFZk92VVNLc09BOHhHMF9JX1EtUHpyZjBmMnBNbEVydVFYN1drWXRIRjY3X1NXWGpHR1BpdVlBeWM5MFV3X1RqaE12bGpRY1ppUHZLOHNibnhzQ1NfTlpQOS1LY2tqZzFaS2NpOWhlR1J6Rm5SZDN2OX",
+      "publishedAt": "2026-11-21T15:02:17.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -19,7 +19,7 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "title": "«Ça a été la dégringolade totale» : derrière les promesses de campagne, l’impitoyable bilan de Gabriel Attal sur l’écologie - Vert Le média",
@@ -34,97 +34,202 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "On classe les pires récupérations des politiques pour la sortie de GTA VI - 20 Minutes",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVllFVFRCcE5oU1NwcnFaZ0lWTGJhY0xaTlQ2MjdzQ2VZTWhHNm1md3RINi1FVUJmNUZvTTNnbG44dlQ5ek1RNC03U0dVSEtoc0ZjcnlYZFZadGF3OTRWTC1BQTRpMzliamFndFNVbkwwMkZ2N3lRaGVIcnUzdU1jell0NHRXRFJQT0ZnT2NjOXBISi1WdlgxSVI3OFlTeThjTHNxbFFuTmpGTzJORFNxS0x1QUtoUTlFUk9MRGRkQkJhM01MQUk5ajRiX1c?oc=5",
-      "source": "20 Minutes",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVllFVFRCcE5oU1NwcnFaZ0lWTGJhY0xaTlQ2MjdzQ2VZTWhHNm1md3RINi1FVUJmNUZvTTNnbG44dlQ5ek1RNC03U0dVSEtoc0ZjcnlYZFZadGF3OTRWTC1BQTRpMzliamFndFNVbkwwMkZ2N3lRaGVIcnUzdU1jell0NHRXRFJQT0ZnT2NjOXBISi1WdlgxSVI3OFlTeThjTHNxbFFuTmpGTzJORFNxS0x1QUtoUTlFUk9MRGRkQkJhM01MQUk5aj",
-      "publishedAt": "2026-11-20T13:45:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
       "isNew": false
     },
     {
-      "title": "Pourquoi le maire de Challans était à « L’heure de vérité » avec Gabriel Attal ? - Ouest-France",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSm1UTmNOSUp2RlVpY1pweEZ4dDBtaUhDUjd4UEZORWROU1JfZ0lHOHVleEFNcFIzUWJvU2NGUDhqVUl1eFUzeF9XYVdqMWEyWmRkYWxXVUZ5OHQ2LXBRTlFhSTFwbVFTU2d5QnU4UHNPeFBiUTVBNVVTQnhlWnBWMTBzMmxJenZHRnNfelRnbmlicHQzQnhtblJxeDBiVmhQUnlITkJnTGQwYkplWmdSVzg5dXRrbVRDYmVya0JNV3I2dUswVHJhN2x2M1lVN3ZmWGUwNVZQNDFId2NLdEljeUp3c05vT18wTjlSRmR0RFNKSEwtYzBtWFB4Ulg4S1E?oc=5",
-      "source": "Ouest-France",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSm1UTmNOSUp2RlVpY1pweEZ4dDBtaUhDUjd4UEZORWROU1JfZ0lHOHVleEFNcFIzUWJvU2NGUDhqVUl1eFUzeF9XYVdqMWEyWmRkYWxXVUZ5OHQ2LXBRTlFhSTFwbVFTU2d5QnU4UHNPeFBiUTVBNVVTQnhlWnBWMTBzMmxJenZHRnNfelRnbmlicHQzQnhtblJxeDBiVmhQUnlITkJnTGQwYkplWmdSVzg5dXRrbVRDYmVya0JNV3I2dUswVHJhN2",
-      "publishedAt": "2026-11-20T18:06:03.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Gabriel Attal va modifier son « pacte pour la jeunesse » pour mieux refléter les préoccupations de 150 jeunes - Le Télégramme",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRW9LdzZfYm5QNnc0OWVyd0JKZGUtMDd2SXpib1RfWHJRNnZYc2N3cTNZLWNjczRRbDA4SFZiWmZNeENaM2JlbmpFN2djZnFGUHBZaE1DSkFpc250Y0FQOEl6U3RWM2J5elNrV0hWdkM0VEs4RWVwLXNaR0cxVmo0cEFDWUNzdU9oMHJXQjNaWV80RVRtd2xhczVZSVY1SGU3ZW05OWQxUXJXOXFGbmE2eklWNzdVbjFFLW5GMEVzRVNmdm4tRGpwcjdXNnJnRTFMUjNVcC1RZzZRSy1CX2tOZUhDQi14UE0?oc=5",
-      "source": "Le Télégramme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRW9LdzZfYm5QNnc0OWVyd0JKZGUtMDd2SXpib1RfWHJRNnZYc2N3cTNZLWNjczRRbDA4SFZiWmZNeENaM2JlbmpFN2djZnFGUHBZaE1DSkFpc250Y0FQOEl6U3RWM2J5elNrV0hWdkM0VEs4RWVwLXNaR0cxVmo0cEFDWUNzdU9oMHJXQjNaWV80RVRtd2xhczVZSVY1SGU3ZW05OWQxUXJXOXFGbmE2eklWNzdVbjFFLW5GMEVzRVNmdm4tRGpwcj",
-      "publishedAt": "2026-11-21T17:57:31.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "Présidentielle 2027 : Gabriel Attal admet qu'il n'a «pas convaincu» à «ce stade» de la campagne - CNews",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVg4aUtLLWVJM2RtamgtQjBiX1RYTElxaFlNc2x2OEtveGdVYktENXF0eUNBRDlCMi1PcUhrcWlaaXhzY1k0bGlvZEdnMDZETzlaaXJqNUJfYjlDNXQ1TUlBQThSUU43RXdGMWM1a2lIVzNhVEtBQm5XTVpVbFF6c0ZqVDZaTmRKV2NybVN6b0VTczQtV3ZNVmVyZWhBTC1RVVNCamRxYWxVMF9xOC1hRElNa3Z1d9IBuwFBVV95cUxPdGJHVlE0M2JBY1V4cDU1M0dycUlITFhsM0tvT2dKN1BiVGZUdU9qcUk1TlBPT1VfTlM5ZWQwMkJGc0NYZFU0VEpGaXR6WXFSVmYtS01XU0w3R2FzT3hnZmo5RXpERnpXb2ZzNUcweWdfRzQzN3FXYnpIbEpUa3MwZE9HNDNIb2tDTkVEZEs3OGktREJmd0hxQXpqNHZyYVhvSE5PQ3RKbjZQTUs2QUE3NXp6aDBqcDhuaVlj?oc=5",
-      "source": "CNews",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVg4aUtLLWVJM2RtamgtQjBiX1RYTElxaFlNc2x2OEtveGdVYktENXF0eUNBRDlCMi1PcUhrcWlaaXhzY1k0bGlvZEdnMDZETzlaaXJqNUJfYjlDNXQ1TUlBQThSUU43RXdGMWM1a2lIVzNhVEtBQm5XTVpVbFF6c0ZqVDZaTmRKV2NybVN6b0VTczQtV3ZNVmVyZWhBTC1RVVNCamRxYWxVMF9xOC1hRElNa3Z1d9IBuwFBVV95cUxPdGJHVlE0M2",
-      "publishedAt": "2026-11-20T06:10:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "Caroline Roux agacée par Gabriel Attal, elle le lui fait savoir en plein direct : “Vous parlez comme un techno” - Gala",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXA2VzVKN0RpWjktQ0hHb0dkNjZHRGJucjJaQl83N1FtRldNbnk4VGhGRWhYS1NXSXQ5UkxsRlRmQzZnaHVXbE9IcHBDSUo2eW83YW15ZGYyTnRNM05vTWxNZk5LVVVvT1ZHalBzcWRnVDFKaDR1cFBTT2tXV0s4eHNROWNENm9BVHNiRkRJUXI2ZEhSMllDYnBURHVuTXp1bU5EbVdFSTJ1emZJR0tDVXBYbFNCUGNNekJ4WW1neDZjc2t0M3d3Y2ltUkFJU1FJZ0gybzVNWUp3dHoyV2c?oc=5",
-      "source": "Gala",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXA2VzVKN0RpWjktQ0hHb0dkNjZHRGJucjJaQl83N1FtRldNbnk4VGhGRWhYS1NXSXQ5UkxsRlRmQzZnaHVXbE9IcHBDSUo2eW83YW15ZGYyTnRNM05vTWxNZk5LVVVvT1ZHalBzcWRnVDFKaDR1cFBTT2tXV0s4eHNROWNENm9BVHNiRkRJUXI2ZEhSMllDYnBURHVuTXp1bU5EbVdFSTJ1emZJR0tDVXBYbFNCUGNNekJ4WW1neDZjc2t0M3d3Y2",
-      "publishedAt": "2026-11-20T07:50:28.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027: Gabriel Attal admet qu'il n'a \"pas convaincu\" à \"ce stade\" de la campagne - BFM",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObmVueDBwZ1F6c0VjbE1nWVlaSUgwSEpWZngtZ2dqdWhkVDlLcnRXT3lRbmJpZXdyMXhmbjBHc2plajhuLS04cExFVkVEeUJULWNTMWV5cW5yc3BSSlhQUmU0MDR6UGt1RkVQWnVMYmcydmEyM2lNcmFaRHVWOTdzN1dnU09FdWp6LVFOZnFOdzZvTzRzdW9oNGtyTjJ5a000NUJnVkdKTXpWUC1VUlAwMnlRR1VJeW5Send6QmdJWGNWRjFZWmRrVEFuaUF0SXk2bmhNWHBYVXZhUENETEFDVVc3UVdvc015NHY3aWY1NGVONjZTb1VIRVc2WQ?oc=5",
+      "title": "Présidentielle: Gabriel Attal va modifier son \"pacte pour la jeunesse\" pour mieux refléter les préoccupations de 150 jeunes - BFM",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxONlNIWGVYWHoxT2FQc29pQzk5aE5BekQ0OXozS0JUQWRuUkJmMmEzVi1rRk1NbFZqWjNxakk1ai1UaU1VYmh4R0p6YmdLaE1CRnk3ek42ZW5KQmU4alpnT01ybWVodlZHMFFnRmR2RWxtamJkUm5zcWc4ZFJYZEdIcFRDeC1vWXhwbG5uVFVTa19GQ09NQWtvSlo1SFgxOGdxOU5zeFlIMWpkZUdSaFFVZUVpMGhWb1hsYkJvRjJPWml5cU5QbW5BVDJNWlNOazhlWlkzZ1JYSk5WVm9iUWdjTEZFUWotRHVPS2w3R0d0Rlg1UUlqQXBsTHVJc1ZlZlNoNzF6NWhLd1MyY2w5RGFrZ2JsSTc5VWk2S0V2Z2pndVBQUERl?oc=5",
       "source": "BFM",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxObmVueDBwZ1F6c0VjbE1nWVlaSUgwSEpWZngtZ2dqdWhkVDlLcnRXT3lRbmJpZXdyMXhmbjBHc2plajhuLS04cExFVkVEeUJULWNTMWV5cW5yc3BSSlhQUmU0MDR6UGt1RkVQWnVMYmcydmEyM2lNcmFaRHVWOTdzN1dnU09FdWp6LVFOZnFOdzZvTzRzdW9oNGtyTjJ5a000NUJnVkdKTXpWUC1VUlAwMnlRR1VJeW5Send6QmdJWGNWRjFZWmRrVE",
-      "publishedAt": "2026-11-20T05:45:26.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxONlNIWGVYWHoxT2FQc29pQzk5aE5BekQ0OXozS0JUQWRuUkJmMmEzVi1rRk1NbFZqWjNxakk1ai1UaU1VYmh4R0p6YmdLaE1CRnk3ek42ZW5KQmU4alpnT01ybWVodlZHMFFnRmR2RWxtamJkUm5zcWc4ZFJYZEdIcFRDeC1vWXhwbG5uVFVTa19GQ09NQWtvSlo1SFgxOGdxOU5zeFlIMWpkZUdSaFFVZUVpMGhWb1hsYkJvRjJPWml5cU5QbW5BVD",
+      "publishedAt": "2026-11-22T06:01:05.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Primaire de la droite et du centre: une nouvelle réunion est prévue entre les équipes de Bruno Retailleau, Gabriel Attal et David Lisnard jeudi - BFM",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSkVwdnRQejhEbEVvUXZRN3RLVTUyMWphR0FtMkJua2JRSW4ybU5TZ3VaLTVYc1hPemlKUmltVVhUaTRZcmdnbWFWeDRRNHliUnV4ZktCeVhKM3JKS2tnVkpKRkhzNERzR0N2YmhZZXp4a1hCMUZ3RVRsNFZBWjdBR0NScmJJcDR6Szk2U201RjJidjhNdm5mMTd6YXJ3ODZnazNxOVlBZXk5NzRMWFJPSDJPSm14TV92WV8yYVNfdmx3c2pYem1IQ1hiaVJVbDFWV2J4SjhrSXB3QlVmb24ya0RfQmQ3S1RtRjJEX1hjYjFaY0VXdkxhVkNfRHVVRlEySExVejRuVVMwcUVUSDBtcmRFbUM3bDBpdFp6azhTUjdySGZNRmlrLW9HajJzc2M4ZDFUM1FYTzZRMjgwdks4UjlTeUk1Nk9F?oc=5",
+      "source": "BFM",
+      "snippet": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSkVwdnRQejhEbEVvUXZRN3RLVTUyMWphR0FtMkJua2JRSW4ybU5TZ3VaLTVYc1hPemlKUmltVVhUaTRZcmdnbWFWeDRRNHliUnV4ZktCeVhKM3JKS2tnVkpKRkhzNERzR0N2YmhZZXp4a1hCMUZ3RVRsNFZBWjdBR0NScmJJcDR6Szk2U201RjJidjhNdm5mMTd6YXJ3ODZnazNxOVlBZXk5NzRMWFJPSDJPSm14TV92WV8yYVNfdmx3c2",
+      "publishedAt": "2026-11-21T19:13:05.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "« Pas de défaitisme » : Gabriel Attal se persuade que ce n’est pas le début de la fin - l'Opinion",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlRTVlEtWFQ5QjdRXzZ2djNXeUJPb0lSMWRvZmN3SkVSZFY0VWlEZmlnVmtxTWl4YVJRRlBPRWg4cTVMTlI4dDAwZmRwNnJNMVpucDgzUE1RQVFKNVo2OHZxWjItdUI0SGN3bVdBOHZaNWhZV2pLVHdZYnNLTUg4cl9RcG9GaGtlc044S3ltMTFWNnlWeklueTh0d3NENndJelBfd3pISDMzUmd0cnloYUVn?oc=5",
+      "source": "l'Opinion",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlRTVlEtWFQ5QjdRXzZ2djNXeUJPb0lSMWRvZmN3SkVSZFY0VWlEZmlnVmtxTWl4YVJRRlBPRWg4cTVMTlI4dDAwZmRwNnJNMVpucDgzUE1RQVFKNVo2OHZxWjItdUI0SGN3bVdBOHZaNWhZV2pLVHdZYnNLTUg4cl9RcG9GaGtlc044S3ltMTFWNnlWeklueTh0d3NENndJelBfd3pISDMzUmd0cnloYUVn?oc=5\" target=\"_blank\">« Pas d",
+      "publishedAt": "2026-11-22T14:17:20.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Ce célèbre animateur radio a des liens insoupçonnés avec le monde politique : ancien compagnon de la fille de François Mitterrand, il a aussi été le professeur d’Emmanuel Macron et de Gabriel Attal à Sciences Po - Gala",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPbGtQOXRHamlIMWNIZ01wUGQ5Q3dSZjUxT293ZW43QmpvSGljMFc1ZGw2UUpXVXI1VzFyT1RUaENvcFB1aTJmaXplS3ZzcVJRZ0ZrQTVnNkgtZEtGQ1g3MVl6bFlobzZJVlEyTnh5UFBZd1lPVjhxUTZjNXJFeFpQTTFVclU1bjNaOXp5ZXpVbVNjZU1KV3gxdHMxZV9XMHp6bHhwWmZ4anpncE9KR1B3eGJwT2hwc2VCOWhvVWFwclN6YW9CZU5ZTU02by12aVhZVm5xSll4MHI5ck5lR2hjZmxzMjhwRDEwNGdSdzdNVkxBV2k4S0JYOTlGRnRzcWRNVjBIUGJjRDEtTzVkdnhRR1NEWElQeGIxNk82WXgzX0hHczBoWmhwdzVvd3RjemNhb0E5S3JfX1BUeWFhSmprVHNjOGVhREprdkJxNzJLSG5PZXpoTTlCZmh5SVNfenVPaWFOWWJR?oc=5",
+      "source": "Gala",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxPbGtQOXRHamlIMWNIZ01wUGQ5Q3dSZjUxT293ZW43QmpvSGljMFc1ZGw2UUpXVXI1VzFyT1RUaENvcFB1aTJmaXplS3ZzcVJRZ0ZrQTVnNkgtZEtGQ1g3MVl6bFlobzZJVlEyTnh5UFBZd1lPVjhxUTZjNXJFeFpQTTFVclU1bjNaOXp5ZXpVbVNjZU1KV3gxdHMxZV9XMHp6bHhwWmZ4anpncE9KR1B3eGJwT2hwc2VCOWhvVWFwclN6YW9CZU5ZTU",
+      "publishedAt": "2026-11-22T21:24:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : \"Notre maison brûle et vous regardez ailleurs\", Jean-Luc Moudenc propose de réunir Édouard Philippe, Gabriel Attal, Bruno Retailleau et David Lisnard à Toulouse - ladepeche.fr",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbHhqeHJBV2xuNVV2c1Y0aVVyVWdvZEhWdEwzazZOVW9fRVZzZDMyclZYNmNoQVNPeXNuZ093bVdrbkJtazNfQ1UxTUJmSnFnNktXeldPQ3lTeDFyQWoteERVWGZ1UXVTYXRjV2lxdVFTenV0RHl1a0c2TTVndU1IdXhqYVdDb2lSRHhBUm1hQjdUX1RyZm9obzN2X0U5SjlTeEpkeG9lUDJVSmZTWC1LbGVRMUtNU0NjbmVXQm5EbDNzaFQ2YklEY1BpcTZfSDM3QWg3OXh6Z2lQZ256N2MyQ3FjWXduR1JHVHVudnFoQ3UzOHVTdll3d0pocDU0QVlSTFozc2dfZzJmbkNEM2pnQ3hMeVdSM0s4dUFfUUFvVGZ6WEkzN1E?oc=5",
+      "source": "ladepeche.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQbHhqeHJBV2xuNVV2c1Y0aVVyVWdvZEhWdEwzazZOVW9fRVZzZDMyclZYNmNoQVNPeXNuZ093bVdrbkJtazNfQ1UxTUJmSnFnNktXeldPQ3lTeDFyQWoteERVWGZ1UXVTYXRjV2lxdVFTenV0RHl1a0c2TTVndU1IdXhqYVdDb2lSRHhBUm1hQjdUX1RyZm9obzN2X0U5SjlTeEpkeG9lUDJVSmZTWC1LbGVRMUtNU0NjbmVXQm5EbDNzaFQ2YklEY1",
+      "publishedAt": "2026-11-21T10:42:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-22T03:34:51.179Z",
       "isNew": false
+    },
+    {
+      "title": "Présidentielle 2027 : contrôle continu, horaires… Gabriel Attal veut modifier son « pacte jeunesse » pour mieux refléter les préoccupations - Le Parisien",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNVFlSX2hBUUxMR0dnUkFQcDVCQjhVdUt6Nk9rWG5tcW5NczNCdFZKQ08yWVgxZ3B3R2RpbXhXV1M0VUpfcDE5UFVHM3gyWXBUeW1WVjFCMnVGN3l2YTNKSmxNMFYxS0RGTWlVQVdDYXJ4STRjdVMyOHNHbkhyT2xSU0xSTkowYXhyQmlURm9sRUJ2WjVTRy14anY1bVBsWEZQT0FaVC1EY2g0eFp2NVhzejc2SHhaTHhDd1lHZVRWNGJpWHN0M0stNFBGbUtDcF9vbl9tVFFmdTlBOWRzTDVsTkF0ZE1LREFJMUxGTGxhb25RT2kzaG9SOXl0b3hXU01KM295WE93NC13dnVWMGNJemsxclVuWWpFMFByUDVqZWtTZzZ6SG04QjhleTJPMWJ4WEc0MXFBTGlvZjk0X21jVXEyV0VBZnM?oc=5",
+      "source": "Le Parisien",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNVFlSX2hBUUxMR0dnUkFQcDVCQjhVdUt6Nk9rWG5tcW5NczNCdFZKQ08yWVgxZ3B3R2RpbXhXV1M0VUpfcDE5UFVHM3gyWXBUeW1WVjFCMnVGN3l2YTNKSmxNMFYxS0RGTWlVQVdDYXJ4STRjdVMyOHNHbkhyT2xSU0xSTkowYXhyQmlURm9sRUJ2WjVTRy14anY1bVBsWEZQT0FaVC1EY2g0eFp2NVhzejc2SHhaTHhDd1lHZVRWNGJpWHN0M0stNF",
+      "publishedAt": "2026-11-22T11:06:19.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027 : « Acceptez de participer à une primaire ouverte de la droite et du centre », la lettre ouverte d'une vingtaine de chefs d'entreprises et dirigeants à Edouard Philippe - Les Echos",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQbnBHZzNGcS1adFItTGlScmY0UEdXN0Z0SjVXRDl0SkJfZV95R3FyOUZLcTc1QVdlZVlMR05nQmtfUWhvWE5PSkpyMlNtdExPeWZRcmx0akkwTHZDTGUxTk04c2xTS2ZzTHJwbmQ1YVNPMHJ4bTFCY1FxNXNlRWQwRlJuMG1UZm1Bc0RTNDJZTmR4cU1sQ1JidnE1TjFueXRieWVjTnNZalpyVUFIbTVKY0lUYUNiWWgtWklPbTFzVnJ0VVpoNTRPYVVqcEZaLXRGNjZYeUNDcWIxeUpfYUxlSy1BQ25POWxzdUd4OVh2VXd5dnF5NWJIaHVfS3diR0VKb0pkOXFYaEdYTFV0VWJzT05LTXJWenhrb2lOQ25Jd3M0UjJGa0pTWHo0WC1wVEVZWGdLUFdtNzhqWXRnM2tDcTl2ZW1KSnRTQjJXcXp4WktYQQ?oc=5",
+      "source": "Les Echos",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxQbnBHZzNGcS1adFItTGlScmY0UEdXN0Z0SjVXRDl0SkJfZV95R3FyOUZLcTc1QVdlZVlMR05nQmtfUWhvWE5PSkpyMlNtdExPeWZRcmx0akkwTHZDTGUxTk04c2xTS2ZzTHJwbmQ1YVNPMHJ4bTFCY1FxNXNlRWQwRlJuMG1UZm1Bc0RTNDJZTmR4cU1sQ1JidnE1TjFueXRieWVjTnNZalpyVUFIbTVKY0lUYUNiWWgtWklPbTFzVnJ0VVpoNTRPYV",
+      "publishedAt": "2026-11-22T15:35:09.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Primaire de la droite : les discussions entre les équipes de Gabriel Attal, David Lisnard et Bruno Retailleau reprennent jeudi - La Tribune",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSklZelNzN2loUmVqV0ZNWHRDczAwWS0yd0lUQzAyNnNsSnZtbUVhMkxWMFlycThCZ3M0YjJUVGJfdVdXSHUzZmNpc3Vndk9NOGdFUEh5NmtWNXhSRWFoM2tnYXh2THRtSnpXX2ZHNGQtak9qRnNzc190WDNEbG5HR19kVE9UY1lZWVpGejZmanIxdmhHQjdGYzJ5UG51SU53TG43YWN1M3NhQWRRSHZDVUhhbDFRRXJlTUZHQlJWR2JfM2F5UUNUaERadmhHVHVjRVhINFp1bXF3WE5TYkVlTFlJdktheEpRM1ZIQnEwaXNBVUgycGNZSjdRQVlYbTJqTGNwcG53QnFhWGhCZ2tzMUxDLVB2cUxDNHJjTWdMblU4aFZJNnBuTXI3Qmpnazk1R2tnNGluQnhyNWE1U25V?oc=5",
+      "source": "La Tribune",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxQSklZelNzN2loUmVqV0ZNWHRDczAwWS0yd0lUQzAyNnNsSnZtbUVhMkxWMFlycThCZ3M0YjJUVGJfdVdXSHUzZmNpc3Vndk9NOGdFUEh5NmtWNXhSRWFoM2tnYXh2THRtSnpXX2ZHNGQtak9qRnNzc190WDNEbG5HR19kVE9UY1lZWVpGejZmanIxdmhHQjdGYzJ5UG51SU53TG43YWN1M3NhQWRRSHZDVUhhbDFRRXJlTUZHQlJWR2JfM2F5UUNUaE",
+      "publishedAt": "2026-11-22T05:15:02.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "La primaire présidentielle peut-elle aider Gabriel Attal à convaincre des électeurs méfiants envers les partis ? - https://www.parlons-politique.fr/",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPazA1emcxeTdMejJyODhpV3A0T3k4SjRZX3JxR1RzV095NDM3Mnh0bld3cVRhblFRV1dUUEcycTdqYjBFdTdzME9FUjl4QzVpa184OUo0Y2JoMDdUWS1tVG9nZnVBTWxEaHdCOGJCNzFFb0NMSWI5cWJ6b05lQUNNMTRKNVZYRmU5NTRRd3drYTAtTDBkYTRUSkw0aUJuTlM3WEp4UEZuTjdSbDRlOUYyVmRjeVQwTFBZSFpBWUdxMXN2Tks2bWZRaF80amw0WVYzaDZwcGRPUEFBb3JaUUhQTkxDekZ0a1VxR3JSR1Zyemd1UQ?oc=5",
+      "source": "https://www.parlons-politique.fr/",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPazA1emcxeTdMejJyODhpV3A0T3k4SjRZX3JxR1RzV095NDM3Mnh0bld3cVRhblFRV1dUUEcycTdqYjBFdTdzME9FUjl4QzVpa184OUo0Y2JoMDdUWS1tVG9nZnVBTWxEaHdCOGJCNzFFb0NMSWI5cWJ6b05lQUNNMTRKNVZYRmU5NTRRd3drYTAtTDBkYTRUSkw0aUJuTlM3WEp4UEZuTjdSbDRlOUYyVmRjeVQwTFBZSFpBWUdxMXN2Tks2bWZRaF",
+      "publishedAt": "2026-11-22T14:50:57.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027: Gabriel Attal veut \"bientôt un seul candidat\" pour la droite et le centre - RMC",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRzlISW1sZnpMMWNvNWpfdC0tWllFNnBuUjRJbXRyRWtRN1RqbzZiSXFPZUpRS0ZzN1FXWGRDVk84RlZmR0pVZVBZZWNkY1FqOHkzVk4ydDcxM3poYzhsUk9ScFF0TE5XbmRHSnpVa0VDUTJiY1diWl9lY0xoQ3VMRlV5TktQalZBWTN5RzZ1a0R2QmxpNnJtTlZFSXVKN2h0LXp3MnUtSXFBZWdBS2t6UTlfdTk2SHc1NFZoX0dLS1pKbEc3U0Zzb2JoRUt3TURwbHRXYTlhUEJvaVJUaDI3b1poLWlOSnlubGJjaVIycXBySzQ?oc=5",
+      "source": "RMC",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRzlISW1sZnpMMWNvNWpfdC0tWllFNnBuUjRJbXRyRWtRN1RqbzZiSXFPZUpRS0ZzN1FXWGRDVk84RlZmR0pVZVBZZWNkY1FqOHkzVk4ydDcxM3poYzhsUk9ScFF0TE5XbmRHSnpVa0VDUTJiY1diWl9lY0xoQ3VMRlV5TktQalZBWTN5RzZ1a0R2QmxpNnJtTlZFSXVKN2h0LXp3MnUtSXFBZWdBS2t6UTlfdTk2SHc1NFZoX0dLS1pKbEc3U0Zzb2",
+      "publishedAt": "2026-11-22T08:23:45.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "“Mes convictions, c’est de ne pas soutenir ceux qui ont mené le pays à la ruine”, répond David Lisnard, candidat à l’élection présidentielle, qui ne soutiendrait pas Gabriel Attal s'il remportait une primaire de la droite et du centre - BFM",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPazBfZFRFcFM2ZVlJRDZUZUlkeTJJVUdod0ZJVnRlQnZuYVJOMTZ2NnlGS1lEbWs0cGZlbkZmZ1lyU3FxTml5LXRDR3hXRWFpZXFMRkNPUldfb2xaVjl0MEJqdzdnRjFYSUVCcThtNjNLQmJFbXZSdGlCcHhlV29qZzhtd2tjN3d5THNKcjVScGFLWjU2YTl0X3VYSkxYekVmck9NeWEtS2xTdjJYZDFUNnplUk5nT2JEVGVOcVZxeVZVMWJIckI3Wmk1OC1WUC03OWtGSGw0MWh1OWFfeF9qOXZvc2hVQl80XzFlM1pySWs2eEcxUkc0TVQyYnE0eF9VY1RlLW44MmZMdko0SWd5TWxfalBoTkpRT0pDMXc4cVFFOFE2OU40c0hqTWZqT1R6djJ6ekVrdVByalBKTTJlN3JRWmI5RVdKV2NNSFRrWExFYjZhSTRGTDl0cE50dU5DS3R5N0hxMFVTbFkzNnBsZEVNZWgzZTBSQXBPR2VTdHdQZjhYaGFpa1g4V2lqZ0pOMzhmV0dPSVlYdXJ6VEtTU3B0X0JNQVJSTHRDbzNvR0NUSV9lMGJpRGtjU080Zw?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgNBVV95cUxPazBfZFRFcFM2ZVlJRDZUZUlkeTJJVUdod0ZJVnRlQnZuYVJOMTZ2NnlGS1lEbWs0cGZlbkZmZ1lyU3FxTml5LXRDR3hXRWFpZXFMRkNPUldfb2xaVjl0MEJqdzdnRjFYSUVCcThtNjNLQmJFbXZSdGlCcHhlV29qZzhtd2tjN3d5THNKcjVScGFLWjU2YTl0X3VYSkxYekVmck9NeWEtS2xTdjJYZDFUNnplUk5nT2JEVGVOcVZxeVZVMWJIckI3Wm",
+      "publishedAt": "2026-11-22T17:37:00.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Primaire de la droite et du centre : «Je ne demanderai pas à Gabriel Attal de me soutenir si je l’emporte», admet David Lisnard - CNews",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWW1Jd0NEaTlqY2E0ZUcteC1fVUFqc3BHcmVQYkg1azB6SDFiOFlfTnlxQWR6VFZuN2tFS0lTZ041bVY2bTlvWW1Jd3d3NDd5dnZGR3g4eDFGQnBNWFhMWFh0aFN3a2dYSHllbHRCdTVwOFctcHFiYjJjSTM1Vjh3R0FLRG9jTlY4bGxSdHU5Rkl2OVp4bUwzVno5QmFjN3BzUVRVUzlGcjROT0lEYTI3clJodS3SAboBQVVfeXFMT0RaYXAyM0daU055M1Bfd0Z1QldKYVo4cDMzYU4xWXR4UnBINkVBcElnUTh6TlJSN3o4Z01KOVo4OTRRVXoyaWFGRThGYWJocEtqMmlOWTZOOWxWUnhvQjgxUEk5YUNZT25xd3hwa2xaVFpoZGNlbElyWkFoYUU3N0lINDFrNlI4aVBRRTNpNm1raF9aZTVpZDVVcTNQdzRCZjEzMXp4cXFYYl8wRUlxMGlueXhfYllieVd3?oc=5",
+      "source": "CNews",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWW1Jd0NEaTlqY2E0ZUcteC1fVUFqc3BHcmVQYkg1azB6SDFiOFlfTnlxQWR6VFZuN2tFS0lTZ041bVY2bTlvWW1Jd3d3NDd5dnZGR3g4eDFGQnBNWFhMWFh0aFN3a2dYSHllbHRCdTVwOFctcHFiYjJjSTM1Vjh3R0FLRG9jTlY4bGxSdHU5Rkl2OVp4bUwzVno5QmFjN3BzUVRVUzlGcjROT0lEYTI3clJodS3SAboBQVVfeXFMT0RaYXAyM0daU0",
+      "publishedAt": "2026-11-22T05:57:07.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Primaire de la droite et du centre: une nouvelle réunion des équipes de David Lisnard, Gabriel Attal et Bruno Retailleau prévue le 26 novembre prochain - BFM",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQVzhaZUhYdVZQSTlJdmZtM25maW1WMFFjc0lQbjhzcGEyX09PNlpLek5WMWNMaG9sOUNjMklDa2hyTVNDWG1iTF81ZkM1WXJpWjJUN3hVNGwtdS14dGxubi1lYV9rNlBYQTVCRE40NklZWXRRVjJJamRYa0dIcHJRMXY4MUwxd3hSd0hHTUl3czhZQ3k2YnY3c2Z2UElfZTZhY09od2txWWxGbXJ6clRmUDVzSEV6czg2aDJZSzdFR2JpRENTa3VnTXZ6cUF1RW1BT0hKcXJvN2VOdGdNcmxmUjZ1MWJ1Q2czdHBWNkNIU1hVNmx3T3BWZE9KY21JRDVBZ21aTWZUMy1pSlBvUUM3aXZwb01tQlZ1N3N4VVJOeHpiVlF0VDlMTWlsT2k3LXhyM3Z1VEV6bVh1b2NMeWV0WUkzRktBV2tlZzVv?oc=5",
+      "source": "BFM",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxQVzhaZUhYdVZQSTlJdmZtM25maW1WMFFjc0lQbjhzcGEyX09PNlpLek5WMWNMaG9sOUNjMklDa2hyTVNDWG1iTF81ZkM1WXJpWjJUN3hVNGwtdS14dGxubi1lYV9rNlBYQTVCRE40NklZWXRRVjJJamRYa0dIcHJRMXY4MUwxd3hSd0hHTUl3czhZQ3k2YnY3c2Z2UElfZTZhY09od2txWWxGbXJ6clRmUDVzSEV6czg2aDJZSzdFR2JpRENTa3VnTX",
+      "publishedAt": "2026-11-21T17:21:38.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
     },
     {
       "title": "France Inter. . Chaque vendredi, Pierre Courade prend la température des candidats à la course à l’Élysée. Son gagnant de la semaine est Gabriel Attal, qui a obtenu la primaire de la droite et du centre qu’il réclamait et qu’un premier sondage placerait en tête - Facebook",
@@ -139,14 +244,29 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-11-22T03:34:51.179Z",
+      "isNew": false
+    },
+    {
+      "title": "David Lisnard sur BFMTV pose ses conditions pour la primaire - Politique Matin",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1JoOVp5TzFNdC14cVdBUkU5bWtZbGdDVE1BVWtLUWI4a3VndTdQeWplMlhnTlZHVWl1YzNhTjZjMzdmX1BkdzNGSXhKaFM2Q2s5azM3enM1YmhnYW1BWFlLd0NOTC1VVnFzNG9HRGJzV3BDS3BKUW5Geld4dzdRM2xKaFNsUERsSWk5Vw?oc=5",
+      "source": "Politique Matin",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1JoOVp5TzFNdC14cVdBUkU5bWtZbGdDVE1BVWtLUWI4a3VndTdQeWplMlhnTlZHVWl1YzNhTjZjMzdmX1BkdzNGSXhKaFM2Q2s5azM3enM1YmhnYW1BWFlLd0NOTC1VVnFzNG9HRGJzV3BDS3BKUW5Geld4dzdRM2xKaFNsUERsSWk5Vw?oc=5\" target=\"_blank\">David Lisnard sur BFMTV pose ses conditions pour la prima",
+      "publishedAt": "2026-11-22T17:30:40.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
       "isNew": true
     },
     {
-      "title": "Présidentielle 2027 : Attal, Retailleau et Lisnard avancent sur la primaire, Philippe fait cavalier seul - lejdd.fr",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGkwUFpUeVJvV3lFcG1DOUNfZ0tET2lVX2ljUHpBQ2JBOHBpZVJuME9hUFpsRFZKdmhMaWU4el9OWDBldFBjUlVnUGx0UER0QmR3NEwwR2hSREp4V3EyMlMwWTNxOVk1MlB5ak5aLTNkbkRySFVHdTRPMlAwaUQ3VUE4aExkallORTQ5bFlxaHB4bDJ2THFsUEswMVNEYU4zSHVVaDc5WXY4eG9mdU9kV1ZGbkxMTWo0YkR4X0F3dldzZHRXdXJXajhCOFg5VmlYMzJKWg?oc=5",
-      "source": "lejdd.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGkwUFpUeVJvV3lFcG1DOUNfZ0tET2lVX2ljUHpBQ2JBOHBpZVJuME9hUFpsRFZKdmhMaWU4el9OWDBldFBjUlVnUGx0UER0QmR3NEwwR2hSREp4V3EyMlMwWTNxOVk1MlB5ak5aLTNkbkRySFVHdTRPMlAwaUQ3VUE4aExkallORTQ5bFlxaHB4bDJ2THFsUEswMVNEYU4zSHVVaDc5WXY4eG9mdU9kV1ZGbkxMTWo0YkR4X0F3dldzZHRXdXJXaj",
-      "publishedAt": "2026-11-21T17:18:35.000Z",
+      "title": "Gabriel Attal va modifier son « pacte pour la jeunesse » pour mieux refléter les préoccupations de 150 jeunes - Le Télégramme",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRW9LdzZfYm5QNnc0OWVyd0JKZGUtMDd2SXpib1RfWHJRNnZYc2N3cTNZLWNjczRRbDA4SFZiWmZNeENaM2JlbmpFN2djZnFGUHBZaE1DSkFpc250Y0FQOEl6U3RWM2J5elNrV0hWdkM0VEs4RWVwLXNaR0cxVmo0cEFDWUNzdU9oMHJXQjNaWV80RVRtd2xhczVZSVY1SGU3ZW05OWQxUXJXOXFGbmE2eklWNzdVbjFFLW5GMEVzRVNmdm4tRGpwcjdXNnJnRTFMUjNVcC1RZzZRSy1CX2tOZUhDQi14UE0?oc=5",
+      "source": "Le Télégramme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRW9LdzZfYm5QNnc0OWVyd0JKZGUtMDd2SXpib1RfWHJRNnZYc2N3cTNZLWNjczRRbDA4SFZiWmZNeENaM2JlbmpFN2djZnFGUHBZaE1DSkFpc250Y0FQOEl6U3RWM2J5elNrV0hWdkM0VEs4RWVwLXNaR0cxVmo0cEFDWUNzdU9oMHJXQjNaWV80RVRtd2xhczVZSVY1SGU3ZW05OWQxUXJXOXFGbmE2eklWNzdVbjFFLW5GMEVzRVNmdm4tRGpwcj",
+      "publishedAt": "2026-11-21T17:57:31.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -154,6 +274,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-11-22T03:34:51.179Z",
+      "isNew": false
+    },
+    {
+      "title": "Pacte jeunesse : les propositions des lycéens peuvent-elles vraiment infléchir le programme de Gabriel Attal ? - https://www.parlons-politique.fr/",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSEFiYkxMb1FYLVBINGVmTWhENzY5SnFNYXFsN3BBMDNZWDhjbXgxMTlRVEhDV3NVTWhQM2R4M0FIZnZ6dVhNak14a0pUUy13ZnJiRzVpLUU4MDM1cnZRSU45bGFHRGdqWmZjRHRvR1NvZ0NDengyei1UQkJmWXFuRXh3dkYwNHM1enNHNFFaTVVFNEhJVUpsUkdQcVEtemUtUFRNNEhHWGNLOUdqWUlPNUxndnp4R2Q3bVE4elotX3VMQkFhcVY1S05vVjNBejEyTldVaXBMSk1LRlh0OFJkdG1fREFmejdDMEtwSw?oc=5",
+      "source": "https://www.parlons-politique.fr/",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSEFiYkxMb1FYLVBINGVmTWhENzY5SnFNYXFsN3BBMDNZWDhjbXgxMTlRVEhDV3NVTWhQM2R4M0FIZnZ6dVhNak14a0pUUy13ZnJiRzVpLUU4MDM1cnZRSU45bGFHRGdqWmZjRHRvR1NvZ0NDengyei1UQkJmWXFuRXh3dkYwNHM1enNHNFFaTVVFNEhJVUpsUkdQcVEtemUtUFRNNEhHWGNLOUdqWUlPNUxndnp4R2Q3bVE4elotX3VMQkFhcVY1S0",
+      "publishedAt": "2026-11-22T06:15:36.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
       "isNew": true
     },
     {
@@ -172,131 +307,26 @@
       "isNew": false
     },
     {
-      "title": "VIDEO. Gabriel Attal interrogé par Thomas Porcher dans \"L'Heure de vérité\" : un programme économique macroniste - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUFBoS0lJcUN6ZXhLRHVlLXkwWUdYVFZGSkpXblVtV0lUX3MwRHJ1V2dPZEN1Ul9ua1V3bmVSUks4Z1poSW5LVWVfUGJJdWdySWt6bGZXSGhROGMtaDAwSVkwUnBRV01Tbm1pSmtpZzh1QlZfSnVwaE1neUc4bUcxV2hzSjNtSU40WjZPV05YUnNHd2lRMEdUZ3ROeTZ4M1d3MnJtWFJPd3VBSWVzWGhwR2JVRUY1WEFtMjl6SThlcklNenZ4WXMwcTFhQ0g4RWh3MlhjMmRMN3V5M3AtaGlTek9LZEZ6ZDE5Vmc4a1BIbDY5aW04c0lXcnNqU2FpdTdfdS1ERkRTRDJLY1FJQWVsR0h4QWVWS3c?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOUFBoS0lJcUN6ZXhLRHVlLXkwWUdYVFZGSkpXblVtV0lUX3MwRHJ1V2dPZEN1Ul9ua1V3bmVSUks4Z1poSW5LVWVfUGJJdWdySWt6bGZXSGhROGMtaDAwSVkwUnBRV01Tbm1pSmtpZzh1QlZfSnVwaE1neUc4bUcxV2hzSjNtSU40WjZPV05YUnNHd2lRMEdUZ3ROeTZ4M1d3MnJtWFJPd3VBSWVzWGhwR2JVRUY1WEFtMjl6SThlcklNenZ4WXMwcT",
-      "publishedAt": "2026-11-20T08:45:56.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "VIDEO. Gabriel Attal interrogé par Eugénie Bastié dans \"L'Heure de vérité\". Le candidat des métropoles - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbnpjamY4UmJENS1QNFduYU1XVFh0d3RhUVAyYm5UdXBMZmV2VUFsNEMzcWFWcFF2NGZCdV8xdTMyRU9oWnMtVUtQdHM4Z1ZHa1hXazV4Z1hOaExCRDNBcGdySXdRYUp6UHNKYzBQYm1GRGdFeFZGZXFqcC0xYWFVYW9OQmw0LWhoM3J4aUhqd1NfNURyMXNycUN5a0JZZTJhcjJTUnU1LURvbWpwVVM5U0F1blZIT2ZfTUtXTS1xR24yMWpfRDVKSlVscDk1Q3J1dzBUM1ZTVm5ZeHFjX01KN3FwMzc1dEhKVVlvcTZKeTg3b0MwYk9RSzZ4X1cwdS1EZUktUmY3TkcxbFRyejZTZXl3?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPbnpjamY4UmJENS1QNFduYU1XVFh0d3RhUVAyYm5UdXBMZmV2VUFsNEMzcWFWcFF2NGZCdV8xdTMyRU9oWnMtVUtQdHM4Z1ZHa1hXazV4Z1hOaExCRDNBcGdySXdRYUp6UHNKYzBQYm1GRGdFeFZGZXFqcC0xYWFVYW9OQmw0LWhoM3J4aUhqd1NfNURyMXNycUN5a0JZZTJhcjJTUnU1LURvbWpwVVM5U0F1blZIT2ZfTUtXTS1xR24yMWpfRDVKSl",
-      "publishedAt": "2026-11-20T08:50:07.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Audiences : «L’Heure de vérité» avec Gabriel Attal (France 2) loin derrière TF1, France 3 et M6 - TV Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZWRleExhTllxbmlCdDhwWlBqY2hrQk1WUURXbWtJNTJ5MldQTnMyMlBFOVNITGVyZG9Uam1GRmZIWmhhN0YtcWZzdVVoS05ZWGtMMjBkd3FmQlBMcjdsRHIzRkgxak10ZGlpMnR0TXpKd1Z4Sk41Vml6OE11UE83Z3hRY2tYcmlKT1dmNkZEWXJLYmRXV3Ryb183ZHQtX0JORmUzMTdFTGVWNWY5elk0aC01VnVvV0N3MDh5VjdJSGgxMjlMVWdVZ1Y1Wl9YUXA5eDg1TGMzMUFuU3JoYV92dWM1cw?oc=5",
-      "source": "TV Magazine",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZWRleExhTllxbmlCdDhwWlBqY2hrQk1WUURXbWtJNTJ5MldQTnMyMlBFOVNITGVyZG9Uam1GRmZIWmhhN0YtcWZzdVVoS05ZWGtMMjBkd3FmQlBMcjdsRHIzRkgxak10ZGlpMnR0TXpKd1Z4Sk41Vml6OE11UE83Z3hRY2tYcmlKT1dmNkZEWXJLYmRXV3Ryb183ZHQtX0JORmUzMTdFTGVWNWY5elk0aC01VnVvV0N3MDh5VjdJSGgxMjlMVWdVZ1",
-      "publishedAt": "2026-11-20T09:06:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "VIDEO. Gabriel Attal interrogé par Neïla Latrous dans \"L'Heure de vérité\" : comment convaincre les jeunes - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTDVWc3pVVHJZemdOSzlCUG9qbC0yMzNpdHZKMTZnRVJES09tOUdXdTN6NWI0Q01tZDRMRUxkM2JEcVY0WHZzamFfUWRlSXktM0l5Y2xEbmJGbjJiRHp5MVlhOW5pc3RKTVBJMEJkclIxUmpBT2xtQnMyTS03eXFRblktTzRkekNGRTJCSnljOWJncHQxcVVIdFJJdG1RZFMwazc0RlhSUFFaU0xueTNya2pVMmpwajFhRmJ6WHZoYW5maVlUeHFaVWFpeThuVzBqc1lJaUw2cVlxVVl1V2llN29zVHowNm5ESVVQR1ZXN0tZS3ZoQ01Gb2JCdWp6U1o2QnM1c05nVDJ5c0dVejhJ?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPTDVWc3pVVHJZemdOSzlCUG9qbC0yMzNpdHZKMTZnRVJES09tOUdXdTN6NWI0Q01tZDRMRUxkM2JEcVY0WHZzamFfUWRlSXktM0l5Y2xEbmJGbjJiRHp5MVlhOW5pc3RKTVBJMEJkclIxUmpBT2xtQnMyTS03eXFRblktTzRkekNGRTJCSnljOWJncHQxcVVIdFJJdG1RZFMwazc0RlhSUFFaU0xueTNya2pVMmpwajFhRmJ6WHZoYW5maVlUeHFaVW",
-      "publishedAt": "2026-11-20T08:58:31.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "« À ce stade, je n’ai pas convaincu » : le va-tout de Gabriel Attal pour la présidentielle - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMk9oMG84SGZXS1hQTHR2NWk4WEprbzI4dTk5ZFNuUjlKNmU3azhnZWx0ZmJFN2ZsVHF0c3RkOXU1OG1mQTBuR3NmMHZrT0U0OFk4dFg2emhWOEdUWHFHMUl1ZDNHNDBHQTltWk9DdjZ6VDBmbUgzTS04NS1BeVdNNXJiZEgwb3l4bzY4T2VRVDVwdjVHdExIbUNzN2Y0NlJhVlJRdFhxLXBJUS1Sc0lKRzRNQ1hhUlFVLUk3SXI1Q1JkZUtFTGFYR2tmVkw3YXZ1WmpiUHc3d1ZsU0Y5b29fNkxRNEtGVDBMMF8wNzZBS0pQNHFGc2ZSazV4MjRGNnl0R3ZsUk93?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPMk9oMG84SGZXS1hQTHR2NWk4WEprbzI4dTk5ZFNuUjlKNmU3azhnZWx0ZmJFN2ZsVHF0c3RkOXU1OG1mQTBuR3NmMHZrT0U0OFk4dFg2emhWOEdUWHFHMUl1ZDNHNDBHQTltWk9DdjZ6VDBmbUgzTS04NS1BeVdNNXJiZEgwb3l4bzY4T2VRVDVwdjVHdExIbUNzN2Y0NlJhVlJRdFhxLXBJUS1Sc0lKRzRNQ1hhUlFVLUk3SXI1Q1JkZUtFTGFYR2",
-      "publishedAt": "2026-11-20T09:13:58.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "« Racisme anti-blancs » : l’autre clivage qui oppose Edouard Philippe et Gabriel Attal - l'Opinion",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1NPa2FISmhhYUZhaVBTR2VnM2dpdjdtMEI0aU1rSEtONngxWUVCS0JhZkVUcFpScVU4SUN2VFd0eGV3QTlnVEk1RGNGanJiMExlaUlMbkE0MUxhQ3dBOGRPUnVTblRDX1lvTDZxTWlHQkFMOW0tY3dzUnhCbXBUNTdSemJ2VlFoVW5nQlhqQUt0LVdZZ1R0d012UXVVWHYxVHhoSVJNeFVCUS1LSWlzSnFwOA?oc=5",
-      "source": "l'Opinion",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1NPa2FISmhhYUZhaVBTR2VnM2dpdjdtMEI0aU1rSEtONngxWUVCS0JhZkVUcFpScVU4SUN2VFd0eGV3QTlnVEk1RGNGanJiMExlaUlMbkE0MUxhQ3dBOGRPUnVTblRDX1lvTDZxTWlHQkFMOW0tY3dzUnhCbXBUNTdSemJ2VlFoVW5nQlhqQUt0LVdZZ1R0d012UXVVWHYxVHhoSVJNeFVCUS1LSWlzSnFwOA?oc=5\" target=\"_blank\">« Rac",
-      "publishedAt": "2026-11-20T15:32:32.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : Mélenchon et Le Pen dominent la bataille des réseaux sociaux - lejdd.fr",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVM1amtkN2c0VHVPd2tzQTYxWDRTeVZYT2d0a0RTZkRielEtNWtudW5NUEZlSE9vRVExeFhUS0gxeEV5dEVWd3JMX2JSZVdfdEU0NDRHeFFTYjZJNzNzT1FmR2FKM3dDZU5aNldtaFB1QXUyeDJ3YlJ1YlM0aFFRcGVQRzJlRzducEpxMmlLcFdHUC1rY0hpQWxBakVYbC00T1BnbjQ5bTJyc0QzbHMtM2d6NmdaZGtxVHc?oc=5",
+      "title": "«J'ai été convié, j'y serai !» : Zemmour martèle sa volonté de participer à une primaire de la droite - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMW1uRENVazg2VlEyZmJ3NUc2Vl90MDRIYXIxdFhaTFNuWlFwZXE3cnQ1WXFCMllrOVZYZEEzZENZX1R4bm4zUmNzTzV4RFdBQzAyMU1RbGM4cXJfeDlWNlR0RWV6Vi0xNERMQmh0WDVJczdzNmp2VThfSTk0RzZ2LWVVbjBBd3VwalJiTUwtR2VLYW52YlloalBoV3VaV3VSMjAzUGNIQkJfYzBGb1hmQ1liQWNqSjN5dVFnS2Y1VjhhLVZ4WC00a2dB?oc=5",
       "source": "lejdd.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVM1amtkN2c0VHVPd2tzQTYxWDRTeVZYT2d0a0RTZkRielEtNWtudW5NUEZlSE9vRVExeFhUS0gxeEV5dEVWd3JMX2JSZVdfdEU0NDRHeFFTYjZJNzNzT1FmR2FKM3dDZU5aNldtaFB1QXUyeDJ3YlJ1YlM0aFFRcGVQRzJlRzducEpxMmlLcFdHUC1rY0hpQWxBakVYbC00T1BnbjQ5bTJyc0QzbHMtM2d6NmdaZGtxVHc?oc=5\" target=\"_bla",
-      "publishedAt": "2026-11-21T19:05:04.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNMW1uRENVazg2VlEyZmJ3NUc2Vl90MDRIYXIxdFhaTFNuWlFwZXE3cnQ1WXFCMllrOVZYZEEzZENZX1R4bm4zUmNzTzV4RFdBQzAyMU1RbGM4cXJfeDlWNlR0RWV6Vi0xNERMQmh0WDVJczdzNmp2VThfSTk0RzZ2LWVVbjBBd3VwalJiTUwtR2VLYW52YlloalBoV3VaV3VSMjAzUGNIQkJfYzBGb1hmQ1liQWNqSjN5dVFnS2Y1VjhhLVZ4WC00a2",
+      "publishedAt": "2026-11-22T10:12:45.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-11-22T03:34:51.179Z",
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
       "isNew": true
     },
     {
-      "title": "VIDEO. Gabriel Attal interrogé par Maryse Burgot dans \"L'Heure de vérité\" : un candidat va-t-en-guerre - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSmFQa1I1QWkwb3UxMEo5Ql9CQWtyclRqMDQ0NEwwN1V3blJqWlBKQ1RLYmgzWHY3U0xKWTlXRmc5dE1NMmVRT0dXSHYzYnhGRlMxOHY5UWM5WnNERVIxR1RvaER4MU10VDdpTEg1bDVqNEpYVno3Q2VPbVRWZjkyTUdieC0tMUVlXzdhOXJieTRpVG16SmlpbllMQm9RVnNNRWZ4WWhKYWFQRFJYNHRCVWtBMnRuZVpMUmZGalhKREVCd1hVZk9TOVNJVmc1R3dER0Ixa3Q1Uk9iWWdsN3B5M0ZlQmlNUQ?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSmFQa1I1QWkwb3UxMEo5Ql9CQWtyclRqMDQ0NEwwN1V3blJqWlBKQ1RLYmgzWHY3U0xKWTlXRmc5dE1NMmVRT0dXSHYzYnhGRlMxOHY5UWM5WnNERVIxR1RvaER4MU10VDdpTEg1bDVqNEpYVno3Q2VPbVRWZjkyTUdieC0tMUVlXzdhOXJieTRpVG16SmlpbllMQm9RVnNNRWZ4WWhKYWFQRFJYNHRCVWtBMnRuZVpMUmZGalhKREVCd1hVZk9TOV",
-      "publishedAt": "2026-11-20T08:30:58.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "« Lisnard, c’est Pac-Man, il a mangé Retailleau » : Philippe et Attal bousculés par le phénomène Lisnard - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQd3h2VXQyMkdNUHJSdGdxbUthMzdGS0lEemdXcC1HWll2Si1EY0FsVVpZQzNUM2M5MUZKZGpWX1lBTEg1NDZQMFVkSEtQeDRYTW95R1VzaHZFZk92VVNLc09BOHhHMF9JX1EtUHpyZjBmMnBNbEVydVFYN1drWXRIRjY3X1NXWGpHR1BpdVlBeWM5MFV3X1RqaE12bGpRY1ppUHZLOHNibnhzQ1NfTlpQOS1LY2tqZzFaS2NpOWhlR1J6Rm5SZDN2OXdYU1Q0a0VfVC16U25ncW9GclhFV0swVURQM1RhZFkzNWhZSWxNTllsM190cWdtbURoM3BHRHhTb1kxR19JVnAtd2RHU1R6bDNhcC1Vczg?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQd3h2VXQyMkdNUHJSdGdxbUthMzdGS0lEemdXcC1HWll2Si1EY0FsVVpZQzNUM2M5MUZKZGpWX1lBTEg1NDZQMFVkSEtQeDRYTW95R1VzaHZFZk92VVNLc09BOHhHMF9JX1EtUHpyZjBmMnBNbEVydVFYN1drWXRIRjY3X1NXWGpHR1BpdVlBeWM5MFV3X1RqaE12bGpRY1ppUHZLOHNibnhzQ1NfTlpQOS1LY2tqZzFaS2NpOWhlR1J6Rm5SZDN2OX",
-      "publishedAt": "2026-11-21T15:02:17.000Z",
+      "title": "Présidentielle 2027 : Attal, Retailleau et Lisnard avancent sur la primaire, Philippe fait cavalier seul - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGkwUFpUeVJvV3lFcG1DOUNfZ0tET2lVX2ljUHpBQ2JBOHBpZVJuME9hUFpsRFZKdmhMaWU4el9OWDBldFBjUlVnUGx0UER0QmR3NEwwR2hSREp4V3EyMlMwWTNxOVk1MlB5ak5aLTNkbkRySFVHdTRPMlAwaUQ3VUE4aExkallORTQ5bFlxaHB4bDJ2THFsUEswMVNEYU4zSHVVaDc5WXY4eG9mdU9kV1ZGbkxMTWo0YkR4X0F3dldzZHRXdXJXajhCOFg5VmlYMzJKWg?oc=5",
+      "source": "lejdd.fr",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGkwUFpUeVJvV3lFcG1DOUNfZ0tET2lVX2ljUHpBQ2JBOHBpZVJuME9hUFpsRFZKdmhMaWU4el9OWDBldFBjUlVnUGx0UER0QmR3NEwwR2hSREp4V3EyMlMwWTNxOVk1MlB5ak5aLTNkbkRySFVHdTRPMlAwaUQ3VUE4aExkallORTQ5bFlxaHB4bDJ2THFsUEswMVNEYU4zSHVVaDc5WXY4eG9mdU9kV1ZGbkxMTWo0YkR4X0F3dldzZHRXdXJXaj",
+      "publishedAt": "2026-11-21T17:18:35.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
@@ -304,6 +334,21 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-11-22T03:34:51.179Z",
+      "isNew": false
+    },
+    {
+      "title": "«Règle d’or» budgétaire : Emmanuel Macron réfléchit à s’en emparer, la droite et l’extrême droite s’en réjouissent - Libération",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRWxGVFNpbnUtTVFUYkdZM0k0djVhMXN4ZlRpcUlPdEJmN2gxYnE0ZGY1ZldPME5xYU90Qzh6LWxCVnQ4VnRVVGJxSnBiTFFxemQ4S0FxT3NxOGxCaHRXWG1uU1J1V25uUTlrbUo1eHV6NGs0NWIxd2pHcmtHQ0RvajEwUHVtUU9NNy1aMjV2cmQzd1VRNGsyLUVadE53Q2hkUTFGQWQzRkFlYWJvQzllN3hDVkloRTZaWURRdVROamhFUVBYc1RSZldVTTk4aTZ2V20xUWFqUm9sRXJvVzFBOVJ6NjJXUFB4NDh4eTlQNE5zaDV3SkRNVVVoRld6TmRCOUNvS2kzMlE?oc=5",
+      "source": "Libération",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRWxGVFNpbnUtTVFUYkdZM0k0djVhMXN4ZlRpcUlPdEJmN2gxYnE0ZGY1ZldPME5xYU90Qzh6LWxCVnQ4VnRVVGJxSnBiTFFxemQ4S0FxT3NxOGxCaHRXWG1uU1J1V25uUTlrbUo1eHV6NGs0NWIxd2pHcmtHQ0RvajEwUHVtUU9NNy1aMjV2cmQzd1VRNGsyLUVadE53Q2hkUTFGQWQzRkFlYWJvQzllN3hDVkloRTZaWURRdVROamhFUVBYc1RSZl",
+      "publishedAt": "2026-11-22T16:48:47.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
       "isNew": true
     },
     {
@@ -319,202 +364,52 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-11-22T03:34:51.179Z",
+      "isNew": false
+    },
+    {
+      "title": "Anne-Claire Coudray : après Édouard Philippe et Gabriel Attal, quel candidat à la présidentielle embarque avec elle dans Route nationale ce dimanche sur TF1 - Télé Star",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNLTMyTUhRQnRlZTlSMjhaVHBtM1Z1YWhlTHdfcXQ2WTlVd190Z3dORnhEQWdFSmtXaVJkNWsxYkZjWFBiUTRNUGp3dzJvYk5GZmV5Z2NvR3NTd3lMZ19tODJLcGdQTlRjWFJUNjl5Q0tCbUxHVkh1ckNsTGxKNTlXU2xuLWRyZzBBOGFQcVZVNXFkWTFudzJoMzZDanhIUG1qaWNDVkRqVWI4bUtOM2F6b0d2bnlZZlpCT3hBWm5mdmFsQUlMTnpTZFVYWXc3bDY4S3hwUUh1VFhzQ0ppVi00TjlWVzJlMDJvNkhyMEliTlg1eU5pdmdqMlU4RkpwaGxXUEc1OGVmMlBBOVcwRVB1c2lsT3dBejAyMDFYeEF3?oc=5",
+      "source": "Télé Star",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNLTMyTUhRQnRlZTlSMjhaVHBtM1Z1YWhlTHdfcXQ2WTlVd190Z3dORnhEQWdFSmtXaVJkNWsxYkZjWFBiUTRNUGp3dzJvYk5GZmV5Z2NvR3NTd3lMZ19tODJLcGdQTlRjWFJUNjl5Q0tCbUxHVkh1ckNsTGxKNTlXU2xuLWRyZzBBOGFQcVZVNXFkWTFudzJoMzZDanhIUG1qaWNDVkRqVWI4bUtOM2F6b0d2bnlZZlpCT3hBWm5mdmFsQUlMTnpTZF",
+      "publishedAt": "2026-11-22T09:00:59.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
       "isNew": true
     },
     {
-      "title": "Gabriel Attal : le verdict des audiences est sans appel sur France 2 - Toutelatele",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWtBVHY1N3BpMHVLV3FqZEljMW5wYnlib09rV0hJZkVsZjhVU3ZDNjhnd0pncVZ1dF9sT0VaeFI5QUpadTRZcXhweFAxd0EyZW1sdE9ta0drNF96NlVYMVljUGFKcGtYcG04U0x2UW1vVFREU0ZuV1VSRm4wMzdqWVBmOHo0SEk3Z1ljclhUZkN3VzFqMFlSeVZrNA?oc=5",
-      "source": "Toutelatele",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWtBVHY1N3BpMHVLV3FqZEljMW5wYnlib09rV0hJZkVsZjhVU3ZDNjhnd0pncVZ1dF9sT0VaeFI5QUpadTRZcXhweFAxd0EyZW1sdE9ta0drNF96NlVYMVljUGFKcGtYcG04U0x2UW1vVFREU0ZuV1VSRm4wMzdqWVBmOHo0SEk3Z1ljclhUZkN3VzFqMFlSeVZrNA?oc=5\" target=\"_blank\">Gabriel Attal : le verdict des audien",
-      "publishedAt": "2026-11-20T09:30:17.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Primaire de la droite et du centre: une nouvelle réunion est prévue entre les équipes de Bruno Retailleau, Gabriel Attal et David Lisnard jeudi - Orange Actualités",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPLWJOSi12MmZGNTZDYlBXSzNLVng4elJtY1N5ZjNDOXIwal9kQkpCakJjTDk1c192dWtEZzVOZzJjUHhJUXBNYmdUTzBxeVFDWjVVZkRKQmlnTXdPZmNLUXd1UnlYU1BQY2x1THpvTGFZX1M5aDBvd1BRa2k5dVZtUW52dHVPeUZKNGxaTGd1eTlkUndSdUo4aTZxYktfcUh1UnhwQ2R3czQ2cnBQcnI3UVBDYWNFMVVzT05CV1Vsa3A1YjRwcnFxVVo2RzRCWkk0VjNuazdkNm9sZXhEOEpoeTBWcFFHaHgyWFpvVFljNm5qeGRIbHNJa2hfTzNWTmkzRU4zSVpteG1JMmNiSHZ6SUVSaXFYX04wb1F6MmIzZUxUWVlK?oc=5",
-      "source": "Orange Actualités",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxPLWJOSi12MmZGNTZDYlBXSzNLVng4elJtY1N5ZjNDOXIwal9kQkpCakJjTDk1c192dWtEZzVOZzJjUHhJUXBNYmdUTzBxeVFDWjVVZkRKQmlnTXdPZmNLUXd1UnlYU1BQY2x1THpvTGFZX1M5aDBvd1BRa2k5dVZtUW52dHVPeUZKNGxaTGd1eTlkUndSdUo4aTZxYktfcUh1UnhwQ2R3czQ2cnBQcnI3UVBDYWNFMVVzT05CV1Vsa3A1YjRwcnFxVV",
-      "publishedAt": "2026-11-21T19:13:17.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "2027 : «C'est quoi la proposition alternative ?», Gabriel Attal appelle de ses vœux à une primaire de la droite et du centre - Europe 1",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdmo2V1l4SGI3MXV3d0RfR3QzM29VcXBQUTdUQjY4Q2Jiamw5TTdoaVAtMzI5bjZqTEVrLUZ3b2R5aEtpOXVjTERqYWtnYUhWNHVtMlBZTXRkTTU3TjlycGJQUDN0X0ktTHFFZEk5dU9fb0dOZFJfUEZGTndqa3FEbjJpR3paRmd4TWcwQWN3eTZCUHBwMlNrajRULUJjN1JCWHh2a1RMVmFnME5jLWxsTWw1V0FUcFdyQXBnbXZRSDVGb3BDdEd1MnlWS2lJbkFRdWN0cG15dnJkQTY0Y0lFWnF3Y3BkZmNTS2xwb3dxZ9IB9AFBVV95cUxPWkxDMEhTNTVwYkJTSkpJUk9RTnMyU2o4SkJQR2R1djl2bGptVGJ6SzB3UzFDQjl5clZzZGdzaFZyd1M0WW4wZm12Uk94MzAzQXVXd2RWZU5lNVBRWkFlcE9iNWRNbHFNLVYzWEdONTdxWE9EWUN0LWJLMDZOSklQMFRZT3RSTkp6SmU1bWtZRGhlV3dkX0FyQzRyV2trZ3BHSWZrczNxdmZIU2ZTUWFqZ2RIOG9PZmd2RlpvWUFPNnBiMGxFZXM3S3dwMi1oZm9zSzVzRFpyc3F6b1REemtOb0hjMWRfVWVxMzJleFBPbm5DSWE5?oc=5",
-      "source": "Europe 1",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdmo2V1l4SGI3MXV3d0RfR3QzM29VcXBQUTdUQjY4Q2Jiamw5TTdoaVAtMzI5bjZqTEVrLUZ3b2R5aEtpOXVjTERqYWtnYUhWNHVtMlBZTXRkTTU3TjlycGJQUDN0X0ktTHFFZEk5dU9fb0dOZFJfUEZGTndqa3FEbjJpR3paRmd4TWcwQWN3eTZCUHBwMlNrajRULUJjN1JCWHh2a1RMVmFnME5jLWxsTWw1V0FUcFdyQXBnbXZRSDVGb3BDdEd1Mn",
-      "publishedAt": "2026-11-20T08:52:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "VIDEO. Gabriel Attal interrogé par Benjamin Duhamel dans \"L'Heure de vérité\". Une campagne en panne - franceinfo",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMHlpbFpsdlNITFRHOWpFTnZSR3JxZjhWdGdxeXRDN1ByNDQ5YUJQN0JqT2hScjlLeFFJdEVDNUt6YzBidTJ6VFZWQVhPUFVNZGVhTHRyOFZkMFpPeWcyOG9xQV9pSk42QTV0bWJ5a2x4RV9oNzZ6UEtBcDV5RWtkZlVQejlabERsbXc5VlMzTlNsZjRzMjdyR0lHbkUybFF2ZzZiRUhoQkNJdEI3NEhTb0d5SnFrYkRPZlVqQ2ZSWnBZLURmaVNEWXlnS294TWVYaklmRjZ2LWgyekppNmtKcFpWbXBKdldDczVUaWhnNTY4ampreHQxcjdVUmhNd1R0akRESW1JSHg?oc=5",
-      "source": "franceinfo",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMHlpbFpsdlNITFRHOWpFTnZSR3JxZjhWdGdxeXRDN1ByNDQ5YUJQN0JqT2hScjlLeFFJdEVDNUt6YzBidTJ6VFZWQVhPUFVNZGVhTHRyOFZkMFpPeWcyOG9xQV9pSk42QTV0bWJ5a2x4RV9oNzZ6UEtBcDV5RWtkZlVQejlabERsbXc5VlMzTlNsZjRzMjdyR0lHbkUybFF2ZzZiRUhoQkNJdEI3NEhTb0d5SnFrYkRPZlVqQ2ZSWnBZLURmaVNEWX",
-      "publishedAt": "2026-11-20T08:54:31.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : \"Notre maison brûle et vous regardez ailleurs\", Jean-Luc Moudenc propose de réunir Édouard Philippe, Gabriel Attal, Bruno Retailleau et David Lisnard à Toulouse - ladepeche.fr",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbHhqeHJBV2xuNVV2c1Y0aVVyVWdvZEhWdEwzazZOVW9fRVZzZDMyclZYNmNoQVNPeXNuZ093bVdrbkJtazNfQ1UxTUJmSnFnNktXeldPQ3lTeDFyQWoteERVWGZ1UXVTYXRjV2lxdVFTenV0RHl1a0c2TTVndU1IdXhqYVdDb2lSRHhBUm1hQjdUX1RyZm9obzN2X0U5SjlTeEpkeG9lUDJVSmZTWC1LbGVRMUtNU0NjbmVXQm5EbDNzaFQ2YklEY1BpcTZfSDM3QWg3OXh6Z2lQZ256N2MyQ3FjWXduR1JHVHVudnFoQ3UzOHVTdll3d0pocDU0QVlSTFozc2dfZzJmbkNEM2pnQ3hMeVdSM0s4dUFfUUFvVGZ6WEkzN1E?oc=5",
-      "source": "ladepeche.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQbHhqeHJBV2xuNVV2c1Y0aVVyVWdvZEhWdEwzazZOVW9fRVZzZDMyclZYNmNoQVNPeXNuZ093bVdrbkJtazNfQ1UxTUJmSnFnNktXeldPQ3lTeDFyQWoteERVWGZ1UXVTYXRjV2lxdVFTenV0RHl1a0c2TTVndU1IdXhqYVdDb2lSRHhBUm1hQjdUX1RyZm9obzN2X0U5SjlTeEpkeG9lUDJVSmZTWC1LbGVRMUtNU0NjbmVXQm5EbDNzaFQ2YklEY1",
-      "publishedAt": "2026-11-21T10:42:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "Mauvaise nouvelle si vous êtes retraité, Gabriel Attal veut geler votre pension pour augmenter les salaires - Capital.fr",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObDN1a0FFUkZMMnVWZWlSZ0RJV1lFYklPa3V2bE5lbWdSLXc4T1E0SjRxU1pMWjNSSEdJMUFqOTVkaEdWZngyMWpqdElqV085Tmw5eVNBT3BfMGhsYVJkRUd2T3QxMUZwdW84cGdJcFpUc3JQMW5maXE2emtqZ3JyRnZiSzJKOXpRakV6aEowekMySmpvR0xtdHhaUUNHQVdsT081SmloX29YUTBYZXJFYkJiSzhZRE5nV1NaWGRicnpSemx1OV9CdEpjZXdWZVIxQ0pBc3ZjOGlGbWNleTE0SmRkN0hRQ0U?oc=5",
-      "source": "Capital.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxObDN1a0FFUkZMMnVWZWlSZ0RJV1lFYklPa3V2bE5lbWdSLXc4T1E0SjRxU1pMWjNSSEdJMUFqOTVkaEdWZngyMWpqdElqV085Tmw5eVNBT3BfMGhsYVJkRUd2T3QxMUZwdW84cGdJcFpUc3JQMW5maXE2emtqZ3JyRnZiSzJKOXpRakV6aEowekMySmpvR0xtdHhaUUNHQVdsT081SmloX29YUTBYZXJFYkJiSzhZRE5nV1NaWGRicnpSemx1OV9CdE",
-      "publishedAt": "2026-11-20T06:19:14.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "«Je n’ai pas convaincu les Français» Gabriel Attal reconnaît que son passage au gouvernement pèse encore sur sa candidature - Gentside",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUN5ejUtNnctQUItU19mSERjREQzNW9NRmFWVXFjRk9rbjJ4X1pNcXM5R09Gbm55djRmeWFjMDd0eDNsNDJtREt1eUtHbVdQaTczUktJa21SOW01ZjRqaVlTQVRpekxGYjZ5TWdDZnpRX2hlcXk4WUhEUTh2aEMydTdMcEtTZWJZV29OQnVOM04wVXpxcU9tcWl4bk1iTHdUb2xMdFdTMG13eG1DaGlsVlpKbzM0V2hBMUdwYkZsR1dET1BtNHVnaG9WQ3JMd1hYdTJmaWVWblJaTlJ2?oc=5",
-      "source": "Gentside",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUN5ejUtNnctQUItU19mSERjREQzNW9NRmFWVXFjRk9rbjJ4X1pNcXM5R09Gbm55djRmeWFjMDd0eDNsNDJtREt1eUtHbVdQaTczUktJa21SOW01ZjRqaVlTQVRpekxGYjZ5TWdDZnpRX2hlcXk4WUhEUTh2aEMydTdMcEtTZWJZV29OQnVOM04wVXpxcU9tcWl4bk1iTHdUb2xMdFdTMG13eG1DaGlsVlpKbzM0V2hBMUdwYkZsR1dET1BtNHVnaG",
-      "publishedAt": "2026-11-20T08:50:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du camp présidentiel, toujours incapable de s’unir - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVnJlSERhVWJuMUh0U3d2ckszMTJzRGx2VGxVUksxMGxBaTZzcExhek16N085Ymh0N2wxLW82NGhBWi1kbWlPcWRWZ1dkLWpyOUtPOVZLS0pncFZNenF0aEV1b0EzQUFxdmhLbEpnVDVDVHlIbEpWTXJTT09PdUFIbUhPNVJHMktfcTIxS3gteUdFSFpRM0trWVlNYTZTNlp0ZEh1dXhqcmt5WE5lZEhYTjZTWU40emhyMmtnMkRyRlpLMGpZVnVzdkVDNjlUQ2pENThiTmNUME1sVG9aVWZDR2l4bDAwV29ONElaSFp6NklNTmd4NFFhYld2SWdhRkFzTTF0ZmNhcm9ZbUxSNlhQRHppMDhabGhleUUxdXZkaTQ3QQ?oc=5",
-      "source": "Le Monde.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQVnJlSERhVWJuMUh0U3d2ckszMTJzRGx2VGxVUksxMGxBaTZzcExhek16N085Ymh0N2wxLW82NGhBWi1kbWlPcWRWZ1dkLWpyOUtPOVZLS0pncFZNenF0aEV1b0EzQUFxdmhLbEpnVDVDVHlIbEpWTXJTT09PdUFIbUhPNVJHMktfcTIxS3gteUdFSFpRM0trWVlNYTZTNlp0ZEh1dXhqcmt5WE5lZEhYTjZTWU40emhyMmtnMkRyRlpLMGpZVnVzdk",
-      "publishedAt": "2026-11-21T04:30:08.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "Audiences Prime: \"L'heure de vérité\" de Gabriel Attal fait plonger France 2 qui fait deux fois moins que ... - Jean-Marc Morandini",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOeTNNSEZtaVhGREk1eGZpTGNmWXAxaEtyYVVpTG5zVk5WSkFzMXRBYTFXODAxWlZxOURrVjhhME1ReHo1WC00Vk1FSTd5azBXOWVrWkVUUjNsRDRGSUFVSU91bG5lczZDNGdWSGhiQ0VuWlFXMFFDQWp5RTVaVEZkMV9xMU5SY0lld3AwOHhvcXhkWm1UR19qdndzRXlXblRJZm8zcng3S0RRckNKdVRodFlqOWtoX3h2V1VCTWFlYWY0MU9mcHc1c0dvNU9TbTZhS2JMR2lFbk1zZnN2LWgtMnk3a3RIRjV5RkNhZ1UtVk14Zm5WelM2N1BhN0tMa1hHc0JZYzRwcy1lMm5wbk5GR3N6OFBKSVVBQ3g5OExDbmdxUmdJY2hib1VYdUZNWWdZWk5Td3VrUERKaEhGWC1sbjNOWDFqc3EzVkNraHdB0gHTAkFVX3lxTE5PVGdXY1p2UW5iZ0RMVGxMV0gtamxRSVlrR1lDWlZQTU4ySXY0UE9RTWppNmRYNzhtRFRSekx4SUZJcHlaOFIzWHhQcks2WnpTN3E3OU83c1VLQ01CendxbUNHSmxUY0ZDeVRndy1KLUVWR3lIdmFDNzk0Y0FlTjVOeG9CSmFpS1JDcmtpamwwdzhfYzFvSUlPNUJqQWhEcElkTkVyaXlsNUdpbXVWeVQ0NGVjSy1XQTNQbThqUi1xY3RBTTljYkJXWktKRlhHMVRHbS1ZazlVZDJSRlA1bEVZVUY1SnNXc0JvNE5sX05ndXQwTVQ0R2xCOWh1UVpZdlVyMGVCVjNjakVyQ2UxWG1nbG5NU25aVnZLbWxxdTlrMzNTOHJYMkx1cFNzZ0dqQXNyZGI0RkhvaTZ0b3hvemtzcWM2VFhWTnFMM2lkWmF4d3BuOA?oc=5",
-      "source": "Jean-Marc Morandini",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxOeTNNSEZtaVhGREk1eGZpTGNmWXAxaEtyYVVpTG5zVk5WSkFzMXRBYTFXODAxWlZxOURrVjhhME1ReHo1WC00Vk1FSTd5azBXOWVrWkVUUjNsRDRGSUFVSU91bG5lczZDNGdWSGhiQ0VuWlFXMFFDQWp5RTVaVEZkMV9xMU5SY0lld3AwOHhvcXhkWm1UR19qdndzRXlXblRJZm8zcng3S0RRckNKdVRodFlqOWtoX3h2V1VCTWFlYWY0MU9mcHc1c0",
-      "publishedAt": "2026-11-20T08:13:20.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Présidentielle 2027. Sondage IFOP pour Sud radio: Attal pas au second tour, Philippe, oui / Le Pen en tête - Le Centrisme",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdW1VQlFrdm9jZzk5VHNaS19CRE44aFIyN0NfcjhUd2JBYlozcWFKbmUzMzNSb2Z6c2ZWR05NcWZIc25yUklUdlV2TlRhVVY5RVhHcTdDYTJjYTBRc091Uk02QlRoZ0dLU3FKTTJILXVzM0NBenVLS0VFR0poUjUzN0Fkaw?oc=5",
-      "source": "Le Centrisme",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdW1VQlFrdm9jZzk5VHNaS19CRE44aFIyN0NfcjhUd2JBYlozcWFKbmUzMzNSb2Z6c2ZWR05NcWZIc25yUklUdlV2TlRhVVY5RVhHcTdDYTJjYTBRc091Uk02QlRoZ0dLU3FKTTJILXVzM0NBenVLS0VFR0poUjUzN0Fkaw?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage IFOP pour Sud radio: Attal pas au second",
-      "publishedAt": "2026-11-21T23:06:13.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "Meurtre de Thomas à Crépol : Gabriel Attal refuse de parler de «racisme anti-Blancs» - lejdd.fr",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUdteGhzYmJDdUlrUEV2bFVVV3FUNDN5elVzM01Pb2JMV3hfd1dqY2FrV05jNi01Rzc5ZmE5VFB3eDdMMDFKRkl6cFhIelhjYngzN0lrYkVnMWZKU3dWVE5fTlRXWVNYbjJxTjEtcWt6MWpFdVlBTmZSbVVDVmFFaF9DNVhmbExXZUFHWGhRV0pZZVZSYjdsdnpJalZhUXBjd3VWenl4UzFBX0xSRGd5T1VnVS1hQUk?oc=5",
+      "title": "Présidentielle 2027 : Mélenchon et Le Pen dominent la bataille des réseaux sociaux - lejdd.fr",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVM1amtkN2c0VHVPd2tzQTYxWDRTeVZYT2d0a0RTZkRielEtNWtudW5NUEZlSE9vRVExeFhUS0gxeEV5dEVWd3JMX2JSZVdfdEU0NDRHeFFTYjZJNzNzT1FmR2FKM3dDZU5aNldtaFB1QXUyeDJ3YlJ1YlM0aFFRcGVQRzJlRzducEpxMmlLcFdHUC1rY0hpQWxBakVYbC00T1BnbjQ5bTJyc0QzbHMtM2d6NmdaZGtxVHc?oc=5",
       "source": "lejdd.fr",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUdteGhzYmJDdUlrUEV2bFVVV3FUNDN5elVzM01Pb2JMV3hfd1dqY2FrV05jNi01Rzc5ZmE5VFB3eDdMMDFKRkl6cFhIelhjYngzN0lrYkVnMWZKU3dWVE5fTlRXWVNYbjJxTjEtcWt6MWpFdVlBTmZSbVVDVmFFaF9DNVhmbExXZUFHWGhRV0pZZVZSYjdsdnpJalZhUXBjd3VWenl4UzFBX0xSRGd5T1VnVS1hQUk?oc=5\" target=\"_blank\">",
-      "publishedAt": "2026-11-20T08:06:32.000Z",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVM1amtkN2c0VHVPd2tzQTYxWDRTeVZYT2d0a0RTZkRielEtNWtudW5NUEZlSE9vRVExeFhUS0gxeEV5dEVWd3JMX2JSZVdfdEU0NDRHeFFTYjZJNzNzT1FmR2FKM3dDZU5aNldtaFB1QXUyeDJ3YlJ1YlM0aFFRcGVQRzJlRzducEpxMmlLcFdHUC1rY0hpQWxBakVYbC00T1BnbjQ5bTJyc0QzbHMtM2d6NmdaZGtxVHc?oc=5\" target=\"_bla",
+      "publishedAt": "2026-11-21T19:05:04.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
+      "firstSeenAt": "2026-11-22T03:34:51.179Z",
       "isNew": false
     },
     {
-      "title": "Ma soirée avec Gabriel Attal - Europe 1",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTV9QUHJOdXdoWDF2TlRIR2ZzaDAtdGh0bGhJeEdZMjR4REpEY0lnRi00NVAzaFpHMkdKWGg5Y1gzdUR0VHFRRHowWkJ6NV8xYzJqZzg1R0p0UWMtd1ZCcGVPRU9STGowbEhXazBPbUhkbEhqVG95Y1VKSDZyRy1tclJhek8xR1l0RE43Tjd5SnZlTEhSYWl5NElnY0NkNDltNjFsTl9hcll2MXlIdXc?oc=5",
-      "source": "Europe 1",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTV9QUHJOdXdoWDF2TlRIR2ZzaDAtdGh0bGhJeEdZMjR4REpEY0lnRi00NVAzaFpHMkdKWGg5Y1gzdUR0VHFRRHowWkJ6NV8xYzJqZzg1R0p0UWMtd1ZCcGVPRU9STGowbEhXazBPbUhkbEhqVG95Y1VKSDZyRy1tclJhek8xR1l0RE43Tjd5SnZlTEhSYWl5NElnY0NkNDltNjFsTl9hcll2MXlIdXc?oc=5\" target=\"_blank\">Ma soirée av",
-      "publishedAt": "2026-11-20T08:26:01.000Z",
+      "title": "Arnaud Péricard sur LCI appelle Attal et Retailleau à rejoindre Édouard Philippe - Politique Matin",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnd3azhGLTB3dERZWFdTZFhMSkpDZEdyOFk0cjFoTV9EMUdwM1FzdzF4elNXWkY1bDRLcmh6SUJTMlJqNUxIRWNmTlNqU1dvV3c3ZHV2MWRUVFpFYjJOSDZJWGE1X05BMXlqelh0ODFkVWFnaXdzRnJvay1jSUpBOXNFSzhhdlc4TTdn?oc=5",
+      "source": "Politique Matin",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNnd3azhGLTB3dERZWFdTZFhMSkpDZEdyOFk0cjFoTV9EMUdwM1FzdzF4elNXWkY1bDRLcmh6SUJTMlJqNUxIRWNmTlNqU1dvV3c3ZHV2MWRUVFpFYjJOSDZJWGE1X05BMXlqelh0ODFkVWFnaXdzRnJvay1jSUpBOXNFSzhhdlc4TTdn?oc=5\" target=\"_blank\">Arnaud Péricard sur LCI appelle Attal et Retailleau à rejoi",
+      "publishedAt": "2026-11-22T11:21:46.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "Primaire de la droite et du centre : périmètre, candidats, divisions… L’initiative lancée par Attal, Retailleau et Lisnard ira-t-elle au bout ? - Le Nouvel Obs",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdE1PNG1BVVhFN2k4SHVDaEVhQWZkdGNNcXFudWVsSERvcDhnYWtZZnVGel85ZGFZRG90MDNKTzNVbEY2QVFDNVh0WHU1WENUWDF1eDJxblZ6d3I0c21KX25VZDJWbi1ESVRtclRIcVp6aUlYdmJQb0p4c3d0Q2RGM3hBcjBJOGxPUVowbzYzQ0hwM0t2WWRBSkp3bUREcFBtVEdTRG9MbC0yV3RsbHR0b3JQUno0RlpITkNWSGZ2ZUlqa2Nac0hHT3hoVlYxYU9Tb1BVUVdoRGJsd1ZLcnpleXNRV0dPRDNRdjZSLS00ZUFsT3ZFbUpsRjY2ZlR0SEgyendkRVVhZjRlam16RGhBeGNURks4aTdQVXlFdUI2LWQ?oc=5",
-      "source": "Le Nouvel Obs",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxOdE1PNG1BVVhFN2k4SHVDaEVhQWZkdGNNcXFudWVsSERvcDhnYWtZZnVGel85ZGFZRG90MDNKTzNVbEY2QVFDNVh0WHU1WENUWDF1eDJxblZ6d3I0c21KX25VZDJWbi1ESVRtclRIcVp6aUlYdmJQb0p4c3d0Q2RGM3hBcjBJOGxPUVowbzYzQ0hwM0t2WWRBSkp3bUREcFBtVEdTRG9MbC0yV3RsbHR0b3JQUno0RlpITkNWSGZ2ZUlqa2Nac0hHT3",
-      "publishedAt": "2026-11-20T07:00:14.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
     },
     {
       "title": "«Au bord du précipice» : Macron redoute l’éclatement de son camp avant la présidentielle de 2027 - lejdd.fr",
@@ -529,51 +424,6 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "Audiences télé : Gabriel Attal s'effondre sur France 2 pendant que Jarry résiste sur TF1 - Selectra",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUmhPWmVsTFJnbXd3WTV1MWJveEwtV0JKSEJ0MnlxcG0zb1RKTkQ2TmhYRGVBWTNiUm5XZjRQMEhNZ3NuTmVzdjRQRzh4RmpGQjYyQ25iZXp6WW9kaHdIMDRzRFlXX0xzblpxS0hjQ1ViVl92QTNsYXlXckpySUNudmJhR2JQekpFRmU2UlhxM2puWkZ3dWRNblh5c1c?oc=5",
-      "source": "Selectra",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUmhPWmVsTFJnbXd3WTV1MWJveEwtV0JKSEJ0MnlxcG0zb1RKTkQ2TmhYRGVBWTNiUm5XZjRQMEhNZ3NuTmVzdjRQRzh4RmpGQjYyQ25iZXp6WW9kaHdIMDRzRFlXX0xzblpxS0hjQ1ViVl92QTNsYXlXckpySUNudmJhR2JQekpFRmU2UlhxM2puWkZ3dWRNblh5c1c?oc=5\" target=\"_blank\">Audiences télé : Gabriel Attal s'eff",
-      "publishedAt": "2026-11-20T08:47:01.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
-      "isNew": false
-    },
-    {
-      "title": "« Nous sommes plus proches de lui que de Lisnard » : chez les macronistes, la tentation Hollande - Le Parisien",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNkYydHhoVEV5ajFvQ2hQWmtPY1A2Q0VMSlYyTkZnVDJWdWduVkVGSGRESWVTSkc2VWppVmlDQ240VlVzaWdqU1d1ZXU2Vno5WXZQQWFveUQwOUpOVGVib240NWJYaFFGODBVcGZ0ZU5OTHZZV1lXYzRlRHR5VDF5bmFWdVMxNkNCd0xjdUVBVjZDRlRMUDB4UUpRQ0tXMUxxOUMwVGdsYmcza1otUzl2US1nekxWNjlfc1hKdVBxUDdGcG9iZTNoMnI1LUN0MjhuYzFIakdmX09rVTYxLVVqUkxwOWNxaTVULTg5YlBQdDBfTVVOZjl2ajBjdFlid2FaNHlpMmtHbEJYcXdYTjdF?oc=5",
-      "source": "Le Parisien",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNNkYydHhoVEV5ajFvQ2hQWmtPY1A2Q0VMSlYyTkZnVDJWdWduVkVGSGRESWVTSkc2VWppVmlDQ240VlVzaWdqU1d1ZXU2Vno5WXZQQWFveUQwOUpOVGVib240NWJYaFFGODBVcGZ0ZU5OTHZZV1lXYzRlRHR5VDF5bmFWdVMxNkNCd0xjdUVBVjZDRlRMUDB4UUpRQ0tXMUxxOUMwVGdsYmcza1otUzl2US1nekxWNjlfc1hKdVBxUDdGcG9iZTNoMn",
-      "publishedAt": "2026-11-21T05:50:00.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
-    },
-    {
-      "title": "Audiences TV Prime (jeudi 19 novembre 2026) : Jarry sur TF1 a-t-il fait mieux que Gabriel Attal sur France 2 et la fiction avec Arnaud Ducret sur M6 - Toutelatele",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQV0pHMUVsMUc5QVppb0pLd2RjSHdpRldBOTRVTUg4VVEzdV83RXhKMDM5dnk4VXdaWWZSd0M0SnNHWm4yVWN5TEJkWkVNTHZzTWpmOWRkUTk2LUpoTmt4eXhUNTkyTDNWblQ5c1pPaVB4MVJRVnlvOGNIemo0ZEhPWWEzcmNHdm1tblpTcjVGeUhsQ1UtdVBWSFdyT1Jsd0tMQXAyNmt2VVY2YVp3eTFJYlJIdG5jTVMzODQtMVR0VFlQWlVHVmdHbFlFLW9SaUgtQkMzeUhkX2tWeGhHNXdSekd4OHo3LVpRejJJcFk2cVFVS1BVYmoxeXdMdVU3WFN6clYtLTZnTWlRdWx6Yk94ZU1oYlNpUQ?oc=5",
-      "source": "Toutelatele",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQV0pHMUVsMUc5QVppb0pLd2RjSHdpRldBOTRVTUg4VVEzdV83RXhKMDM5dnk4VXdaWWZSd0M0SnNHWm4yVWN5TEJkWkVNTHZzTWpmOWRkUTk2LUpoTmt4eXhUNTkyTDNWblQ5c1pPaVB4MVJRVnlvOGNIemo0ZEhPWWEzcmNHdm1tblpTcjVGeUhsQ1UtdVBWSFdyT1Jsd0tMQXAyNmt2VVY2YVp3eTFJYlJIdG5jTVMzODQtMVR0VFlQWlVHVmdHbF",
-      "publishedAt": "2026-11-20T08:09:09.000Z",
-      "lang": "fr",
-      "type": "media",
-      "persons": [
-        "attal"
-      ],
-      "coOccurrence": false,
-      "firstSeenAt": "2026-11-21T04:20:45.465Z",
       "isNew": false
     },
     {
@@ -589,29 +439,44 @@
       ],
       "coOccurrence": false,
       "firstSeenAt": "2026-11-22T03:34:51.179Z",
-      "isNew": true
+      "isNew": false
     },
     {
-      "title": "Joyce Jonathan, \"amie\" avec Gabriel Attal : \"c'est le noyau dur\" - Journal des Femmes",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkZIbGU1bTdTNmpqbFpKNVdZd2tsdFhlekkxcFkxVlVIMXZ4YTF4RmdMLWxkVi1oQjAzbENmN3VoZUpOdmJwSG9SYURyczliQi1jTnVqRy15Z3pWZ1BHSDVpSzlEVDhnajhWUnN1eWFWU1RJWHduVWY5NlE0eWpaR0ZrLWl6VGZfb180MkE2RllzVmI0UUxKa2xDcG02WWxVa0FaLXlnSzBIQ1lmdmJoYWxUNFhfaVR0V0t1TXl3VWNqSFU?oc=5",
-      "source": "Journal des Femmes",
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkZIbGU1bTdTNmpqbFpKNVdZd2tsdFhlekkxcFkxVlVIMXZ4YTF4RmdMLWxkVi1oQjAzbENmN3VoZUpOdmJwSG9SYURyczliQi1jTnVqRy15Z3pWZ1BHSDVpSzlEVDhnajhWUnN1eWFWU1RJWHduVWY5NlE0eWpaR0ZrLWl6VGZfb180MkE2RllzVmI0UUxKa2xDcG02WWxVa0FaLXlnSzBIQ1lmdmJoYWxUNFhfaVR0V0t1TXl3VWNqSFU?oc=5\" ",
-      "publishedAt": "2026-11-20T10:55:00.000Z",
+      "title": "Présidentielle 2027 : le porte-parole Horizons Arnaud Péricard appelle la droite à faire preuve de \"responsabilité\" - TF1 Info",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNklaQWNxNXZIeDQwdWlNeV9sbzlheGhRU0ptV2ZVekU0cjhSZW9lUmxISjhlemNWZkF0VDQ0alJ1b0JIdTRKdk5iZ1hHcEFXOUlsSXR1aWx5OEpuUzEwZWZob0lfOGlndjhWNE02OVlWekpPNTBBX0IwRU5vTUpzcnBVdV9NT25SeU5USG1jb3B5T1B0WVRxc0xDc3llZ0RUWndkYUdBUU5pbV9OZlo2TUEtSGF1VEgwUjY2N1FUQ05CSXlxd1JHcWlKeXRCMW9Jc2ZBMWZ3SmtjV3dPanRVeDI2ZE9PRmZTME5FWVpqWXV1bFJjRWxOZW9PNE5ydlhGYnZzbW9FbjMteXZGbTFId1Z0d3BJMHc?oc=5",
+      "source": "TF1 Info",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxPNklaQWNxNXZIeDQwdWlNeV9sbzlheGhRU0ptV2ZVekU0cjhSZW9lUmxISjhlemNWZkF0VDQ0alJ1b0JIdTRKdk5iZ1hHcEFXOUlsSXR1aWx5OEpuUzEwZWZob0lfOGlndjhWNE02OVlWekpPNTBBX0IwRU5vTUpzcnBVdV9NT25SeU5USG1jb3B5T1B0WVRxc0xDc3llZ0RUWndkYUdBUU5pbV9OZlo2TUEtSGF1VEgwUjY2N1FUQ05CSXlxd1JHcW",
+      "publishedAt": "2026-11-22T03:50:35.000Z",
       "lang": "fr",
       "type": "media",
       "persons": [
         "attal"
       ],
       "coOccurrence": false,
-      "firstSeenAt": "2026-11-20T04:27:16.774Z",
+      "firstSeenAt": "2026-11-23T04:07:20.617Z",
+      "isNew": true
+    },
+    {
+      "title": "Présidentielle 2027. Sondage IFOP pour Sud radio: Attal pas au second tour, Philippe, oui / Le Pen en tête - Le Centrisme",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdW1VQlFrdm9jZzk5VHNaS19CRE44aFIyN0NfcjhUd2JBYlozcWFKbmUzMzNSb2Z6c2ZWR05NcWZIc25yUklUdlV2TlRhVVY5RVhHcTdDYTJjYTBRc091Uk02QlRoZ0dLU3FKTTJILXVzM0NBenVLS0VFR0poUjUzN0Fkaw?oc=5",
+      "source": "Le Centrisme",
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdW1VQlFrdm9jZzk5VHNaS19CRE44aFIyN0NfcjhUd2JBYlozcWFKbmUzMzNSb2Z6c2ZWR05NcWZIc25yUklUdlV2TlRhVVY5RVhHcTdDYTJjYTBRc091Uk02QlRoZ0dLU3FKTTJILXVzM0NBenVLS0VFR0poUjUzN0Fkaw?oc=5\" target=\"_blank\">Présidentielle 2027. Sondage IFOP pour Sud radio: Attal pas au second",
+      "publishedAt": "2026-11-21T23:06:13.000Z",
+      "lang": "fr",
+      "type": "media",
+      "persons": [
+        "attal"
+      ],
+      "coOccurrence": false,
+      "firstSeenAt": "2026-11-22T03:34:51.179Z",
       "isNew": false
     }
   ],
   "stats": {
-    "total": 40,
-    "new": 16,
-    "carried": 24,
-    "media": 40,
+    "total": 31,
+    "new": 19,
+    "carried": 12,
+    "media": 31,
     "agenda": 0,
     "official": 0,
     "coOccurrence": 0
